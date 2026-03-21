@@ -1,3 +1,6 @@
+venv/
 __pycache__/
 *.pyc
-.venv/
+*.log
+.env
+state.json
