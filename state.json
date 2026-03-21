@@ -20,7 +20,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-03-21T11:08:29+00:00",
+  "last_seen_time": "2026-03-21T14:33:55+00:00",
   "current_scores": {
     "8TmrT": {
       "points": 35.92,
@@ -36,8 +36,18 @@
       "points": 2.33,
       "match_count": 1,
       "last_score_time": "2026-03-21T11:08:29+00:00"
+    },
+    "URMB4": {
+      "points": 49.94,
+      "match_count": 1,
+      "last_score_time": "2026-03-21T14:33:55+00:00"
+    },
+    "RQBBt": {
+      "points": 18.06,
+      "match_count": 1,
+      "last_score_time": "2026-03-21T14:33:55+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-21T09:47:58+00:00",
-  "current_cycle_match_count": 1
+  "current_cycle_match_count": 2
 }
