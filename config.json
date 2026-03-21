@@ -1,0 +1,12 @@
+{
+  "winning_clan": "[KILR]",
+  "announce_channel_id": "1476148970328686622",
+  "guild_id": "1476147646283382939",
+  "weekly_role_id": null,
+  "monthly_role_id": null,
+  "slot_minutes": 30,
+  "min_gap_hours": 12,
+  "random_window_hours": 12,
+  "history_limit": 300,
+  "post_no_win_rounds": true
+}

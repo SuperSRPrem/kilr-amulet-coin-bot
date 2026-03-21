@@ -1,0 +1,71 @@
+name: Run KILR Territorial Bot
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      command:
+        description: "Command to run"
+        required: true
+        default: "run"
+        type: choice
+        options:
+          - run
+          - enable
+          - disable
+          - status
+          - set-boundary-now
+          - link
+          - unlink
+      args:
+        description: "Optional args for the command"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Ensure state/config exist
+        run: |
+          test -f config.json || (echo "config.json missing. Copy config.example.json to config.json and commit it." && exit 1)
+          test -f state.json || cp state.example.json state.json
+
+      - name: Run command
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python main.py "${{ inputs.command }}" ${{ inputs.args }}
+          else
+            python main.py run
+          fi
+
+      - name: Commit updated state
+        run: |
+          if git diff --quiet -- state.json; then
+            echo "No state changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git commit -m "Update bot state [skip ci]"
+          git push
