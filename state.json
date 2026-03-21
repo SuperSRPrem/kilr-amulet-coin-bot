@@ -20,8 +20,24 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-03-21T09:35:03+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-03-21T11:08:29+00:00",
+  "current_scores": {
+    "8TmrT": {
+      "points": 35.92,
+      "match_count": 1,
+      "last_score_time": "2026-03-21T11:08:29+00:00"
+    },
+    "JAICl": {
+      "points": 6.75,
+      "match_count": 1,
+      "last_score_time": "2026-03-21T11:08:29+00:00"
+    },
+    "7r9Rb": {
+      "points": 2.33,
+      "match_count": 1,
+      "last_score_time": "2026-03-21T11:08:29+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-03-21T09:47:58+00:00",
-  "current_cycle_match_count": 0
+  "current_cycle_match_count": 1
 }
