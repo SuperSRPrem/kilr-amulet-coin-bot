@@ -27,7 +27,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-03-22T16:27:22+00:00",
+  "last_seen_time": "2026-03-22T21:22:44+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 33.53,
@@ -68,8 +68,13 @@
       "points": 2.75,
       "match_count": 1,
       "last_score_time": "2026-03-22T16:27:22+00:00"
+    },
+    "eIoJe": {
+      "points": 41.0,
+      "match_count": 1,
+      "last_score_time": "2026-03-22T21:22:44+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-22T05:00:00+00:00",
-  "current_cycle_match_count": 3
+  "current_cycle_match_count": 4
 }
