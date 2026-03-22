@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-03-22T05:00:00+00:00",
-  "last_event_time": "2026-03-21T09:47:58+00:00",
+  "next_event_time": "2026-03-23T20:30:00+00:00",
+  "last_event_time": "2026-03-22T05:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -18,91 +18,17 @@
       "winner_username": "tv999",
       "winner_points": 49.24,
       "eligible_match_count": 5
+    },
+    {
+      "event_time": "2026-03-22T05:00:00+00:00",
+      "cycle_started_at": "2026-03-21T09:47:58+00:00",
+      "winner_username": "URMB4",
+      "winner_points": 88.44,
+      "eligible_match_count": 5
     }
   ],
   "last_seen_time": "2026-03-21T19:10:31+00:00",
-  "current_scores": {
-    "8TmrT": {
-      "points": 35.92,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T11:08:29+00:00"
-    },
-    "JAICl": {
-      "points": 6.75,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T11:08:29+00:00"
-    },
-    "7r9Rb": {
-      "points": 2.33,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T11:08:29+00:00"
-    },
-    "URMB4": {
-      "points": 88.44,
-      "match_count": 3,
-      "last_score_time": "2026-03-21T15:24:51+00:00"
-    },
-    "RQBBt": {
-      "points": 18.06,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T14:33:55+00:00"
-    },
-    "tv999": {
-      "points": 43.23,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T15:10:54+00:00"
-    },
-    "BBQ8Q": {
-      "points": 6.23,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T15:10:54+00:00"
-    },
-    "7QRvr": {
-      "points": 6.03,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T15:10:54+00:00"
-    },
-    "P02Ix": {
-      "points": 4.35,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T15:10:54+00:00"
-    },
-    "m7vt5": {
-      "points": 36.65,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T15:24:51+00:00"
-    },
-    "ShyDC": {
-      "points": 25.72,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T19:10:31+00:00"
-    },
-    "mtVQn": {
-      "points": 19.53,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T19:10:31+00:00"
-    },
-    "9vMVb": {
-      "points": 6.77,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T19:10:31+00:00"
-    },
-    "9B98B": {
-      "points": 5.36,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T19:10:31+00:00"
-    },
-    "RLr8Q": {
-      "points": 1.47,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T19:10:31+00:00"
-    },
-    "7mrTM": {
-      "points": 0.17,
-      "match_count": 1,
-      "last_score_time": "2026-03-21T19:10:31+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-03-21T09:47:58+00:00",
-  "current_cycle_match_count": 5
+  "current_scores": {},
+  "current_cycle_started_at": "2026-03-22T05:00:00+00:00",
+  "current_cycle_match_count": 0
 }
