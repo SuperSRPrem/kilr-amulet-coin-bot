@@ -27,7 +27,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-03-22T11:24:56+00:00",
+  "last_seen_time": "2026-03-22T16:27:22+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 33.53,
@@ -48,8 +48,28 @@
       "points": 24.93,
       "match_count": 1,
       "last_score_time": "2026-03-22T11:24:56+00:00"
+    },
+    "Tm5Bq": {
+      "points": 24.28,
+      "match_count": 1,
+      "last_score_time": "2026-03-22T16:27:22+00:00"
+    },
+    "5t7Bt": {
+      "points": 4.68,
+      "match_count": 1,
+      "last_score_time": "2026-03-22T16:27:22+00:00"
+    },
+    "87N99": {
+      "points": 4.29,
+      "match_count": 1,
+      "last_score_time": "2026-03-22T16:27:22+00:00"
+    },
+    "vTmmV": {
+      "points": 2.75,
+      "match_count": 1,
+      "last_score_time": "2026-03-22T16:27:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-22T05:00:00+00:00",
-  "current_cycle_match_count": 2
+  "current_cycle_match_count": 3
 }
