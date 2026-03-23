@@ -27,12 +27,12 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-03-22T22:30:28+00:00",
+  "last_seen_time": "2026-03-23T09:38:30+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 33.53,
-      "match_count": 1,
-      "last_score_time": "2026-03-22T10:35:37+00:00"
+      "points": 69.13,
+      "match_count": 2,
+      "last_score_time": "2026-03-23T09:38:30+00:00"
     },
     "btbQt": {
       "points": 18.47,
@@ -108,8 +108,13 @@
       "points": 0.9,
       "match_count": 1,
       "last_score_time": "2026-03-22T22:30:28+00:00"
+    },
+    "mt5Bt": {
+      "points": 3.4,
+      "match_count": 1,
+      "last_score_time": "2026-03-23T09:38:30+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-22T05:00:00+00:00",
-  "current_cycle_match_count": 5
+  "current_cycle_match_count": 6
 }
