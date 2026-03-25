@@ -41,7 +41,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-03-25T06:30:19+00:00",
+  "last_seen_time": "2026-03-25T07:53:00+00:00",
   "current_scores": {
     "9mvRT": {
       "points": 11.24,
@@ -114,9 +114,9 @@
       "last_score_time": "2026-03-25T04:45:37+00:00"
     },
     "YsRY1": {
-      "points": 2.18,
-      "match_count": 1,
-      "last_score_time": "2026-03-25T04:45:37+00:00"
+      "points": 5.43,
+      "match_count": 2,
+      "last_score_time": "2026-03-25T07:32:35+00:00"
     },
     "q7qn5": {
       "points": 1.81,
@@ -172,8 +172,58 @@
       "points": 141.99,
       "match_count": 1,
       "last_score_time": "2026-03-25T06:30:19+00:00"
+    },
+    "nTnTt": {
+      "points": 46.49,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:32:35+00:00"
+    },
+    "qmLtT": {
+      "points": 3.41,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:32:35+00:00"
+    },
+    "mv5M7": {
+      "points": 0.86,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:32:35+00:00"
+    },
+    "Z2Yfi": {
+      "points": 31.0,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:44:22+00:00"
+    },
+    "tb7qT": {
+      "points": 25.92,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:51:21+00:00"
+    },
+    "NO2uX": {
+      "points": 6.06,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:51:21+00:00"
+    },
+    "7r9Rb": {
+      "points": 2.86,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:51:21+00:00"
+    },
+    "xAfz7": {
+      "points": 1.16,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:51:21+00:00"
+    },
+    "yzbhH": {
+      "points": 27.23,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:53:00+00:00"
+    },
+    "7mQLL": {
+      "points": 2.77,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T07:53:00+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-24T22:00:00+00:00",
-  "current_cycle_match_count": 4
+  "current_cycle_match_count": 8
 }
