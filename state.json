@@ -41,7 +41,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-03-25T11:57:37+00:00",
+  "last_seen_time": "2026-03-25T19:05:45+00:00",
   "current_scores": {
     "9mvRT": {
       "points": 11.24,
@@ -50,8 +50,8 @@
     },
     "GueSH": {
       "points": 10.39,
-      "match_count": 1,
-      "last_score_time": "2026-03-24T22:37:42+00:00"
+      "match_count": 2,
+      "last_score_time": "2026-03-25T19:05:45+00:00"
     },
     "vnIqS": {
       "points": 5.35,
@@ -387,8 +387,13 @@
       "points": 0.91,
       "match_count": 1,
       "last_score_time": "2026-03-25T11:57:37+00:00"
+    },
+    "lhOl-": {
+      "points": 58.0,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T19:05:45+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-24T22:00:00+00:00",
-  "current_cycle_match_count": 16
+  "current_cycle_match_count": 17
 }
