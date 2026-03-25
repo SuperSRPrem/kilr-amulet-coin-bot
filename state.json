@@ -41,7 +41,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-03-24T22:37:42+00:00",
+  "last_seen_time": "2026-03-25T04:45:37+00:00",
   "current_scores": {
     "9mvRT": {
       "points": 11.24,
@@ -62,8 +62,78 @@
       "points": 0.02,
       "match_count": 1,
       "last_score_time": "2026-03-24T22:37:42+00:00"
+    },
+    "rY4UW": {
+      "points": 27.32,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "b92M9": {
+      "points": 18.49,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "9B9B9": {
+      "points": 15.87,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "LMrbr": {
+      "points": 13.0,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "rn5v7": {
+      "points": 11.17,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "Yb0bR": {
+      "points": 8.83,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "BNxHu": {
+      "points": 7.72,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "pGdHc": {
+      "points": 7.16,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "VNnLm": {
+      "points": 6.28,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "rNR7n": {
+      "points": 2.39,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "YsRY1": {
+      "points": 2.18,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "q7qn5": {
+      "points": 1.81,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "QQMb8": {
+      "points": 1.12,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
+    },
+    "bMRN5": {
+      "points": 0.67,
+      "match_count": 1,
+      "last_score_time": "2026-03-25T04:45:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-24T22:00:00+00:00",
-  "current_cycle_match_count": 1
+  "current_cycle_match_count": 2
 }
