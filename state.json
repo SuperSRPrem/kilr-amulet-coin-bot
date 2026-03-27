@@ -55,7 +55,7 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-03-27T09:13:39+00:00",
+  "last_seen_time": "2026-03-27T10:05:36+00:00",
   "current_scores": {
     "7rLbv": {
       "points": 23.34,
@@ -81,8 +81,18 @@
       "points": 2.61,
       "match_count": 1,
       "last_score_time": "2026-03-27T09:13:39+00:00"
+    },
+    "MQX1B": {
+      "points": 40.86,
+      "match_count": 1,
+      "last_score_time": "2026-03-27T10:05:36+00:00"
+    },
+    "v0ihG": {
+      "points": 5.14,
+      "match_count": 1,
+      "last_score_time": "2026-03-27T10:05:36+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-27T08:00:00+00:00",
-  "current_cycle_match_count": 1
+  "current_cycle_match_count": 2
 }
