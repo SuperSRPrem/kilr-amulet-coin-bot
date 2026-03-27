@@ -48,7 +48,7 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-03-27T05:01:31+00:00",
+  "last_seen_time": "2026-03-27T06:25:13+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 56.010000000000005,
@@ -56,9 +56,9 @@
       "last_score_time": "2026-03-27T05:01:31+00:00"
     },
     "MQX1B": {
-      "points": 11.59,
-      "match_count": 2,
-      "last_score_time": "2026-03-26T11:01:50+00:00"
+      "points": 17.45,
+      "match_count": 3,
+      "last_score_time": "2026-03-27T06:25:13+00:00"
     },
     "QtVNT": {
       "points": 4.46,
@@ -91,9 +91,9 @@
       "last_score_time": "2026-03-26T10:50:55+00:00"
     },
     "BNxHu": {
-      "points": 14.61,
-      "match_count": 1,
-      "last_score_time": "2026-03-26T11:01:50+00:00"
+      "points": 50.71,
+      "match_count": 2,
+      "last_score_time": "2026-03-27T06:25:13+00:00"
     },
     "Xjswt": {
       "points": 6.45,
@@ -301,11 +301,41 @@
       "last_score_time": "2026-03-26T21:21:51+00:00"
     },
     "YsRY1": {
-      "points": 4.48,
+      "points": 21.87,
+      "match_count": 2,
+      "last_score_time": "2026-03-27T06:25:13+00:00"
+    },
+    "qnVnr": {
+      "points": 39.42,
       "match_count": 1,
-      "last_score_time": "2026-03-27T05:01:31+00:00"
+      "last_score_time": "2026-03-27T06:25:13+00:00"
+    },
+    "v5R5n": {
+      "points": 9.37,
+      "match_count": 1,
+      "last_score_time": "2026-03-27T06:25:13+00:00"
+    },
+    "8t7Lt": {
+      "points": 7.24,
+      "match_count": 1,
+      "last_score_time": "2026-03-27T06:25:13+00:00"
+    },
+    "2R87t": {
+      "points": 6.0,
+      "match_count": 1,
+      "last_score_time": "2026-03-27T06:25:13+00:00"
+    },
+    "bVRMv": {
+      "points": 5.56,
+      "match_count": 1,
+      "last_score_time": "2026-03-27T06:25:13+00:00"
+    },
+    "4KOdz": {
+      "points": 1.05,
+      "match_count": 1,
+      "last_score_time": "2026-03-27T06:25:13+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-25T23:30:00+00:00",
-  "current_cycle_match_count": 9
+  "current_cycle_match_count": 10
 }
