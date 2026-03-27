@@ -55,7 +55,7 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-03-27T18:22:16+00:00",
+  "last_seen_time": "2026-03-27T19:41:45+00:00",
   "current_scores": {
     "7rLbv": {
       "points": 23.34,
@@ -301,8 +301,13 @@
       "points": 7.95,
       "match_count": 1,
       "last_score_time": "2026-03-27T18:22:16+00:00"
+    },
+    "URMB4": {
+      "points": 27.0,
+      "match_count": 1,
+      "last_score_time": "2026-03-27T19:41:45+00:00"
     }
   },
   "current_cycle_started_at": "2026-03-27T08:00:00+00:00",
-  "current_cycle_match_count": 10
+  "current_cycle_match_count": 11
 }
