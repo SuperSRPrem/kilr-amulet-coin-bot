@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-03-30T10:00:00+00:00",
-  "last_event_time": "2026-03-29T21:30:00+00:00",
+  "next_event_time": "2026-03-31T07:30:00+00:00",
+  "last_event_time": "2026-03-30T10:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -67,36 +67,48 @@
       "winner_username": "eIoJe",
       "winner_points": 91.38,
       "eligible_match_count": 10
+    },
+    {
+      "event_time": "2026-03-30T10:00:00+00:00",
+      "cycle_started_at": "2026-03-29T21:30:00+00:00",
+      "winner_username": "URMB4",
+      "winner_points": 33.58,
+      "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-03-30T09:19:30+00:00",
+  "last_seen_time": "2026-03-30T10:35:41+00:00",
   "current_scores": {
-    "qvBM4": {
-      "points": 9.34,
+    "Oyf9y": {
+      "points": 19.73,
       "match_count": 1,
-      "last_score_time": "2026-03-29T23:14:56+00:00"
+      "last_score_time": "2026-03-30T10:35:41+00:00"
     },
-    "QnT9r": {
-      "points": 7.63,
+    "RQTtM": {
+      "points": 6.46,
       "match_count": 1,
-      "last_score_time": "2026-03-29T23:14:56+00:00"
+      "last_score_time": "2026-03-30T10:35:41+00:00"
     },
-    "9tVtr": {
-      "points": 4.03,
+    "T7N5L": {
+      "points": 6.36,
       "match_count": 1,
-      "last_score_time": "2026-03-29T23:14:56+00:00"
+      "last_score_time": "2026-03-30T10:35:41+00:00"
+    },
+    "vQbB9": {
+      "points": 4.45,
+      "match_count": 1,
+      "last_score_time": "2026-03-30T10:35:41+00:00"
     },
     "URMB4": {
-      "points": 33.58,
+      "points": 0.66,
       "match_count": 1,
-      "last_score_time": "2026-03-30T09:19:30+00:00"
+      "last_score_time": "2026-03-30T10:35:41+00:00"
     },
-    "f04ca": {
-      "points": 2.42,
+    "7r9Rb": {
+      "points": 0.33,
       "match_count": 1,
-      "last_score_time": "2026-03-30T09:19:30+00:00"
+      "last_score_time": "2026-03-30T10:35:41+00:00"
     }
   },
-  "current_cycle_started_at": "2026-03-29T21:30:00+00:00",
-  "current_cycle_match_count": 2
+  "current_cycle_started_at": "2026-03-30T10:00:00+00:00",
+  "current_cycle_match_count": 1
 }
