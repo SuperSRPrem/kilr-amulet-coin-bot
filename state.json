@@ -90,7 +90,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-04-01T18:02:06+00:00",
+  "last_seen_time": "2026-04-01T19:15:19+00:00",
   "current_scores": {
     "bTv72": {
       "points": 40.0,
@@ -186,8 +186,18 @@
       "points": 3.63,
       "match_count": 1,
       "last_score_time": "2026-04-01T18:02:06+00:00"
+    },
+    "eIoJe": {
+      "points": 53.27,
+      "match_count": 1,
+      "last_score_time": "2026-04-01T19:15:19+00:00"
+    },
+    "87qLR": {
+      "points": 5.73,
+      "match_count": 1,
+      "last_score_time": "2026-04-01T19:15:19+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-01T07:00:00+00:00",
-  "current_cycle_match_count": 3
+  "current_cycle_match_count": 4
 }
