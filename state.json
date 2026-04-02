@@ -97,7 +97,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-04-02T15:08:38+00:00",
+  "last_seen_time": "2026-04-02T16:46:02+00:00",
   "current_scores": {
     "vvn88": {
       "points": 14.06,
@@ -183,8 +183,88 @@
       "points": 6.31,
       "match_count": 1,
       "last_score_time": "2026-04-02T15:08:38+00:00"
+    },
+    "smRgF": {
+      "points": 11.07,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "Ltm2Q": {
+      "points": 8.82,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "qnrv9": {
+      "points": 7.25,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "MG7Jq": {
+      "points": 5.61,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "eIoJe": {
+      "points": 4.76,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "deAXz": {
+      "points": 3.35,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "BqMRR": {
+      "points": 2.09,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "TQnr9": {
+      "points": 2.01,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "n5nLT": {
+      "points": 1.81,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "t9Vrm": {
+      "points": 1.45,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "9qrN2": {
+      "points": 1.07,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "9N7n7": {
+      "points": 0.81,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "7q57Q": {
+      "points": 0.69,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "vQL2n": {
+      "points": 0.61,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "gtlka": {
+      "points": 0.56,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
+    },
+    "b259M": {
+      "points": 0.04,
+      "match_count": 1,
+      "last_score_time": "2026-04-02T16:46:02+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-02T05:00:00+00:00",
-  "current_cycle_match_count": 6
+  "current_cycle_match_count": 7
 }
