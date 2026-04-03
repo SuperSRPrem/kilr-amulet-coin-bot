@@ -104,8 +104,19 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-04-03T11:33:27+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-04-03T16:01:55+00:00",
+  "current_scores": {
+    "IHK9D": {
+      "points": 77.97,
+      "match_count": 2,
+      "last_score_time": "2026-04-03T16:01:55+00:00"
+    },
+    "MtrtR": {
+      "points": 0.03,
+      "match_count": 1,
+      "last_score_time": "2026-04-03T15:54:23+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-04-03T12:00:00+00:00",
-  "current_cycle_match_count": 0
+  "current_cycle_match_count": 2
 }
