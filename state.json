@@ -97,7 +97,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-04-02T19:12:06+00:00",
+  "last_seen_time": "2026-04-03T03:17:49+00:00",
   "current_scores": {
     "vvn88": {
       "points": 14.06,
@@ -323,8 +323,38 @@
       "points": 0.74,
       "match_count": 1,
       "last_score_time": "2026-04-02T19:12:06+00:00"
+    },
+    "2nnHU": {
+      "points": 5.57,
+      "match_count": 1,
+      "last_score_time": "2026-04-03T03:17:49+00:00"
+    },
+    "88q27": {
+      "points": 3.04,
+      "match_count": 1,
+      "last_score_time": "2026-04-03T03:17:49+00:00"
+    },
+    "Bn22L": {
+      "points": 1.77,
+      "match_count": 1,
+      "last_score_time": "2026-04-03T03:17:49+00:00"
+    },
+    "89MVL": {
+      "points": 1.59,
+      "match_count": 1,
+      "last_score_time": "2026-04-03T03:17:49+00:00"
+    },
+    "8TmLm": {
+      "points": 0.97,
+      "match_count": 1,
+      "last_score_time": "2026-04-03T03:17:49+00:00"
+    },
+    "5QrQ7": {
+      "points": 0.06,
+      "match_count": 1,
+      "last_score_time": "2026-04-03T03:17:49+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-02T05:00:00+00:00",
-  "current_cycle_match_count": 9
+  "current_cycle_match_count": 10
 }
