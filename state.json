@@ -104,7 +104,7 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-04-03T23:41:05+00:00",
+  "last_seen_time": "2026-04-04T02:42:20+00:00",
   "current_scores": {
     "IHK9D": {
       "points": 77.97,
@@ -175,8 +175,18 @@
       "points": 126.0,
       "match_count": 1,
       "last_score_time": "2026-04-03T23:41:05+00:00"
+    },
+    "4uLEq": {
+      "points": 12.64,
+      "match_count": 1,
+      "last_score_time": "2026-04-04T02:42:20+00:00"
+    },
+    "ESZiV": {
+      "points": 2.36,
+      "match_count": 1,
+      "last_score_time": "2026-04-04T02:42:20+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-03T12:00:00+00:00",
-  "current_cycle_match_count": 5
+  "current_cycle_match_count": 6
 }
