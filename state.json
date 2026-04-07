@@ -132,7 +132,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-04-07T18:30:18+00:00",
+  "last_seen_time": "2026-04-07T19:40:15+00:00",
   "current_scores": {
     "YsRY1": {
       "points": 39.14,
@@ -158,8 +158,73 @@
       "points": 80.0,
       "match_count": 1,
       "last_score_time": "2026-04-07T18:30:18+00:00"
+    },
+    "GueSH": {
+      "points": 10.91,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "0nWH5": {
+      "points": 9.77,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "7QQrq": {
+      "points": 5.69,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "tTf2Q": {
+      "points": 4.05,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "R85tv": {
+      "points": 3.25,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "v5255": {
+      "points": 3.13,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "tm87R": {
+      "points": 2.55,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "8o8cV": {
+      "points": 2.11,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "2LVMQ": {
+      "points": 1.16,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "v8r8b": {
+      "points": 1.15,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "Q7V9V": {
+      "points": 1.13,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "mVL89": {
+      "points": 1.03,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "mn8Mb": {
+      "points": 0.08,
+      "match_count": 1,
+      "last_score_time": "2026-04-07T19:40:15+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-07T18:00:00+00:00",
-  "current_cycle_match_count": 2
+  "current_cycle_match_count": 3
 }
