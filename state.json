@@ -132,12 +132,12 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-04-07T19:40:15+00:00",
+  "last_seen_time": "2026-04-07T21:43:45+00:00",
   "current_scores": {
     "YsRY1": {
-      "points": 39.14,
-      "match_count": 1,
-      "last_score_time": "2026-04-07T18:22:00+00:00"
+      "points": 76.14,
+      "match_count": 2,
+      "last_score_time": "2026-04-07T21:43:45+00:00"
     },
     "2HZWe": {
       "points": 36.38,
@@ -226,5 +226,5 @@
     }
   },
   "current_cycle_started_at": "2026-04-07T18:00:00+00:00",
-  "current_cycle_match_count": 3
+  "current_cycle_match_count": 4
 }
