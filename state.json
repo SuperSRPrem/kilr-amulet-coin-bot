@@ -132,7 +132,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-04-07T21:43:45+00:00",
+  "last_seen_time": "2026-04-08T05:41:36+00:00",
   "current_scores": {
     "YsRY1": {
       "points": 76.14,
@@ -223,8 +223,28 @@
       "points": 0.08,
       "match_count": 1,
       "last_score_time": "2026-04-07T19:40:15+00:00"
+    },
+    "Ogehz": {
+      "points": 10.1,
+      "match_count": 1,
+      "last_score_time": "2026-04-08T05:41:36+00:00"
+    },
+    "BNxHu": {
+      "points": 6.93,
+      "match_count": 1,
+      "last_score_time": "2026-04-08T05:41:36+00:00"
+    },
+    "leYUI": {
+      "points": 5.03,
+      "match_count": 1,
+      "last_score_time": "2026-04-08T05:41:36+00:00"
+    },
+    "9rvrm": {
+      "points": 3.95,
+      "match_count": 1,
+      "last_score_time": "2026-04-08T05:41:36+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-07T18:00:00+00:00",
-  "current_cycle_match_count": 4
+  "current_cycle_match_count": 5
 }
