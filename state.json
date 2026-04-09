@@ -146,8 +146,19 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-04-09T17:18:58+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-04-09T20:16:38+00:00",
+  "current_scores": {
+    "eIoJe": {
+      "points": 29.39,
+      "match_count": 1,
+      "last_score_time": "2026-04-09T20:16:38+00:00"
+    },
+    "T2nM2": {
+      "points": 23.61,
+      "match_count": 1,
+      "last_score_time": "2026-04-09T20:16:38+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-04-09T18:30:00+00:00",
-  "current_cycle_match_count": 0
+  "current_cycle_match_count": 1
 }
