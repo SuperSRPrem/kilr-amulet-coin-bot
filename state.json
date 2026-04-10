@@ -146,7 +146,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-04-10T09:28:15+00:00",
+  "last_seen_time": "2026-04-10T10:57:05+00:00",
   "current_scores": {
     "eIoJe": {
       "points": 29.39,
@@ -169,9 +169,9 @@
       "last_score_time": "2026-04-10T07:46:23+00:00"
     },
     "Z2Yfi": {
-      "points": 23.110000000000003,
-      "match_count": 2,
-      "last_score_time": "2026-04-10T07:53:55+00:00"
+      "points": 98.33,
+      "match_count": 3,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
     },
     "VNnLm": {
       "points": 6.86,
@@ -222,8 +222,68 @@
       "points": 2.98,
       "match_count": 1,
       "last_score_time": "2026-04-10T09:28:15+00:00"
+    },
+    "MMNNn": {
+      "points": 29.92,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "XUVrf": {
+      "points": 13.95,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "3MxYh": {
+      "points": 12.24,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "8MBmb": {
+      "points": 10.56,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "R8888": {
+      "points": 10.51,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "Bm5mq": {
+      "points": 9.91,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "qCGta": {
+      "points": 9.58,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "7R98m": {
+      "points": 9.57,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "LmMtt": {
+      "points": 6.75,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "v7vBn": {
+      "points": 5.13,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "tRTQb": {
+      "points": 3.44,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
+    },
+    "Z9Ikv": {
+      "points": 3.22,
+      "match_count": 1,
+      "last_score_time": "2026-04-10T10:57:05+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-09T18:30:00+00:00",
-  "current_cycle_match_count": 5
+  "current_cycle_match_count": 6
 }
