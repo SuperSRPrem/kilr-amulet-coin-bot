@@ -160,12 +160,12 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-04-11T14:04:08+00:00",
+  "last_seen_time": "2026-04-11T18:44:47+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 282.84000000000003,
-      "match_count": 3,
-      "last_score_time": "2026-04-11T09:30:12+00:00"
+      "points": 348.84000000000003,
+      "match_count": 4,
+      "last_score_time": "2026-04-11T18:44:47+00:00"
     },
     "R8888": {
       "points": 210.19,
@@ -239,5 +239,5 @@
     }
   },
   "current_cycle_started_at": "2026-04-11T07:30:00+00:00",
-  "current_cycle_match_count": 6
+  "current_cycle_match_count": 7
 }
