@@ -174,7 +174,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-04-14T16:11:27+00:00",
+  "last_seen_time": "2026-04-14T20:50:21+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 30.93,
@@ -220,8 +220,18 @@
       "points": 7.24,
       "match_count": 1,
       "last_score_time": "2026-04-14T16:11:27+00:00"
+    },
+    "VVT2L": {
+      "points": 14.87,
+      "match_count": 1,
+      "last_score_time": "2026-04-14T20:50:21+00:00"
+    },
+    "QBb7b": {
+      "points": 12.13,
+      "match_count": 1,
+      "last_score_time": "2026-04-14T20:50:21+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-13T19:30:00+00:00",
-  "current_cycle_match_count": 2
+  "current_cycle_match_count": 3
 }
