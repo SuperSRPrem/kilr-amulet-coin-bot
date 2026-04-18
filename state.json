@@ -202,7 +202,7 @@
       "eligible_match_count": 7
     }
   ],
-  "last_seen_time": "2026-04-18T16:54:22+00:00",
+  "last_seen_time": "2026-04-18T17:52:01+00:00",
   "current_scores": {
     "BrBmL": {
       "points": 17.52,
@@ -458,8 +458,23 @@
       "points": 1.39,
       "match_count": 1,
       "last_score_time": "2026-04-18T15:49:26+00:00"
+    },
+    "Q5v59": {
+      "points": 58.38,
+      "match_count": 1,
+      "last_score_time": "2026-04-18T17:42:20+00:00"
+    },
+    "RBnnL": {
+      "points": 15.14,
+      "match_count": 2,
+      "last_score_time": "2026-04-18T17:52:01+00:00"
+    },
+    "bLL8V": {
+      "points": 39.48,
+      "match_count": 1,
+      "last_score_time": "2026-04-18T17:52:01+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-17T21:00:00+00:00",
-  "current_cycle_match_count": 10
+  "current_cycle_match_count": 12
 }
