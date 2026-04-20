@@ -216,8 +216,29 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-04-19T18:44:52+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-04-20T08:25:11+00:00",
+  "current_scores": {
+    "Ogehz": {
+      "points": 27.08,
+      "match_count": 1,
+      "last_score_time": "2026-04-20T08:25:11+00:00"
+    },
+    "qMtMn": {
+      "points": 4.64,
+      "match_count": 1,
+      "last_score_time": "2026-04-20T08:25:11+00:00"
+    },
+    "Zudie": {
+      "points": 4.4,
+      "match_count": 1,
+      "last_score_time": "2026-04-20T08:25:11+00:00"
+    },
+    "bTv72": {
+      "points": 1.87,
+      "match_count": 1,
+      "last_score_time": "2026-04-20T08:25:11+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-04-19T21:00:00+00:00",
-  "current_cycle_match_count": 0
+  "current_cycle_match_count": 1
 }
