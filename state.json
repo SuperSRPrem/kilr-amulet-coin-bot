@@ -223,7 +223,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-04-20T16:54:32+00:00",
+  "last_seen_time": "2026-04-21T05:54:14+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 207.88000000000002,
@@ -314,8 +314,13 @@
       "points": 0.69,
       "match_count": 1,
       "last_score_time": "2026-04-20T16:54:32+00:00"
+    },
+    "Ogehz": {
+      "points": 26.0,
+      "match_count": 1,
+      "last_score_time": "2026-04-21T05:54:14+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-20T15:30:00+00:00",
-  "current_cycle_match_count": 3
+  "current_cycle_match_count": 4
 }
