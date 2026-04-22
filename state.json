@@ -233,5 +233,6 @@
   "last_seen_time": "2026-04-21T19:47:28+00:00",
   "current_scores": {},
   "current_cycle_started_at": "2026-04-21T20:30:00+00:00",
-  "current_cycle_match_count": 0
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": null
 }
