@@ -73,6 +73,8 @@ def _ensure_runtime_state(state: dict) -> None:
     state.setdefault("current_cycle_started_at", None)
     state.setdefault("current_cycle_match_count", 0)
 
+    state.setdefault("last_announced_event_time", None)
+
 
 def _deserialize_scores(raw_scores: dict) -> Dict[str, dict]:
     scores: Dict[str, dict] = {}
@@ -112,6 +114,8 @@ def format_state_summary(config: dict, state: dict) -> str:
         f"current_competitors={len(state.get('current_scores', {}))}\n"
         f"links={len(state.get('links', {}))}\n"
         f"history_entries={len(state.get('history', []))}"
+
+        f"last_announced_event_time={state.get('last_announced_event_time')}\n"
     )
 
 
@@ -437,6 +441,17 @@ def command_run(args: argparse.Namespace) -> int:
     event_due = args.force or (next_event_time is not None and now >= next_event_time)
     cutoff_time = next_event_time if next_event_time and next_event_time <= now and not args.force else now
 
+    scheduled_event_key = dt_to_iso(next_event_time) if next_event_time else None
+
+    if (
+        not args.force
+        and event_due
+        and scheduled_event_key is not None
+        and state.get("last_announced_event_time") == scheduled_event_key
+    ):
+        print("Event already announced. Skipping duplicate post.")
+        return 0
+
     current_cycle_new: List[MatchRecord] = []
     carryover_new: List[MatchRecord] = []
 
@@ -490,6 +505,7 @@ def command_run(args: argparse.Namespace) -> int:
         summary_lines.append("No eligible **[KILR]** wins were counted today.")
     else:
         summary_lines.append(f"**👑 Winner: __{winner_username}__**")
+        summary_lines.append("")
         summary_lines.append("💰 Reward: **100 Gold**")
         summary_lines.append("")
 
@@ -526,7 +542,7 @@ def command_run(args: argparse.Namespace) -> int:
         summary_lines.append("```")
 
     summary_lines.append("")
-    summary_lines.append("> A random time is chosen each day. Whoever is leading before that time wins.")
+    summary_lines.append("> A random time is chosen each day. Whoever is leading at that time wins.")
     summary_lines.append("-# 👀 Keep pushing — tomorrow’s result can lock in at any moment")
 
     state["history"].append({
@@ -538,11 +554,14 @@ def command_run(args: argparse.Namespace) -> int:
     })
     _trim_history(state, config)
 
+
+
     role_notes = []
     if winner_username is not None:
         role_notes = _sync_roles(config, state)
 
     state["last_event_time"] = dt_to_iso(event_time)
+
     schedule_next_event(config, state, now=now)
 
     next_cycle_scores: Dict[str, dict] = {}
@@ -551,15 +570,17 @@ def command_run(args: argparse.Namespace) -> int:
     state["current_cycle_match_count"] = len(carryover_new)
     state["current_cycle_started_at"] = dt_to_iso(event_time)
 
-    save_state(state)
-
     if role_notes:
         summary_lines.append("Role sync: " + ", ".join(role_notes))
 
     should_post = winner is not None or config.get("post_no_win_rounds", True)
     if should_post:
-        _send_announcement(config, "\n".join(summary_lines))
+        _send_announcement(config, "\\n".join(summary_lines))
 
+    if scheduled_event_key is not None and not args.force:
+        state["last_announced_event_time"] = scheduled_event_key
+
+    save_state(state)
     print("Run complete.")
     return 0
 
