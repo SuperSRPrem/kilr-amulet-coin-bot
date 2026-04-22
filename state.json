@@ -237,7 +237,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-04-22T21:12:27+00:00",
+  "last_seen_time": "2026-04-22T21:59:22+00:00",
   "current_scores": {
     "RRnrB": {
       "points": 60.0,
@@ -263,9 +263,24 @@
       "points": 26.08,
       "match_count": 1,
       "last_score_time": "2026-04-22T21:12:27+00:00"
+    },
+    "L77vr": {
+      "points": 10.1,
+      "match_count": 1,
+      "last_score_time": "2026-04-22T21:59:22+00:00"
+    },
+    "MQX1B": {
+      "points": 9.75,
+      "match_count": 1,
+      "last_score_time": "2026-04-22T21:59:22+00:00"
+    },
+    "E9qTV": {
+      "points": 0.15,
+      "match_count": 1,
+      "last_score_time": "2026-04-22T21:59:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-22T11:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-04-22T11:30:00+00:00"
 }
