@@ -476,7 +476,7 @@ def make_combined_message(state: dict, events: List[str], now: datetime) -> str:
     lines.append("")
     lines.extend(make_progress_lines("hard", quests["hard"], data["hard"]))
 
-    return "\\n".join(lines)
+    return "\n".join(lines)
 
 
 def send_quest_updates(config: dict, message: str) -> None:
@@ -540,7 +540,7 @@ def format_today_quests(state: dict, now: Optional[datetime] = None) -> str:
     lines.append("")
     lines.append(f"**Hard (150 Gold):** {quests['hard']['text']}")
 
-    return "\\n".join(lines)
+    return "\n".join(lines)
 
 
 def format_last_quest_winners(state: dict) -> str:
@@ -560,4 +560,4 @@ def format_last_quest_winners(state: dict) -> str:
         lines.append(f"Winner: {winner}")
         lines.append("")
 
-    return "\\n".join(lines).strip()
+    return "".join(lines).strip()

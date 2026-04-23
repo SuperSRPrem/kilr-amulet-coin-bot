@@ -580,7 +580,7 @@ def command_run(args: argparse.Namespace) -> int:
 
     should_post = winner is not None or config.get("post_no_win_rounds", True)
     if should_post:
-        _send_announcement(config, "\\n".join(summary_lines))
+        _send_announcement(config, "\n".join(summary_lines))
 
     if scheduled_event_key is not None and not args.force:
         state["last_announced_event_time"] = scheduled_event_key
