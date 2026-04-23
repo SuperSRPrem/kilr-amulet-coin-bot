@@ -9,6 +9,7 @@ from typing import Dict, List, Optional, Tuple
 from discord_api import DiscordAPIError, send_channel_message, sync_single_winner_role
 from storage import load_config, load_state, save_state
 from territorial import MatchRecord, fetch_and_parse
+from quests import ensure_quest_state, handle_quests
 
 
 def utc_now() -> datetime:
@@ -74,6 +75,8 @@ def _ensure_runtime_state(state: dict) -> None:
     state.setdefault("current_cycle_match_count", 0)
 
     state.setdefault("last_announced_event_time", None)
+    ensure_quest_state(state)
+
 
 
 def _deserialize_scores(raw_scores: dict) -> Dict[str, dict]:
@@ -435,6 +438,8 @@ def command_run(args: argparse.Namespace) -> int:
         last_seen_time=last_seen_time,
         now=now,
     )
+
+    handle_quests(state, config, new_kilr_records, now)
 
     latest_processed_time = max((r.match_time for r in new_kilr_records), default=None)
 
