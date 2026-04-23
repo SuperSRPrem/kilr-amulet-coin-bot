@@ -251,10 +251,61 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-04-23T17:09:34+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-04-23T17:49:40+00:00",
+  "current_scores": {
+    "HYVJR": {
+      "points": 18.28,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "VNNMN": {
+      "points": 17.2,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "4cTzw": {
+      "points": 15.25,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "MBLT7": {
+      "points": 11.94,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "aZDlZ": {
+      "points": 11.52,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "wxUaw": {
+      "points": 5.71,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "URMB4": {
+      "points": 2.84,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "n7mTt": {
+      "points": 2.23,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "8MqVR": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:39:23+00:00"
+    },
+    "vt2Mr": {
+      "points": 48.0,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T17:49:40+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-04-23T17:13:59.542697+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-04-22T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-04-23",
@@ -306,7 +357,35 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "HYVJR": {
+          "Caucasia": 1
+        },
+        "VNNMN": {
+          "Caucasia": 1
+        },
+        "4cTzw": {
+          "Caucasia": 1
+        },
+        "MBLT7": {
+          "Caucasia": 1
+        },
+        "aZDlZ": {
+          "Caucasia": 1
+        },
+        "wxUaw": {
+          "Caucasia": 1
+        },
+        "URMB4": {
+          "Caucasia": 1
+        },
+        "n7mTt": {
+          "Caucasia": 1
+        },
+        "8MqVR": {
+          "Caucasia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
