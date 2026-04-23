@@ -237,7 +237,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-04-22T21:59:22+00:00",
+  "last_seen_time": "2026-04-23T04:11:37+00:00",
   "current_scores": {
     "RRnrB": {
       "points": 60.0,
@@ -278,9 +278,14 @@
       "points": 0.15,
       "match_count": 1,
       "last_score_time": "2026-04-22T21:59:22+00:00"
+    },
+    "RmTq2": {
+      "points": 14.0,
+      "match_count": 1,
+      "last_score_time": "2026-04-23T04:11:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-22T11:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-04-22T11:30:00+00:00"
 }
