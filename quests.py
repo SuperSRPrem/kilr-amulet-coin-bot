@@ -561,3 +561,14 @@ def format_last_quest_winners(state: dict) -> str:
         lines.append("")
 
     return "".join(lines).strip()
+
+
+def force_new_quest_post(state: dict, config: dict, now: Optional[datetime] = None) -> None:
+    now = now or utc_now()
+    ensure_quest_state(state)
+
+    copy_last_quest_day(state)
+    state["daily_quests"] = make_daily_quests(now)
+
+    msg = format_today_quests(state, now)
+    send_quest_updates(config, msg)

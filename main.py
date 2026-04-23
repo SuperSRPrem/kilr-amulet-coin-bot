@@ -9,7 +9,7 @@ from typing import Dict, List, Optional, Tuple
 from discord_api import DiscordAPIError, send_channel_message, sync_single_winner_role
 from storage import load_config, load_state, save_state
 from territorial import MatchRecord, fetch_and_parse
-from quests import ensure_quest_state, handle_quests
+from quests import ensure_quest_state, handle_quests, force_new_quest_post
 
 
 def utc_now() -> datetime:
@@ -408,6 +408,12 @@ def command_run(args: argparse.Namespace) -> int:
     state = load_state()
     _ensure_runtime_state(state)
 
+    if args.force_quest_refresh:
+        force_new_quest_post(state, config, now=utc_now())
+        save_state(state)
+        print("Forced fresh quest post.")
+        return 0
+
     if not state.get("enabled") and not args.force:
         print("Bot is disabled. Exiting.")
         return 0
@@ -618,6 +624,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     p_run = subparsers.add_parser("run", help="Collect new wins and post result if due")
     p_run.add_argument("--force", action="store_true", help="Run result logic now even if not due yet")
+    p_run.add_argument("--force-quest-refresh", action="store_true", help="Force post a fresh daily quest message")
     p_run.set_defaults(func=command_run)
 
     return parser
