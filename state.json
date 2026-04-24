@@ -258,10 +258,21 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-04-24T17:40:33+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-04-24T19:17:03+00:00",
+  "current_scores": {
+    "eIoJe": {
+      "points": 27.25,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T19:17:03+00:00"
+    },
+    "RTEoA": {
+      "points": 18.75,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T19:17:03+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-04-24T17:45:27.049103+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-04-22T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-04-24",
