@@ -251,7 +251,7 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-04-23T17:49:40+00:00",
+  "last_seen_time": "2026-04-24T03:30:12+00:00",
   "current_scores": {
     "HYVJR": {
       "points": 18.28,
@@ -302,22 +302,37 @@
       "points": 48.0,
       "match_count": 1,
       "last_score_time": "2026-04-23T17:49:40+00:00"
+    },
+    "bTv72": {
+      "points": 19.65,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T03:30:12+00:00"
+    },
+    "FrUH6": {
+      "points": 11.35,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T03:30:12+00:00"
+    },
+    "5mrtb": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T03:30:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-23T17:13:59.542697+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-04-22T11:30:00+00:00",
   "daily_quests": {
-    "date": "2026-04-23",
-    "created_at": "2026-04-23T17:58:18.752780+00:00",
+    "date": "2026-04-24",
+    "created_at": "2026-04-24T03:40:06.795255+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -326,10 +341,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 1",
-        "target": 3,
+        "map": "North America",
+        "target": 4,
         "reward": 100,
-        "text": "Win 3 times on World 1",
+        "text": "Win 4 times on North America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -339,15 +354,16 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
         ],
-        "target": 5,
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -357,20 +373,30 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "bTv72": {
+          "Asia": 1
+        },
+        "FrUH6": {
+          "Asia": 1
+        },
+        "5mrtb": {
+          "Asia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
     "date": "2026-04-23",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Island",
+        "text": "Win 3 times on World 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
