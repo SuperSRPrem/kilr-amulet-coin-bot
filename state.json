@@ -251,7 +251,7 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-04-24T06:13:29+00:00",
+  "last_seen_time": "2026-04-24T15:29:19+00:00",
   "current_scores": {
     "HYVJR": {
       "points": 18.28,
@@ -377,10 +377,60 @@
       "points": 1.23,
       "match_count": 1,
       "last_score_time": "2026-04-24T06:13:29+00:00"
+    },
+    "GueSH": {
+      "points": 25.07,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:23:53+00:00"
+    },
+    "nmMBQ": {
+      "points": 8.86,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:23:53+00:00"
+    },
+    "v7mbm": {
+      "points": 8.16,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:23:53+00:00"
+    },
+    "79VQn": {
+      "points": 4.27,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:23:53+00:00"
+    },
+    "mv9ys": {
+      "points": 3.95,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:23:53+00:00"
+    },
+    "QRNRV": {
+      "points": 3.26,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:23:53+00:00"
+    },
+    "sGc2Z": {
+      "points": 1.42,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:23:53+00:00"
+    },
+    "RmTq2": {
+      "points": 129.89,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:29:19+00:00"
+    },
+    "rqvnB": {
+      "points": 109.71,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:29:19+00:00"
+    },
+    "t2Nbb": {
+      "points": 4.4,
+      "match_count": 1,
+      "last_score_time": "2026-04-24T15:29:19+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-23T17:13:59.542697+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-04-22T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-04-24",
@@ -442,6 +492,27 @@
         },
         "5mrtb": {
           "Asia": 1
+        },
+        "GueSH": {
+          "Africa": 1
+        },
+        "nmMBQ": {
+          "Africa": 1
+        },
+        "v7mbm": {
+          "Africa": 1
+        },
+        "79VQn": {
+          "Africa": 1
+        },
+        "mv9ys": {
+          "Africa": 1
+        },
+        "QRNRV": {
+          "Africa": 1
+        },
+        "sGc2Z": {
+          "Africa": 1
         }
       }
     }
