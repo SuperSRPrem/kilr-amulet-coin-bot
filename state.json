@@ -265,10 +265,16 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-04-25T14:51:09+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-04-25T19:48:01+00:00",
+  "current_scores": {
+    "MQX1B": {
+      "points": 61.0,
+      "match_count": 1,
+      "last_score_time": "2026-04-25T19:48:01+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-04-25T17:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-04-25T17:30:00+00:00",
   "daily_quests": {
     "date": "2026-04-25",
