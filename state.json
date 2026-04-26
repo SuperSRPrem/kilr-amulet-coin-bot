@@ -265,7 +265,7 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-04-25T20:59:32+00:00",
+  "last_seen_time": "2026-04-25T23:58:06+00:00",
   "current_scores": {
     "MQX1B": {
       "points": 61.0,
@@ -321,22 +321,47 @@
       "points": 1.39,
       "match_count": 1,
       "last_score_time": "2026-04-25T20:59:32+00:00"
+    },
+    "qtQrN": {
+      "points": 13.4,
+      "match_count": 1,
+      "last_score_time": "2026-04-25T23:58:06+00:00"
+    },
+    "qV9VB": {
+      "points": 9.46,
+      "match_count": 1,
+      "last_score_time": "2026-04-25T23:58:06+00:00"
+    },
+    "7nTq7": {
+      "points": 3.47,
+      "match_count": 1,
+      "last_score_time": "2026-04-25T23:58:06+00:00"
+    },
+    "B9qbr": {
+      "points": 1.65,
+      "match_count": 1,
+      "last_score_time": "2026-04-25T23:58:06+00:00"
+    },
+    "bQMnB": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-04-25T23:58:06+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-25T17:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-04-25T17:30:00+00:00",
   "daily_quests": {
-    "date": "2026-04-25",
-    "created_at": "2026-04-25T03:22:50.440655+00:00",
+    "date": "2026-04-26",
+    "created_at": "2026-04-26T00:05:35.689848+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 1",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -345,10 +370,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Desert",
-        "target": 6,
+        "map": "Scandinavia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Desert",
+        "text": "Win 4 times on Scandinavia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -356,10 +381,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_wins",
+        "map": "World 2",
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -368,27 +394,43 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "qtQrN": {
+          "Scandinavia": 1
+        },
+        "qV9VB": {
+          "Scandinavia": 1
+        },
+        "7nTq7": {
+          "Scandinavia": 1
+        },
+        "B9qbr": {
+          "Scandinavia": 1
+        },
+        "bQMnB": {
+          "Scandinavia": 1
+        }
+      },
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-04-24",
+    "date": "2026-04-25",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Mountains 1",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 1",
+        "text": "Win 6 times on Desert",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
