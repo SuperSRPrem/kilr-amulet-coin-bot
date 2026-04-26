@@ -272,12 +272,12 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-04-26T17:44:38+00:00",
+  "last_seen_time": "2026-04-26T19:20:37+00:00",
   "current_scores": {
     "eIoJe": {
-      "points": 43.24,
-      "match_count": 1,
-      "last_score_time": "2026-04-26T14:01:03+00:00"
+      "points": 47.99,
+      "match_count": 2,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
     },
     "R8888": {
       "points": 2.76,
@@ -293,10 +293,65 @@
       "points": 21.6,
       "match_count": 1,
       "last_score_time": "2026-04-26T17:44:38+00:00"
+    },
+    "BN9T9": {
+      "points": 43.13,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:10:02+00:00"
+    },
+    "VNNMN": {
+      "points": 55.15,
+      "match_count": 2,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
+    },
+    "7b77q": {
+      "points": 0.25,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:10:02+00:00"
+    },
+    "T2TbB": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:10:02+00:00"
+    },
+    "MQX1B": {
+      "points": 5.63,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
+    },
+    "jDf45": {
+      "points": 5.45,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
+    },
+    "tQ5mL": {
+      "points": 4.07,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
+    },
+    "nLtLL": {
+      "points": 4.05,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
+    },
+    "NtBTT": {
+      "points": 3.07,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
+    },
+    "v2879": {
+      "points": 2.58,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
+    },
+    "9t7L7": {
+      "points": 0.87,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T19:20:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-26T13:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-04-26T13:30:00+00:00",
   "daily_quests": {
     "date": "2026-04-26",
@@ -363,6 +418,18 @@
           "World 2": 1
         },
         "HAD9x": {
+          "World 2": 1
+        },
+        "BN9T9": {
+          "World 2": 1
+        },
+        "VNNMN": {
+          "World 2": 1
+        },
+        "7b77q": {
+          "World 2": 1
+        },
+        "T2TbB": {
           "World 2": 1
         }
       }
