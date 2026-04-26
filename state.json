@@ -272,7 +272,7 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-04-26T14:01:03+00:00",
+  "last_seen_time": "2026-04-26T17:44:38+00:00",
   "current_scores": {
     "eIoJe": {
       "points": 43.24,
@@ -283,10 +283,20 @@
       "points": 2.76,
       "match_count": 1,
       "last_score_time": "2026-04-26T14:01:03+00:00"
+    },
+    "RmTq2": {
+      "points": 44.4,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T17:44:38+00:00"
+    },
+    "HAD9x": {
+      "points": 21.6,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T17:44:38+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-26T13:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-04-26T13:30:00+00:00",
   "daily_quests": {
     "date": "2026-04-26",
@@ -348,7 +358,14 @@
           "Scandinavia": 1
         }
       },
-      "hard": {}
+      "hard": {
+        "RmTq2": {
+          "World 2": 1
+        },
+        "HAD9x": {
+          "World 2": 1
+        }
+      }
     }
   },
   "last_quest_day": {
