@@ -265,7 +265,7 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-04-26T09:29:10+00:00",
+  "last_seen_time": "2026-04-26T10:33:36+00:00",
   "current_scores": {
     "MQX1B": {
       "points": 61.0,
@@ -456,10 +456,20 @@
       "points": 0.02,
       "match_count": 1,
       "last_score_time": "2026-04-26T09:29:10+00:00"
+    },
+    "BrBmL": {
+      "points": 40.95,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T10:33:36+00:00"
+    },
+    "_tFM4": {
+      "points": 0.05,
+      "match_count": 1,
+      "last_score_time": "2026-04-26T10:33:36+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-25T17:30:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-04-25T17:30:00+00:00",
   "daily_quests": {
     "date": "2026-04-26",
