@@ -279,7 +279,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-04-27T21:19:23+00:00",
+  "last_seen_time": "2026-04-28T09:54:01+00:00",
   "current_scores": {
     "LM5rM": {
       "points": 57.87,
@@ -347,9 +347,9 @@
       "last_score_time": "2026-04-27T16:49:53+00:00"
     },
     "Z2Yfi": {
-      "points": 5.12,
-      "match_count": 2,
-      "last_score_time": "2026-04-27T16:49:53+00:00"
+      "points": 20.9,
+      "match_count": 3,
+      "last_score_time": "2026-04-28T09:54:01+00:00"
     },
     "2xWLc": {
       "points": 2.74,
@@ -505,10 +505,50 @@
       "points": 0.88,
       "match_count": 1,
       "last_score_time": "2026-04-27T21:19:23+00:00"
+    },
+    "bTv72": {
+      "points": 44.92,
+      "match_count": 1,
+      "last_score_time": "2026-04-28T09:39:06+00:00"
+    },
+    "Ogehz": {
+      "points": 20.24,
+      "match_count": 2,
+      "last_score_time": "2026-04-28T09:54:01+00:00"
+    },
+    "tv999": {
+      "points": 15.82,
+      "match_count": 1,
+      "last_score_time": "2026-04-28T09:39:21+00:00"
+    },
+    "Nn7BN": {
+      "points": 14.83,
+      "match_count": 1,
+      "last_score_time": "2026-04-28T09:39:21+00:00"
+    },
+    "4jRqG": {
+      "points": 13.2,
+      "match_count": 1,
+      "last_score_time": "2026-04-28T09:39:21+00:00"
+    },
+    "qTtqN": {
+      "points": 12.15,
+      "match_count": 1,
+      "last_score_time": "2026-04-28T09:39:21+00:00"
+    },
+    "9vv52": {
+      "points": 4.04,
+      "match_count": 1,
+      "last_score_time": "2026-04-28T09:54:01+00:00"
+    },
+    "MQTRn": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-04-28T09:54:01+00:00"
     }
   },
   "current_cycle_started_at": "2026-04-27T13:00:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-04-27T13:00:00+00:00",
   "daily_quests": {
     "date": "2026-04-28",
@@ -553,7 +593,14 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "bTv72": {
+          "Scandinavia": 1
+        },
+        "Ogehz": {
+          "Scandinavia": 1
+        }
+      },
       "hard": {}
     }
   },
