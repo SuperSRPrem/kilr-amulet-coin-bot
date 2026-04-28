@@ -511,16 +511,16 @@
   "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-04-27T13:00:00+00:00",
   "daily_quests": {
-    "date": "2026-04-27",
-    "created_at": "2026-04-27T03:51:16.675284+00:00",
+    "date": "2026-04-28",
+    "created_at": "2026-04-28T00:01:37.253019+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -529,10 +529,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Halo",
-        "target": 6,
+        "map": "Scandinavia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Halo",
+        "text": "Win 4 times on Scandinavia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -540,10 +540,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_wins",
+        "map": "World 2",
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -553,84 +554,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "NmT2T": {
-          "Contest": 1
-        },
-        "VNNMN": {
-          "Contest": 1
-        },
-        "2HZWe": {
-          "Contest": 1
-        },
-        "Oyf9y": {
-          "Contest": 1
-        },
-        "3MxYh": {
-          "Contest": 1
-        },
-        "LnQtt": {
-          "Contest": 1
-        },
-        "q8BN7": {
-          "Contest": 1
-        },
-        "vLTRv": {
-          "Contest": 1
-        },
-        "-7R23": {
-          "Contest": 1
-        },
-        "98MQv": {
-          "Contest": 1
-        },
-        "QVwuC": {
-          "Contest": 1
-        },
-        "YsRY1": {
-          "Contest": 1
-        },
-        "mM64e": {
-          "Contest": 1
-        },
-        "f0vla": {
-          "Contest": 1
-        },
-        "qNnTB": {
-          "Contest": 1
-        },
-        "8tBQL": {
-          "Contest": 1
-        },
-        "n8bL8": {
-          "Contest": 1
-        },
-        "ObnHJ": {
-          "Contest": 1
-        },
-        "5Nb9B": {
-          "Contest": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-04-26",
+    "date": "2026-04-27",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Scandinavia",
+        "text": "Win 6 times on Halo",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
