@@ -299,16 +299,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-04-29T23:00:00+00:00",
   "daily_quests": {
-    "date": "2026-04-29",
-    "created_at": "2026-04-29T01:17:12.437570+00:00",
+    "date": "2026-04-30",
+    "created_at": "2026-04-30T01:16:57.448503+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Arena",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -317,10 +317,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 1",
-        "target": 3,
+        "map": "Black Arena",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on World 1",
+        "text": "Win 6 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -328,211 +328,40 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "map_wins",
+        "map": "World 2",
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "MQX1B"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "bTv72": {
-          "World 1": 1
-        },
-        "kkNtw": {
-          "World 1": 1
-        },
-        "5TTvL": {
-          "World 1": 1
-        },
-        "qM5tM": {
-          "World 1": 1
-        },
-        "rqN95": {
-          "World 1": 1
-        },
-        "MT7V2": {
-          "World 1": 1
-        },
-        "m25BV": {
-          "World 1": 1
-        },
-        "777BQ": {
-          "World 1": 1
-        },
-        "5rTNV": {
-          "World 1": 1
-        },
-        "CfwHT": {
-          "World 1": 1
-        },
-        "5BmBm": {
-          "World 1": 1
-        },
-        "RmTq2": {
-          "World 1": 1
-        },
-        "tv999": {
-          "World 1": 1
-        },
-        "Gy1ZY": {
-          "World 1": 1
-        },
-        "qRvnt": {
-          "World 1": 1
-        },
-        "vLTRv": {
-          "World 1": 1
-        }
-      },
-      "hard": {
-        "bTv72": {
-          "Caucasia": 1
-        },
-        "9hnhw": {
-          "Caucasia": 1
-        },
-        "SkV76": {
-          "Caucasia": 1
-        },
-        "tKm5Q": {
-          "Caucasia": 1
-        },
-        "5qB77": {
-          "Caucasia": 1
-        },
-        "-vs--": {
-          "Caucasia": 1
-        },
-        "vLTRv": {
-          "Caucasia": 1
-        },
-        "QRR9V": {
-          "Caucasia": 1
-        },
-        "BNxHu": {
-          "Caucasia": 1
-        },
-        "V8qtB": {
-          "Caucasia": 1
-        },
-        "ukyJy": {
-          "Caucasia": 1
-        },
-        "wMVvF": {
-          "Caucasia": 1
-        },
-        "9MnbQ": {
-          "Caucasia": 1
-        },
-        "5Mt9N": {
-          "Caucasia": 1
-        },
-        "8vx2w": {
-          "Caucasia": 1
-        },
-        "BN9T9": {
-          "Caucasia": 1
-        },
-        "MMb7m": {
-          "Caucasia": 1
-        },
-        "29VvM": {
-          "Caucasia": 1
-        },
-        "vBNBT": {
-          "Caucasia": 1
-        },
-        "99VrV": {
-          "Caucasia": 1
-        },
-        "NbRvB": {
-          "Caucasia": 1
-        },
-        "MQX1B": {
-          "Mare Nostrum": 1,
-          "Caucasia": 1
-        },
-        "t2Nbb": {
-          "Mare Nostrum": 1
-        },
-        "tV99R": {
-          "Mare Nostrum": 1
-        },
-        "BjxRv": {
-          "Mare Nostrum": 1
-        },
-        "rmNnQ": {
-          "Mare Nostrum": 1
-        },
-        "RLVQN": {
-          "Mare Nostrum": 1
-        },
-        "Rb5B8": {
-          "Mare Nostrum": 1
-        },
-        "mTTLq": {
-          "Mare Nostrum": 1
-        },
-        "Z2Yfi": {
-          "Caucasia": 1
-        },
-        "vt2Mr": {
-          "Caucasia": 1
-        },
-        "nttmr": {
-          "Caucasia": 1
-        },
-        "rgLiy": {
-          "Caucasia": 1
-        },
-        "YsRY1": {
-          "Caucasia": 1
-        },
-        "MRM25": {
-          "Caucasia": 1
-        },
-        "VNNMN": {
-          "Caucasia": 1
-        },
-        "TmQ8M": {
-          "Caucasia": 1
-        },
-        "Z9Ikv": {
-          "Caucasia": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-04-28",
+    "date": "2026-04-29",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on White Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Scandinavia",
+        "text": "Win 3 times on World 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
