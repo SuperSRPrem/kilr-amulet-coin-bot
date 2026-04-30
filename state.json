@@ -293,10 +293,26 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-04-29T18:15:42+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-04-30T07:31:46+00:00",
+  "current_scores": {
+    "tBmTR": {
+      "points": 32.16,
+      "match_count": 1,
+      "last_score_time": "2026-04-30T07:31:46+00:00"
+    },
+    "VRntt": {
+      "points": 9.82,
+      "match_count": 1,
+      "last_score_time": "2026-04-30T07:31:46+00:00"
+    },
+    "M8nrM": {
+      "points": 5.02,
+      "match_count": 1,
+      "last_score_time": "2026-04-30T07:31:46+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-04-29T23:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-04-29T23:00:00+00:00",
   "daily_quests": {
     "date": "2026-04-30",
