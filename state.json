@@ -307,10 +307,56 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-05-01T08:56:40+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-01T13:53:08+00:00",
+  "current_scores": {
+    "m22TB": {
+      "points": 52.33,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:42:08+00:00"
+    },
+    "nrQmr": {
+      "points": 6.78,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:42:08+00:00"
+    },
+    "VNNMN": {
+      "points": 1.89,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:42:08+00:00"
+    },
+    "vt2Mr": {
+      "points": 36.53,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:53:08+00:00"
+    },
+    "sOtSV": {
+      "points": 25.24,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:53:08+00:00"
+    },
+    "V7rQB": {
+      "points": 8.75,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:53:08+00:00"
+    },
+    "m8qt8": {
+      "points": 7.78,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:53:08+00:00"
+    },
+    "qrBt5": {
+      "points": 2.64,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:53:08+00:00"
+    },
+    "r7Tb8": {
+      "points": 2.06,
+      "match_count": 1,
+      "last_score_time": "2026-05-01T13:53:08+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-01T11:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-05-01T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-01",
@@ -356,7 +402,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "vt2Mr": {
+          "World 1": 1
+        },
+        "sOtSV": {
+          "World 1": 1
+        },
+        "V7rQB": {
+          "World 1": 1
+        },
+        "m8qt8": {
+          "World 1": 1
+        },
+        "qrBt5": {
+          "World 1": 1
+        },
+        "r7Tb8": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
