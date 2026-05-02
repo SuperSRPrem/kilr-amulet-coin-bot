@@ -307,7 +307,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-05-01T18:24:31+00:00",
+  "last_seen_time": "2026-05-02T03:37:33+00:00",
   "current_scores": {
     "m22TB": {
       "points": 52.33,
@@ -453,22 +453,57 @@
       "points": 0.66,
       "match_count": 1,
       "last_score_time": "2026-05-01T18:24:31+00:00"
+    },
+    "Ogehz": {
+      "points": 16.35,
+      "match_count": 1,
+      "last_score_time": "2026-05-02T03:37:33+00:00"
+    },
+    "8R5Qn": {
+      "points": 2.86,
+      "match_count": 1,
+      "last_score_time": "2026-05-02T03:37:33+00:00"
+    },
+    "BrQtN": {
+      "points": 1.67,
+      "match_count": 1,
+      "last_score_time": "2026-05-02T03:37:33+00:00"
+    },
+    "ehscV": {
+      "points": 1.42,
+      "match_count": 1,
+      "last_score_time": "2026-05-02T03:37:33+00:00"
+    },
+    "vmt77": {
+      "points": 1.14,
+      "match_count": 1,
+      "last_score_time": "2026-05-02T03:37:33+00:00"
+    },
+    "M7rbQ": {
+      "points": 1.09,
+      "match_count": 1,
+      "last_score_time": "2026-05-02T03:37:33+00:00"
+    },
+    "vT9MN": {
+      "points": 0.46,
+      "match_count": 1,
+      "last_score_time": "2026-05-02T03:37:33+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-01T11:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-05-01T11:30:00+00:00",
   "daily_quests": {
-    "date": "2026-05-01",
-    "created_at": "2026-05-01T04:05:25.607553+00:00",
+    "date": "2026-05-02",
+    "created_at": "2026-05-02T03:37:57.248311+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Arena",
+        "map": "Pond",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Pond",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -477,10 +512,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "Caucasia",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -502,45 +537,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "vt2Mr": {
-          "World 1": 1
-        },
-        "sOtSV": {
-          "World 1": 1
-        },
-        "V7rQB": {
-          "World 1": 1
-        },
-        "m8qt8": {
-          "World 1": 1
-        },
-        "qrBt5": {
-          "World 1": 1
-        },
-        "r7Tb8": {
-          "World 1": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on White Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Black Arena",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
