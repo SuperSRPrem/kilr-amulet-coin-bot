@@ -321,7 +321,7 @@
       "eligible_match_count": 19
     }
   ],
-  "last_seen_time": "2026-05-03T20:48:56+00:00",
+  "last_seen_time": "2026-05-03T21:35:20+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 21.01,
@@ -354,9 +354,9 @@
       "last_score_time": "2026-05-03T19:45:21+00:00"
     },
     "8r8qT": {
-      "points": 3.53,
-      "match_count": 1,
-      "last_score_time": "2026-05-03T19:45:21+00:00"
+      "points": 6.97,
+      "match_count": 2,
+      "last_score_time": "2026-05-03T21:35:20+00:00"
     },
     "qNrmV": {
       "points": 0.0,
@@ -372,10 +372,35 @@
       "points": 1.73,
       "match_count": 1,
       "last_score_time": "2026-05-03T20:48:56+00:00"
+    },
+    "59Nb5": {
+      "points": 21.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T21:35:20+00:00"
+    },
+    "7BrmV": {
+      "points": 12.55,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T21:35:20+00:00"
+    },
+    "R8888": {
+      "points": 3.24,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T21:35:20+00:00"
+    },
+    "RMvLn": {
+      "points": 2.88,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T21:35:20+00:00"
+    },
+    "VbrBm": {
+      "points": 0.91,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T21:35:20+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-03T18:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-05-03T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-03",
@@ -556,6 +581,24 @@
         },
         "YsRY1": {
           "Scandinavia": 1
+        },
+        "59Nb5": {
+          "Mare Nostrum": 1
+        },
+        "7BrmV": {
+          "Mare Nostrum": 1
+        },
+        "8r8qT": {
+          "Mare Nostrum": 1
+        },
+        "R8888": {
+          "Mare Nostrum": 1
+        },
+        "RMvLn": {
+          "Mare Nostrum": 1
+        },
+        "VbrBm": {
+          "Mare Nostrum": 1
         }
       }
     }
