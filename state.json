@@ -314,7 +314,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-05-03T13:34:25+00:00",
+  "last_seen_time": "2026-05-03T14:40:14+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 18.630000000000003,
@@ -700,10 +700,50 @@
       "points": 18.88,
       "match_count": 1,
       "last_score_time": "2026-05-03T13:34:25+00:00"
+    },
+    "RmTq2": {
+      "points": 35.78,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T14:40:14+00:00"
+    },
+    "9qRmb": {
+      "points": 11.89,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T14:40:14+00:00"
+    },
+    "2LBvt": {
+      "points": 8.7,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T14:40:14+00:00"
+    },
+    "tvmB7": {
+      "points": 3.09,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T14:40:14+00:00"
+    },
+    "4WBka": {
+      "points": 2.89,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T14:40:14+00:00"
+    },
+    "NVq9N": {
+      "points": 1.9,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T14:40:14+00:00"
+    },
+    "BMqr7": {
+      "points": 1.41,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T14:40:14+00:00"
+    },
+    "VLQm5": {
+      "points": 1.35,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T14:40:14+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-02T06:30:00+00:00",
-  "current_cycle_match_count": 15,
+  "current_cycle_match_count": 16,
   "last_announced_event_time": "2026-05-02T06:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-03",
@@ -821,6 +861,30 @@
         },
         "vt2Mr": {
           "Caucasia": 1
+        },
+        "RmTq2": {
+          "Middle East": 1
+        },
+        "9qRmb": {
+          "Middle East": 1
+        },
+        "2LBvt": {
+          "Middle East": 1
+        },
+        "tvmB7": {
+          "Middle East": 1
+        },
+        "4WBka": {
+          "Middle East": 1
+        },
+        "NVq9N": {
+          "Middle East": 1
+        },
+        "BMqr7": {
+          "Middle East": 1
+        },
+        "VLQm5": {
+          "Middle East": 1
         }
       }
     }
