@@ -321,7 +321,7 @@
       "eligible_match_count": 19
     }
   ],
-  "last_seen_time": "2026-05-03T19:45:21+00:00",
+  "last_seen_time": "2026-05-03T20:48:56+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 21.01,
@@ -344,9 +344,9 @@
       "last_score_time": "2026-05-03T19:41:34+00:00"
     },
     "Z2Yfi": {
-      "points": 29.15,
-      "match_count": 1,
-      "last_score_time": "2026-05-03T19:45:21+00:00"
+      "points": 63.5,
+      "match_count": 2,
+      "last_score_time": "2026-05-03T20:48:56+00:00"
     },
     "vtQ52": {
       "points": 18.31,
@@ -362,10 +362,20 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-05-03T19:45:21+00:00"
+    },
+    "7bqbn": {
+      "points": 6.93,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T20:48:56+00:00"
+    },
+    "YsRY1": {
+      "points": 1.73,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T20:48:56+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-03T18:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-05-03T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-03",
@@ -419,7 +429,8 @@
       "medium": {},
       "hard": {
         "Z2Yfi": {
-          "Middle East": 2
+          "Middle East": 2,
+          "Scandinavia": 1
         },
         "RDhuO": {
           "Middle East": 1
@@ -539,6 +550,12 @@
         },
         "L-Kdn": {
           "Middle East": 1
+        },
+        "7bqbn": {
+          "Scandinavia": 1
+        },
+        "YsRY1": {
+          "Scandinavia": 1
         }
       }
     }
