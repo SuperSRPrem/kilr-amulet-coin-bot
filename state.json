@@ -321,10 +321,51 @@
       "eligible_match_count": 19
     }
   ],
-  "last_seen_time": "2026-05-03T18:18:55+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-03T19:45:21+00:00",
+  "current_scores": {
+    "vt2Mr": {
+      "points": 21.01,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T19:41:34+00:00"
+    },
+    "-5B2M": {
+      "points": 12.97,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T19:41:34+00:00"
+    },
+    "L-Kdn": {
+      "points": 6.99,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T19:41:34+00:00"
+    },
+    "MQX1B": {
+      "points": 4.04,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T19:41:34+00:00"
+    },
+    "Z2Yfi": {
+      "points": 29.15,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T19:45:21+00:00"
+    },
+    "vtQ52": {
+      "points": 18.31,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T19:45:21+00:00"
+    },
+    "8r8qT": {
+      "points": 3.53,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T19:45:21+00:00"
+    },
+    "qNrmV": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T19:45:21+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-03T18:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-05-03T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-03",
@@ -369,8 +410,8 @@
         "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "MQX1B"
       }
     },
     "data": {
@@ -441,7 +482,8 @@
           "Caucasia": 1
         },
         "vt2Mr": {
-          "Caucasia": 1
+          "Caucasia": 1,
+          "Middle East": 1
         },
         "RmTq2": {
           "Middle East": 1
@@ -477,7 +519,8 @@
           "Mare Nostrum": 1
         },
         "MQX1B": {
-          "Mare Nostrum": 1
+          "Mare Nostrum": 1,
+          "Middle East": 1
         },
         "mB3Zu": {
           "Mare Nostrum": 1
@@ -489,6 +532,12 @@
           "Middle East": 1
         },
         "VTV2b": {
+          "Middle East": 1
+        },
+        "-5B2M": {
+          "Middle East": 1
+        },
+        "L-Kdn": {
           "Middle East": 1
         }
       }
