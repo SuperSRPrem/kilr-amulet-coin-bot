@@ -314,12 +314,12 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-05-03T14:40:14+00:00",
+  "last_seen_time": "2026-05-03T16:59:09+00:00",
   "current_scores": {
     "Oyf9y": {
-      "points": 18.630000000000003,
-      "match_count": 2,
-      "last_score_time": "2026-05-02T09:37:04+00:00"
+      "points": 75.63,
+      "match_count": 3,
+      "last_score_time": "2026-05-03T16:59:09+00:00"
     },
     "L-guw": {
       "points": 5.01,
@@ -743,7 +743,7 @@
     }
   },
   "current_cycle_started_at": "2026-05-02T06:30:00+00:00",
-  "current_cycle_match_count": 16,
+  "current_cycle_match_count": 17,
   "last_announced_event_time": "2026-05-02T06:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-03",
@@ -885,6 +885,9 @@
         },
         "VLQm5": {
           "Middle East": 1
+        },
+        "Oyf9y": {
+          "Caucasia": 1
         }
       }
     }
