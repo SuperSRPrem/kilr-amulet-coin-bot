@@ -314,7 +314,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-05-03T11:45:41+00:00",
+  "last_seen_time": "2026-05-03T13:34:25+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 18.630000000000003,
@@ -447,9 +447,9 @@
       "last_score_time": "2026-05-02T10:52:27+00:00"
     },
     "bTv72": {
-      "points": 78.16,
-      "match_count": 2,
-      "last_score_time": "2026-05-02T15:54:53+00:00"
+      "points": 97.69999999999999,
+      "match_count": 3,
+      "last_score_time": "2026-05-03T13:34:25+00:00"
     },
     "Nn7BN": {
       "points": 21.3,
@@ -690,10 +690,20 @@
       "points": 0.32,
       "match_count": 1,
       "last_score_time": "2026-05-03T11:45:41+00:00"
+    },
+    "WW0hO": {
+      "points": 20.59,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T13:34:25+00:00"
+    },
+    "vt2Mr": {
+      "points": 18.88,
+      "match_count": 1,
+      "last_score_time": "2026-05-03T13:34:25+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-02T06:30:00+00:00",
-  "current_cycle_match_count": 14,
+  "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-05-02T06:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-03",
@@ -802,6 +812,15 @@
         },
         "87T5n": {
           "British Isles": 1
+        },
+        "WW0hO": {
+          "Caucasia": 1
+        },
+        "bTv72": {
+          "Caucasia": 1
+        },
+        "vt2Mr": {
+          "Caucasia": 1
         }
       }
     }
