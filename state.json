@@ -321,7 +321,7 @@
       "eligible_match_count": 19
     }
   ],
-  "last_seen_time": "2026-05-03T21:35:20+00:00",
+  "last_seen_time": "2026-05-04T10:15:57+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 21.01,
@@ -397,10 +397,20 @@
       "points": 0.91,
       "match_count": 1,
       "last_score_time": "2026-05-03T21:35:20+00:00"
+    },
+    "VNNMN": {
+      "points": 35.92,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T10:15:57+00:00"
+    },
+    "2TR9r": {
+      "points": 5.08,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T10:15:57+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-03T18:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-05-03T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-04",
