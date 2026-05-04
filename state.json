@@ -321,7 +321,7 @@
       "eligible_match_count": 19
     }
   ],
-  "last_seen_time": "2026-05-04T11:46:42+00:00",
+  "last_seen_time": "2026-05-04T16:45:03+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 21.01,
@@ -412,10 +412,55 @@
       "points": 52.0,
       "match_count": 1,
       "last_score_time": "2026-05-04T11:46:42+00:00"
+    },
+    "q71an": {
+      "points": 52.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:30:22+00:00"
+    },
+    "5R8R7": {
+      "points": 42.95,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:45:03+00:00"
+    },
+    "BjxRv": {
+      "points": 6.22,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:45:03+00:00"
+    },
+    "BYN-F": {
+      "points": 5.29,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:45:03+00:00"
+    },
+    "2NbVv": {
+      "points": 4.13,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:45:03+00:00"
+    },
+    "LNqL8": {
+      "points": 3.02,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:45:03+00:00"
+    },
+    "LnQ-D": {
+      "points": 2.85,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:45:03+00:00"
+    },
+    "5NB7t": {
+      "points": 1.82,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:45:03+00:00"
+    },
+    "QM8mM": {
+      "points": 1.72,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T16:45:03+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-03T18:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-05-03T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-04",
@@ -468,7 +513,11 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "q71an": {
+          "Africa": 1
+        }
+      }
     }
   },
   "last_quest_day": {
