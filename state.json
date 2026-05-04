@@ -403,16 +403,16 @@
   "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-05-03T18:30:00+00:00",
   "daily_quests": {
-    "date": "2026-05-03",
-    "created_at": "2026-05-03T04:01:01.394649+00:00",
+    "date": "2026-05-04",
+    "created_at": "2026-05-04T04:00:53.296026+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Halo",
+        "map": "Black Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -421,10 +421,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Mountains 1",
-        "target": 6,
+        "map": "Europe",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Mountains 1",
+        "text": "Win 4 times on Europe",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -434,192 +434,45 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
         ],
-        "target": 5,
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "MQX1B"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "Middle East": 2,
-          "Scandinavia": 1
-        },
-        "RDhuO": {
-          "Middle East": 1
-        },
-        "1_R9v": {
-          "Middle East": 1
-        },
-        "5rLNN": {
-          "Middle East": 1
-        },
-        "RQRvM": {
-          "Middle East": 1
-        },
-        "VNNMN": {
-          "Scandinavia": 1
-        },
-        "VRNnT": {
-          "Scandinavia": 1
-        },
-        "9NzEE": {
-          "Scandinavia": 1
-        },
-        "9MnbQ": {
-          "Scandinavia": 1
-        },
-        "tNr5R": {
-          "Scandinavia": 1
-        },
-        "bOxui": {
-          "Scandinavia": 1
-        },
-        "M7m97": {
-          "Scandinavia": 1
-        },
-        "7NQrm": {
-          "Scandinavia": 1
-        },
-        "NB2mQ": {
-          "British Isles": 1
-        },
-        "N2qt7": {
-          "British Isles": 1
-        },
-        "vqLNB": {
-          "British Isles": 1
-        },
-        "2rvBR": {
-          "British Isles": 1
-        },
-        "9qmtV": {
-          "British Isles": 1
-        },
-        "87T5n": {
-          "British Isles": 1
-        },
-        "WW0hO": {
-          "Caucasia": 1
-        },
-        "bTv72": {
-          "Caucasia": 1
-        },
-        "vt2Mr": {
-          "Caucasia": 1,
-          "Middle East": 1
-        },
-        "RmTq2": {
-          "Middle East": 1
-        },
-        "9qRmb": {
-          "Middle East": 1
-        },
-        "2LBvt": {
-          "Middle East": 1
-        },
-        "tvmB7": {
-          "Middle East": 1
-        },
-        "4WBka": {
-          "Middle East": 1
-        },
-        "NVq9N": {
-          "Middle East": 1
-        },
-        "BMqr7": {
-          "Middle East": 1
-        },
-        "VLQm5": {
-          "Middle East": 1
-        },
-        "Oyf9y": {
-          "Caucasia": 1
-        },
-        "nttmr": {
-          "Mare Nostrum": 1
-        },
-        "RBqN2": {
-          "Mare Nostrum": 1
-        },
-        "MQX1B": {
-          "Mare Nostrum": 1,
-          "Middle East": 1
-        },
-        "mB3Zu": {
-          "Mare Nostrum": 1
-        },
-        "TvMNT": {
-          "Middle East": 1
-        },
-        "9RVtV": {
-          "Middle East": 1
-        },
-        "VTV2b": {
-          "Middle East": 1
-        },
-        "-5B2M": {
-          "Middle East": 1
-        },
-        "L-Kdn": {
-          "Middle East": 1
-        },
-        "7bqbn": {
-          "Scandinavia": 1
-        },
-        "YsRY1": {
-          "Scandinavia": 1
-        },
-        "59Nb5": {
-          "Mare Nostrum": 1
-        },
-        "7BrmV": {
-          "Mare Nostrum": 1
-        },
-        "8r8qT": {
-          "Mare Nostrum": 1
-        },
-        "R8888": {
-          "Mare Nostrum": 1
-        },
-        "RMvLn": {
-          "Mare Nostrum": 1
-        },
-        "VbrBm": {
-          "Mare Nostrum": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on Halo",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 6 times on Mountains 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
