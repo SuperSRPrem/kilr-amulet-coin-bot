@@ -328,10 +328,16 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-05-04T19:50:52+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-04T21:19:23+00:00",
+  "current_scores": {
+    "Z2Yfi": {
+      "points": 42.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-04T21:19:23+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-04T20:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-05-04T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-04",
@@ -383,7 +389,11 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "Z2Yfi": {
+          "Europe": 1
+        }
+      },
       "hard": {
         "q71an": {
           "Africa": 1
@@ -402,6 +412,9 @@
         },
         "857MM": {
           "Australia": 1
+        },
+        "Z2Yfi": {
+          "Europe": 1
         }
       }
     }
