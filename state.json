@@ -328,7 +328,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-05-05T16:54:00+00:00",
+  "last_seen_time": "2026-05-05T20:03:22+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 42.0,
@@ -459,10 +459,15 @@
       "points": 8.09,
       "match_count": 1,
       "last_score_time": "2026-05-05T16:54:00+00:00"
+    },
+    "GueSH": {
+      "points": 52.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-05T20:03:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-04T20:00:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-05-04T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-05",
