@@ -328,7 +328,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-05-05T04:23:29+00:00",
+  "last_seen_time": "2026-05-05T07:12:23+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 42.0,
@@ -344,10 +344,15 @@
       "points": 2.99,
       "match_count": 1,
       "last_score_time": "2026-05-05T04:23:29+00:00"
+    },
+    "Oyf9y": {
+      "points": 36.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-05T07:12:23+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-04T20:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-05-04T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-05",
@@ -399,7 +404,11 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "Oyf9y": {
+          "Caucasia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
