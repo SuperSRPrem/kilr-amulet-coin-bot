@@ -335,10 +335,26 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-05-05T20:03:22+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-06T07:15:23+00:00",
+  "current_scores": {
+    "bTv72": {
+      "points": 24.38,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T07:15:23+00:00"
+    },
+    "QT7nT": {
+      "points": 9.58,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T07:15:23+00:00"
+    },
+    "BLL5v": {
+      "points": 2.04,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T07:15:23+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-05T21:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-05-05T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-06",
