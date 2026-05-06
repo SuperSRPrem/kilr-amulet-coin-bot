@@ -335,7 +335,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-05-06T17:01:25+00:00",
+  "last_seen_time": "2026-05-06T18:50:47+00:00",
   "current_scores": {
     "bTv72": {
       "points": 24.38,
@@ -548,9 +548,9 @@
       "last_score_time": "2026-05-06T11:59:23+00:00"
     },
     "RmTq2": {
-      "points": 63.73,
-      "match_count": 1,
-      "last_score_time": "2026-05-06T16:46:22+00:00"
+      "points": 77.92,
+      "match_count": 2,
+      "last_score_time": "2026-05-06T18:50:47+00:00"
     },
     "mtRL5": {
       "points": 0.21,
@@ -568,9 +568,9 @@
       "last_score_time": "2026-05-06T16:52:21+00:00"
     },
     "RBqN2": {
-      "points": 6.43,
-      "match_count": 1,
-      "last_score_time": "2026-05-06T16:52:21+00:00"
+      "points": 13.48,
+      "match_count": 2,
+      "last_score_time": "2026-05-06T18:50:47+00:00"
     },
     "qLTN9": {
       "points": 0.05,
@@ -666,10 +666,40 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-05-06T17:01:25+00:00"
+    },
+    "YsRY1": {
+      "points": 19.62,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T18:50:47+00:00"
+    },
+    "TknPF": {
+      "points": 10.07,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T18:50:47+00:00"
+    },
+    "Z2Yfi": {
+      "points": 5.89,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T18:50:47+00:00"
+    },
+    "yibYn": {
+      "points": 3.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T18:50:47+00:00"
+    },
+    "bTNvR": {
+      "points": 2.35,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T18:50:47+00:00"
+    },
+    "eESCW": {
+      "points": 1.84,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T18:50:47+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-05T21:00:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-05-05T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-06",
