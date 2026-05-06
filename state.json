@@ -335,7 +335,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-05-06T09:59:50+00:00",
+  "last_seen_time": "2026-05-06T11:59:23+00:00",
   "current_scores": {
     "bTv72": {
       "points": 24.38,
@@ -446,10 +446,110 @@
       "points": 0.55,
       "match_count": 1,
       "last_score_time": "2026-05-06T09:59:50+00:00"
+    },
+    "Mt7Qn": {
+      "points": 11.16,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "bzCSW": {
+      "points": 10.73,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "8757m": {
+      "points": 10.71,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "mr825": {
+      "points": 3.84,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "8mrTN": {
+      "points": 2.99,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "5NLNv": {
+      "points": 2.91,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "_tFM4": {
+      "points": 2.69,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "QR25M": {
+      "points": 2.63,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "GpS9k": {
+      "points": 2.27,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "eec8K": {
+      "points": 1.99,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "bB87N": {
+      "points": 1.58,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "nQL9T": {
+      "points": 1.46,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "Oyf9y": {
+      "points": 1.39,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "ECYzm": {
+      "points": 1.04,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "27VRv": {
+      "points": 1.04,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "27qmq": {
+      "points": 0.45,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "yrpBQ": {
+      "points": 0.11,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:56:58+00:00"
+    },
+    "VNNMN": {
+      "points": 47.5,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:59:23+00:00"
+    },
+    "BM2v5": {
+      "points": 3.49,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:59:23+00:00"
+    },
+    "9TQVm": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-06T11:59:23+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-05T21:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-05-05T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-06",
@@ -493,7 +593,59 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "Mt7Qn": {
+          "Caucasia": 1
+        },
+        "bzCSW": {
+          "Caucasia": 1
+        },
+        "8757m": {
+          "Caucasia": 1
+        },
+        "mr825": {
+          "Caucasia": 1
+        },
+        "8mrTN": {
+          "Caucasia": 1
+        },
+        "5NLNv": {
+          "Caucasia": 1
+        },
+        "_tFM4": {
+          "Caucasia": 1
+        },
+        "QR25M": {
+          "Caucasia": 1
+        },
+        "GpS9k": {
+          "Caucasia": 1
+        },
+        "eec8K": {
+          "Caucasia": 1
+        },
+        "bB87N": {
+          "Caucasia": 1
+        },
+        "nQL9T": {
+          "Caucasia": 1
+        },
+        "Oyf9y": {
+          "Caucasia": 1
+        },
+        "ECYzm": {
+          "Caucasia": 1
+        },
+        "27VRv": {
+          "Caucasia": 1
+        },
+        "27qmq": {
+          "Caucasia": 1
+        },
+        "yrpBQ": {
+          "Caucasia": 1
+        }
+      },
       "hard": {}
     }
   },
