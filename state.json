@@ -342,7 +342,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-05-07T04:34:04+00:00",
+  "last_seen_time": "2026-05-07T10:29:08+00:00",
   "current_scores": {
     "8285t": {
       "points": 18.63,
@@ -358,10 +358,60 @@
       "points": 19.0,
       "match_count": 1,
       "last_score_time": "2026-05-07T04:34:04+00:00"
+    },
+    "VNNMN": {
+      "points": 240.17,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:13:41+00:00"
+    },
+    "BTMNQ": {
+      "points": 3.83,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:13:41+00:00"
+    },
+    "R8888": {
+      "points": 85.63,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:29:08+00:00"
+    },
+    "-vs--": {
+      "points": 55.74,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:29:08+00:00"
+    },
+    "qx8F1": {
+      "points": 30.85,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:29:08+00:00"
+    },
+    "_tFM4": {
+      "points": 26.47,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:29:08+00:00"
+    },
+    "BNxHu": {
+      "points": 22.78,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:29:08+00:00"
+    },
+    "T57Rt": {
+      "points": 19.69,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:29:08+00:00"
+    },
+    "mBtbb": {
+      "points": 5.13,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:29:08+00:00"
+    },
+    "L79vv": {
+      "points": 1.72,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T10:29:08+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-06T23:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-05-06T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-07",
@@ -412,6 +462,12 @@
           "World 2": 1
         },
         "vt2Mr": {
+          "World 2": 1
+        },
+        "VNNMN": {
+          "World 2": 1
+        },
+        "BTMNQ": {
           "World 2": 1
         }
       }
