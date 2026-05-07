@@ -342,7 +342,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-05-07T01:09:53+00:00",
+  "last_seen_time": "2026-05-07T04:34:04+00:00",
   "current_scores": {
     "8285t": {
       "points": 18.63,
@@ -353,10 +353,15 @@
       "points": 8.37,
       "match_count": 1,
       "last_score_time": "2026-05-07T01:09:53+00:00"
+    },
+    "9MnbQ": {
+      "points": 19.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T04:34:04+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-06T23:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-05-06T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-07",
