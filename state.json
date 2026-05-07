@@ -342,7 +342,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-05-07T17:52:43+00:00",
+  "last_seen_time": "2026-05-07T20:46:51+00:00",
   "current_scores": {
     "8285t": {
       "points": 18.63,
@@ -440,9 +440,9 @@
       "last_score_time": "2026-05-07T17:42:18+00:00"
     },
     "GueSH": {
-      "points": 13.49,
-      "match_count": 1,
-      "last_score_time": "2026-05-07T17:42:18+00:00"
+      "points": 49.870000000000005,
+      "match_count": 2,
+      "last_score_time": "2026-05-07T20:46:51+00:00"
     },
     "M22Q5": {
       "points": 6.12,
@@ -508,10 +508,40 @@
       "points": 2.39,
       "match_count": 1,
       "last_score_time": "2026-05-07T17:52:43+00:00"
+    },
+    "NjLSy": {
+      "points": 15.13,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T20:46:51+00:00"
+    },
+    "LV9Rt": {
+      "points": 2.83,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T20:46:51+00:00"
+    },
+    "btBB5": {
+      "points": 2.51,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T20:46:51+00:00"
+    },
+    "LQRrq": {
+      "points": 2.34,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T20:46:51+00:00"
+    },
+    "tMr9t": {
+      "points": 0.66,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T20:46:51+00:00"
+    },
+    "27B2q": {
+      "points": 0.15,
+      "match_count": 1,
+      "last_score_time": "2026-05-07T20:46:51+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-06T23:30:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-05-06T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-07",
@@ -568,6 +598,27 @@
           "World 2": 1
         },
         "BTMNQ": {
+          "World 2": 1
+        },
+        "GueSH": {
+          "World 2": 1
+        },
+        "NjLSy": {
+          "World 2": 1
+        },
+        "LV9Rt": {
+          "World 2": 1
+        },
+        "btBB5": {
+          "World 2": 1
+        },
+        "LQRrq": {
+          "World 2": 1
+        },
+        "tMr9t": {
+          "World 2": 1
+        },
+        "27B2q": {
           "World 2": 1
         }
       }
