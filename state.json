@@ -544,16 +544,16 @@
   "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-05-06T23:30:00+00:00",
   "daily_quests": {
-    "date": "2026-05-07",
-    "created_at": "2026-05-07T01:20:06.430606+00:00",
+    "date": "2026-05-08",
+    "created_at": "2026-05-08T00:00:41.076006+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Arena",
+        "map": "Mountains 2",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Mountains 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -562,10 +562,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Black Arena",
+        "map": "Cliffs",
         "target": 6,
         "reward": 100,
-        "text": "Win 6 times on Black Arena",
+        "text": "Win 6 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -574,10 +574,10 @@
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -587,60 +587,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "8285t": {
-          "World 2": 1
-        },
-        "vt2Mr": {
-          "World 2": 1
-        },
-        "VNNMN": {
-          "World 2": 1
-        },
-        "BTMNQ": {
-          "World 2": 1
-        },
-        "GueSH": {
-          "World 2": 1
-        },
-        "NjLSy": {
-          "World 2": 1
-        },
-        "LV9Rt": {
-          "World 2": 1
-        },
-        "btBB5": {
-          "World 2": 1
-        },
-        "LQRrq": {
-          "World 2": 1
-        },
-        "tMr9t": {
-          "World 2": 1
-        },
-        "27B2q": {
-          "World 2": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-06",
+    "date": "2026-05-07",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on White Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 6 times on Black Arena",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
