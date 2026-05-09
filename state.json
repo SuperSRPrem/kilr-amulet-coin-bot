@@ -349,7 +349,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-05-08T15:54:44+00:00",
+  "last_seen_time": "2026-05-08T23:37:15+00:00",
   "current_scores": {
     "tvM7L": {
       "points": 17.51,
@@ -520,22 +520,77 @@
       "points": 0.53,
       "match_count": 1,
       "last_score_time": "2026-05-08T15:54:44+00:00"
+    },
+    "bvVb5": {
+      "points": 8.93,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "mvL9r": {
+      "points": 5.76,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "BrVn8": {
+      "points": 2.65,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "m8QnM": {
+      "points": 2.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "us_OK": {
+      "points": 1.63,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "R29r9": {
+      "points": 1.55,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "LQbBR": {
+      "points": 1.35,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "u3aCb": {
+      "points": 1.28,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "BL7r7": {
+      "points": 0.68,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "5LLqt": {
+      "points": 0.65,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
+    },
+    "QBb7r": {
+      "points": 0.53,
+      "match_count": 1,
+      "last_score_time": "2026-05-08T23:37:15+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-08T11:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-05-08T11:00:00+00:00",
   "daily_quests": {
-    "date": "2026-05-08",
-    "created_at": "2026-05-08T00:00:41.076006+00:00",
+    "date": "2026-05-09",
+    "created_at": "2026-05-09T00:02:53.470380+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 2",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -544,10 +599,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Pond",
         "target": 6,
         "reward": 100,
-        "text": "Win 6 times on Cliffs",
+        "text": "Win 6 times on Pond",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -573,22 +628,22 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Mountains 2",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Black Arena",
+        "text": "Win 6 times on Cliffs",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
