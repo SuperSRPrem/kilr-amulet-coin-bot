@@ -363,7 +363,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-05-10T13:27:37+00:00",
+  "last_seen_time": "2026-05-10T14:57:45+00:00",
   "current_scores": {
     "9MLt9": {
       "points": 20.26,
@@ -599,10 +599,20 @@
       "points": 0.02,
       "match_count": 1,
       "last_score_time": "2026-05-10T13:27:37+00:00"
+    },
+    "RmTq2": {
+      "points": 47.27,
+      "match_count": 1,
+      "last_score_time": "2026-05-10T14:57:45+00:00"
+    },
+    "XjONh": {
+      "points": 1.73,
+      "match_count": 1,
+      "last_score_time": "2026-05-10T14:57:45+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-10T01:30:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-05-10T01:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-10",
