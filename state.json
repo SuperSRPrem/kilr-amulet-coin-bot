@@ -363,10 +363,36 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-05-09T23:45:08+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-10T06:53:30+00:00",
+  "current_scores": {
+    "9MLt9": {
+      "points": 20.26,
+      "match_count": 1,
+      "last_score_time": "2026-05-10T06:53:30+00:00"
+    },
+    "bTv72": {
+      "points": 2.4,
+      "match_count": 1,
+      "last_score_time": "2026-05-10T06:53:30+00:00"
+    },
+    "BrVrv": {
+      "points": 2.19,
+      "match_count": 1,
+      "last_score_time": "2026-05-10T06:53:30+00:00"
+    },
+    "VqBvV": {
+      "points": 1.74,
+      "match_count": 1,
+      "last_score_time": "2026-05-10T06:53:30+00:00"
+    },
+    "bBB2M": {
+      "points": 1.42,
+      "match_count": 1,
+      "last_score_time": "2026-05-10T06:53:30+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-10T01:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-05-10T01:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-10",
@@ -412,7 +438,23 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "9MLt9": {
+          "World 1": 1
+        },
+        "bTv72": {
+          "World 1": 1
+        },
+        "BrVrv": {
+          "World 1": 1
+        },
+        "VqBvV": {
+          "World 1": 1
+        },
+        "bBB2M": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
