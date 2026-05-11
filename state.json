@@ -363,7 +363,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-05-10T16:18:36+00:00",
+  "last_seen_time": "2026-05-11T01:19:38+00:00",
   "current_scores": {
     "9MLt9": {
       "points": 20.26,
@@ -779,22 +779,32 @@
       "points": 0.03,
       "match_count": 1,
       "last_score_time": "2026-05-10T16:18:36+00:00"
+    },
+    "YMj9v": {
+      "points": 10.53,
+      "match_count": 1,
+      "last_score_time": "2026-05-11T01:19:38+00:00"
+    },
+    "bQLVn": {
+      "points": 5.47,
+      "match_count": 1,
+      "last_score_time": "2026-05-11T01:19:38+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-10T01:30:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-05-10T01:30:00+00:00",
   "daily_quests": {
-    "date": "2026-05-10",
-    "created_at": "2026-05-10T04:06:44.595607+00:00",
+    "date": "2026-05-11",
+    "created_at": "2026-05-11T01:28:40.717683+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Arena",
+        "map": "Island",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Island",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -803,10 +813,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Desert",
         "target": 6,
         "reward": 100,
-        "text": "Win 6 times on Cliffs",
+        "text": "Win 6 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -814,11 +824,17 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
-        "target": 6,
+        "kind": "map_set",
+        "maps": [
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
+        ],
+        "target": 5,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -829,35 +845,26 @@
       "easy": {},
       "medium": {},
       "hard": {
-        "9MLt9": {
-          "World 1": 1
+        "YMj9v": {
+          "Mare Nostrum": 1
         },
-        "bTv72": {
-          "World 1": 1
-        },
-        "BrVrv": {
-          "World 1": 1
-        },
-        "VqBvV": {
-          "World 1": 1
-        },
-        "bBB2M": {
-          "World 1": 1
+        "bQLVn": {
+          "Mare Nostrum": 1
         }
       }
     }
   },
   "last_quest_day": {
-    "date": "2026-05-09",
+    "date": "2026-05-10",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on White Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Pond",
+        "text": "Win 6 times on Cliffs",
         "reward": 100,
         "done_by": null,
         "done_at": null
