@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-05-12T07:00:00+00:00",
-  "last_event_time": "2026-05-11T17:30:00+00:00",
+  "next_event_time": "2026-05-13T16:30:00+00:00",
+  "last_event_time": "2026-05-12T07:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -368,214 +368,31 @@
       "winner_username": "RmTq2",
       "winner_points": 62.14,
       "eligible_match_count": 13
+    },
+    {
+      "event_time": "2026-05-12T07:00:00+00:00",
+      "cycle_started_at": "2026-05-11T17:30:00+00:00",
+      "winner_username": "vt2Mr",
+      "winner_points": 29.94,
+      "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-05-11T20:14:14+00:00",
+  "last_seen_time": "2026-05-12T07:54:54+00:00",
   "current_scores": {
-    "vt2Mr": {
-      "points": 29.940000000000005,
-      "match_count": 3,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
-    },
-    "2z1Fm": {
-      "points": 8.03,
+    "Oyf9y": {
+      "points": 21.7,
       "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
+      "last_score_time": "2026-05-12T07:54:54+00:00"
     },
-    "b98B7": {
-      "points": 7.53,
+    "Z2Yfi": {
+      "points": 12.3,
       "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "RR2VB": {
-      "points": 6.18,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "9nrL5": {
-      "points": 5.18,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "tT2rn": {
-      "points": 4.2,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "Q8Nvr": {
-      "points": 3.04,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "M8RnB": {
-      "points": 2.85,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "577Rq": {
-      "points": 1.39,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "nbnvN": {
-      "points": 1.36,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "5rqT9": {
-      "points": 1.23,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "LV5MT": {
-      "points": 1.17,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "MhM3G": {
-      "points": 1.12,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "7Btmt": {
-      "points": 0.93,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "r5n8T": {
-      "points": 0.92,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "TQmNq": {
-      "points": 0.71,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "NN8Nv": {
-      "points": 0.61,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "BB78M": {
-      "points": 0.5,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T17:56:39+00:00"
-    },
-    "0Rubw": {
-      "points": 14.87,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "L5r5L": {
-      "points": 8.15,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "bN8NM": {
-      "points": 6.97,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "N-wfO": {
-      "points": 6.11,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "sDpeG": {
-      "points": 5.61,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "7QBQB": {
-      "points": 4.54,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "Rt7vQ": {
-      "points": 4.2,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "gXFTD": {
-      "points": 3.72,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "QLYWT": {
-      "points": 3.18,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "nr59m": {
-      "points": 2.01,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "3vPSF": {
-      "points": 1.15,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "TM7t8": {
-      "points": 1.1,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "NLTb2": {
-      "points": 0.74,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "VvFYC": {
-      "points": 0.0,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T18:09:31+00:00"
-    },
-    "7Qprj": {
-      "points": 15.42,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
-    },
-    "xxjx5": {
-      "points": 8.76,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
-    },
-    "nq5V8": {
-      "points": 7.66,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
-    },
-    "NmbRB": {
-      "points": 5.07,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
-    },
-    "-S3X3": {
-      "points": 4.19,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
-    },
-    "8r5Nq": {
-      "points": 3.6,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
-    },
-    "RvvtN": {
-      "points": 1.6,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
-    },
-    "RVTMm": {
-      "points": 1.45,
-      "match_count": 1,
-      "last_score_time": "2026-05-11T20:14:14+00:00"
+      "last_score_time": "2026-05-12T07:54:54+00:00"
     }
   },
-  "current_cycle_started_at": "2026-05-11T17:30:00+00:00",
-  "current_cycle_match_count": 3,
-  "last_announced_event_time": "2026-05-11T17:30:00+00:00",
+  "current_cycle_started_at": "2026-05-12T07:00:00+00:00",
+  "current_cycle_match_count": 1,
+  "last_announced_event_time": "2026-05-12T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-12",
     "created_at": "2026-05-12T01:17:49.446849+00:00",
