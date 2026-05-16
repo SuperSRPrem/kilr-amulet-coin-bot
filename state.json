@@ -398,12 +398,12 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-05-16T21:13:29+00:00",
+  "last_seen_time": "2026-05-16T23:20:36+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 47.989999999999995,
-      "match_count": 2,
-      "last_score_time": "2026-05-16T21:13:29+00:00"
+      "points": 74.88,
+      "match_count": 4,
+      "last_score_time": "2026-05-16T23:20:36+00:00"
     },
     "1IL0Q": {
       "points": 11.73,
@@ -489,10 +489,30 @@
       "points": 0.77,
       "match_count": 1,
       "last_score_time": "2026-05-16T21:13:29+00:00"
+    },
+    "vmvBT": {
+      "points": 16.76,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T23:20:36+00:00"
+    },
+    "2NTbb": {
+      "points": 6.22,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T23:20:36+00:00"
+    },
+    "LNQm5": {
+      "points": 0.71,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T23:20:36+00:00"
+    },
+    "V95LB": {
+      "points": 0.43,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T23:20:36+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-16T19:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-05-16T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-16",
@@ -545,6 +565,21 @@
           "Middle East": 1
         },
         "v7nvr": {
+          "Middle East": 1
+        },
+        "vmvBT": {
+          "Middle East": 1
+        },
+        "Z2Yfi": {
+          "Middle East": 1
+        },
+        "2NTbb": {
+          "Middle East": 1
+        },
+        "LNQm5": {
+          "Middle East": 1
+        },
+        "V95LB": {
           "Middle East": 1
         }
       },
