@@ -391,7 +391,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-05-16T10:38:30+00:00",
+  "last_seen_time": "2026-05-16T11:57:36+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 218.31,
@@ -619,18 +619,63 @@
       "last_score_time": "2026-05-16T09:12:46+00:00"
     },
     "VNNMN": {
-      "points": 55.87,
-      "match_count": 1,
-      "last_score_time": "2026-05-16T10:38:30+00:00"
+      "points": 84.86,
+      "match_count": 2,
+      "last_score_time": "2026-05-16T11:49:18+00:00"
     },
     "uR-ud": {
       "points": 3.13,
       "match_count": 1,
       "last_score_time": "2026-05-16T10:38:30+00:00"
+    },
+    "3vhj6": {
+      "points": 14.4,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:49:18+00:00"
+    },
+    "9b7b8": {
+      "points": 7.77,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:49:18+00:00"
+    },
+    "mtBbV": {
+      "points": 0.84,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:49:18+00:00"
+    },
+    "BNxHu": {
+      "points": 38.22,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:57:36+00:00"
+    },
+    "qvrmb": {
+      "points": 14.06,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:57:36+00:00"
+    },
+    "GzBlz": {
+      "points": 6.46,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:57:36+00:00"
+    },
+    "ta_zs": {
+      "points": 2.34,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:57:36+00:00"
+    },
+    "m27vT": {
+      "points": 1.51,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:57:36+00:00"
+    },
+    "NLvQ5": {
+      "points": 0.4,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T11:57:36+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-14T23:30:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-05-14T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-16",
@@ -676,7 +721,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "BNxHu": {
+          "World 2": 1
+        },
+        "qvrmb": {
+          "World 2": 1
+        },
+        "GzBlz": {
+          "World 2": 1
+        },
+        "ta_zs": {
+          "World 2": 1
+        },
+        "m27vT": {
+          "World 2": 1
+        },
+        "NLvQ5": {
+          "World 2": 1
+        }
+      }
     }
   },
   "last_quest_day": {
