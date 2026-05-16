@@ -391,12 +391,12 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-05-16T09:12:46+00:00",
+  "last_seen_time": "2026-05-16T10:38:30+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 182.31,
-      "match_count": 3,
-      "last_score_time": "2026-05-16T09:12:46+00:00"
+      "points": 218.31,
+      "match_count": 4,
+      "last_score_time": "2026-05-16T10:33:43+00:00"
     },
     "QntLr": {
       "points": 23.32,
@@ -617,10 +617,20 @@
       "points": 0.23,
       "match_count": 1,
       "last_score_time": "2026-05-16T09:12:46+00:00"
+    },
+    "VNNMN": {
+      "points": 55.87,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T10:38:30+00:00"
+    },
+    "uR-ud": {
+      "points": 3.13,
+      "match_count": 1,
+      "last_score_time": "2026-05-16T10:38:30+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-14T23:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-05-14T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-16",
