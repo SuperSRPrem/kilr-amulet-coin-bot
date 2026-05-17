@@ -515,16 +515,16 @@
   "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-05-16T19:30:00+00:00",
   "daily_quests": {
-    "date": "2026-05-16",
-    "created_at": "2026-05-16T01:17:20.993516+00:00",
+    "date": "2026-05-17",
+    "created_at": "2026-05-17T04:10:00.737894+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "White Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -533,10 +533,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Middle East",
-        "target": 4,
+        "map": "Desert",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Middle East",
+        "text": "Win 6 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -544,11 +544,10 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
-        "target": 6,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -557,98 +556,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "eIoJe": {
-          "Middle East": 1
-        },
-        "TMR57": {
-          "Middle East": 1
-        },
-        "v7nvr": {
-          "Middle East": 1
-        },
-        "vmvBT": {
-          "Middle East": 1
-        },
-        "Z2Yfi": {
-          "Middle East": 1
-        },
-        "2NTbb": {
-          "Middle East": 1
-        },
-        "LNQm5": {
-          "Middle East": 1
-        },
-        "V95LB": {
-          "Middle East": 1
-        }
-      },
-      "hard": {
-        "BNxHu": {
-          "World 2": 1
-        },
-        "qvrmb": {
-          "World 2": 1
-        },
-        "GzBlz": {
-          "World 2": 1
-        },
-        "ta_zs": {
-          "World 2": 1
-        },
-        "m27vT": {
-          "World 2": 1
-        },
-        "NLvQ5": {
-          "World 2": 1
-        },
-        "Qbr7V": {
-          "World 2": 1
-        },
-        "Z2Yfi": {
-          "World 2": 2
-        },
-        "MQbtb": {
-          "World 2": 1
-        },
-        "eIoJe": {
-          "World 2": 2
-        },
-        "5nRNt": {
-          "World 2": 1
-        },
-        "QTr2T": {
-          "World 2": 1
-        },
-        "BLn7r": {
-          "World 2": 1
-        },
-        "TBTN9": {
-          "World 2": 1
-        },
-        "9MnbQ": {
-          "World 2": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-15",
+    "date": "2026-05-16",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Scandinavia",
+        "text": "Win 4 times on Middle East",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
