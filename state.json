@@ -405,22 +405,73 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-05-17T14:02:38+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-18T04:19:40+00:00",
+  "current_scores": {
+    "QTr2T": {
+      "points": 13.530000000000001,
+      "match_count": 2,
+      "last_score_time": "2026-05-18T04:12:20+00:00"
+    },
+    "_tFM4": {
+      "points": 9.19,
+      "match_count": 3,
+      "last_score_time": "2026-05-18T04:19:40+00:00"
+    },
+    "YsRY1": {
+      "points": 10.0,
+      "match_count": 3,
+      "last_score_time": "2026-05-18T04:19:40+00:00"
+    },
+    "vt2Mr": {
+      "points": 20.66,
+      "match_count": 3,
+      "last_score_time": "2026-05-18T04:19:40+00:00"
+    },
+    "JxB8H": {
+      "points": 2.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-18T04:03:48+00:00"
+    },
+    "rTrTL": {
+      "points": 11.04,
+      "match_count": 2,
+      "last_score_time": "2026-05-18T04:19:40+00:00"
+    },
+    "tv999": {
+      "points": 18.259999999999998,
+      "match_count": 2,
+      "last_score_time": "2026-05-18T04:19:40+00:00"
+    },
+    "TzD0Q": {
+      "points": 2.04,
+      "match_count": 1,
+      "last_score_time": "2026-05-18T04:12:20+00:00"
+    },
+    "qQvbT": {
+      "points": 1.15,
+      "match_count": 1,
+      "last_score_time": "2026-05-18T04:12:20+00:00"
+    },
+    "55TtL": {
+      "points": 3.13,
+      "match_count": 1,
+      "last_score_time": "2026-05-18T04:19:40+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-17T22:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-05-17T22:00:00+00:00",
   "daily_quests": {
-    "date": "2026-05-17",
-    "created_at": "2026-05-17T04:10:00.737894+00:00",
+    "date": "2026-05-18",
+    "created_at": "2026-05-18T04:21:46.537401+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Arena",
+        "map": "White Plains",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -429,10 +480,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Desert",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on Desert",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -452,27 +503,52 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "vt2Mr": {
+          "Caucasia": 1
+        },
+        "rTrTL": {
+          "Caucasia": 1
+        },
+        "QTr2T": {
+          "Caucasia": 1
+        },
+        "YsRY1": {
+          "Caucasia": 1
+        },
+        "tv999": {
+          "Caucasia": 1
+        },
+        "_tFM4": {
+          "Caucasia": 1
+        },
+        "TzD0Q": {
+          "Caucasia": 1
+        },
+        "qQvbT": {
+          "Caucasia": 1
+        }
+      },
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on White Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Middle East",
+        "text": "Win 6 times on Desert",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
