@@ -412,7 +412,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-05-18T16:27:14+00:00",
+  "last_seen_time": "2026-05-19T03:59:49+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 42.17,
@@ -478,22 +478,37 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-05-18T16:27:14+00:00"
+    },
+    "YsRY1": {
+      "points": 8.7,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T03:59:49+00:00"
+    },
+    "_tFM4": {
+      "points": 6.63,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T03:59:49+00:00"
+    },
+    "T_P4Z": {
+      "points": 1.68,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T03:59:49+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-18T14:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-05-18T14:00:00+00:00",
   "daily_quests": {
-    "date": "2026-05-18",
-    "created_at": "2026-05-18T04:21:46.537401+00:00",
+    "date": "2026-05-19",
+    "created_at": "2026-05-19T04:17:51.053316+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -502,10 +517,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
+        "map": "World 2",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -513,10 +528,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -525,46 +548,21 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "vt2Mr": {
-          "Caucasia": 1
-        },
-        "rTrTL": {
-          "Caucasia": 1
-        },
-        "QTr2T": {
-          "Caucasia": 1
-        },
-        "YsRY1": {
-          "Caucasia": 1
-        },
-        "tv999": {
-          "Caucasia": 1
-        },
-        "_tFM4": {
-          "Caucasia": 1
-        },
-        "TzD0Q": {
-          "Caucasia": 1
-        },
-        "qQvbT": {
-          "Caucasia": 1
-        }
-      },
+      "medium": {},
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-17",
+    "date": "2026-05-18",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Desert",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
