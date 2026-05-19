@@ -419,7 +419,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-05-19T15:26:21+00:00",
+  "last_seen_time": "2026-05-19T18:00:38+00:00",
   "current_scores": {
     "qvbVq": {
       "points": 178.0,
@@ -475,10 +475,75 @@
       "points": 0.95,
       "match_count": 1,
       "last_score_time": "2026-05-19T15:26:21+00:00"
+    },
+    "Z2Yfi": {
+      "points": 28.51,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "Lg3w-": {
+      "points": 7.91,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "rL98m": {
+      "points": 3.21,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "2VVb2": {
+      "points": 2.26,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "TQVMR": {
+      "points": 2.11,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "5b9LV": {
+      "points": 1.78,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "82VB9": {
+      "points": 1.63,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "Q7m5B": {
+      "points": 1.6,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "I7SzI": {
+      "points": 1.33,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "2trbq": {
+      "points": 0.66,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T17:56:02+00:00"
+    },
+    "eIoJe": {
+      "points": 192.56,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T18:00:38+00:00"
+    },
+    "55m55": {
+      "points": 25.44,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T18:00:38+00:00"
+    },
+    "7vb8r": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-19T18:00:38+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-19T09:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-05-19T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-19",
@@ -531,7 +596,17 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "eIoJe": {
+          "Europe": 1
+        },
+        "55m55": {
+          "Europe": 1
+        },
+        "7vb8r": {
+          "Europe": 1
+        }
+      }
     }
   },
   "last_quest_day": {
