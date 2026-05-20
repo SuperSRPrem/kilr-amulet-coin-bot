@@ -419,7 +419,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-05-19T21:51:22+00:00",
+  "last_seen_time": "2026-05-20T13:08:16+00:00",
   "current_scores": {
     "qvbVq": {
       "points": 178.0,
@@ -625,10 +625,45 @@
       "points": 0.74,
       "match_count": 1,
       "last_score_time": "2026-05-19T21:51:22+00:00"
+    },
+    "BjxRv": {
+      "points": 21.05,
+      "match_count": 1,
+      "last_score_time": "2026-05-20T13:08:16+00:00"
+    },
+    "1DPmZ": {
+      "points": 11.29,
+      "match_count": 1,
+      "last_score_time": "2026-05-20T13:08:16+00:00"
+    },
+    "tv999": {
+      "points": 7.9,
+      "match_count": 1,
+      "last_score_time": "2026-05-20T13:08:16+00:00"
+    },
+    "YsRY1": {
+      "points": 6.49,
+      "match_count": 1,
+      "last_score_time": "2026-05-20T13:08:16+00:00"
+    },
+    "nttmr": {
+      "points": 4.85,
+      "match_count": 1,
+      "last_score_time": "2026-05-20T13:08:16+00:00"
+    },
+    "mr2mr": {
+      "points": 4.42,
+      "match_count": 1,
+      "last_score_time": "2026-05-20T13:08:16+00:00"
+    },
+    "TRV7r": {
+      "points": 3.99,
+      "match_count": 1,
+      "last_score_time": "2026-05-20T13:08:16+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-19T09:00:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-05-19T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-20",
@@ -681,7 +716,29 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "BjxRv": {
+          "Asia": 1
+        },
+        "1DPmZ": {
+          "Asia": 1
+        },
+        "tv999": {
+          "Asia": 1
+        },
+        "YsRY1": {
+          "Asia": 1
+        },
+        "nttmr": {
+          "Asia": 1
+        },
+        "mr2mr": {
+          "Asia": 1
+        },
+        "TRV7r": {
+          "Asia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
