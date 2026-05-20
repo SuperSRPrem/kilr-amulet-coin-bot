@@ -631,16 +631,16 @@
   "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-05-19T09:00:00+00:00",
   "daily_quests": {
-    "date": "2026-05-19",
-    "created_at": "2026-05-19T04:17:51.053316+00:00",
+    "date": "2026-05-20",
+    "created_at": "2026-05-20T01:31:48.445032+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Mountains 1",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Mountains 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -681,63 +681,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "eIoJe": {
-          "Europe": 1
-        },
-        "55m55": {
-          "Europe": 1
-        },
-        "7vb8r": {
-          "Europe": 1
-        },
-        "BvtmT": {
-          "Africa": 1
-        },
-        "vNnqN": {
-          "Africa": 1
-        },
-        "RBqN2": {
-          "Africa": 1
-        },
-        "Bv7Bt": {
-          "Africa": 1
-        },
-        "Lnv8m": {
-          "Africa": 1
-        },
-        "qVb85": {
-          "Africa": 1
-        },
-        "kI4Qb": {
-          "Africa": 1
-        },
-        "qm5TM": {
-          "Africa": 1
-        },
-        "vNr5q": {
-          "Africa": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-18",
+    "date": "2026-05-19",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
