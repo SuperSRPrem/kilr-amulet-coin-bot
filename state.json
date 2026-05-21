@@ -426,22 +426,33 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-05-20T16:20:32+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-21T04:21:18+00:00",
+  "current_scores": {
+    "nVnvM": {
+      "points": 9.58,
+      "match_count": 1,
+      "last_score_time": "2026-05-21T04:21:18+00:00"
+    },
+    "BRrMn": {
+      "points": 8.42,
+      "match_count": 1,
+      "last_score_time": "2026-05-21T04:21:18+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-20T16:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-05-20T16:30:00+00:00",
   "daily_quests": {
-    "date": "2026-05-20",
-    "created_at": "2026-05-20T01:31:48.445032+00:00",
+    "date": "2026-05-21",
+    "created_at": "2026-05-21T04:26:31.436156+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 1",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -450,10 +461,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 3,
+        "map": "Asia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 4 times on Asia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -482,42 +493,14 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "BjxRv": {
-          "Asia": 1
-        },
-        "1DPmZ": {
-          "Asia": 1
-        },
-        "tv999": {
-          "Asia": 1
-        },
-        "YsRY1": {
-          "Asia": 1
-        },
-        "nttmr": {
-          "Asia": 1
-        },
-        "mr2mr": {
-          "Asia": 1
-        },
-        "TRV7r": {
-          "Asia": 1
-        },
-        "Z2Yfi": {
-          "Africa": 1
-        },
-        "MBMvv": {
-          "Africa": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-19",
+    "date": "2026-05-20",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Mountains 1",
         "reward": 50,
         "done_by": null,
         "done_at": null
