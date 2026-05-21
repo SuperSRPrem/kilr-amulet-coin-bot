@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-05-21T10:00:00+00:00",
-  "last_event_time": "2026-05-20T16:30:00+00:00",
+  "next_event_time": "2026-05-22T16:30:00+00:00",
+  "last_event_time": "2026-05-21T10:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -424,54 +424,31 @@
       "winner_username": "Z2Yfi",
       "winner_points": 269.73,
       "eligible_match_count": 9
+    },
+    {
+      "event_time": "2026-05-21T10:00:00+00:00",
+      "cycle_started_at": "2026-05-20T16:30:00+00:00",
+      "winner_username": "Z2Yfi",
+      "winner_points": 18.62,
+      "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-05-21T07:51:39+00:00",
+  "last_seen_time": "2026-05-21T11:45:04+00:00",
   "current_scores": {
-    "nVnvM": {
-      "points": 9.58,
+    "nttmr": {
+      "points": 45.01,
       "match_count": 1,
-      "last_score_time": "2026-05-21T04:21:18+00:00"
+      "last_score_time": "2026-05-21T11:45:04+00:00"
     },
-    "BRrMn": {
-      "points": 8.42,
+    "TR5rL": {
+      "points": 0.99,
       "match_count": 1,
-      "last_score_time": "2026-05-21T04:21:18+00:00"
-    },
-    "Z2Yfi": {
-      "points": 18.62,
-      "match_count": 1,
-      "last_score_time": "2026-05-21T07:51:39+00:00"
-    },
-    "bb8b5": {
-      "points": 17.98,
-      "match_count": 1,
-      "last_score_time": "2026-05-21T07:51:39+00:00"
-    },
-    "PZcE0": {
-      "points": 4.94,
-      "match_count": 1,
-      "last_score_time": "2026-05-21T07:51:39+00:00"
-    },
-    "TQ89q": {
-      "points": 4.66,
-      "match_count": 1,
-      "last_score_time": "2026-05-21T07:51:39+00:00"
-    },
-    "v78tn": {
-      "points": 3.92,
-      "match_count": 1,
-      "last_score_time": "2026-05-21T07:51:39+00:00"
-    },
-    "LR8NM": {
-      "points": 0.88,
-      "match_count": 1,
-      "last_score_time": "2026-05-21T07:51:39+00:00"
+      "last_score_time": "2026-05-21T11:45:04+00:00"
     }
   },
-  "current_cycle_started_at": "2026-05-20T16:30:00+00:00",
-  "current_cycle_match_count": 2,
-  "last_announced_event_time": "2026-05-20T16:30:00+00:00",
+  "current_cycle_started_at": "2026-05-21T10:00:00+00:00",
+  "current_cycle_match_count": 1,
+  "last_announced_event_time": "2026-05-21T10:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-21",
     "created_at": "2026-05-21T04:26:31.436156+00:00",
