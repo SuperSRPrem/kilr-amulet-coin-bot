@@ -433,7 +433,7 @@
       "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-05-22T07:34:42+00:00",
+  "last_seen_time": "2026-05-22T10:53:17+00:00",
   "current_scores": {
     "nttmr": {
       "points": 45.01,
@@ -449,10 +449,20 @@
       "points": 242.0,
       "match_count": 1,
       "last_score_time": "2026-05-22T07:34:42+00:00"
+    },
+    "R8888": {
+      "points": 199.93,
+      "match_count": 1,
+      "last_score_time": "2026-05-22T10:53:17+00:00"
+    },
+    "m7nbQ": {
+      "points": 0.07,
+      "match_count": 1,
+      "last_score_time": "2026-05-22T10:53:17+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-21T10:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-05-21T10:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-22",
@@ -499,6 +509,12 @@
       "medium": {},
       "hard": {
         "Z2Yfi": {
+          "Contest": 1
+        },
+        "R8888": {
+          "Contest": 1
+        },
+        "m7nbQ": {
           "Contest": 1
         }
       }
