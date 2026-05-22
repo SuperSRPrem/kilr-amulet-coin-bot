@@ -433,7 +433,7 @@
       "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-05-21T11:45:04+00:00",
+  "last_seen_time": "2026-05-22T07:34:42+00:00",
   "current_scores": {
     "nttmr": {
       "points": 45.01,
@@ -444,10 +444,15 @@
       "points": 0.99,
       "match_count": 1,
       "last_score_time": "2026-05-21T11:45:04+00:00"
+    },
+    "Z2Yfi": {
+      "points": 242.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-22T07:34:42+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-21T10:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-05-21T10:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-22",
@@ -492,7 +497,11 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "Z2Yfi": {
+          "Contest": 1
+        }
+      }
     }
   },
   "last_quest_day": {
