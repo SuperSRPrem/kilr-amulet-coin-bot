@@ -447,7 +447,7 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-05-23T18:16:36+00:00",
+  "last_seen_time": "2026-05-24T09:48:44+00:00",
   "current_scores": {
     "b2MQt": {
       "points": 7.22,
@@ -456,8 +456,8 @@
     },
     "Z2Yfi": {
       "points": 19.41,
-      "match_count": 3,
-      "last_score_time": "2026-05-23T18:16:36+00:00"
+      "match_count": 4,
+      "last_score_time": "2026-05-24T09:48:44+00:00"
     },
     "BNxHu": {
       "points": 5.6,
@@ -688,10 +688,60 @@
       "points": 2.33,
       "match_count": 1,
       "last_score_time": "2026-05-23T18:16:36+00:00"
+    },
+    "Wi5gQ": {
+      "points": 28.35,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:43:09+00:00"
+    },
+    "hrBU0": {
+      "points": 7.23,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:43:09+00:00"
+    },
+    "2BNbB": {
+      "points": 6.06,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:43:09+00:00"
+    },
+    "la7F7": {
+      "points": 2.2,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:43:09+00:00"
+    },
+    "8NLvT": {
+      "points": 2.02,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:43:09+00:00"
+    },
+    "TLbT8": {
+      "points": 0.15,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:43:09+00:00"
+    },
+    "QTr2T": {
+      "points": 27.58,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:48:44+00:00"
+    },
+    "G_pnK": {
+      "points": 7.46,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:48:44+00:00"
+    },
+    "5ttTQ": {
+      "points": 3.72,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:48:44+00:00"
+    },
+    "mbbqM": {
+      "points": 3.24,
+      "match_count": 1,
+      "last_score_time": "2026-05-24T09:48:44+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-23T07:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-05-23T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-24",
