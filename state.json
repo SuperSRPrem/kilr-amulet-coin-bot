@@ -461,7 +461,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-05-25T16:20:47+00:00",
+  "last_seen_time": "2026-05-25T23:13:58+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 34.95,
@@ -489,9 +489,9 @@
       "last_score_time": "2026-05-25T16:20:47+00:00"
     },
     "QTr2T": {
-      "points": 1.05,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T09:17:37+00:00"
+      "points": 2.8,
+      "match_count": 2,
+      "last_score_time": "2026-05-25T23:13:58+00:00"
     },
     "tv999": {
       "points": 33.58,
@@ -682,10 +682,30 @@
       "points": 1.04,
       "match_count": 1,
       "last_score_time": "2026-05-25T16:20:47+00:00"
+    },
+    "Vt725": {
+      "points": 16.15,
+      "match_count": 1,
+      "last_score_time": "2026-05-25T23:13:58+00:00"
+    },
+    "LtQ9Q": {
+      "points": 6.42,
+      "match_count": 1,
+      "last_score_time": "2026-05-25T23:13:58+00:00"
+    },
+    "7VNQV": {
+      "points": 2.61,
+      "match_count": 1,
+      "last_score_time": "2026-05-25T23:13:58+00:00"
+    },
+    "r9B27": {
+      "points": 2.07,
+      "match_count": 1,
+      "last_score_time": "2026-05-25T23:13:58+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-25T05:30:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-05-25T05:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-25",
@@ -788,6 +808,21 @@
         },
         "2m5RL": {
           "Mare Nostrum": 1
+        },
+        "Vt725": {
+          "Caucasia": 1
+        },
+        "LtQ9Q": {
+          "Caucasia": 1
+        },
+        "7VNQV": {
+          "Caucasia": 1
+        },
+        "r9B27": {
+          "Caucasia": 1
+        },
+        "QTr2T": {
+          "Caucasia": 1
         }
       }
     }
