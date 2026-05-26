@@ -468,10 +468,66 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-05-25T23:13:58+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-26T05:38:19+00:00",
+  "current_scores": {
+    "Ogehz": {
+      "points": 56.96,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "Oyf9y": {
+      "points": 38.16,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "W0Pi_": {
+      "points": 12.07,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "tv999": {
+      "points": 7.37,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "VRntt": {
+      "points": 6.72,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "2vnv2": {
+      "points": 5.92,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "m7V7V": {
+      "points": 4.9,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "nMMMR": {
+      "points": 4.24,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "BbN5q": {
+      "points": 3.54,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "phwRR": {
+      "points": 3.1,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    },
+    "NMNNN": {
+      "points": 1.02,
+      "match_count": 1,
+      "last_score_time": "2026-05-26T05:38:19+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-26T01:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-05-26T01:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-26",
@@ -516,7 +572,41 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "Ogehz": {
+          "Caucasia": 1
+        },
+        "Oyf9y": {
+          "Caucasia": 1
+        },
+        "W0Pi_": {
+          "Caucasia": 1
+        },
+        "tv999": {
+          "Caucasia": 1
+        },
+        "VRntt": {
+          "Caucasia": 1
+        },
+        "2vnv2": {
+          "Caucasia": 1
+        },
+        "m7V7V": {
+          "Caucasia": 1
+        },
+        "nMMMR": {
+          "Caucasia": 1
+        },
+        "BbN5q": {
+          "Caucasia": 1
+        },
+        "phwRR": {
+          "Caucasia": 1
+        },
+        "NMNNN": {
+          "Caucasia": 1
+        }
+      },
       "hard": {}
     }
   },
