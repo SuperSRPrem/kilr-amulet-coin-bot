@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-05-26T01:00:00+00:00",
-  "last_event_time": "2026-05-25T05:30:00+00:00",
+  "next_event_time": "2026-05-27T10:00:00+00:00",
+  "last_event_time": "2026-05-26T01:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -459,265 +459,31 @@
       "winner_username": "eIoJe",
       "winner_points": 62.98,
       "eligible_match_count": 4
+    },
+    {
+      "event_time": "2026-05-26T01:00:00+00:00",
+      "cycle_started_at": "2026-05-25T05:30:00+00:00",
+      "winner_username": "Z2Yfi",
+      "winner_points": 34.95,
+      "eligible_match_count": 6
     }
   ],
   "last_seen_time": "2026-05-25T23:13:58+00:00",
-  "current_scores": {
-    "Z2Yfi": {
-      "points": 34.95,
-      "match_count": 3,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "ntqR2": {
-      "points": 8.01,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T09:17:37+00:00"
-    },
-    "7BQt2": {
-      "points": 3.42,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T09:17:37+00:00"
-    },
-    "r2BNN": {
-      "points": 2.03,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T09:17:37+00:00"
-    },
-    "Wi5gQ": {
-      "points": 21.0,
-      "match_count": 4,
-      "last_score_time": "2026-05-25T16:20:47+00:00"
-    },
-    "QTr2T": {
-      "points": 2.8,
-      "match_count": 2,
-      "last_score_time": "2026-05-25T23:13:58+00:00"
-    },
-    "tv999": {
-      "points": 33.58,
-      "match_count": 2,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "NLQmV": {
-      "points": 8.0,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T13:08:08+00:00"
-    },
-    "nRBbQ": {
-      "points": 1.01,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T13:08:08+00:00"
-    },
-    "5nr8m": {
-      "points": 0.61,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T13:08:08+00:00"
-    },
-    "RTrmN": {
-      "points": 0.07,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T13:08:08+00:00"
-    },
-    "8tBQL": {
-      "points": 9.9,
-      "match_count": 3,
-      "last_score_time": "2026-05-25T16:20:47+00:00"
-    },
-    "tbb9N": {
-      "points": 4.14,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "N7LVb": {
-      "points": 3.94,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "vmbb5": {
-      "points": 3.74,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "eIoJe": {
-      "points": 8.71,
-      "match_count": 2,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "72VZF": {
-      "points": 2.46,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "5T9V7": {
-      "points": 2.13,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "qQV29": {
-      "points": 1.79,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "95TIV": {
-      "points": 1.52,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "T5BnQ": {
-      "points": 1.26,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "9Mtt7": {
-      "points": 0.68,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "VM9T2": {
-      "points": 0.63,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "rrLb8": {
-      "points": 0.46,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "mt2qM": {
-      "points": 0.16,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "2m5RL": {
-      "points": 0.0,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:02:54+00:00"
-    },
-    "0F7-Y": {
-      "points": 5.89,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "VTn5L": {
-      "points": 4.28,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "nTtmT": {
-      "points": 3.24,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "5NRBL": {
-      "points": 2.79,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "5RbBt": {
-      "points": 2.45,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "trB8Q": {
-      "points": 2.28,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "8b7Rv": {
-      "points": 1.96,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "mXhA1": {
-      "points": 1.59,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "8mQmN": {
-      "points": 1.58,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "v929V": {
-      "points": 1.52,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "5LTVb": {
-      "points": 1.51,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "m5NvR": {
-      "points": 1.32,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "m75rR": {
-      "points": 1.17,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "vLBnN": {
-      "points": 0.76,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:09:54+00:00"
-    },
-    "RBqN2": {
-      "points": 16.68,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:20:47+00:00"
-    },
-    "NbqLV": {
-      "points": 11.43,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:20:47+00:00"
-    },
-    "mnL8q": {
-      "points": 4.3,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:20:47+00:00"
-    },
-    "Tqrm5": {
-      "points": 1.04,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T16:20:47+00:00"
-    },
-    "Vt725": {
-      "points": 16.15,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T23:13:58+00:00"
-    },
-    "LtQ9Q": {
-      "points": 6.42,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T23:13:58+00:00"
-    },
-    "7VNQV": {
-      "points": 2.61,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T23:13:58+00:00"
-    },
-    "r9B27": {
-      "points": 2.07,
-      "match_count": 1,
-      "last_score_time": "2026-05-25T23:13:58+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-05-25T05:30:00+00:00",
-  "current_cycle_match_count": 6,
-  "last_announced_event_time": "2026-05-25T05:30:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-05-26T01:00:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-05-26T01:00:00+00:00",
   "daily_quests": {
-    "date": "2026-05-25",
-    "created_at": "2026-05-25T00:08:11.478764+00:00",
+    "date": "2026-05-26",
+    "created_at": "2026-05-26T01:26:37.121799+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -726,10 +492,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Black Arena",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on Black Arena",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -737,17 +503,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "map_wins",
+        "map": "World 2",
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -757,93 +517,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "Mare Nostrum": 1
-        },
-        "Wi5gQ": {
-          "Mare Nostrum": 1
-        },
-        "8tBQL": {
-          "Mare Nostrum": 1
-        },
-        "tbb9N": {
-          "Mare Nostrum": 1
-        },
-        "N7LVb": {
-          "Mare Nostrum": 1
-        },
-        "vmbb5": {
-          "Mare Nostrum": 1
-        },
-        "eIoJe": {
-          "Mare Nostrum": 1
-        },
-        "72VZF": {
-          "Mare Nostrum": 1
-        },
-        "5T9V7": {
-          "Mare Nostrum": 1
-        },
-        "qQV29": {
-          "Mare Nostrum": 1
-        },
-        "95TIV": {
-          "Mare Nostrum": 1
-        },
-        "T5BnQ": {
-          "Mare Nostrum": 1
-        },
-        "9Mtt7": {
-          "Mare Nostrum": 1
-        },
-        "VM9T2": {
-          "Mare Nostrum": 1
-        },
-        "rrLb8": {
-          "Mare Nostrum": 1
-        },
-        "mt2qM": {
-          "Mare Nostrum": 1
-        },
-        "2m5RL": {
-          "Mare Nostrum": 1
-        },
-        "Vt725": {
-          "Caucasia": 1
-        },
-        "LtQ9Q": {
-          "Caucasia": 1
-        },
-        "7VNQV": {
-          "Caucasia": 1
-        },
-        "r9B27": {
-          "Caucasia": 1
-        },
-        "QTr2T": {
-          "Caucasia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on Island",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Africa",
+        "text": "Win 6 times on Black Arena",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
