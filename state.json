@@ -482,10 +482,46 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-05-28T04:45:27+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-05-28T16:48:11+00:00",
+  "current_scores": {
+    "Z2Yfi": {
+      "points": 16.43,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T16:48:11+00:00"
+    },
+    "7RQmN": {
+      "points": 4.36,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T16:48:11+00:00"
+    },
+    "2RLqB": {
+      "points": 3.58,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T16:48:11+00:00"
+    },
+    "DLCcC": {
+      "points": 3.54,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T16:48:11+00:00"
+    },
+    "nB7tR": {
+      "points": 3.48,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T16:48:11+00:00"
+    },
+    "vLTRv": {
+      "points": 2.91,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T16:48:11+00:00"
+    },
+    "TcUwc": {
+      "points": 2.7,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T16:48:11+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-05-28T07:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-05-28T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-28",
@@ -538,7 +574,29 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "Z2Yfi": {
+          "Asia": 1
+        },
+        "7RQmN": {
+          "Asia": 1
+        },
+        "2RLqB": {
+          "Asia": 1
+        },
+        "DLCcC": {
+          "Asia": 1
+        },
+        "nB7tR": {
+          "Asia": 1
+        },
+        "vLTRv": {
+          "Asia": 1
+        },
+        "TcUwc": {
+          "Asia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
