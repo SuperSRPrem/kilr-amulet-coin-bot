@@ -482,7 +482,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-05-28T19:35:18+00:00",
+  "last_seen_time": "2026-05-28T23:46:31+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 16.43,
@@ -520,9 +520,9 @@
       "last_score_time": "2026-05-28T16:48:11+00:00"
     },
     "STJAm": {
-      "points": 34.05,
-      "match_count": 1,
-      "last_score_time": "2026-05-28T19:32:24+00:00"
+      "points": 50.82,
+      "match_count": 3,
+      "last_score_time": "2026-05-28T23:46:31+00:00"
     },
     "Br58Q": {
       "points": 2.86,
@@ -613,10 +613,30 @@
       "points": 4.1,
       "match_count": 1,
       "last_score_time": "2026-05-28T19:35:18+00:00"
+    },
+    "QBT2r": {
+      "points": 3.61,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T23:26:58+00:00"
+    },
+    "M2N97": {
+      "points": 8.93,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T23:46:31+00:00"
+    },
+    "t2NvQ": {
+      "points": 5.23,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T23:46:31+00:00"
+    },
+    "vm55V": {
+      "points": 1.46,
+      "match_count": 1,
+      "last_score_time": "2026-05-28T23:46:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-28T07:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-05-28T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-05-28",
@@ -690,6 +710,12 @@
         },
         "TcUwc": {
           "Asia": 1
+        },
+        "STJAm": {
+          "South America": 1
+        },
+        "QBT2r": {
+          "South America": 1
         }
       }
     }
