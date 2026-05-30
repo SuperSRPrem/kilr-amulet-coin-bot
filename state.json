@@ -596,16 +596,16 @@
   "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-05-29T00:00:00+00:00",
   "daily_quests": {
-    "date": "2026-05-29",
-    "created_at": "2026-05-29T04:23:03.891229+00:00",
+    "date": "2026-05-30",
+    "created_at": "2026-05-30T00:15:11.546231+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Black Arena",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -625,11 +625,10 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
-        "target": 6,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -643,22 +642,22 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Black Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Halo",
+        "text": "Win 6 times on Cliffs",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
