@@ -496,7 +496,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-05-30T15:11:57+00:00",
+  "last_seen_time": "2026-05-30T17:53:38+00:00",
   "current_scores": {
     "V55Lq": {
       "points": 122.0,
@@ -677,10 +677,15 @@
       "points": 18.48,
       "match_count": 1,
       "last_score_time": "2026-05-30T15:11:57+00:00"
+    },
+    "VNNMN": {
+      "points": 192.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T17:53:38+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-30T02:30:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-05-30T02:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-30",
@@ -727,6 +732,9 @@
       "medium": {},
       "hard": {
         "V55Lq": {
+          "Contest": 1
+        },
+        "VNNMN": {
           "Contest": 1
         }
       }
