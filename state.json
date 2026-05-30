@@ -496,7 +496,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-05-30T07:37:39+00:00",
+  "last_seen_time": "2026-05-30T13:48:12+00:00",
   "current_scores": {
     "V55Lq": {
       "points": 122.0,
@@ -530,8 +530,8 @@
     },
     "MQX1B": {
       "points": 14.57,
-      "match_count": 3,
-      "last_score_time": "2026-05-30T07:37:39+00:00"
+      "match_count": 4,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
     },
     "tM7v5": {
       "points": 0.1,
@@ -544,9 +544,9 @@
       "last_score_time": "2026-05-30T07:19:24+00:00"
     },
     "Z2Yfi": {
-      "points": 20.0,
-      "match_count": 2,
-      "last_score_time": "2026-05-30T07:37:39+00:00"
+      "points": 48.260000000000005,
+      "match_count": 3,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
     },
     "QtMbn": {
       "points": 8.93,
@@ -602,10 +602,60 @@
       "points": 1.18,
       "match_count": 1,
       "last_score_time": "2026-05-30T07:37:39+00:00"
+    },
+    "8mb5Q": {
+      "points": 9.86,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
+    },
+    "Wi5gQ": {
+      "points": 5.39,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
+    },
+    "tv999": {
+      "points": 4.72,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
+    },
+    "M9Rvb": {
+      "points": 3.17,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
+    },
+    "zbw95": {
+      "points": 2.13,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
+    },
+    "RQQtV": {
+      "points": 2.01,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
+    },
+    "bQtV5": {
+      "points": 0.46,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
+    },
+    "QBmMq": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:45:52+00:00"
+    },
+    "io-QY": {
+      "points": 74.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:48:12+00:00"
+    },
+    "vt2Mr": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-30T13:48:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-30T02:30:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-05-30T02:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-30",
