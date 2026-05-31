@@ -503,7 +503,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-05-31T18:30:58+00:00",
+  "last_seen_time": "2026-05-31T20:10:35+00:00",
   "current_scores": {
     "VBYi1": {
       "points": 113.6,
@@ -559,10 +559,15 @@
       "points": 0.4,
       "match_count": 1,
       "last_score_time": "2026-05-31T18:30:58+00:00"
+    },
+    "VNNMN": {
+      "points": 81.0,
+      "match_count": 2,
+      "last_score_time": "2026-05-31T20:10:35+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-31T14:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-05-31T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-31",
