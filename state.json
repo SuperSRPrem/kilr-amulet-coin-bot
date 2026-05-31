@@ -718,8 +718,8 @@
   "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-05-30T02:30:00+00:00",
   "daily_quests": {
-    "date": "2026-05-30",
-    "created_at": "2026-05-30T00:15:11.546231+00:00",
+    "date": "2026-05-31",
+    "created_at": "2026-05-31T00:08:18.468590+00:00",
     "quests": {
       "easy": {
         "level": "easy",
@@ -736,10 +736,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Cliffs",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on Cliffs",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -747,10 +747,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_wins",
+        "map": "World 2",
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -760,21 +761,14 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "V55Lq": {
-          "Contest": 1
-        },
-        "VNNMN": {
-          "Contest": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-29",
+    "date": "2026-05-30",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
@@ -786,7 +780,7 @@
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
