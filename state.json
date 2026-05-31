@@ -503,17 +503,17 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-05-31T17:00:39+00:00",
+  "last_seen_time": "2026-05-31T18:30:58+00:00",
   "current_scores": {
     "VBYi1": {
-      "points": 41.93,
-      "match_count": 1,
-      "last_score_time": "2026-05-31T17:00:39+00:00"
+      "points": 113.6,
+      "match_count": 2,
+      "last_score_time": "2026-05-31T18:25:38+00:00"
     },
     "MQX1B": {
-      "points": 4.21,
-      "match_count": 1,
-      "last_score_time": "2026-05-31T17:00:39+00:00"
+      "points": 5.53,
+      "match_count": 2,
+      "last_score_time": "2026-05-31T18:25:38+00:00"
     },
     "bQNTV": {
       "points": 2.86,
@@ -524,10 +524,45 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-05-31T17:00:39+00:00"
+    },
+    "MkrRG": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T18:25:38+00:00"
+    },
+    "Z2Yfi": {
+      "points": 60.83,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T18:30:58+00:00"
+    },
+    "rM8qN": {
+      "points": 13.37,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T18:30:58+00:00"
+    },
+    "cTcbW": {
+      "points": 4.66,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T18:30:58+00:00"
+    },
+    "79Qm9": {
+      "points": 1.56,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T18:30:58+00:00"
+    },
+    "Wi5gQ": {
+      "points": 1.17,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T18:30:58+00:00"
+    },
+    "F4Zg4": {
+      "points": 0.4,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T18:30:58+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-31T14:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-05-31T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-31",
@@ -577,7 +612,26 @@
           "Caucasia": 1
         }
       },
-      "hard": {}
+      "hard": {
+        "Z2Yfi": {
+          "World 2": 1
+        },
+        "rM8qN": {
+          "World 2": 1
+        },
+        "cTcbW": {
+          "World 2": 1
+        },
+        "79Qm9": {
+          "World 2": 1
+        },
+        "Wi5gQ": {
+          "World 2": 1
+        },
+        "F4Zg4": {
+          "World 2": 1
+        }
+      }
     }
   },
   "last_quest_day": {
