@@ -496,7 +496,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-05-30T19:39:21+00:00",
+  "last_seen_time": "2026-05-31T05:05:35+00:00",
   "current_scores": {
     "V55Lq": {
       "points": 122.0,
@@ -712,10 +712,15 @@
       "points": 51.9,
       "match_count": 1,
       "last_score_time": "2026-05-30T19:39:21+00:00"
+    },
+    "ttr72": {
+      "points": 20.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T05:05:35+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-30T02:30:00+00:00",
-  "current_cycle_match_count": 12,
+  "current_cycle_match_count": 13,
   "last_announced_event_time": "2026-05-30T02:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-31",
@@ -760,7 +765,11 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "ttr72": {
+          "Caucasia": 1
+        }
+      },
       "hard": {}
     }
   },
