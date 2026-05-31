@@ -503,7 +503,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-05-31T21:20:36+00:00",
+  "last_seen_time": "2026-05-31T23:03:47+00:00",
   "current_scores": {
     "VBYi1": {
       "points": 113.6,
@@ -561,9 +561,9 @@
       "last_score_time": "2026-05-31T18:30:58+00:00"
     },
     "VNNMN": {
-      "points": 128.81,
-      "match_count": 4,
-      "last_score_time": "2026-05-31T21:20:36+00:00"
+      "points": 155.88,
+      "match_count": 5,
+      "last_score_time": "2026-05-31T22:55:41+00:00"
     },
     "P7OI-": {
       "points": 11.24,
@@ -599,10 +599,70 @@
       "points": 0.06,
       "match_count": 1,
       "last_score_time": "2026-05-31T21:20:36+00:00"
+    },
+    "STJAm": {
+      "points": 38.08,
+      "match_count": 2,
+      "last_score_time": "2026-05-31T23:03:47+00:00"
+    },
+    "GtQRC": {
+      "points": 9.2,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T22:54:29+00:00"
+    },
+    "EPpg-": {
+      "points": 5.16,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T22:54:29+00:00"
+    },
+    "6ddbf": {
+      "points": 3.27,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T22:54:29+00:00"
+    },
+    "MpKiD": {
+      "points": 2.46,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T22:54:29+00:00"
+    },
+    "MmRVR": {
+      "points": 1.5,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T22:54:29+00:00"
+    },
+    "gGgrD": {
+      "points": 0.45,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T22:54:29+00:00"
+    },
+    "QB29n": {
+      "points": 5.93,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T22:55:41+00:00"
+    },
+    "bvbnn": {
+      "points": 4.45,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T23:03:47+00:00"
+    },
+    "nmMBQ": {
+      "points": 3.18,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T23:03:47+00:00"
+    },
+    "M61iD": {
+      "points": 3.0,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T23:03:47+00:00"
+    },
+    "sjE0z": {
+      "points": 2.24,
+      "match_count": 1,
+      "last_score_time": "2026-05-31T23:03:47+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-31T14:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-05-31T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-05-31",
@@ -629,8 +689,8 @@
         "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "VNNMN"
       },
       "hard": {
         "level": "hard",
@@ -652,7 +712,7 @@
           "Caucasia": 1
         },
         "VNNMN": {
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "P7OI-": {
           "Caucasia": 1
@@ -670,6 +730,9 @@
           "Caucasia": 1
         },
         "LtL75": {
+          "Caucasia": 1
+        },
+        "QB29n": {
           "Caucasia": 1
         }
       },
