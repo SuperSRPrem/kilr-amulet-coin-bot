@@ -503,7 +503,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-05-31T23:03:47+00:00",
+  "last_seen_time": "2026-06-01T06:51:44+00:00",
   "current_scores": {
     "VBYi1": {
       "points": 113.6,
@@ -531,9 +531,9 @@
       "last_score_time": "2026-05-31T18:25:38+00:00"
     },
     "Z2Yfi": {
-      "points": 60.83,
-      "match_count": 1,
-      "last_score_time": "2026-05-31T18:30:58+00:00"
+      "points": 69.75999999999999,
+      "match_count": 2,
+      "last_score_time": "2026-06-01T06:51:44+00:00"
     },
     "rM8qN": {
       "points": 13.37,
@@ -659,10 +659,20 @@
       "points": 2.24,
       "match_count": 1,
       "last_score_time": "2026-05-31T23:03:47+00:00"
+    },
+    "cJMJr": {
+      "points": 14.21,
+      "match_count": 1,
+      "last_score_time": "2026-06-01T06:51:44+00:00"
+    },
+    "99R9T": {
+      "points": 3.86,
+      "match_count": 1,
+      "last_score_time": "2026-06-01T06:51:44+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-31T14:30:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-05-31T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-01",
@@ -714,7 +724,17 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "cJMJr": {
+          "Middle East": 1
+        },
+        "Z2Yfi": {
+          "Middle East": 1
+        },
+        "99R9T": {
+          "Middle East": 1
+        }
+      }
     }
   },
   "last_quest_day": {
