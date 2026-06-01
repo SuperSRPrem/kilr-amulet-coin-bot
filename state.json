@@ -665,16 +665,16 @@
   "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-05-31T14:30:00+00:00",
   "daily_quests": {
-    "date": "2026-05-31",
-    "created_at": "2026-05-31T00:08:18.468590+00:00",
+    "date": "2026-06-01",
+    "created_at": "2026-06-01T01:40:52.078368+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Black Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -683,22 +683,28 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 3,
+        "map": "Island",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 6 times on Island",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "VNNMN"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
-        "target": 6,
+        "kind": "map_set",
+        "maps": [
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
+        ],
+        "target": 5,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -707,59 +713,12 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "ttr72": {
-          "Caucasia": 1
-        },
-        "VNNMN": {
-          "Caucasia": 2
-        },
-        "P7OI-": {
-          "Caucasia": 1
-        },
-        "HHmFP": {
-          "Caucasia": 1
-        },
-        "Wi5gQ": {
-          "Caucasia": 1
-        },
-        "MQX1B": {
-          "Caucasia": 1
-        },
-        "qW928": {
-          "Caucasia": 1
-        },
-        "LtL75": {
-          "Caucasia": 1
-        },
-        "QB29n": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "Z2Yfi": {
-          "World 2": 1
-        },
-        "rM8qN": {
-          "World 2": 1
-        },
-        "cTcbW": {
-          "World 2": 1
-        },
-        "79Qm9": {
-          "World 2": 1
-        },
-        "Wi5gQ": {
-          "World 2": 1
-        },
-        "F4Zg4": {
-          "World 2": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-05-30",
+    "date": "2026-05-31",
     "quests": {
       "easy": {
         "text": "Win 4 times on Swamp",
@@ -768,13 +727,13 @@
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Cliffs",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
