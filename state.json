@@ -503,7 +503,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-06-01T06:51:44+00:00",
+  "last_seen_time": "2026-06-01T22:20:51+00:00",
   "current_scores": {
     "VBYi1": {
       "points": 113.6,
@@ -669,10 +669,25 @@
       "points": 3.86,
       "match_count": 1,
       "last_score_time": "2026-06-01T06:51:44+00:00"
+    },
+    "TQbVL": {
+      "points": 17.41,
+      "match_count": 1,
+      "last_score_time": "2026-06-01T22:20:51+00:00"
+    },
+    "oysKz": {
+      "points": 8.12,
+      "match_count": 1,
+      "last_score_time": "2026-06-01T22:20:51+00:00"
+    },
+    "2z1Fm": {
+      "points": 2.48,
+      "match_count": 1,
+      "last_score_time": "2026-06-01T22:20:51+00:00"
     }
   },
   "current_cycle_started_at": "2026-05-31T14:30:00+00:00",
-  "current_cycle_match_count": 11,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-05-31T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-01",
@@ -733,6 +748,15 @@
         },
         "99R9T": {
           "Middle East": 1
+        },
+        "TQbVL": {
+          "British Isles": 1
+        },
+        "oysKz": {
+          "British Isles": 1
+        },
+        "2z1Fm": {
+          "British Isles": 1
         }
       }
     }
