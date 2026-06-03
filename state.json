@@ -524,10 +524,26 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-06-03T12:20:07+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-06-03T22:58:52+00:00",
+  "current_scores": {
+    "STJAm": {
+      "points": 30.54,
+      "match_count": 2,
+      "last_score_time": "2026-06-03T22:58:52+00:00"
+    },
+    "w-dgB": {
+      "points": 3.24,
+      "match_count": 1,
+      "last_score_time": "2026-06-03T22:58:52+00:00"
+    },
+    "qGJFc": {
+      "points": 3.22,
+      "match_count": 1,
+      "last_score_time": "2026-06-03T22:58:52+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-06-03T12:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-06-03T12:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-03",
