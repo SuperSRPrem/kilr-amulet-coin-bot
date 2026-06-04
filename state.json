@@ -524,7 +524,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-06-04T14:05:46+00:00",
+  "last_seen_time": "2026-06-04T17:28:12+00:00",
   "current_scores": {
     "STJAm": {
       "points": 30.54,
@@ -657,18 +657,63 @@
       "last_score_time": "2026-06-04T14:02:07+00:00"
     },
     "BjxRv": {
-      "points": 44.92,
-      "match_count": 1,
-      "last_score_time": "2026-06-04T14:05:46+00:00"
+      "points": 59.49,
+      "match_count": 2,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
     },
     "mbVqr": {
       "points": 3.08,
       "match_count": 1,
       "last_score_time": "2026-06-04T14:05:46+00:00"
+    },
+    "BmmBm": {
+      "points": 9.64,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
+    },
+    "1OPNc": {
+      "points": 8.58,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
+    },
+    "RQtQb": {
+      "points": 8.15,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
+    },
+    "XfyRu": {
+      "points": 4.31,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
+    },
+    "tcNYy": {
+      "points": 3.46,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
+    },
+    "QTyvd": {
+      "points": 2.37,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
+    },
+    "qBn7v": {
+      "points": 2.14,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
+    },
+    "T978L": {
+      "points": 1.55,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
+    },
+    "nmTtL": {
+      "points": 1.23,
+      "match_count": 1,
+      "last_score_time": "2026-06-04T17:28:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-03T12:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-06-03T12:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-04",
@@ -713,8 +758,8 @@
         "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "BjxRv"
       }
     },
     "data": {
@@ -731,10 +776,38 @@
           "Caucasia": 1
         },
         "BjxRv": {
-          "Mare Nostrum": 1
+          "Mare Nostrum": 1,
+          "Caucasia": 1
         },
         "mbVqr": {
           "Mare Nostrum": 1
+        },
+        "BmmBm": {
+          "Caucasia": 1
+        },
+        "1OPNc": {
+          "Caucasia": 1
+        },
+        "RQtQb": {
+          "Caucasia": 1
+        },
+        "XfyRu": {
+          "Caucasia": 1
+        },
+        "tcNYy": {
+          "Caucasia": 1
+        },
+        "QTyvd": {
+          "Caucasia": 1
+        },
+        "qBn7v": {
+          "Caucasia": 1
+        },
+        "T978L": {
+          "Caucasia": 1
+        },
+        "nmTtL": {
+          "Caucasia": 1
         }
       }
     }
