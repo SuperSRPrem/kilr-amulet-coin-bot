@@ -545,7 +545,7 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-06-06T15:27:32+00:00",
+  "last_seen_time": "2026-06-06T21:25:41+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 188.13000000000002,
@@ -746,10 +746,40 @@
       "points": 1.86,
       "match_count": 1,
       "last_score_time": "2026-06-06T15:27:32+00:00"
+    },
+    "jgLKT": {
+      "points": 10.51,
+      "match_count": 1,
+      "last_score_time": "2026-06-06T21:25:41+00:00"
+    },
+    "RMrQ5": {
+      "points": 9.55,
+      "match_count": 1,
+      "last_score_time": "2026-06-06T21:25:41+00:00"
+    },
+    "RzkpP": {
+      "points": 5.98,
+      "match_count": 1,
+      "last_score_time": "2026-06-06T21:25:41+00:00"
+    },
+    "75T7b": {
+      "points": 3.28,
+      "match_count": 1,
+      "last_score_time": "2026-06-06T21:25:41+00:00"
+    },
+    "222R2": {
+      "points": 2.5,
+      "match_count": 1,
+      "last_score_time": "2026-06-06T21:25:41+00:00"
+    },
+    "CTNtb": {
+      "points": 1.18,
+      "match_count": 1,
+      "last_score_time": "2026-06-06T21:25:41+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-06T06:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-06-06T06:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-06",
