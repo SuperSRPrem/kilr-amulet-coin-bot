@@ -545,7 +545,7 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-06-06T21:25:41+00:00",
+  "last_seen_time": "2026-06-07T01:14:25+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 188.13000000000002,
@@ -776,22 +776,32 @@
       "points": 1.18,
       "match_count": 1,
       "last_score_time": "2026-06-06T21:25:41+00:00"
+    },
+    "2978Q": {
+      "points": 21.73,
+      "match_count": 1,
+      "last_score_time": "2026-06-07T01:14:25+00:00"
+    },
+    "TQbVL": {
+      "points": 1.27,
+      "match_count": 1,
+      "last_score_time": "2026-06-07T01:14:25+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-06T06:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-06-06T06:30:00+00:00",
   "daily_quests": {
-    "date": "2026-06-06",
-    "created_at": "2026-06-06T04:12:05.593748+00:00",
+    "date": "2026-06-07",
+    "created_at": "2026-06-07T01:38:18.971721+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Pond",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Pond",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -800,10 +810,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
+        "map": "World 1",
         "target": 4,
         "reward": 100,
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 4 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -824,78 +834,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "Contest": 1
-        },
-        "VNTrV": {
-          "Contest": 1
-        },
-        "1OPNc": {
-          "Contest": 1
-        },
-        "q2Vtq": {
-          "Contest": 1
-        },
-        "ntqR2": {
-          "Contest": 1
-        },
-        "79V8v": {
-          "Contest": 1
-        },
-        "Up1-O": {
-          "Contest": 1
-        },
-        "vTtq5": {
-          "Contest": 1
-        },
-        "mNNrR": {
-          "Contest": 1
-        },
-        "5m85t": {
-          "Contest": 1
-        },
-        "ceNBo": {
-          "Contest": 1
-        },
-        "7ML52": {
-          "Contest": 1
-        },
-        "Ulvn1": {
-          "Contest": 1
-        },
-        "w7kT2": {
-          "Contest": 1
-        },
-        "V8B5R": {
-          "Contest": 1
-        },
-        "rn1X0": {
-          "Contest": 1
-        },
-        "nL5v5": {
-          "Contest": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-05",
+    "date": "2026-06-06",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Halo",
+        "text": "Win 4 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
