@@ -559,7 +559,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-06-08T14:22:14+00:00",
+  "last_seen_time": "2026-06-08T20:29:24+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 36.19,
@@ -630,10 +630,15 @@
       "points": 6.68,
       "match_count": 1,
       "last_score_time": "2026-06-08T14:22:14+00:00"
+    },
+    "88V5V": {
+      "points": 44.0,
+      "match_count": 1,
+      "last_score_time": "2026-06-08T20:29:24+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-08T11:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-06-08T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-08",
