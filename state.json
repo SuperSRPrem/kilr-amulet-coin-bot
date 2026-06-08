@@ -552,10 +552,26 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-06-07T16:10:30+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-06-08T05:11:16+00:00",
+  "current_scores": {
+    "Z2Yfi": {
+      "points": 34.76,
+      "match_count": 1,
+      "last_score_time": "2026-06-08T05:11:16+00:00"
+    },
+    "QyJgN": {
+      "points": 0.22,
+      "match_count": 1,
+      "last_score_time": "2026-06-08T05:11:16+00:00"
+    },
+    "WRC27": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-06-08T05:11:16+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-06-07T17:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-06-07T17:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-08",
