@@ -559,7 +559,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-06-09T04:35:50+00:00",
+  "last_seen_time": "2026-06-09T07:31:26+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 36.19,
@@ -645,10 +645,25 @@
       "points": 4.06,
       "match_count": 1,
       "last_score_time": "2026-06-09T04:35:50+00:00"
+    },
+    "VNNMN": {
+      "points": 104.09,
+      "match_count": 1,
+      "last_score_time": "2026-06-09T07:31:26+00:00"
+    },
+    "B987r": {
+      "points": 72.76,
+      "match_count": 1,
+      "last_score_time": "2026-06-09T07:31:26+00:00"
+    },
+    "QmTrV": {
+      "points": 9.15,
+      "match_count": 1,
+      "last_score_time": "2026-06-09T07:31:26+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-08T11:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-06-08T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-09",
@@ -701,7 +716,17 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "VNNMN": {
+          "North America": 1
+        },
+        "B987r": {
+          "North America": 1
+        },
+        "QmTrV": {
+          "North America": 1
+        }
+      }
     }
   },
   "last_quest_day": {
