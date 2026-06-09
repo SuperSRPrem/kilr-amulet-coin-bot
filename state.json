@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-06-09T16:30:00+00:00",
-  "last_event_time": "2026-06-08T11:00:00+00:00",
+  "next_event_time": "2026-06-10T22:00:00+00:00",
+  "last_event_time": "2026-06-09T16:30:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -557,114 +557,41 @@
       "winner_username": "Z2Yfi",
       "winner_points": 117.62,
       "eligible_match_count": 3
+    },
+    {
+      "event_time": "2026-06-09T16:30:00+00:00",
+      "cycle_started_at": "2026-06-08T11:00:00+00:00",
+      "winner_username": "VNNMN",
+      "winner_points": 104.09,
+      "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-06-09T07:31:26+00:00",
+  "last_seen_time": "2026-06-09T18:05:47+00:00",
   "current_scores": {
-    "Z2Yfi": {
-      "points": 36.19,
+    "dD8rL": {
+      "points": 35.06,
+      "match_count": 1,
+      "last_score_time": "2026-06-09T17:55:55+00:00"
+    },
+    "2a_el": {
+      "points": 22.900000000000002,
       "match_count": 2,
-      "last_score_time": "2026-06-08T14:22:14+00:00"
+      "last_score_time": "2026-06-09T18:05:47+00:00"
     },
-    "btTmt": {
-      "points": 10.24,
+    "rbBnv": {
+      "points": 4.07,
       "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
+      "last_score_time": "2026-06-09T18:05:47+00:00"
     },
-    "8Bmnv": {
-      "points": 9.21,
+    "2BqTB": {
+      "points": 0.97,
       "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "QL929": {
-      "points": 8.52,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "7r5ww": {
-      "points": 4.64,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "Bn9N9": {
-      "points": 2.27,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "M9MvV": {
-      "points": 1.93,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "CLVcc": {
-      "points": 1.22,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "EcM1W": {
-      "points": 1.0,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "jLvAM": {
-      "points": 0.91,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "BqqmB": {
-      "points": 0.08,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:09:12+00:00"
-    },
-    "tyMYd": {
-      "points": 27.1,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:22:14+00:00"
-    },
-    "98929": {
-      "points": 12.02,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:22:14+00:00"
-    },
-    "wggCG": {
-      "points": 6.68,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T14:22:14+00:00"
-    },
-    "88V5V": {
-      "points": 44.0,
-      "match_count": 1,
-      "last_score_time": "2026-06-08T20:29:24+00:00"
-    },
-    "9MnbQ": {
-      "points": 5.94,
-      "match_count": 1,
-      "last_score_time": "2026-06-09T04:35:50+00:00"
-    },
-    "dVQRU": {
-      "points": 4.06,
-      "match_count": 1,
-      "last_score_time": "2026-06-09T04:35:50+00:00"
-    },
-    "VNNMN": {
-      "points": 104.09,
-      "match_count": 1,
-      "last_score_time": "2026-06-09T07:31:26+00:00"
-    },
-    "B987r": {
-      "points": 72.76,
-      "match_count": 1,
-      "last_score_time": "2026-06-09T07:31:26+00:00"
-    },
-    "QmTrV": {
-      "points": 9.15,
-      "match_count": 1,
-      "last_score_time": "2026-06-09T07:31:26+00:00"
+      "last_score_time": "2026-06-09T18:05:47+00:00"
     }
   },
-  "current_cycle_started_at": "2026-06-08T11:00:00+00:00",
-  "current_cycle_match_count": 5,
-  "last_announced_event_time": "2026-06-08T11:00:00+00:00",
+  "current_cycle_started_at": "2026-06-09T16:30:00+00:00",
+  "current_cycle_match_count": 2,
+  "last_announced_event_time": "2026-06-09T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-09",
     "created_at": "2026-06-09T00:11:09.932968+00:00",
@@ -715,7 +642,17 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "2a_el": {
+          "Mountains 2": 1
+        },
+        "rbBnv": {
+          "Mountains 2": 1
+        },
+        "2BqTB": {
+          "Mountains 2": 1
+        }
+      },
       "hard": {
         "VNNMN": {
           "North America": 1
@@ -725,6 +662,12 @@
         },
         "QmTrV": {
           "North America": 1
+        },
+        "dD8rL": {
+          "Australia": 1
+        },
+        "2a_el": {
+          "Australia": 1
         }
       }
     }
