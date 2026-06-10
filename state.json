@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-06-10T22:00:00+00:00",
-  "last_event_time": "2026-06-09T16:30:00+00:00",
+  "next_event_time": "2026-06-11T20:00:00+00:00",
+  "last_event_time": "2026-06-10T22:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -564,49 +564,20 @@
       "winner_username": "VNNMN",
       "winner_points": 104.09,
       "eligible_match_count": 5
+    },
+    {
+      "event_time": "2026-06-10T22:00:00+00:00",
+      "cycle_started_at": "2026-06-09T16:30:00+00:00",
+      "winner_username": "Oyf9y",
+      "winner_points": 39.0,
+      "eligible_match_count": 4
     }
   ],
   "last_seen_time": "2026-06-10T16:14:21+00:00",
-  "current_scores": {
-    "dD8rL": {
-      "points": 35.06,
-      "match_count": 1,
-      "last_score_time": "2026-06-09T17:55:55+00:00"
-    },
-    "2a_el": {
-      "points": 22.900000000000002,
-      "match_count": 2,
-      "last_score_time": "2026-06-09T18:05:47+00:00"
-    },
-    "rbBnv": {
-      "points": 4.07,
-      "match_count": 1,
-      "last_score_time": "2026-06-09T18:05:47+00:00"
-    },
-    "2BqTB": {
-      "points": 0.97,
-      "match_count": 1,
-      "last_score_time": "2026-06-09T18:05:47+00:00"
-    },
-    "88V5V": {
-      "points": 15.64,
-      "match_count": 1,
-      "last_score_time": "2026-06-10T00:15:38+00:00"
-    },
-    "vbrvC": {
-      "points": 9.36,
-      "match_count": 1,
-      "last_score_time": "2026-06-10T00:15:38+00:00"
-    },
-    "Oyf9y": {
-      "points": 39.0,
-      "match_count": 1,
-      "last_score_time": "2026-06-10T16:14:21+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-06-09T16:30:00+00:00",
-  "current_cycle_match_count": 4,
-  "last_announced_event_time": "2026-06-09T16:30:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-06-10T22:00:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-06-10T22:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-10",
     "created_at": "2026-06-10T00:20:18.135389+00:00",
