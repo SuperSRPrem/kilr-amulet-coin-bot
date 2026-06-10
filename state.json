@@ -566,7 +566,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-06-09T18:05:47+00:00",
+  "last_seen_time": "2026-06-10T00:15:38+00:00",
   "current_scores": {
     "dD8rL": {
       "points": 35.06,
@@ -587,22 +587,32 @@
       "points": 0.97,
       "match_count": 1,
       "last_score_time": "2026-06-09T18:05:47+00:00"
+    },
+    "88V5V": {
+      "points": 15.64,
+      "match_count": 1,
+      "last_score_time": "2026-06-10T00:15:38+00:00"
+    },
+    "vbrvC": {
+      "points": 9.36,
+      "match_count": 1,
+      "last_score_time": "2026-06-10T00:15:38+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-09T16:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-06-09T16:30:00+00:00",
   "daily_quests": {
-    "date": "2026-06-09",
-    "created_at": "2026-06-09T00:11:09.932968+00:00",
+    "date": "2026-06-10",
+    "created_at": "2026-06-10T00:20:18.135389+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Mountains 1",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Mountains 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -611,10 +621,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Mountains 2",
-        "target": 6,
+        "map": "World 1",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on Mountains 2",
+        "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -622,18 +632,10 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
-        "target": 6,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -642,53 +644,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "2a_el": {
-          "Mountains 2": 1
-        },
-        "rbBnv": {
-          "Mountains 2": 1
-        },
-        "2BqTB": {
-          "Mountains 2": 1
-        }
-      },
-      "hard": {
-        "VNNMN": {
-          "North America": 1
-        },
-        "B987r": {
-          "North America": 1
-        },
-        "QmTrV": {
-          "North America": 1
-        },
-        "dD8rL": {
-          "Australia": 1
-        },
-        "2a_el": {
-          "Australia": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-08",
+    "date": "2026-06-09",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on White Arena",
+        "text": "Win 6 times on Mountains 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
