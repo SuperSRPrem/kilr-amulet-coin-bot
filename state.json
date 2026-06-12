@@ -580,7 +580,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-06-12T04:54:33+00:00",
+  "last_seen_time": "2026-06-12T09:33:05+00:00",
   "current_scores": {
     "8c8CL": {
       "points": 14.98,
@@ -648,9 +648,9 @@
       "last_score_time": "2026-06-11T23:40:31+00:00"
     },
     "Z2Yfi": {
-      "points": 21.21,
-      "match_count": 1,
-      "last_score_time": "2026-06-12T04:54:33+00:00"
+      "points": 72.94,
+      "match_count": 2,
+      "last_score_time": "2026-06-12T09:21:36+00:00"
     },
     "D8DMN": {
       "points": 3.69,
@@ -666,10 +666,55 @@
       "points": 0.53,
       "match_count": 1,
       "last_score_time": "2026-06-12T04:54:33+00:00"
+    },
+    "q5T7R": {
+      "points": 27.57,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:20:40+00:00"
+    },
+    "nkncB": {
+      "points": 14.23,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:20:40+00:00"
+    },
+    "BMvV7": {
+      "points": 0.2,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:20:40+00:00"
+    },
+    "VBNvv": {
+      "points": 1.27,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:21:36+00:00"
+    },
+    "ShyDC": {
+      "points": 31.58,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:33:05+00:00"
+    },
+    "L8LM9": {
+      "points": 13.23,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:33:05+00:00"
+    },
+    "TQvww": {
+      "points": 5.37,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:33:05+00:00"
+    },
+    "mn8Q7": {
+      "points": 4.67,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:33:05+00:00"
+    },
+    "Dn22W": {
+      "points": 2.14,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T09:33:05+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-11T20:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-06-11T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-12",
@@ -728,7 +773,23 @@
           "World 2": 1
         }
       },
-      "hard": {}
+      "hard": {
+        "ShyDC": {
+          "World 1": 1
+        },
+        "L8LM9": {
+          "World 1": 1
+        },
+        "TQvww": {
+          "World 1": 1
+        },
+        "mn8Q7": {
+          "World 1": 1
+        },
+        "Dn22W": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
