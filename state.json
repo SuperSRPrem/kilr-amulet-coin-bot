@@ -587,7 +587,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-06-12T16:42:46+00:00",
+  "last_seen_time": "2026-06-12T19:00:31+00:00",
   "current_scores": {
     "Wi5gQ": {
       "points": 28.82,
@@ -598,10 +598,85 @@
       "points": 6.18,
       "match_count": 1,
       "last_score_time": "2026-06-12T16:42:46+00:00"
+    },
+    "eIoJe": {
+      "points": 80.58,
+      "match_count": 2,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "52n7L": {
+      "points": 15.54,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T18:49:10+00:00"
+    },
+    "LRrnB": {
+      "points": 9.49,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T18:49:10+00:00"
+    },
+    "VGd2t": {
+      "points": 4.51,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T18:49:10+00:00"
+    },
+    "5Kb9C": {
+      "points": 1.82,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T18:49:10+00:00"
+    },
+    "VRt2V": {
+      "points": 38.98,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "9tQQm": {
+      "points": 32.75,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "QRBBn": {
+      "points": 20.34,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "rtNm7": {
+      "points": 16.92,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "gCCrj": {
+      "points": 15.18,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "T2vRT": {
+      "points": 10.95,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "vLTRv": {
+      "points": 6.94,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "YGncQ": {
+      "points": 4.87,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "vQ5v2": {
+      "points": 2.43,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
+    },
+    "7McvD": {
+      "points": 0.69,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T19:00:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-12T13:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-06-12T13:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-12",
