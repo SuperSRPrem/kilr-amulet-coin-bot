@@ -580,7 +580,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-06-11T23:40:31+00:00",
+  "last_seen_time": "2026-06-12T04:54:33+00:00",
   "current_scores": {
     "8c8CL": {
       "points": 14.98,
@@ -646,10 +646,30 @@
       "points": 0.28,
       "match_count": 1,
       "last_score_time": "2026-06-11T23:40:31+00:00"
+    },
+    "Z2Yfi": {
+      "points": 21.21,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T04:54:33+00:00"
+    },
+    "D8DMN": {
+      "points": 3.69,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T04:54:33+00:00"
+    },
+    "nvtRN": {
+      "points": 2.56,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T04:54:33+00:00"
+    },
+    "nLttB": {
+      "points": 0.53,
+      "match_count": 1,
+      "last_score_time": "2026-06-12T04:54:33+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-11T20:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-06-11T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-12",
@@ -694,7 +714,20 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "Z2Yfi": {
+          "World 2": 1
+        },
+        "D8DMN": {
+          "World 2": 1
+        },
+        "nvtRN": {
+          "World 2": 1
+        },
+        "nLttB": {
+          "World 2": 1
+        }
+      },
       "hard": {}
     }
   },
