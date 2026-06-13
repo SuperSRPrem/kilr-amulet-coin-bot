@@ -594,7 +594,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-06-13T08:31:51+00:00",
+  "last_seen_time": "2026-06-13T12:52:37+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 32.88,
@@ -725,10 +725,20 @@
       "points": 0.69,
       "match_count": 1,
       "last_score_time": "2026-06-13T08:31:51+00:00"
+    },
+    "bTv72": {
+      "points": 23.98,
+      "match_count": 1,
+      "last_score_time": "2026-06-13T12:52:37+00:00"
+    },
+    "QWVWN": {
+      "points": 13.02,
+      "match_count": 1,
+      "last_score_time": "2026-06-13T12:52:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-13T03:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-06-13T03:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-13",
