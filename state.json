@@ -594,7 +594,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-06-14T10:25:11+00:00",
+  "last_seen_time": "2026-06-14T12:19:24+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 126.91000000000001,
@@ -855,10 +855,35 @@
       "points": 0.11,
       "match_count": 1,
       "last_score_time": "2026-06-14T10:25:11+00:00"
+    },
+    "QTr2T": {
+      "points": 15.78,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T12:19:24+00:00"
+    },
+    "bMDqB": {
+      "points": 12.37,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T12:19:24+00:00"
+    },
+    "QpdQ8": {
+      "points": 5.51,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T12:19:24+00:00"
+    },
+    "C25NW": {
+      "points": 1.86,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T12:19:24+00:00"
+    },
+    "drek7": {
+      "points": 1.48,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T12:19:24+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-13T03:00:00+00:00",
-  "current_cycle_match_count": 11,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-06-13T03:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-14",
@@ -910,7 +935,23 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "QTr2T": {
+          "Mare Nostrum": 1
+        },
+        "bMDqB": {
+          "Mare Nostrum": 1
+        },
+        "QpdQ8": {
+          "Mare Nostrum": 1
+        },
+        "C25NW": {
+          "Mare Nostrum": 1
+        },
+        "drek7": {
+          "Mare Nostrum": 1
+        }
+      }
     }
   },
   "last_quest_day": {
