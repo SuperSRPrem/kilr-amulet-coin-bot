@@ -594,7 +594,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-06-14T12:19:24+00:00",
+  "last_seen_time": "2026-06-14T16:42:22+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 126.91000000000001,
@@ -880,10 +880,35 @@
       "points": 1.48,
       "match_count": 1,
       "last_score_time": "2026-06-14T12:19:24+00:00"
+    },
+    "rtjJv": {
+      "points": 22.8,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T16:42:22+00:00"
+    },
+    "Wi5gQ": {
+      "points": 11.1,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T16:42:22+00:00"
+    },
+    "BRqbv": {
+      "points": 5.31,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T16:42:22+00:00"
+    },
+    "sbSZI": {
+      "points": 3.35,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T16:42:22+00:00"
+    },
+    "2jkmw": {
+      "points": 1.45,
+      "match_count": 1,
+      "last_score_time": "2026-06-14T16:42:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-13T03:00:00+00:00",
-  "current_cycle_match_count": 12,
+  "current_cycle_match_count": 13,
   "last_announced_event_time": "2026-06-13T03:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-14",
@@ -934,7 +959,23 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "rtjJv": {
+          "Scandinavia": 1
+        },
+        "Wi5gQ": {
+          "Scandinavia": 1
+        },
+        "BRqbv": {
+          "Scandinavia": 1
+        },
+        "sbSZI": {
+          "Scandinavia": 1
+        },
+        "2jkmw": {
+          "Scandinavia": 1
+        }
+      },
       "hard": {
         "QTr2T": {
           "Mare Nostrum": 1
@@ -950,6 +991,21 @@
         },
         "drek7": {
           "Mare Nostrum": 1
+        },
+        "rtjJv": {
+          "Scandinavia": 1
+        },
+        "Wi5gQ": {
+          "Scandinavia": 1
+        },
+        "BRqbv": {
+          "Scandinavia": 1
+        },
+        "sbSZI": {
+          "Scandinavia": 1
+        },
+        "2jkmw": {
+          "Scandinavia": 1
         }
       }
     }
