@@ -601,22 +601,108 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-06-14T16:42:22+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-06-15T01:55:40+00:00",
+  "current_scores": {
+    "BQLrQ": {
+      "points": 7.75,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "gDrN5": {
+      "points": 4.68,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "WvLDk": {
+      "points": 4.41,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "QN9N5": {
+      "points": 3.46,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "nBLTt": {
+      "points": 3.15,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "BRQn9": {
+      "points": 2.86,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "dmWqC": {
+      "points": 2.18,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "Rb5BT": {
+      "points": 2.17,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "QTRTt": {
+      "points": 1.82,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "Q58LR": {
+      "points": 1.7,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "T7qyR": {
+      "points": 1.49,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "TMrLr": {
+      "points": 1.36,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "bVBWC": {
+      "points": 1.23,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "5Lkgk": {
+      "points": 1.22,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "Wwj99": {
+      "points": 0.46,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "r9mRV": {
+      "points": 0.05,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    },
+    "2CW7w": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-06-15T01:55:40+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-06-14T18:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-06-14T18:00:00+00:00",
   "daily_quests": {
-    "date": "2026-06-14",
-    "created_at": "2026-06-14T01:56:39.754065+00:00",
+    "date": "2026-06-15",
+    "created_at": "2026-06-15T02:01:43.713407+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -625,10 +711,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Scandinavia",
-        "target": 4,
+        "map": "Desert",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Scandinavia",
+        "text": "Win 6 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -636,17 +722,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "map_wins",
+        "map": "World 1",
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -655,74 +735,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "rtjJv": {
-          "Scandinavia": 1
-        },
-        "Wi5gQ": {
-          "Scandinavia": 1
-        },
-        "BRqbv": {
-          "Scandinavia": 1
-        },
-        "sbSZI": {
-          "Scandinavia": 1
-        },
-        "2jkmw": {
-          "Scandinavia": 1
-        }
-      },
-      "hard": {
-        "QTr2T": {
-          "Mare Nostrum": 1
-        },
-        "bMDqB": {
-          "Mare Nostrum": 1
-        },
-        "QpdQ8": {
-          "Mare Nostrum": 1
-        },
-        "C25NW": {
-          "Mare Nostrum": 1
-        },
-        "drek7": {
-          "Mare Nostrum": 1
-        },
-        "rtjJv": {
-          "Scandinavia": 1
-        },
-        "Wi5gQ": {
-          "Scandinavia": 1
-        },
-        "BRqbv": {
-          "Scandinavia": 1
-        },
-        "sbSZI": {
-          "Scandinavia": 1
-        },
-        "2jkmw": {
-          "Scandinavia": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-13",
+    "date": "2026-06-14",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Island",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 4 times on Scandinavia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
