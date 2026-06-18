@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-06-18T19:00:00+00:00",
-  "last_event_time": "2026-06-17T20:00:00+00:00",
+  "next_event_time": "2026-06-19T12:00:00+00:00",
+  "last_event_time": "2026-06-18T19:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -620,13 +620,20 @@
       "winner_username": "SURNy",
       "winner_points": 58.89,
       "eligible_match_count": 6
+    },
+    {
+      "event_time": "2026-06-18T19:00:00+00:00",
+      "cycle_started_at": "2026-06-17T20:00:00+00:00",
+      "winner_username": null,
+      "winner_points": null,
+      "eligible_match_count": 0
     }
   ],
   "last_seen_time": "2026-06-17T17:07:27+00:00",
   "current_scores": {},
-  "current_cycle_started_at": "2026-06-17T20:00:00+00:00",
+  "current_cycle_started_at": "2026-06-18T19:00:00+00:00",
   "current_cycle_match_count": 0,
-  "last_announced_event_time": "2026-06-17T20:00:00+00:00",
+  "last_announced_event_time": "2026-06-18T19:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-18",
     "created_at": "2026-06-18T04:56:05.012200+00:00",
