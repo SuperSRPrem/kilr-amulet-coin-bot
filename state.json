@@ -628,16 +628,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-06-17T20:00:00+00:00",
   "daily_quests": {
-    "date": "2026-06-17",
-    "created_at": "2026-06-17T00:23:02.364961+00:00",
+    "date": "2026-06-18",
+    "created_at": "2026-06-18T04:56:05.012200+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Halo",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -646,10 +646,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Black Arena",
         "target": 6,
         "reward": 100,
-        "text": "Win 6 times on Swamp",
+        "text": "Win 6 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -670,57 +670,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "SURNy": {
-          "Contest": 1
-        },
-        "BNxHu": {
-          "Contest": 1
-        },
-        "RBqN2": {
-          "Contest": 1
-        },
-        "Wi5gQ": {
-          "Contest": 1
-        },
-        "QTr2T": {
-          "Contest": 1
-        },
-        "55977": {
-          "Contest": 1
-        },
-        "jqtNw": {
-          "Contest": 1
-        },
-        "nywGM": {
-          "Contest": 1
-        },
-        "yjCWm": {
-          "Contest": 1
-        },
-        "JxB8H": {
-          "Contest": 1
-        },
-        "5N7b2": {
-          "Contest": 1
-        },
-        "NYRVy": {
-          "Contest": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-16",
+    "date": "2026-06-17",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Halo",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on World 2",
+        "text": "Win 6 times on Swamp",
         "reward": 100,
         "done_by": null,
         "done_at": null
