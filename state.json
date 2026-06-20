@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-06-20T09:30:00+00:00",
-  "last_event_time": "2026-06-19T12:00:00+00:00",
+  "next_event_time": "2026-06-21T21:00:00+00:00",
+  "last_event_time": "2026-06-20T09:30:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -634,39 +634,56 @@
       "winner_username": "bTv72",
       "winner_points": 23.09,
       "eligible_match_count": 1
+    },
+    {
+      "event_time": "2026-06-20T09:30:00+00:00",
+      "cycle_started_at": "2026-06-19T12:00:00+00:00",
+      "winner_username": "bTv72",
+      "winner_points": 37.0,
+      "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-06-19T16:45:49+00:00",
+  "last_seen_time": "2026-06-20T10:32:17+00:00",
   "current_scores": {
-    "bTv72": {
-      "points": 37.0,
+    "l1_8M": {
+      "points": 23.4,
       "match_count": 1,
-      "last_score_time": "2026-06-19T13:52:30+00:00"
+      "last_score_time": "2026-06-20T10:32:17+00:00"
     },
-    "RRCgr": {
-      "points": 36.71,
+    "5L2bg": {
+      "points": 4.42,
       "match_count": 1,
-      "last_score_time": "2026-06-19T16:45:49+00:00"
+      "last_score_time": "2026-06-20T10:32:17+00:00"
     },
-    "C5cmQ": {
-      "points": 14.19,
+    "tMKKt": {
+      "points": 4.29,
       "match_count": 1,
-      "last_score_time": "2026-06-19T16:45:49+00:00"
+      "last_score_time": "2026-06-20T10:32:17+00:00"
     },
-    "VrazK": {
-      "points": 1.1,
+    "cRqd2": {
+      "points": 4.07,
       "match_count": 1,
-      "last_score_time": "2026-06-19T16:45:49+00:00"
+      "last_score_time": "2026-06-20T10:32:17+00:00"
     },
-    "7jL5t": {
-      "points": 0.01,
+    "b9dmb": {
+      "points": 3.99,
       "match_count": 1,
-      "last_score_time": "2026-06-19T16:45:49+00:00"
+      "last_score_time": "2026-06-20T10:32:17+00:00"
+    },
+    "QYyRg": {
+      "points": 0.65,
+      "match_count": 1,
+      "last_score_time": "2026-06-20T10:32:17+00:00"
+    },
+    "5cRbV": {
+      "points": 0.2,
+      "match_count": 1,
+      "last_score_time": "2026-06-20T10:32:17+00:00"
     }
   },
-  "current_cycle_started_at": "2026-06-19T12:00:00+00:00",
-  "current_cycle_match_count": 2,
-  "last_announced_event_time": "2026-06-19T12:00:00+00:00",
+  "current_cycle_started_at": "2026-06-20T09:30:00+00:00",
+  "current_cycle_match_count": 1,
+  "last_announced_event_time": "2026-06-20T09:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-20",
     "created_at": "2026-06-20T04:23:12.369737+00:00",
@@ -717,7 +734,29 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "l1_8M": {
+          "Scandinavia": 1
+        },
+        "5L2bg": {
+          "Scandinavia": 1
+        },
+        "tMKKt": {
+          "Scandinavia": 1
+        },
+        "cRqd2": {
+          "Scandinavia": 1
+        },
+        "b9dmb": {
+          "Scandinavia": 1
+        },
+        "QYyRg": {
+          "Scandinavia": 1
+        },
+        "5cRbV": {
+          "Scandinavia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
