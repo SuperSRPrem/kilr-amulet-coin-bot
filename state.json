@@ -643,7 +643,7 @@
       "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-06-20T10:32:17+00:00",
+  "last_seen_time": "2026-06-20T17:03:55+00:00",
   "current_scores": {
     "l1_8M": {
       "points": 23.4,
@@ -679,10 +679,35 @@
       "points": 0.2,
       "match_count": 1,
       "last_score_time": "2026-06-20T10:32:17+00:00"
+    },
+    "RRCgr": {
+      "points": 16.8,
+      "match_count": 1,
+      "last_score_time": "2026-06-20T17:03:55+00:00"
+    },
+    "o60yY": {
+      "points": 13.06,
+      "match_count": 1,
+      "last_score_time": "2026-06-20T17:03:55+00:00"
+    },
+    "LDq6w": {
+      "points": 7.85,
+      "match_count": 1,
+      "last_score_time": "2026-06-20T17:03:55+00:00"
+    },
+    "T8t5L": {
+      "points": 5.24,
+      "match_count": 1,
+      "last_score_time": "2026-06-20T17:03:55+00:00"
+    },
+    "5BQJr": {
+      "points": 0.05,
+      "match_count": 1,
+      "last_score_time": "2026-06-20T17:03:55+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-20T09:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-06-20T09:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-20",
@@ -755,6 +780,21 @@
         },
         "5cRbV": {
           "Scandinavia": 1
+        },
+        "RRCgr": {
+          "Mare Nostrum": 1
+        },
+        "o60yY": {
+          "Mare Nostrum": 1
+        },
+        "LDq6w": {
+          "Mare Nostrum": 1
+        },
+        "T8t5L": {
+          "Mare Nostrum": 1
+        },
+        "5BQJr": {
+          "Mare Nostrum": 1
         }
       }
     }
