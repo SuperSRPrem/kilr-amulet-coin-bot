@@ -710,16 +710,16 @@
   "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-06-20T09:30:00+00:00",
   "daily_quests": {
-    "date": "2026-06-20",
-    "created_at": "2026-06-20T04:23:12.369737+00:00",
+    "date": "2026-06-21",
+    "created_at": "2026-06-21T02:00:27.506515+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Pond",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Pond",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -728,10 +728,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Island",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on Island",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -739,17 +739,10 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -759,63 +752,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "l1_8M": {
-          "Scandinavia": 1
-        },
-        "5L2bg": {
-          "Scandinavia": 1
-        },
-        "tMKKt": {
-          "Scandinavia": 1
-        },
-        "cRqd2": {
-          "Scandinavia": 1
-        },
-        "b9dmb": {
-          "Scandinavia": 1
-        },
-        "QYyRg": {
-          "Scandinavia": 1
-        },
-        "5cRbV": {
-          "Scandinavia": 1
-        },
-        "RRCgr": {
-          "Mare Nostrum": 1
-        },
-        "o60yY": {
-          "Mare Nostrum": 1
-        },
-        "LDq6w": {
-          "Mare Nostrum": 1
-        },
-        "T8t5L": {
-          "Mare Nostrum": 1
-        },
-        "5BQJr": {
-          "Mare Nostrum": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Desert",
+        "text": "Win 6 times on Island",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
