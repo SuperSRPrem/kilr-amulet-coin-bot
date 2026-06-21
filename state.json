@@ -650,10 +650,21 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-06-21T17:00:35+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-06-21T23:20:31+00:00",
+  "current_scores": {
+    "TQbVL": {
+      "points": 12.84,
+      "match_count": 1,
+      "last_score_time": "2026-06-21T23:20:31+00:00"
+    },
+    "GCgN5": {
+      "points": 1.16,
+      "match_count": 1,
+      "last_score_time": "2026-06-21T23:20:31+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-06-21T21:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-06-21T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-21",
