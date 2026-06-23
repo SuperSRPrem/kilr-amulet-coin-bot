@@ -704,16 +704,16 @@
   "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-06-22T18:00:00+00:00",
   "daily_quests": {
-    "date": "2026-06-22",
-    "created_at": "2026-06-22T05:19:15.369352+00:00",
+    "date": "2026-06-23",
+    "created_at": "2026-06-23T04:12:40.562817+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -722,10 +722,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Halo",
-        "target": 6,
+        "map": "North America",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Halo",
+        "text": "Win 4 times on North America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -734,10 +734,10 @@
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 1",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -747,36 +747,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "1_R9v": {
-          "World 1": 1
-        },
-        "BvQmt": {
-          "World 1": 1
-        },
-        "_tFM4": {
-          "World 1": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-21",
+    "date": "2026-06-22",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 6 times on Halo",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
