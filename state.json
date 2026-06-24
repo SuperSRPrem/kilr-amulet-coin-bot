@@ -664,7 +664,7 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-06-24T16:03:03+00:00",
+  "last_seen_time": "2026-06-24T18:03:51+00:00",
   "current_scores": {
     "_tFM4": {
       "points": 13.14,
@@ -777,9 +777,9 @@
       "last_score_time": "2026-06-24T13:23:24+00:00"
     },
     "BjxRv": {
-      "points": 15.54,
-      "match_count": 1,
-      "last_score_time": "2026-06-24T16:03:03+00:00"
+      "points": 18.03,
+      "match_count": 2,
+      "last_score_time": "2026-06-24T18:03:51+00:00"
     },
     "6tHcF": {
       "points": 4.36,
@@ -795,10 +795,40 @@
       "points": 0.1,
       "match_count": 1,
       "last_score_time": "2026-06-24T16:03:03+00:00"
+    },
+    "vV9LV": {
+      "points": 13.02,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T18:03:51+00:00"
+    },
+    "V55vB": {
+      "points": 12.91,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T18:03:51+00:00"
+    },
+    "KDGjc": {
+      "points": 5.47,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T18:03:51+00:00"
+    },
+    "8NQMT": {
+      "points": 4.07,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T18:03:51+00:00"
+    },
+    "TqNwv": {
+      "points": 0.04,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T18:03:51+00:00"
+    },
+    "2YjL7": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T18:03:51+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-23T21:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-06-23T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-24",
@@ -864,7 +894,29 @@
           "Middle East": 1
         }
       },
-      "hard": {}
+      "hard": {
+        "vV9LV": {
+          "Australia": 1
+        },
+        "V55vB": {
+          "Australia": 1
+        },
+        "KDGjc": {
+          "Australia": 1
+        },
+        "8NQMT": {
+          "Australia": 1
+        },
+        "BjxRv": {
+          "Australia": 1
+        },
+        "TqNwv": {
+          "Australia": 1
+        },
+        "2YjL7": {
+          "Australia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
