@@ -664,7 +664,7 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-06-24T13:23:24+00:00",
+  "last_seen_time": "2026-06-24T16:03:03+00:00",
   "current_scores": {
     "_tFM4": {
       "points": 13.14,
@@ -775,10 +775,30 @@
       "points": 0.3,
       "match_count": 1,
       "last_score_time": "2026-06-24T13:23:24+00:00"
+    },
+    "BjxRv": {
+      "points": 15.54,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T16:03:03+00:00"
+    },
+    "6tHcF": {
+      "points": 4.36,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T16:03:03+00:00"
+    },
+    "4uLEq": {
+      "points": 4.01,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T16:03:03+00:00"
+    },
+    "nkncB": {
+      "points": 0.1,
+      "match_count": 1,
+      "last_score_time": "2026-06-24T16:03:03+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-23T21:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-06-23T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-24",
@@ -830,7 +850,20 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "BjxRv": {
+          "Middle East": 1
+        },
+        "6tHcF": {
+          "Middle East": 1
+        },
+        "4uLEq": {
+          "Middle East": 1
+        },
+        "nkncB": {
+          "Middle East": 1
+        }
+      },
       "hard": {}
     }
   },
