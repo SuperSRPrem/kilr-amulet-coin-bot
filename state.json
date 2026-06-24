@@ -664,7 +664,7 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-06-23T21:13:23+00:00",
+  "last_seen_time": "2026-06-23T23:40:05+00:00",
   "current_scores": {
     "_tFM4": {
       "points": 13.14,
@@ -695,22 +695,57 @@
       "points": 0.34,
       "match_count": 1,
       "last_score_time": "2026-06-23T21:13:23+00:00"
+    },
+    "vt2Mr": {
+      "points": 18.38,
+      "match_count": 1,
+      "last_score_time": "2026-06-23T23:40:05+00:00"
+    },
+    "Ntm5V": {
+      "points": 3.16,
+      "match_count": 1,
+      "last_score_time": "2026-06-23T23:40:05+00:00"
+    },
+    "a7x01": {
+      "points": 2.95,
+      "match_count": 1,
+      "last_score_time": "2026-06-23T23:40:05+00:00"
+    },
+    "M5gjj": {
+      "points": 2.15,
+      "match_count": 1,
+      "last_score_time": "2026-06-23T23:40:05+00:00"
+    },
+    "WvVcB": {
+      "points": 1.53,
+      "match_count": 1,
+      "last_score_time": "2026-06-23T23:40:05+00:00"
+    },
+    "KYVt2": {
+      "points": 0.83,
+      "match_count": 1,
+      "last_score_time": "2026-06-23T23:40:05+00:00"
+    },
+    "Wkw9V": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-06-23T23:40:05+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-23T21:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-06-23T21:00:00+00:00",
   "daily_quests": {
-    "date": "2026-06-23",
-    "created_at": "2026-06-23T04:12:40.562817+00:00",
+    "date": "2026-06-24",
+    "created_at": "2026-06-24T00:04:10.580276+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -719,10 +754,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "North America",
+        "map": "Middle East",
         "target": 4,
         "reward": 100,
-        "text": "Win 4 times on North America",
+        "text": "Win 4 times on Middle East",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -730,11 +765,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -743,74 +785,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "63cmP": {
-          "North America": 1
-        },
-        "J8Dmv": {
-          "North America": 1
-        },
-        "4NiTh": {
-          "North America": 1
-        },
-        "q7Q5b": {
-          "North America": 1
-        },
-        "vt2Mr": {
-          "North America": 1
-        },
-        "7JV7A": {
-          "North America": 1
-        },
-        "rQr9c": {
-          "North America": 1
-        },
-        "Q9dRJ": {
-          "North America": 1
-        },
-        "8GwrY": {
-          "North America": 1
-        },
-        "YC5Jk": {
-          "North America": 1
-        },
-        "_tFM4": {
-          "North America": 1
-        }
-      },
-      "hard": {
-        "eCvpU": {
-          "World 2": 1
-        },
-        "63cmP": {
-          "World 2": 1
-        },
-        "tv999": {
-          "World 2": 1
-        },
-        "MQX1B": {
-          "World 2": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Halo",
+        "text": "Win 4 times on North America",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
