@@ -718,16 +718,16 @@
   "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-06-24T22:30:00+00:00",
   "daily_quests": {
-    "date": "2026-06-24",
-    "created_at": "2026-06-24T00:04:10.580276+00:00",
+    "date": "2026-06-25",
+    "created_at": "2026-06-25T01:32:47.266090+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -736,10 +736,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Middle East",
+        "map": "South America",
         "target": 4,
         "reward": 100,
-        "text": "Win 4 times on Middle East",
+        "text": "Win 4 times on South America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -747,18 +747,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -767,77 +760,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "BjxRv": {
-          "Middle East": 1
-        },
-        "6tHcF": {
-          "Middle East": 1
-        },
-        "4uLEq": {
-          "Middle East": 1
-        },
-        "nkncB": {
-          "Middle East": 1
-        },
-        "RBqN2": {
-          "Middle East": 1
-        },
-        "Y5cwR": {
-          "Middle East": 1
-        },
-        "63cmP": {
-          "Middle East": 1
-        },
-        "YsRY1": {
-          "Middle East": 1
-        },
-        "L9dj5": {
-          "Middle East": 1
-        }
-      },
-      "hard": {
-        "vV9LV": {
-          "Australia": 1
-        },
-        "V55vB": {
-          "Australia": 1
-        },
-        "KDGjc": {
-          "Australia": 1
-        },
-        "8NQMT": {
-          "Australia": 1
-        },
-        "BjxRv": {
-          "Australia": 1
-        },
-        "TqNwv": {
-          "Australia": 1
-        },
-        "2YjL7": {
-          "Australia": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on North America",
+        "text": "Win 4 times on Middle East",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
