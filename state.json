@@ -671,7 +671,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-06-24T23:08:33+00:00",
+  "last_seen_time": "2026-06-25T05:57:45+00:00",
   "current_scores": {
     "_tFM4": {
       "points": 17.11,
@@ -704,18 +704,63 @@
       "last_score_time": "2026-06-24T23:08:33+00:00"
     },
     "YsRY1": {
-      "points": 2.09,
-      "match_count": 1,
-      "last_score_time": "2026-06-24T23:08:33+00:00"
+      "points": 22.18,
+      "match_count": 2,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
     },
     "L9dj5": {
       "points": 0.88,
       "match_count": 1,
       "last_score_time": "2026-06-24T23:08:33+00:00"
+    },
+    "tv999": {
+      "points": 36.66,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
+    },
+    "jtgNV": {
+      "points": 18.69,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
+    },
+    "nmv9n": {
+      "points": 10.74,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
+    },
+    "BQv7N": {
+      "points": 10.1,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
+    },
+    "fXYGe": {
+      "points": 6.07,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
+    },
+    "jtJdb": {
+      "points": 4.48,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
+    },
+    "4Qg4Z": {
+      "points": 4.42,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
+    },
+    "mMTvT": {
+      "points": 1.75,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
+    },
+    "vQ5v2": {
+      "points": 0.99,
+      "match_count": 1,
+      "last_score_time": "2026-06-25T05:57:45+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-24T22:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-06-24T22:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-25",
