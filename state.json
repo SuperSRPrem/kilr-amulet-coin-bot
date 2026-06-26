@@ -678,12 +678,12 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-06-26T04:09:08+00:00",
+  "last_seen_time": "2026-06-26T11:17:10+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 7.33,
-      "match_count": 1,
-      "last_score_time": "2026-06-26T04:09:08+00:00"
+      "points": 9.93,
+      "match_count": 2,
+      "last_score_time": "2026-06-26T11:17:10+00:00"
     },
     "9cVQC": {
       "points": 4.1,
@@ -699,10 +699,25 @@
       "points": 1.25,
       "match_count": 1,
       "last_score_time": "2026-06-26T04:09:08+00:00"
+    },
+    "vt2Mr": {
+      "points": 55.7,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T11:17:10+00:00"
+    },
+    "yj975": {
+      "points": 3.69,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T11:17:10+00:00"
+    },
+    "wMnwQ": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T11:17:10+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-25T21:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-06-25T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-26",
@@ -755,7 +770,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "vt2Mr": {
+          "Europe": 1
+        },
+        "yj975": {
+          "Europe": 1
+        },
+        "Z2Yfi": {
+          "Europe": 1
+        },
+        "wMnwQ": {
+          "Europe": 1
+        }
+      }
     }
   },
   "last_quest_day": {
