@@ -678,12 +678,12 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-06-26T16:14:29+00:00",
+  "last_seen_time": "2026-06-26T18:07:34+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 27.409999999999997,
-      "match_count": 4,
-      "last_score_time": "2026-06-26T16:14:29+00:00"
+      "points": 58.989999999999995,
+      "match_count": 5,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
     },
     "9cVQC": {
       "points": 4.1,
@@ -721,9 +721,9 @@
       "last_score_time": "2026-06-26T15:58:34+00:00"
     },
     "63cmP": {
-      "points": 4.99,
-      "match_count": 1,
-      "last_score_time": "2026-06-26T15:58:34+00:00"
+      "points": 44.97,
+      "match_count": 2,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
     },
     "4uLEq": {
       "points": 6.9,
@@ -791,9 +791,9 @@
       "last_score_time": "2026-06-26T15:58:34+00:00"
     },
     "RRCgr": {
-      "points": 0.81,
-      "match_count": 1,
-      "last_score_time": "2026-06-26T15:58:34+00:00"
+      "points": 18.279999999999998,
+      "match_count": 2,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
     },
     "m7jq7": {
       "points": 0.46,
@@ -874,10 +874,80 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-06-26T16:14:29+00:00"
+    },
+    "7Qtt5": {
+      "points": 47.55,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T17:58:16+00:00"
+    },
+    "JLbbW": {
+      "points": 6.45,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T17:58:16+00:00"
+    },
+    "ky99v": {
+      "points": 63.18,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "rT8bV": {
+      "points": 25.22,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "W0Pi_": {
+      "points": 17.13,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "mB7RV": {
+      "points": 4.79,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "TvGbn": {
+      "points": 4.54,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "Wi5gQ": {
+      "points": 4.5,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "bwCGd": {
+      "points": 4.06,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "_tFM4": {
+      "points": 4.01,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "knnrc": {
+      "points": 3.77,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "yGyJr": {
+      "points": 2.84,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "rT9VN": {
+      "points": 0.69,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
+    },
+    "fz1FW": {
+      "points": 0.24,
+      "match_count": 1,
+      "last_score_time": "2026-06-26T18:07:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-25T21:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-06-25T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-26",
@@ -929,7 +999,53 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "ky99v": {
+          "World 2": 1
+        },
+        "63cmP": {
+          "World 2": 1
+        },
+        "Z2Yfi": {
+          "World 2": 1
+        },
+        "rT8bV": {
+          "World 2": 1
+        },
+        "RRCgr": {
+          "World 2": 1
+        },
+        "W0Pi_": {
+          "World 2": 1
+        },
+        "mB7RV": {
+          "World 2": 1
+        },
+        "TvGbn": {
+          "World 2": 1
+        },
+        "Wi5gQ": {
+          "World 2": 1
+        },
+        "bwCGd": {
+          "World 2": 1
+        },
+        "_tFM4": {
+          "World 2": 1
+        },
+        "knnrc": {
+          "World 2": 1
+        },
+        "yGyJr": {
+          "World 2": 1
+        },
+        "rT9VN": {
+          "World 2": 1
+        },
+        "fz1FW": {
+          "World 2": 1
+        }
+      },
       "hard": {
         "vt2Mr": {
           "Europe": 1
