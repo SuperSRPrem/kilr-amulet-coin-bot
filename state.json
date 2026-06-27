@@ -685,7 +685,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-06-27T10:46:42+00:00",
+  "last_seen_time": "2026-06-27T12:39:12+00:00",
   "current_scores": {
     "YsRY1": {
       "points": 18.0,
@@ -711,10 +711,15 @@
       "points": 35.0,
       "match_count": 1,
       "last_score_time": "2026-06-27T10:46:42+00:00"
+    },
+    "bTv72": {
+      "points": 20.0,
+      "match_count": 1,
+      "last_score_time": "2026-06-27T12:39:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-26T18:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-06-26T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-27",
