@@ -685,22 +685,28 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-06-26T18:07:34+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-06-27T01:18:29+00:00",
+  "current_scores": {
+    "YsRY1": {
+      "points": 18.0,
+      "match_count": 1,
+      "last_score_time": "2026-06-27T01:18:29+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-06-26T18:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-06-26T18:30:00+00:00",
   "daily_quests": {
-    "date": "2026-06-26",
-    "created_at": "2026-06-26T04:22:22.490374+00:00",
+    "date": "2026-06-27",
+    "created_at": "2026-06-27T01:29:41.180891+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 1",
+        "map": "Halo",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Halo",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -709,10 +715,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 3,
+        "map": "Island",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on Island",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -720,18 +726,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -740,86 +739,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "ky99v": {
-          "World 2": 1
-        },
-        "63cmP": {
-          "World 2": 1
-        },
-        "Z2Yfi": {
-          "World 2": 1
-        },
-        "rT8bV": {
-          "World 2": 1
-        },
-        "RRCgr": {
-          "World 2": 1
-        },
-        "W0Pi_": {
-          "World 2": 1
-        },
-        "mB7RV": {
-          "World 2": 1
-        },
-        "TvGbn": {
-          "World 2": 1
-        },
-        "Wi5gQ": {
-          "World 2": 1
-        },
-        "bwCGd": {
-          "World 2": 1
-        },
-        "_tFM4": {
-          "World 2": 1
-        },
-        "knnrc": {
-          "World 2": 1
-        },
-        "yGyJr": {
-          "World 2": 1
-        },
-        "rT9VN": {
-          "World 2": 1
-        },
-        "fz1FW": {
-          "World 2": 1
-        }
-      },
-      "hard": {
-        "vt2Mr": {
-          "Europe": 1
-        },
-        "yj975": {
-          "Europe": 1
-        },
-        "Z2Yfi": {
-          "Europe": 1
-        },
-        "wMnwQ": {
-          "Europe": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Mountains 1",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on South America",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
