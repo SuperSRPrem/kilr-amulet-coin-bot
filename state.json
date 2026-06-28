@@ -698,16 +698,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-06-27T22:00:00+00:00",
   "daily_quests": {
-    "date": "2026-06-27",
-    "created_at": "2026-06-27T01:29:41.180891+00:00",
+    "date": "2026-06-28",
+    "created_at": "2026-06-28T00:10:22.657135+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Halo",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -716,10 +716,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Island",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on Island",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -741,129 +741,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "RRCgr": {
-          "World 2": 1
-        },
-        "tcwYN": {
-          "World 2": 1
-        },
-        "qBv2v": {
-          "World 2": 1
-        },
-        "v9tRt": {
-          "World 2": 1
-        },
-        "mNtbB": {
-          "World 2": 1
-        },
-        "BNm8c": {
-          "World 2": 1
-        },
-        "BV9Qr": {
-          "World 2": 1
-        },
-        "63cmP": {
-          "World 2": 1
-        },
-        "Vr2MQ": {
-          "World 2": 1
-        },
-        "D77ct": {
-          "World 2": 1
-        },
-        "1OkLJ": {
-          "World 2": 1
-        },
-        "twCtn": {
-          "World 2": 1
-        },
-        "R7Cmc": {
-          "World 2": 1
-        },
-        "GLmRV": {
-          "World 2": 1
-        },
-        "Rvk2g": {
-          "World 2": 1
-        },
-        "D43yc": {
-          "World 2": 1
-        },
-        "MQ2tL": {
-          "World 2": 1
-        },
-        "JwrvV": {
-          "World 2": 1
-        },
-        "NTjmC": {
-          "World 2": 1
-        },
-        "m5tNm": {
-          "World 2": 1
-        },
-        "MT8bn": {
-          "World 2": 1
-        },
-        "28qtn": {
-          "World 2": 1
-        },
-        "TW5vk": {
-          "World 2": 1
-        },
-        "tQBF0": {
-          "World 2": 1
-        },
-        "NJMYJ": {
-          "World 2": 1
-        },
-        "5VR8A": {
-          "World 2": 1
-        },
-        "Vj2jT": {
-          "World 2": 1
-        },
-        "JyrjY": {
-          "World 2": 1
-        },
-        "rY9gg": {
-          "World 2": 1
-        },
-        "qYnRm": {
-          "World 2": 1
-        },
-        "q5vqy": {
-          "World 2": 1
-        },
-        "DgJJD": {
-          "World 2": 1
-        },
-        "r6Mpk": {
-          "World 2": 1
-        },
-        "c7YjN": {
-          "World 2": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-26",
+    "date": "2026-06-27",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Halo",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on Island",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
