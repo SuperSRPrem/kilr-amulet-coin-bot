@@ -692,7 +692,7 @@
       "eligible_match_count": 12
     }
   ],
-  "last_seen_time": "2026-06-28T08:15:38+00:00",
+  "last_seen_time": "2026-06-28T16:15:57+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 70.74,
@@ -740,18 +740,63 @@
       "last_score_time": "2026-06-28T04:58:28+00:00"
     },
     "Z2Yfi": {
-      "points": 22.13,
-      "match_count": 1,
-      "last_score_time": "2026-06-28T08:15:38+00:00"
+      "points": 55.81999999999999,
+      "match_count": 3,
+      "last_score_time": "2026-06-28T16:15:57+00:00"
     },
     "BtjkY": {
       "points": 1.87,
       "match_count": 1,
       "last_score_time": "2026-06-28T08:15:38+00:00"
+    },
+    "YdKrL": {
+      "points": 6.44,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:06:25+00:00"
+    },
+    "QPjfA": {
+      "points": 3.93,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:06:25+00:00"
+    },
+    "mGHi-": {
+      "points": 3.82,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:06:25+00:00"
+    },
+    "wl4IF": {
+      "points": 2.57,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:06:25+00:00"
+    },
+    "vVVRV": {
+      "points": 14.96,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:15:57+00:00"
+    },
+    "Wi5gQ": {
+      "points": 2.27,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:15:57+00:00"
+    },
+    "fxbxr": {
+      "points": 1.83,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:15:57+00:00"
+    },
+    "7V9RV": {
+      "points": 1.25,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:15:57+00:00"
+    },
+    "gB7NV": {
+      "points": 0.25,
+      "match_count": 1,
+      "last_score_time": "2026-06-28T16:15:57+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-27T22:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-06-27T22:00:00+00:00",
   "daily_quests": {
     "date": "2026-06-28",
@@ -778,8 +823,8 @@
         "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "Z2Yfi"
       },
       "hard": {
         "level": "hard",
@@ -796,7 +841,38 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "Z2Yfi": {
+          "Caucasia": 2
+        },
+        "YdKrL": {
+          "Caucasia": 1
+        },
+        "QPjfA": {
+          "Caucasia": 1
+        },
+        "mGHi-": {
+          "Caucasia": 1
+        },
+        "wl4IF": {
+          "Caucasia": 1
+        },
+        "vVVRV": {
+          "Caucasia": 1
+        },
+        "Wi5gQ": {
+          "Caucasia": 1
+        },
+        "fxbxr": {
+          "Caucasia": 1
+        },
+        "7V9RV": {
+          "Caucasia": 1
+        },
+        "gB7NV": {
+          "Caucasia": 1
+        }
+      },
       "hard": {
         "Oyf9y": {
           "World 2": 1
