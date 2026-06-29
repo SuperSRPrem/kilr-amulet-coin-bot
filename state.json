@@ -706,10 +706,66 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-06-29T10:02:44+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-06-29T17:40:10+00:00",
+  "current_scores": {
+    "tcwYN": {
+      "points": 39.55,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:23:20+00:00"
+    },
+    "mvrbb": {
+      "points": 6.65,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:23:20+00:00"
+    },
+    "dTD59": {
+      "points": 1.26,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:23:20+00:00"
+    },
+    "GVYwd": {
+      "points": 1.05,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:23:20+00:00"
+    },
+    "5ydM7": {
+      "points": 0.85,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:23:20+00:00"
+    },
+    "vYC9n": {
+      "points": 0.8,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:23:20+00:00"
+    },
+    "NvTcV": {
+      "points": 0.68,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:23:20+00:00"
+    },
+    "2eS1P": {
+      "points": 0.16,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:23:20+00:00"
+    },
+    "555vm": {
+      "points": 12.82,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:40:10+00:00"
+    },
+    "v9tmL": {
+      "points": 11.92,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:40:10+00:00"
+    },
+    "4uLEq": {
+      "points": 3.25,
+      "match_count": 1,
+      "last_score_time": "2026-06-29T17:40:10+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-06-29T13:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-06-29T13:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-29",
@@ -755,7 +811,32 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tcwYN": {
+          "World 2": 1
+        },
+        "mvrbb": {
+          "World 2": 1
+        },
+        "dTD59": {
+          "World 2": 1
+        },
+        "GVYwd": {
+          "World 2": 1
+        },
+        "5ydM7": {
+          "World 2": 1
+        },
+        "vYC9n": {
+          "World 2": 1
+        },
+        "NvTcV": {
+          "World 2": 1
+        },
+        "2eS1P": {
+          "World 2": 1
+        }
+      }
     }
   },
   "last_quest_day": {
