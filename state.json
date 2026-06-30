@@ -713,7 +713,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-06-30T12:16:09+00:00",
+  "last_seen_time": "2026-06-30T17:20:39+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 44.120000000000005,
@@ -854,10 +854,15 @@
       "points": 0.74,
       "match_count": 1,
       "last_score_time": "2026-06-30T12:16:09+00:00"
+    },
+    "BjxRv": {
+      "points": 38.0,
+      "match_count": 1,
+      "last_score_time": "2026-06-30T17:20:39+00:00"
     }
   },
   "current_cycle_started_at": "2026-06-30T06:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-06-30T06:30:00+00:00",
   "daily_quests": {
     "date": "2026-06-30",
@@ -969,6 +974,9 @@
           "Caucasia": 1
         },
         "5Nrrb": {
+          "Caucasia": 1
+        },
+        "BjxRv": {
           "Caucasia": 1
         }
       },
