@@ -880,8 +880,8 @@
   "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-06-30T06:30:00+00:00",
   "daily_quests": {
-    "date": "2026-06-30",
-    "created_at": "2026-06-30T01:31:56.957113+00:00",
+    "date": "2026-07-01",
+    "created_at": "2026-07-01T00:15:29.691513+00:00",
     "quests": {
       "easy": {
         "level": "easy",
@@ -904,15 +904,23 @@
         "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "Z2Yfi"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -921,146 +929,15 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "Z2Yfi": {
-          "Caucasia": 2
-        },
-        "zXTei": {
-          "Caucasia": 1
-        },
-        "n7Tq9": {
-          "Caucasia": 1
-        },
-        "tbntT": {
-          "Caucasia": 1
-        },
-        "0m-d9": {
-          "Caucasia": 1
-        },
-        "QQQQ9": {
-          "Caucasia": 1
-        },
-        "sMDo9": {
-          "Caucasia": 1
-        },
-        "BNxHu": {
-          "Caucasia": 1
-        },
-        "0isTk": {
-          "Caucasia": 1
-        },
-        "RBnnL": {
-          "Caucasia": 1
-        },
-        "R8888": {
-          "Caucasia": 1
-        },
-        "ShyDC": {
-          "Caucasia": 1
-        },
-        "RrbVT": {
-          "Caucasia": 1
-        },
-        "nMymj": {
-          "Caucasia": 1
-        },
-        "58VnB": {
-          "Caucasia": 1
-        },
-        "vVVRV": {
-          "Caucasia": 1
-        },
-        "MnRN2": {
-          "Caucasia": 1
-        },
-        "Oyf9y": {
-          "Caucasia": 1
-        },
-        "JGcqR": {
-          "Caucasia": 1
-        },
-        "tdTBN": {
-          "Caucasia": 1
-        },
-        "neuNs": {
-          "Caucasia": 1
-        },
-        "hJ9hd": {
-          "Caucasia": 1
-        },
-        "5Nrrb": {
-          "Caucasia": 1
-        },
-        "BjxRv": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "QQQQ9": {
-          "Contest": 1
-        },
-        "sMDo9": {
-          "Contest": 1
-        },
-        "BNxHu": {
-          "Contest": 1
-        },
-        "0isTk": {
-          "Contest": 1
-        },
-        "RBnnL": {
-          "Contest": 1
-        },
-        "R8888": {
-          "Contest": 1
-        },
-        "ShyDC": {
-          "Contest": 1
-        },
-        "RrbVT": {
-          "Contest": 1
-        },
-        "nMymj": {
-          "Contest": 1
-        },
-        "58VnB": {
-          "Contest": 1
-        },
-        "vVVRV": {
-          "Contest": 1
-        },
-        "Z2Yfi": {
-          "Contest": 1
-        },
-        "MnRN2": {
-          "Contest": 1
-        },
-        "Oyf9y": {
-          "Contest": 1
-        },
-        "JGcqR": {
-          "Contest": 1
-        },
-        "tdTBN": {
-          "Contest": 1
-        },
-        "neuNs": {
-          "Contest": 1
-        },
-        "hJ9hd": {
-          "Contest": 1
-        },
-        "5Nrrb": {
-          "Contest": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Mountains 1",
         "reward": 50,
         "done_by": null,
         "done_at": null
@@ -1072,7 +949,7 @@
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
