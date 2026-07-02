@@ -792,16 +792,16 @@
   "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-07-01T18:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-01",
-    "created_at": "2026-07-01T00:15:29.691513+00:00",
+    "date": "2026-07-02",
+    "created_at": "2026-07-02T04:12:25.484213+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 1",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -810,10 +810,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 3,
+        "map": "Desert",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 6 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -821,18 +821,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -841,161 +834,12 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "tcwYN": {
-          "Caucasia": 1
-        },
-        "Tq5b7": {
-          "Caucasia": 1
-        },
-        "59qQL": {
-          "Caucasia": 1
-        },
-        "RBnnL": {
-          "Caucasia": 1
-        },
-        "UL00A": {
-          "Caucasia": 1
-        },
-        "LN9kW": {
-          "Caucasia": 1
-        },
-        "8NQMT": {
-          "Caucasia": 1
-        },
-        "gWm5K": {
-          "Caucasia": 1
-        },
-        "eIoJe": {
-          "Caucasia": 1
-        },
-        "bmB8M": {
-          "Caucasia": 1
-        },
-        "RRCgr": {
-          "Caucasia": 1
-        },
-        "hUHp6": {
-          "Caucasia": 1
-        },
-        "QVNT7": {
-          "Caucasia": 1
-        },
-        "Wi5gQ": {
-          "Caucasia": 1
-        },
-        "LjQDb": {
-          "Caucasia": 1
-        },
-        "4uLEq": {
-          "Caucasia": 1
-        },
-        "vBRr2": {
-          "Caucasia": 1
-        },
-        "kVTjT": {
-          "Caucasia": 1
-        },
-        "BMnqV": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "Z2Yfi": {
-          "North America": 1,
-          "Asia": 2
-        },
-        "tcwYN": {
-          "North America": 1
-        },
-        "Wi5gQ": {
-          "North America": 1,
-          "Asia": 1
-        },
-        "mgTcQ": {
-          "North America": 1
-        },
-        "mqd8m": {
-          "North America": 1
-        },
-        "R8888": {
-          "Asia": 1
-        },
-        "eIoJe": {
-          "Asia": 1
-        },
-        "vtQ52": {
-          "Asia": 1
-        },
-        "gWm5K": {
-          "Asia": 1
-        },
-        "59wDQ": {
-          "Asia": 1
-        },
-        "4uLEq": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "bnnbR": {
-          "Asia": 1
-        },
-        "dY5N7": {
-          "Asia": 1
-        },
-        "Rn9rv": {
-          "Asia": 1
-        },
-        "m5tNm": {
-          "North America": 1
-        },
-        "rJcgL": {
-          "Asia": 1
-        },
-        "QwbkN": {
-          "Asia": 1
-        },
-        "v9RjK": {
-          "Asia": 1
-        },
-        "JQw9y": {
-          "Asia": 1
-        },
-        "twWTJ": {
-          "Asia": 1
-        },
-        "C2QQK": {
-          "Asia": 1
-        },
-        "BD88b": {
-          "Asia": 1
-        },
-        "yjtcb": {
-          "Asia": 1
-        },
-        "nhqzV": {
-          "Asia": 1
-        },
-        "7Qqa1": {
-          "Asia": 1
-        },
-        "mR57m": {
-          "Europe": 1
-        },
-        "tVbB8": {
-          "Europe": 1
-        },
-        "_tFM4": {
-          "Europe": 1
-        },
-        "MNVNn": {
-          "Europe": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "quests": {
       "easy": {
         "text": "Win 4 times on Mountains 1",
@@ -1010,7 +854,7 @@
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
