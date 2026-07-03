@@ -727,7 +727,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-07-03T04:27:09+00:00",
+  "last_seen_time": "2026-07-03T07:38:26+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 77.82000000000001,
@@ -1083,10 +1083,40 @@
       "points": 0.35,
       "match_count": 1,
       "last_score_time": "2026-07-03T04:27:09+00:00"
+    },
+    "nHHji": {
+      "points": 11.18,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T07:38:26+00:00"
+    },
+    "V9Bmb": {
+      "points": 7.92,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T07:38:26+00:00"
+    },
+    "r25v8": {
+      "points": 5.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T07:38:26+00:00"
+    },
+    "NGtpl": {
+      "points": 3.1,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T07:38:26+00:00"
+    },
+    "jtYLj": {
+      "points": 1.92,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T07:38:26+00:00"
+    },
+    "Rbnvn": {
+      "points": 1.9,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T07:38:26+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-02T11:00:00+00:00",
-  "current_cycle_match_count": 12,
+  "current_cycle_match_count": 13,
   "last_announced_event_time": "2026-07-02T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-03",
@@ -1191,6 +1221,24 @@
         },
         "vML2y": {
           "Asia": 1
+        },
+        "nHHji": {
+          "Australia": 1
+        },
+        "V9Bmb": {
+          "Australia": 1
+        },
+        "r25v8": {
+          "Australia": 1
+        },
+        "NGtpl": {
+          "Australia": 1
+        },
+        "jtYLj": {
+          "Australia": 1
+        },
+        "Rbnvn": {
+          "Australia": 1
         }
       }
     }
