@@ -727,12 +727,12 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-07-03T00:14:13+00:00",
+  "last_seen_time": "2026-07-03T04:27:09+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 50.53,
-      "match_count": 4,
-      "last_score_time": "2026-07-02T17:47:15+00:00"
+      "points": 77.82000000000001,
+      "match_count": 7,
+      "last_score_time": "2026-07-03T04:27:09+00:00"
     },
     "ShyDC": {
       "points": 14.69,
@@ -1033,10 +1033,60 @@
       "points": 3.9,
       "match_count": 1,
       "last_score_time": "2026-07-03T00:14:13+00:00"
+    },
+    "TrmtN": {
+      "points": 18.63,
+      "match_count": 2,
+      "last_score_time": "2026-07-03T04:19:33+00:00"
+    },
+    "QkMrR": {
+      "points": 1.77,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T04:09:31+00:00"
+    },
+    "9TTbM": {
+      "points": 3.95,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T04:19:33+00:00"
+    },
+    "vML2y": {
+      "points": 2.22,
+      "match_count": 2,
+      "last_score_time": "2026-07-03T04:27:09+00:00"
+    },
+    "0j9VY": {
+      "points": 6.85,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T04:27:09+00:00"
+    },
+    "rTT7L": {
+      "points": 5.8,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T04:27:09+00:00"
+    },
+    "5kNBT": {
+      "points": 2.14,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T04:27:09+00:00"
+    },
+    "bYpPJ": {
+      "points": 1.26,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T04:27:09+00:00"
+    },
+    "Cvt25": {
+      "points": 0.75,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T04:27:09+00:00"
+    },
+    "BTRLb": {
+      "points": 0.35,
+      "match_count": 1,
+      "last_score_time": "2026-07-03T04:27:09+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-02T11:00:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-07-02T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-03",
@@ -1063,8 +1113,8 @@
         "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "Z2Yfi"
       },
       "hard": {
         "level": "hard",
@@ -1088,7 +1138,38 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "Z2Yfi": {
+          "World 2": 2
+        },
+        "TrmtN": {
+          "World 2": 1
+        },
+        "QkMrR": {
+          "World 2": 1
+        },
+        "0j9VY": {
+          "World 2": 1
+        },
+        "rTT7L": {
+          "World 2": 1
+        },
+        "5kNBT": {
+          "World 2": 1
+        },
+        "vML2y": {
+          "World 2": 1
+        },
+        "bYpPJ": {
+          "World 2": 1
+        },
+        "Cvt25": {
+          "World 2": 1
+        },
+        "BTRLb": {
+          "World 2": 1
+        }
+      },
       "hard": {
         "bTv72": {
           "Europe": 2
@@ -1098,6 +1179,18 @@
         },
         "tQ7V7": {
           "Europe": 1
+        },
+        "TrmtN": {
+          "Asia": 1
+        },
+        "Z2Yfi": {
+          "Asia": 1
+        },
+        "9TTbM": {
+          "Asia": 1
+        },
+        "vML2y": {
+          "Asia": 1
         }
       }
     }
