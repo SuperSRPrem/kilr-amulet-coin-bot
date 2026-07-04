@@ -741,7 +741,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-07-04T16:20:19+00:00",
+  "last_seen_time": "2026-07-04T20:57:52+00:00",
   "current_scores": {
     "vMrT9": {
       "points": 31.0,
@@ -802,10 +802,40 @@
       "points": 2.29,
       "match_count": 1,
       "last_score_time": "2026-07-04T16:20:19+00:00"
+    },
+    "vt2Mr": {
+      "points": 27.52,
+      "match_count": 1,
+      "last_score_time": "2026-07-04T20:57:52+00:00"
+    },
+    "bJGbc": {
+      "points": 8.23,
+      "match_count": 1,
+      "last_score_time": "2026-07-04T20:57:52+00:00"
+    },
+    "cgR5W": {
+      "points": 2.72,
+      "match_count": 1,
+      "last_score_time": "2026-07-04T20:57:52+00:00"
+    },
+    "7RMnB": {
+      "points": 2.56,
+      "match_count": 1,
+      "last_score_time": "2026-07-04T20:57:52+00:00"
+    },
+    "Qn7rT": {
+      "points": 1.13,
+      "match_count": 1,
+      "last_score_time": "2026-07-04T20:57:52+00:00"
+    },
+    "D887n": {
+      "points": 0.84,
+      "match_count": 1,
+      "last_score_time": "2026-07-04T20:57:52+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-04T11:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-07-04T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-04",
@@ -858,7 +888,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "vt2Mr": {
+          "Africa": 1
+        },
+        "bJGbc": {
+          "Africa": 1
+        },
+        "cgR5W": {
+          "Africa": 1
+        },
+        "7RMnB": {
+          "Africa": 1
+        },
+        "Qn7rT": {
+          "Africa": 1
+        },
+        "D887n": {
+          "Africa": 1
+        }
+      }
     }
   },
   "last_quest_day": {
