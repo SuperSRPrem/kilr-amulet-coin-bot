@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-07-05T00:00:00+00:00",
-  "last_event_time": "2026-07-04T11:00:00+00:00",
+  "next_event_time": "2026-07-06T16:00:00+00:00",
+  "last_event_time": "2026-07-05T00:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -739,115 +739,31 @@
       "winner_username": "Z2Yfi",
       "winner_points": 70.65,
       "eligible_match_count": 9
+    },
+    {
+      "event_time": "2026-07-05T00:00:00+00:00",
+      "cycle_started_at": "2026-07-04T11:00:00+00:00",
+      "winner_username": "RRCgr",
+      "winner_points": 44.89,
+      "eligible_match_count": 4
     }
   ],
   "last_seen_time": "2026-07-04T20:57:52+00:00",
-  "current_scores": {
-    "vMrT9": {
-      "points": 31.0,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T11:17:01+00:00"
-    },
-    "RRCgr": {
-      "points": 44.89,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:10:40+00:00"
-    },
-    "jYRmG": {
-      "points": 0.11,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:10:40+00:00"
-    },
-    "Z2Yfi": {
-      "points": 17.44,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "GYrYL": {
-      "points": 11.46,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "rrmrD": {
-      "points": 9.34,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "27tbr": {
-      "points": 4.8,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "KYDY5": {
-      "points": 3.99,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "8vv5m": {
-      "points": 2.9,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "9wNCB": {
-      "points": 2.46,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "mgMWt": {
-      "points": 2.32,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "rMm79": {
-      "points": 2.29,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T16:20:19+00:00"
-    },
-    "vt2Mr": {
-      "points": 27.52,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T20:57:52+00:00"
-    },
-    "bJGbc": {
-      "points": 8.23,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T20:57:52+00:00"
-    },
-    "cgR5W": {
-      "points": 2.72,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T20:57:52+00:00"
-    },
-    "7RMnB": {
-      "points": 2.56,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T20:57:52+00:00"
-    },
-    "Qn7rT": {
-      "points": 1.13,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T20:57:52+00:00"
-    },
-    "D887n": {
-      "points": 0.84,
-      "match_count": 1,
-      "last_score_time": "2026-07-04T20:57:52+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-07-04T11:00:00+00:00",
-  "current_cycle_match_count": 4,
-  "last_announced_event_time": "2026-07-04T11:00:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-07-05T00:00:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-07-05T00:00:00+00:00",
   "daily_quests": {
-    "date": "2026-07-04",
-    "created_at": "2026-07-04T00:12:43.401839+00:00",
+    "date": "2026-07-05",
+    "created_at": "2026-07-05T00:07:36.568054+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -867,18 +783,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -888,39 +797,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "vt2Mr": {
-          "Africa": 1
-        },
-        "bJGbc": {
-          "Africa": 1
-        },
-        "cgR5W": {
-          "Africa": 1
-        },
-        "7RMnB": {
-          "Africa": 1
-        },
-        "Qn7rT": {
-          "Africa": 1
-        },
-        "D887n": {
-          "Africa": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-03",
+    "date": "2026-07-04",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on Mountains 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
