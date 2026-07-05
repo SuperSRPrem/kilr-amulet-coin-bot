@@ -748,10 +748,26 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-07-04T20:57:52+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-07-05T07:52:02+00:00",
+  "current_scores": {
+    "Z2Yfi": {
+      "points": 24.24,
+      "match_count": 1,
+      "last_score_time": "2026-07-05T07:52:02+00:00"
+    },
+    "jYnWv": {
+      "points": 3.74,
+      "match_count": 1,
+      "last_score_time": "2026-07-05T07:52:02+00:00"
+    },
+    "dMKNJ": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-05T07:52:02+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-07-05T00:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-07-05T00:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-05",
