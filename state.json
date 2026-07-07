@@ -762,7 +762,7 @@
       "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-07-07T21:42:34+00:00",
+  "last_seen_time": "2026-07-07T23:03:37+00:00",
   "current_scores": {
     "YWTnn": {
       "points": 8.23,
@@ -948,10 +948,20 @@
       "points": 0.29,
       "match_count": 1,
       "last_score_time": "2026-07-07T21:42:34+00:00"
+    },
+    "MQX1B": {
+      "points": 22.46,
+      "match_count": 1,
+      "last_score_time": "2026-07-07T23:03:37+00:00"
+    },
+    "DGT2J": {
+      "points": 0.54,
+      "match_count": 1,
+      "last_score_time": "2026-07-07T23:03:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-07T09:00:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-07-07T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-07",
