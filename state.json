@@ -762,7 +762,7 @@
       "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-07-07T20:20:19+00:00",
+  "last_seen_time": "2026-07-07T21:42:34+00:00",
   "current_scores": {
     "YWTnn": {
       "points": 8.23,
@@ -918,10 +918,40 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-07-07T20:20:19+00:00"
+    },
+    "VRNm8": {
+      "points": 10.81,
+      "match_count": 1,
+      "last_score_time": "2026-07-07T21:42:34+00:00"
+    },
+    "zabam": {
+      "points": 5.92,
+      "match_count": 1,
+      "last_score_time": "2026-07-07T21:42:34+00:00"
+    },
+    "dK2DW": {
+      "points": 3.03,
+      "match_count": 1,
+      "last_score_time": "2026-07-07T21:42:34+00:00"
+    },
+    "qQnV8": {
+      "points": 2.28,
+      "match_count": 1,
+      "last_score_time": "2026-07-07T21:42:34+00:00"
+    },
+    "qqKCy": {
+      "points": 1.68,
+      "match_count": 1,
+      "last_score_time": "2026-07-07T21:42:34+00:00"
+    },
+    "8vnRr": {
+      "points": 0.29,
+      "match_count": 1,
+      "last_score_time": "2026-07-07T21:42:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-07T09:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-07-07T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-07",
@@ -972,7 +1002,26 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "VRNm8": {
+          "South America": 1
+        },
+        "zabam": {
+          "South America": 1
+        },
+        "dK2DW": {
+          "South America": 1
+        },
+        "qQnV8": {
+          "South America": 1
+        },
+        "qqKCy": {
+          "South America": 1
+        },
+        "8vnRr": {
+          "South America": 1
+        }
+      },
       "hard": {
         "YWTnn": {
           "Scandinavia": 1
