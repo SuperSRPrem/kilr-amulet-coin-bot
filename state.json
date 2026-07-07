@@ -827,16 +827,16 @@
   "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-07-06T16:00:00+00:00",
   "daily_quests": {
-    "date": "2026-07-06",
-    "created_at": "2026-07-06T01:16:52.701497+00:00",
+    "date": "2026-07-07",
+    "created_at": "2026-07-07T01:18:30.020889+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 2",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -845,10 +845,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "South America",
         "target": 4,
         "reward": 100,
-        "text": "Win 4 times on World 2",
+        "text": "Win 4 times on South America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -856,11 +856,17 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
-        "target": 6,
+        "kind": "map_set",
+        "maps": [
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
+        ],
+        "target": 5,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -874,22 +880,22 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-07-05",
+    "date": "2026-07-06",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Mountains 2",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Mountains 2",
+        "text": "Win 4 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
