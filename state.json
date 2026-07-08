@@ -762,7 +762,7 @@
       "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-07-07T23:03:37+00:00",
+  "last_seen_time": "2026-07-08T10:24:30+00:00",
   "current_scores": {
     "YWTnn": {
       "points": 8.23,
@@ -775,9 +775,9 @@
       "last_score_time": "2026-07-07T12:31:03+00:00"
     },
     "Z2Yfi": {
-      "points": 4.9,
-      "match_count": 2,
-      "last_score_time": "2026-07-07T12:31:03+00:00"
+      "points": 24.83,
+      "match_count": 3,
+      "last_score_time": "2026-07-08T10:24:30+00:00"
     },
     "d9lDm": {
       "points": 3.22,
@@ -958,10 +958,45 @@
       "points": 0.54,
       "match_count": 1,
       "last_score_time": "2026-07-07T23:03:37+00:00"
+    },
+    "RRCgr": {
+      "points": 51.75,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T10:21:31+00:00"
+    },
+    "VkJBc": {
+      "points": 0.17,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T10:21:31+00:00"
+    },
+    "aqvBl": {
+      "points": 0.07,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T10:21:31+00:00"
+    },
+    "2D2YL": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T10:21:31+00:00"
+    },
+    "7ns4T": {
+      "points": 7.81,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T10:24:30+00:00"
+    },
+    "Rze-8": {
+      "points": 4.1,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T10:24:30+00:00"
+    },
+    "5BNnY": {
+      "points": 1.16,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T10:24:30+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-07T09:00:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-07-07T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-08",
@@ -1006,7 +1041,20 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "RRCgr": {
+          "World 2": 1
+        },
+        "VkJBc": {
+          "World 2": 1
+        },
+        "aqvBl": {
+          "World 2": 1
+        },
+        "2D2YL": {
+          "World 2": 1
+        }
+      },
       "hard": {}
     }
   },
