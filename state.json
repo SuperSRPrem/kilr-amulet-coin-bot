@@ -769,10 +769,61 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-07-08T11:41:02+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-07-08T23:15:12+00:00",
+  "current_scores": {
+    "zabam": {
+      "points": 24.53,
+      "match_count": 2,
+      "last_score_time": "2026-07-08T23:15:12+00:00"
+    },
+    "QxMKH": {
+      "points": 5.84,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:04:37+00:00"
+    },
+    "NR9rN": {
+      "points": 5.11,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:04:37+00:00"
+    },
+    "WkAO9": {
+      "points": 2.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:04:37+00:00"
+    },
+    "aRwKD": {
+      "points": 0.51,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:04:37+00:00"
+    },
+    "yt8wT": {
+      "points": 0.11,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:04:37+00:00"
+    },
+    "JNvC7": {
+      "points": 0.03,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:04:37+00:00"
+    },
+    "KGNgn": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:04:37+00:00"
+    },
+    "aqvBl": {
+      "points": 6.21,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:15:12+00:00"
+    },
+    "NdBJK": {
+      "points": 2.64,
+      "match_count": 1,
+      "last_score_time": "2026-07-08T23:15:12+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-07-08T13:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-07-08T13:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-08",
@@ -831,7 +882,38 @@
           "World 2": 1
         }
       },
-      "hard": {}
+      "hard": {
+        "zabam": {
+          "World 1": 2
+        },
+        "QxMKH": {
+          "World 1": 1
+        },
+        "NR9rN": {
+          "World 1": 1
+        },
+        "WkAO9": {
+          "World 1": 1
+        },
+        "aRwKD": {
+          "World 1": 1
+        },
+        "yt8wT": {
+          "World 1": 1
+        },
+        "JNvC7": {
+          "World 1": 1
+        },
+        "KGNgn": {
+          "World 1": 1
+        },
+        "aqvBl": {
+          "World 1": 1
+        },
+        "NdBJK": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
