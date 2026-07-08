@@ -964,16 +964,16 @@
   "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-07-07T09:00:00+00:00",
   "daily_quests": {
-    "date": "2026-07-07",
-    "created_at": "2026-07-07T01:18:30.020889+00:00",
+    "date": "2026-07-08",
+    "created_at": "2026-07-08T01:02:16.370862+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Halo",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Halo",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -982,10 +982,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "South America",
-        "target": 4,
+        "map": "World 2",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on South America",
+        "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -993,107 +993,40 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "map_wins",
+        "map": "World 1",
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "ShyDC"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "VRNm8": {
-          "South America": 1
-        },
-        "zabam": {
-          "South America": 1
-        },
-        "dK2DW": {
-          "South America": 1
-        },
-        "qQnV8": {
-          "South America": 1
-        },
-        "qqKCy": {
-          "South America": 1
-        },
-        "8vnRr": {
-          "South America": 1
-        }
-      },
-      "hard": {
-        "YWTnn": {
-          "Scandinavia": 1
-        },
-        "ShyDC": {
-          "Scandinavia": 1,
-          "Middle East": 1
-        },
-        "Z2Yfi": {
-          "Scandinavia": 1,
-          "Middle East": 1
-        },
-        "d9lDm": {
-          "Scandinavia": 1
-        },
-        "Q5q85": {
-          "Scandinavia": 1
-        },
-        "yctG2": {
-          "Scandinavia": 1
-        },
-        "NVYrn": {
-          "Scandinavia": 1
-        },
-        "jct7r": {
-          "Scandinavia": 1
-        },
-        "Z5TtC": {
-          "Scandinavia": 1
-        },
-        "YsRY1": {
-          "Middle East": 1
-        },
-        "Wi5gQ": {
-          "Middle East": 1
-        },
-        "ygBqY": {
-          "Middle East": 1
-        },
-        "r2bRJ": {
-          "Middle East": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-06",
+    "date": "2026-07-07",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on World 2",
+        "text": "Win 4 times on South America",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
