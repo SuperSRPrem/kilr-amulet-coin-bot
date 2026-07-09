@@ -826,16 +826,16 @@
   "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-07-08T13:00:00+00:00",
   "daily_quests": {
-    "date": "2026-07-08",
-    "created_at": "2026-07-08T01:02:16.370862+00:00",
+    "date": "2026-07-09",
+    "created_at": "2026-07-09T01:10:57.345126+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Halo",
+        "map": "White Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -844,10 +844,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "World 1",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -856,10 +856,10 @@
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 1",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -868,71 +868,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "RRCgr": {
-          "World 2": 1
-        },
-        "VkJBc": {
-          "World 2": 1
-        },
-        "aqvBl": {
-          "World 2": 1
-        },
-        "2D2YL": {
-          "World 2": 1
-        }
-      },
-      "hard": {
-        "zabam": {
-          "World 1": 2
-        },
-        "QxMKH": {
-          "World 1": 1
-        },
-        "NR9rN": {
-          "World 1": 1
-        },
-        "WkAO9": {
-          "World 1": 1
-        },
-        "aRwKD": {
-          "World 1": 1
-        },
-        "yt8wT": {
-          "World 1": 1
-        },
-        "JNvC7": {
-          "World 1": 1
-        },
-        "KGNgn": {
-          "World 1": 1
-        },
-        "aqvBl": {
-          "World 1": 1
-        },
-        "NdBJK": {
-          "World 1": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Halo",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on South America",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
