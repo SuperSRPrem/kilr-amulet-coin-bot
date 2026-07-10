@@ -782,16 +782,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-07-09T20:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-09",
-    "created_at": "2026-07-09T01:10:57.345126+00:00",
+    "date": "2026-07-10",
+    "created_at": "2026-07-10T04:02:23.383803+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Arena",
+        "map": "White Plains",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -800,10 +800,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 1",
+        "map": "Caucasia",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on World 1",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -829,22 +829,22 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on White Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 3 times on World 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
