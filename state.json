@@ -790,7 +790,7 @@
       "eligible_match_count": 7
     }
   ],
-  "last_seen_time": "2026-07-11T19:08:04+00:00",
+  "last_seen_time": "2026-07-11T20:15:21+00:00",
   "current_scores": {
     "ShyDC": {
       "points": 16.56,
@@ -813,9 +813,9 @@
       "last_score_time": "2026-07-11T19:08:04+00:00"
     },
     "tcwYN": {
-      "points": 2.76,
-      "match_count": 1,
-      "last_score_time": "2026-07-11T19:08:04+00:00"
+      "points": 15.24,
+      "match_count": 3,
+      "last_score_time": "2026-07-11T20:15:21+00:00"
     },
     "79LR9": {
       "points": 1.5,
@@ -823,18 +823,28 @@
       "last_score_time": "2026-07-11T19:08:04+00:00"
     },
     "MQX1B": {
-      "points": 1.02,
-      "match_count": 1,
-      "last_score_time": "2026-07-11T19:08:04+00:00"
+      "points": 3.72,
+      "match_count": 3,
+      "last_score_time": "2026-07-11T20:15:21+00:00"
     },
     "Wi5gQ": {
-      "points": 0.85,
+      "points": 64.68,
+      "match_count": 3,
+      "last_score_time": "2026-07-11T20:15:21+00:00"
+    },
+    "W2jYv": {
+      "points": 0.02,
       "match_count": 1,
-      "last_score_time": "2026-07-11T19:08:04+00:00"
+      "last_score_time": "2026-07-11T20:02:09+00:00"
+    },
+    "c5qcQ": {
+      "points": 12.98,
+      "match_count": 1,
+      "last_score_time": "2026-07-11T20:15:21+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-11T14:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-07-11T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-11",
@@ -880,7 +890,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "Wi5gQ": {
+          "World 2": 1
+        },
+        "c5qcQ": {
+          "World 2": 1
+        },
+        "MQX1B": {
+          "World 2": 1
+        },
+        "tcwYN": {
+          "World 2": 1
+        }
+      }
     }
   },
   "last_quest_day": {
