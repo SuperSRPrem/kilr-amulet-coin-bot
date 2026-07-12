@@ -790,7 +790,7 @@
       "eligible_match_count": 7
     }
   ],
-  "last_seen_time": "2026-07-12T06:13:03+00:00",
+  "last_seen_time": "2026-07-12T09:05:11+00:00",
   "current_scores": {
     "ShyDC": {
       "points": 16.56,
@@ -828,9 +828,9 @@
       "last_score_time": "2026-07-11T20:15:21+00:00"
     },
     "Wi5gQ": {
-      "points": 64.68,
-      "match_count": 3,
-      "last_score_time": "2026-07-11T20:15:21+00:00"
+      "points": 71.43,
+      "match_count": 4,
+      "last_score_time": "2026-07-12T09:05:11+00:00"
     },
     "W2jYv": {
       "points": 0.02,
@@ -876,10 +876,25 @@
       "points": 3.39,
       "match_count": 1,
       "last_score_time": "2026-07-12T06:13:03+00:00"
+    },
+    "yr7Dq": {
+      "points": 24.18,
+      "match_count": 1,
+      "last_score_time": "2026-07-12T09:05:11+00:00"
+    },
+    "GtnWt": {
+      "points": 4.62,
+      "match_count": 1,
+      "last_score_time": "2026-07-12T09:05:11+00:00"
+    },
+    "CbcdC": {
+      "points": 1.45,
+      "match_count": 1,
+      "last_score_time": "2026-07-12T09:05:11+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-11T14:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-07-11T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-12",
