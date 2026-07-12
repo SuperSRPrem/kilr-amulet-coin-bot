@@ -872,16 +872,16 @@
   "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-07-11T14:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-11",
-    "created_at": "2026-07-11T00:04:43.157523+00:00",
+    "date": "2026-07-12",
+    "created_at": "2026-07-12T03:40:55.730659+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Halo",
+        "map": "Island",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Island",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -890,10 +890,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "White Plains",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on White Plains",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -902,10 +902,10 @@
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -915,33 +915,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Wi5gQ": {
-          "World 2": 1
-        },
-        "c5qcQ": {
-          "World 2": 1
-        },
-        "MQX1B": {
-          "World 2": 1
-        },
-        "tcwYN": {
-          "World 2": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Halo",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 6 times on White Plains",
         "reward": 100,
         "done_by": null,
         "done_at": null
