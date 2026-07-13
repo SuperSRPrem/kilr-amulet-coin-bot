@@ -804,7 +804,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-07-13T16:05:12+00:00",
+  "last_seen_time": "2026-07-13T19:54:38+00:00",
   "current_scores": {
     "STJAm": {
       "points": 28.61,
@@ -965,10 +965,80 @@
       "points": 1.54,
       "match_count": 1,
       "last_score_time": "2026-07-13T16:05:12+00:00"
+    },
+    "t2NvQ": {
+      "points": 19.15,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:40:48+00:00"
+    },
+    "vt2Mr": {
+      "points": 7.51,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:40:48+00:00"
+    },
+    "bcNYD": {
+      "points": 2.21,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:40:48+00:00"
+    },
+    "vTBYW": {
+      "points": 1.13,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:40:48+00:00"
+    },
+    "Vclp1": {
+      "points": 19.71,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "3L3JR": {
+      "points": 5.17,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "9yW2R": {
+      "points": 3.53,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "b7C5C": {
+      "points": 3.37,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "mvnV5": {
+      "points": 1.41,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "sjnFy": {
+      "points": 1.06,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "dWRtJ": {
+      "points": 0.88,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "89Q7q": {
+      "points": 0.48,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "7QqcT": {
+      "points": 0.36,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
+    },
+    "tnYWR": {
+      "points": 0.03,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T19:54:38+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-13T02:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-07-13T02:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-13",
@@ -1039,6 +1109,18 @@
         },
         "nL9nV": {
           "Europe": 1
+        },
+        "t2NvQ": {
+          "South America": 1
+        },
+        "vt2Mr": {
+          "South America": 1
+        },
+        "bcNYD": {
+          "South America": 1
+        },
+        "vTBYW": {
+          "South America": 1
         }
       }
     }
