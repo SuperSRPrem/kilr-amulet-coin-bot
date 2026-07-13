@@ -804,7 +804,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-07-13T07:26:44+00:00",
+  "last_seen_time": "2026-07-13T16:05:12+00:00",
   "current_scores": {
     "STJAm": {
       "points": 28.61,
@@ -845,10 +845,130 @@
       "points": 1.78,
       "match_count": 1,
       "last_score_time": "2026-07-13T07:26:44+00:00"
+    },
+    "RRCgr": {
+      "points": 33.34,
+      "match_count": 3,
+      "last_score_time": "2026-07-13T16:05:12+00:00"
+    },
+    "QQmV2": {
+      "points": 2.9,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "N8qQ5": {
+      "points": 2.6,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "Rvk2g": {
+      "points": 2.55,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "yIALm": {
+      "points": 2.07,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "KC8wr": {
+      "points": 2.05,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "N889R": {
+      "points": 1.99,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "nJJBk": {
+      "points": 1.93,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "vYVgV": {
+      "points": 1.65,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "rKnJN": {
+      "points": 1.31,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "87Btm": {
+      "points": 1.26,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "nZ1wm": {
+      "points": 1.07,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "vkr2d": {
+      "points": 1.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "n8858": {
+      "points": 0.97,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "LgtTX": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:47:21+00:00"
+    },
+    "RBqN2": {
+      "points": 57.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:51:57+00:00"
+    },
+    "r9MVv": {
+      "points": 7.51,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:54:24+00:00"
+    },
+    "rWd8T": {
+      "points": 5.36,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:54:24+00:00"
+    },
+    "WkChL": {
+      "points": 3.19,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:54:24+00:00"
+    },
+    "B592L": {
+      "points": 2.67,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:54:24+00:00"
+    },
+    "nL9nV": {
+      "points": 2.59,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T15:54:24+00:00"
+    },
+    "Wi5gQ": {
+      "points": 23.73,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T16:05:12+00:00"
+    },
+    "LyRRr": {
+      "points": 1.69,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T16:05:12+00:00"
+    },
+    "4uLEq": {
+      "points": 1.54,
+      "match_count": 1,
+      "last_score_time": "2026-07-13T16:05:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-13T02:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-07-13T02:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-13",
@@ -901,7 +1021,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "RRCgr": {
+          "Europe": 1
+        },
+        "r9MVv": {
+          "Europe": 1
+        },
+        "rWd8T": {
+          "Europe": 1
+        },
+        "WkChL": {
+          "Europe": 1
+        },
+        "B592L": {
+          "Europe": 1
+        },
+        "nL9nV": {
+          "Europe": 1
+        }
+      }
     }
   },
   "last_quest_day": {
