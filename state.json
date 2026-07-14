@@ -811,10 +811,26 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-07-13T19:54:38+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-07-14T11:37:37+00:00",
+  "current_scores": {
+    "GLnTa": {
+      "points": 26.3,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T11:37:37+00:00"
+    },
+    "TQbVL": {
+      "points": 2.98,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T11:37:37+00:00"
+    },
+    "JbM8w": {
+      "points": 2.72,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T11:37:37+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-07-14T04:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-07-14T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-14",
