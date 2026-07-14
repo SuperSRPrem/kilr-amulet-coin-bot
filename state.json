@@ -811,7 +811,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-07-14T15:47:51+00:00",
+  "last_seen_time": "2026-07-14T17:21:09+00:00",
   "current_scores": {
     "GLnTa": {
       "points": 26.3,
@@ -829,9 +829,9 @@
       "last_score_time": "2026-07-14T11:37:37+00:00"
     },
     "BjxRv": {
-      "points": 43.0,
-      "match_count": 1,
-      "last_score_time": "2026-07-14T15:38:38+00:00"
+      "points": 80.0,
+      "match_count": 2,
+      "last_score_time": "2026-07-14T17:12:30+00:00"
     },
     "4uLEq": {
       "points": 14.07,
@@ -882,10 +882,60 @@
       "points": 0.02,
       "match_count": 1,
       "last_score_time": "2026-07-14T15:47:51+00:00"
+    },
+    "YsRY1": {
+      "points": 20.6,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "k5mDg": {
+      "points": 8.28,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "R8Y9N": {
+      "points": 3.89,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "DYqD8": {
+      "points": 3.56,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "7vRMR": {
+      "points": 3.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "QjKY9": {
+      "points": 2.96,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "Wi5gQ": {
+      "points": 2.63,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "KDD8N": {
+      "points": 2.05,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "2vJwT": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
+    },
+    "LGwyw": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-14T17:21:09+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-14T04:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-07-14T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-14",
