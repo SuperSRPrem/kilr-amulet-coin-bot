@@ -811,7 +811,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-07-15T08:57:52+00:00",
+  "last_seen_time": "2026-07-15T10:51:27+00:00",
   "current_scores": {
     "GLnTa": {
       "points": 26.3,
@@ -1072,10 +1072,25 @@
       "points": 1.73,
       "match_count": 1,
       "last_score_time": "2026-07-15T08:57:52+00:00"
+    },
+    "vwdyw": {
+      "points": 16.39,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T10:51:27+00:00"
+    },
+    "L2mt7": {
+      "points": 13.48,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T10:51:27+00:00"
+    },
+    "wfgv0": {
+      "points": 4.12,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T10:51:27+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-14T04:30:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-07-14T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-15",
