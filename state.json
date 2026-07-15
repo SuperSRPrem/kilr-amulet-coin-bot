@@ -811,7 +811,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-07-15T14:54:43+00:00",
+  "last_seen_time": "2026-07-15T18:04:36+00:00",
   "current_scores": {
     "GLnTa": {
       "points": 26.3,
@@ -829,9 +829,9 @@
       "last_score_time": "2026-07-14T11:37:37+00:00"
     },
     "BjxRv": {
-      "points": 80.0,
-      "match_count": 2,
-      "last_score_time": "2026-07-14T17:12:30+00:00"
+      "points": 105.64,
+      "match_count": 3,
+      "last_score_time": "2026-07-15T18:04:36+00:00"
     },
     "4uLEq": {
       "points": 14.07,
@@ -884,9 +884,9 @@
       "last_score_time": "2026-07-14T15:47:51+00:00"
     },
     "YsRY1": {
-      "points": 20.6,
-      "match_count": 1,
-      "last_score_time": "2026-07-14T17:21:09+00:00"
+      "points": 37.28,
+      "match_count": 3,
+      "last_score_time": "2026-07-15T18:04:36+00:00"
     },
     "k5mDg": {
       "points": 8.28,
@@ -914,9 +914,9 @@
       "last_score_time": "2026-07-14T17:21:09+00:00"
     },
     "Wi5gQ": {
-      "points": 2.63,
-      "match_count": 1,
-      "last_score_time": "2026-07-14T17:21:09+00:00"
+      "points": 16.69,
+      "match_count": 3,
+      "last_score_time": "2026-07-15T18:04:36+00:00"
     },
     "KDD8N": {
       "points": 2.05,
@@ -1089,9 +1089,9 @@
       "last_score_time": "2026-07-15T10:51:27+00:00"
     },
     "RRCgr": {
-      "points": 32.08,
-      "match_count": 2,
-      "last_score_time": "2026-07-15T14:54:43+00:00"
+      "points": 34.58,
+      "match_count": 3,
+      "last_score_time": "2026-07-15T17:48:53+00:00"
     },
     "xdj7B": {
       "points": 9.76,
@@ -1162,10 +1162,60 @@
       "points": 1.41,
       "match_count": 1,
       "last_score_time": "2026-07-15T14:54:43+00:00"
+    },
+    "NkTBG": {
+      "points": 10.79,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T17:48:53+00:00"
+    },
+    "TT2tg": {
+      "points": 5.69,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T17:48:53+00:00"
+    },
+    "v5rKd": {
+      "points": 2.53,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T17:48:53+00:00"
+    },
+    "2NMjK": {
+      "points": 1.22,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T17:48:53+00:00"
+    },
+    "87Wrn": {
+      "points": 0.88,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T17:48:53+00:00"
+    },
+    "75bvB": {
+      "points": 17.4,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T18:02:34+00:00"
+    },
+    "e8std": {
+      "points": 4.24,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T18:02:34+00:00"
+    },
+    "fqA5R": {
+      "points": 2.63,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T18:02:34+00:00"
+    },
+    "Vclp1": {
+      "points": 2.54,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T18:02:34+00:00"
+    },
+    "t9nGY": {
+      "points": 2.19,
+      "match_count": 1,
+      "last_score_time": "2026-07-15T18:02:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-14T04:30:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 16,
   "last_announced_event_time": "2026-07-14T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-15",
@@ -1217,8 +1267,63 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
-      "hard": {}
+      "medium": {
+        "NkTBG": {
+          "North America": 1
+        },
+        "YsRY1": {
+          "North America": 1
+        },
+        "Wi5gQ": {
+          "North America": 1
+        },
+        "TT2tg": {
+          "North America": 1
+        },
+        "v5rKd": {
+          "North America": 1
+        },
+        "RRCgr": {
+          "North America": 1
+        },
+        "2NMjK": {
+          "North America": 1
+        },
+        "87Wrn": {
+          "North America": 1
+        }
+      },
+      "hard": {
+        "NkTBG": {
+          "North America": 1
+        },
+        "YsRY1": {
+          "North America": 1,
+          "Europe": 1
+        },
+        "Wi5gQ": {
+          "North America": 1,
+          "Europe": 1
+        },
+        "TT2tg": {
+          "North America": 1
+        },
+        "v5rKd": {
+          "North America": 1
+        },
+        "RRCgr": {
+          "North America": 1
+        },
+        "2NMjK": {
+          "North America": 1
+        },
+        "87Wrn": {
+          "North America": 1
+        },
+        "BjxRv": {
+          "Europe": 1
+        }
+      }
     }
   },
   "last_quest_day": {
