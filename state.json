@@ -825,7 +825,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-07-17T06:08:40+00:00",
+  "last_seen_time": "2026-07-17T08:34:19+00:00",
   "current_scores": {
     "8DO6T": {
       "points": 17.84,
@@ -928,9 +928,9 @@
       "last_score_time": "2026-07-17T00:03:08+00:00"
     },
     "YsRY1": {
-      "points": 16.16,
-      "match_count": 2,
-      "last_score_time": "2026-07-17T06:07:40+00:00"
+      "points": 25.52,
+      "match_count": 4,
+      "last_score_time": "2026-07-17T08:30:16+00:00"
     },
     "8k9b7": {
       "points": 6.73,
@@ -988,9 +988,9 @@
       "last_score_time": "2026-07-17T06:07:40+00:00"
     },
     "RRCgr": {
-      "points": 7.93,
-      "match_count": 1,
-      "last_score_time": "2026-07-17T06:08:40+00:00"
+      "points": 62.699999999999996,
+      "match_count": 3,
+      "last_score_time": "2026-07-17T08:30:16+00:00"
     },
     "LY2TG": {
       "points": 7.25,
@@ -1021,10 +1021,80 @@
       "points": 0.16,
       "match_count": 1,
       "last_score_time": "2026-07-17T06:08:40+00:00"
+    },
+    "993xc": {
+      "points": 8.22,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:20:54+00:00"
+    },
+    "MBMvv": {
+      "points": 5.31,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:20:54+00:00"
+    },
+    "WDnMm": {
+      "points": 2.97,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:20:54+00:00"
+    },
+    "NLkbL": {
+      "points": 1.91,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:20:54+00:00"
+    },
+    "gR4_-": {
+      "points": 0.46,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:30:16+00:00"
+    },
+    "tcwYN": {
+      "points": 19.6,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
+    },
+    "vR8b9": {
+      "points": 7.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
+    },
+    "pHlzK": {
+      "points": 6.28,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
+    },
+    "CG95q": {
+      "points": 3.81,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
+    },
+    "rbDRT": {
+      "points": 2.56,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
+    },
+    "7Wqtc": {
+      "points": 1.42,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
+    },
+    "L7SAM": {
+      "points": 0.28,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
+    },
+    "Q2R5L": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
+    },
+    "8G5MC": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T08:34:19+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-16T20:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-07-16T20:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-17",
@@ -1076,7 +1146,26 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "RRCgr": {
+          "Caucasia": 1
+        },
+        "993xc": {
+          "Caucasia": 1
+        },
+        "MBMvv": {
+          "Caucasia": 1
+        },
+        "YsRY1": {
+          "Caucasia": 1
+        },
+        "WDnMm": {
+          "Caucasia": 1
+        },
+        "NLkbL": {
+          "Caucasia": 1
+        }
+      },
       "hard": {
         "STJAm": {
           "Australia": 1
@@ -1103,6 +1192,33 @@
           "Asia": 1
         },
         "D9G2J": {
+          "Asia": 1
+        },
+        "tcwYN": {
+          "Asia": 1
+        },
+        "vR8b9": {
+          "Asia": 1
+        },
+        "pHlzK": {
+          "Asia": 1
+        },
+        "CG95q": {
+          "Asia": 1
+        },
+        "rbDRT": {
+          "Asia": 1
+        },
+        "7Wqtc": {
+          "Asia": 1
+        },
+        "L7SAM": {
+          "Asia": 1
+        },
+        "Q2R5L": {
+          "Asia": 1
+        },
+        "8G5MC": {
           "Asia": 1
         }
       }
