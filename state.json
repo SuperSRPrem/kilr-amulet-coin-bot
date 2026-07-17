@@ -825,7 +825,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-07-16T22:23:13+00:00",
+  "last_seen_time": "2026-07-17T00:03:08+00:00",
   "current_scores": {
     "8DO6T": {
       "points": 17.84,
@@ -833,9 +833,9 @@
       "last_score_time": "2026-07-16T22:07:27+00:00"
     },
     "STJAm": {
-      "points": 8.19,
-      "match_count": 1,
-      "last_score_time": "2026-07-16T22:07:27+00:00"
+      "points": 14.32,
+      "match_count": 2,
+      "last_score_time": "2026-07-17T00:03:08+00:00"
     },
     "GMpKE": {
       "points": 6.48,
@@ -916,22 +916,32 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-07-16T22:23:13+00:00"
+    },
+    "Nm9CJ": {
+      "points": 6.02,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T00:03:08+00:00"
+    },
+    "7Jgyr": {
+      "points": 2.85,
+      "match_count": 1,
+      "last_score_time": "2026-07-17T00:03:08+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-16T20:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-07-16T20:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-16",
-    "created_at": "2026-07-16T00:03:52.592616+00:00",
+    "date": "2026-07-17",
+    "created_at": "2026-07-17T00:04:41.795838+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -951,11 +961,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -966,65 +983,35 @@
       "easy": {},
       "medium": {},
       "hard": {
-        "tcwYN": {
-          "World 1": 1
-        },
-        "wkQJG": {
-          "World 1": 1
-        },
-        "b5LVB": {
-          "World 1": 1
-        },
-        "6HCBZ": {
-          "World 1": 1
-        },
-        "BVq58": {
-          "World 1": 1
-        },
-        "LnQMN": {
-          "World 1": 1
-        },
-        "n5M7r": {
-          "World 1": 1
-        },
-        "8DO6T": {
-          "World 1": 1
-        },
         "STJAm": {
-          "World 1": 1
+          "Australia": 1
         },
-        "GMpKE": {
-          "World 1": 1
+        "Nm9CJ": {
+          "Australia": 1
         },
-        "J5Wy7": {
-          "World 1": 1
-        },
-        "vMBnV": {
-          "World 1": 1
-        },
-        "mTgLy": {
-          "World 1": 1
+        "7Jgyr": {
+          "Australia": 1
         }
       }
     }
   },
   "last_quest_day": {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on North America",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
