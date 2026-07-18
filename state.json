@@ -832,7 +832,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-07-18T14:46:16+00:00",
+  "last_seen_time": "2026-07-18T16:22:15+00:00",
   "current_scores": {
     "Vclp1": {
       "points": 9.09,
@@ -865,14 +865,14 @@
       "last_score_time": "2026-07-18T04:08:20+00:00"
     },
     "63cmP": {
-      "points": 18.72,
-      "match_count": 3,
-      "last_score_time": "2026-07-18T14:46:16+00:00"
+      "points": 20.709999999999997,
+      "match_count": 4,
+      "last_score_time": "2026-07-18T16:09:33+00:00"
     },
     "tcwYN": {
-      "points": 24.28,
-      "match_count": 2,
-      "last_score_time": "2026-07-18T14:46:16+00:00"
+      "points": 76.34,
+      "match_count": 4,
+      "last_score_time": "2026-07-18T16:22:15+00:00"
     },
     "dTD59": {
       "points": 4.38,
@@ -915,9 +915,9 @@
       "last_score_time": "2026-07-18T14:36:56+00:00"
     },
     "DYqD8": {
-      "points": 0.4,
-      "match_count": 1,
-      "last_score_time": "2026-07-18T14:36:56+00:00"
+      "points": 4.83,
+      "match_count": 2,
+      "last_score_time": "2026-07-18T16:22:15+00:00"
     },
     "tYryr": {
       "points": 0.22,
@@ -933,10 +933,25 @@
       "points": 12.87,
       "match_count": 1,
       "last_score_time": "2026-07-18T14:46:16+00:00"
+    },
+    "Vr9Vn": {
+      "points": 8.68,
+      "match_count": 1,
+      "last_score_time": "2026-07-18T16:09:33+00:00"
+    },
+    "sZRU9": {
+      "points": 4.61,
+      "match_count": 1,
+      "last_score_time": "2026-07-18T16:09:33+00:00"
+    },
+    "bKkwL": {
+      "points": 1.23,
+      "match_count": 1,
+      "last_score_time": "2026-07-18T16:09:33+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-17T21:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-07-17T21:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-18",
