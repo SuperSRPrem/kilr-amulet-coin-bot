@@ -838,16 +838,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-07-17T21:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-17",
-    "created_at": "2026-07-17T00:04:41.795838+00:00",
+    "date": "2026-07-18",
+    "created_at": "2026-07-18T01:00:45.334127+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Mountains 2",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Mountains 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -856,10 +856,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 3,
+        "map": "Halo",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 6 times on Halo",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -867,18 +867,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -887,121 +880,15 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "RRCgr": {
-          "Caucasia": 1
-        },
-        "993xc": {
-          "Caucasia": 1
-        },
-        "MBMvv": {
-          "Caucasia": 1
-        },
-        "YsRY1": {
-          "Caucasia": 1
-        },
-        "WDnMm": {
-          "Caucasia": 1
-        },
-        "NLkbL": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "STJAm": {
-          "Australia": 1
-        },
-        "Nm9CJ": {
-          "Australia": 1
-        },
-        "7Jgyr": {
-          "Australia": 1
-        },
-        "YsRY1": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "8k9b7": {
-          "Asia": 1
-        },
-        "pcqxg": {
-          "Asia": 1
-        },
-        "WgbbK": {
-          "Asia": 1
-        },
-        "fouUr": {
-          "Asia": 1
-        },
-        "D9G2J": {
-          "Asia": 1
-        },
-        "tcwYN": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "vR8b9": {
-          "Asia": 1
-        },
-        "pHlzK": {
-          "Asia": 1
-        },
-        "CG95q": {
-          "Asia": 1
-        },
-        "rbDRT": {
-          "Asia": 1
-        },
-        "7Wqtc": {
-          "Asia": 1
-        },
-        "L7SAM": {
-          "Asia": 1
-        },
-        "Q2R5L": {
-          "Asia": 1
-        },
-        "8G5MC": {
-          "Asia": 1
-        },
-        "BjxRv": {
-          "North America": 1
-        },
-        "2z1Fm": {
-          "North America": 1
-        },
-        "Wqqmv": {
-          "Europe": 1
-        },
-        "dkVrN": {
-          "Europe": 1
-        },
-        "_69aV": {
-          "Europe": 1
-        },
-        "bJLtQ": {
-          "Europe": 1
-        },
-        "5Tv7V": {
-          "Europe": 1
-        },
-        "3gBv3": {
-          "Europe": 1
-        },
-        "8tBQL": {
-          "Europe": 1
-        },
-        "Wi5gQ": {
-          "Europe": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
@@ -1013,7 +900,7 @@
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
