@@ -832,7 +832,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-07-18T04:08:20+00:00",
+  "last_seen_time": "2026-07-18T11:23:50+00:00",
   "current_scores": {
     "Vclp1": {
       "points": 9.09,
@@ -863,10 +863,15 @@
       "points": 0.18,
       "match_count": 1,
       "last_score_time": "2026-07-18T04:08:20+00:00"
+    },
+    "63cmP": {
+      "points": 8.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-18T11:23:50+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-17T21:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-07-17T21:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-18",
@@ -911,7 +916,11 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "63cmP": {
+          "Halo": 1
+        }
+      },
       "hard": {}
     }
   },
