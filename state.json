@@ -846,7 +846,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-07-19T13:55:27+00:00",
+  "last_seen_time": "2026-07-19T15:18:08+00:00",
   "current_scores": {
     "63cmP": {
       "points": 37.519999999999996,
@@ -854,9 +854,9 @@
       "last_score_time": "2026-07-19T13:55:27+00:00"
     },
     "YsRY1": {
-      "points": 16.3,
-      "match_count": 4,
-      "last_score_time": "2026-07-19T13:55:27+00:00"
+      "points": 19.130000000000003,
+      "match_count": 5,
+      "last_score_time": "2026-07-19T15:18:08+00:00"
     },
     "8tBQL": {
       "points": 11.48,
@@ -1019,14 +1019,14 @@
       "last_score_time": "2026-07-19T12:27:28+00:00"
     },
     "RBqN2": {
-      "points": 17.84,
-      "match_count": 2,
-      "last_score_time": "2026-07-19T13:55:27+00:00"
+      "points": 32.61,
+      "match_count": 3,
+      "last_score_time": "2026-07-19T15:18:08+00:00"
     },
     "tv999": {
-      "points": 17.4,
-      "match_count": 2,
-      "last_score_time": "2026-07-19T13:55:27+00:00"
+      "points": 92.96000000000001,
+      "match_count": 3,
+      "last_score_time": "2026-07-19T15:18:08+00:00"
     },
     "RCck7": {
       "points": 3.34,
@@ -1047,10 +1047,30 @@
       "points": 0.81,
       "match_count": 1,
       "last_score_time": "2026-07-19T13:45:52+00:00"
+    },
+    "Jb9dJ": {
+      "points": 79.05,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T15:18:08+00:00"
+    },
+    "k7w7W": {
+      "points": 8.34,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T15:18:08+00:00"
+    },
+    "fm0r2": {
+      "points": 1.77,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T15:18:08+00:00"
+    },
+    "vbVgN": {
+      "points": 1.68,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T15:18:08+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-19T10:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-07-19T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-19",
@@ -1109,6 +1129,27 @@
           "Caucasia": 1
         },
         "rT8bV": {
+          "Caucasia": 1
+        },
+        "Jb9dJ": {
+          "Caucasia": 1
+        },
+        "tv999": {
+          "Caucasia": 1
+        },
+        "RBqN2": {
+          "Caucasia": 1
+        },
+        "k7w7W": {
+          "Caucasia": 1
+        },
+        "YsRY1": {
+          "Caucasia": 1
+        },
+        "fm0r2": {
+          "Caucasia": 1
+        },
+        "vbVgN": {
           "Caucasia": 1
         }
       },
