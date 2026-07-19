@@ -839,7 +839,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-07-18T22:21:04+00:00",
+  "last_seen_time": "2026-07-19T07:23:16+00:00",
   "current_scores": {
     "rBQN8": {
       "points": 11.64,
@@ -857,9 +857,9 @@
       "last_score_time": "2026-07-18T17:25:51+00:00"
     },
     "63cmP": {
-      "points": 52.47,
-      "match_count": 6,
-      "last_score_time": "2026-07-18T22:21:04+00:00"
+      "points": 63.25,
+      "match_count": 7,
+      "last_score_time": "2026-07-19T07:23:16+00:00"
     },
     "YsRY1": {
       "points": 54.93,
@@ -902,9 +902,9 @@
       "last_score_time": "2026-07-18T20:21:13+00:00"
     },
     "tcwYN": {
-      "points": 15.02,
-      "match_count": 3,
-      "last_score_time": "2026-07-18T22:21:04+00:00"
+      "points": 16.189999999999998,
+      "match_count": 4,
+      "last_score_time": "2026-07-19T07:23:16+00:00"
     },
     "-B56W": {
       "points": 5.79,
@@ -995,10 +995,35 @@
       "points": 2.39,
       "match_count": 1,
       "last_score_time": "2026-07-18T22:21:04+00:00"
+    },
+    "tv999": {
+      "points": 17.16,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T07:23:16+00:00"
+    },
+    "8tBQL": {
+      "points": 3.46,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T07:23:16+00:00"
+    },
+    "MQX1B": {
+      "points": 2.27,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T07:23:16+00:00"
+    },
+    "TmmwY": {
+      "points": 1.67,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T07:23:16+00:00"
+    },
+    "Rb8TG": {
+      "points": 0.49,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T07:23:16+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-18T16:30:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-07-18T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-19",
@@ -1044,7 +1069,29 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tv999": {
+          "World 1": 1
+        },
+        "63cmP": {
+          "World 1": 1
+        },
+        "8tBQL": {
+          "World 1": 1
+        },
+        "MQX1B": {
+          "World 1": 1
+        },
+        "TmmwY": {
+          "World 1": 1
+        },
+        "tcwYN": {
+          "World 1": 1
+        },
+        "Rb8TG": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
