@@ -846,7 +846,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-07-19T15:18:08+00:00",
+  "last_seen_time": "2026-07-19T21:00:39+00:00",
   "current_scores": {
     "63cmP": {
       "points": 37.519999999999996,
@@ -1067,10 +1067,55 @@
       "points": 1.68,
       "match_count": 1,
       "last_score_time": "2026-07-19T15:18:08+00:00"
+    },
+    "T2RwL": {
+      "points": 16.43,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
+    },
+    "qTTJ2": {
+      "points": 7.1,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
+    },
+    "JFE2Y": {
+      "points": 6.89,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
+    },
+    "q2Jgb": {
+      "points": 1.53,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
+    },
+    "DtnmJ": {
+      "points": 1.02,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
+    },
+    "CLKry": {
+      "points": 0.84,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
+    },
+    "KVKQg": {
+      "points": 0.67,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
+    },
+    "Wk8BB": {
+      "points": 0.43,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
+    },
+    "mbQQT": {
+      "points": 0.09,
+      "match_count": 1,
+      "last_score_time": "2026-07-19T21:00:39+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-19T10:30:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-07-19T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-19",
@@ -1173,6 +1218,33 @@
           "World 1": 1
         },
         "Rb8TG": {
+          "World 1": 1
+        },
+        "T2RwL": {
+          "World 1": 1
+        },
+        "qTTJ2": {
+          "World 1": 1
+        },
+        "JFE2Y": {
+          "World 1": 1
+        },
+        "q2Jgb": {
+          "World 1": 1
+        },
+        "DtnmJ": {
+          "World 1": 1
+        },
+        "CLKry": {
+          "World 1": 1
+        },
+        "KVKQg": {
+          "World 1": 1
+        },
+        "Wk8BB": {
+          "World 1": 1
+        },
+        "mbQQT": {
           "World 1": 1
         }
       }
