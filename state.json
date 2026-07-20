@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-07-20T00:00:00+00:00",
-  "last_event_time": "2026-07-19T10:30:00+00:00",
+  "next_event_time": "2026-07-21T05:30:00+00:00",
+  "last_event_time": "2026-07-20T00:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -844,360 +844,31 @@
       "winner_username": "63cmP",
       "winner_points": 63.25,
       "eligible_match_count": 9
+    },
+    {
+      "event_time": "2026-07-20T00:00:00+00:00",
+      "cycle_started_at": "2026-07-19T10:30:00+00:00",
+      "winner_username": "tv999",
+      "winner_points": 92.96,
+      "eligible_match_count": 10
     }
   ],
   "last_seen_time": "2026-07-19T22:14:55+00:00",
-  "current_scores": {
-    "63cmP": {
-      "points": 37.519999999999996,
-      "match_count": 5,
-      "last_score_time": "2026-07-19T13:55:27+00:00"
-    },
-    "YsRY1": {
-      "points": 19.130000000000003,
-      "match_count": 5,
-      "last_score_time": "2026-07-19T15:18:08+00:00"
-    },
-    "8tBQL": {
-      "points": 11.48,
-      "match_count": 5,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "rT8bV": {
-      "points": 29.57,
-      "match_count": 7,
-      "last_score_time": "2026-07-19T13:55:27+00:00"
-    },
-    "uaivB": {
-      "points": 1.87,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T10:54:53+00:00"
-    },
-    "qq7Nm": {
-      "points": 1.07,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T10:54:53+00:00"
-    },
-    "kL7yQ": {
-      "points": 0.98,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T10:54:53+00:00"
-    },
-    "Z2Yfi": {
-      "points": 91.72,
-      "match_count": 7,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "Jmcnc": {
-      "points": 9.35,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T11:14:15+00:00"
-    },
-    "5GNmv": {
-      "points": 6.42,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T11:14:15+00:00"
-    },
-    "RDbC9": {
-      "points": 3.37,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T11:14:15+00:00"
-    },
-    "tcwYN": {
-      "points": 34.199999999999996,
-      "match_count": 6,
-      "last_score_time": "2026-07-19T13:55:27+00:00"
-    },
-    "bBNqR": {
-      "points": 0.03,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T11:14:15+00:00"
-    },
-    "wyjQc": {
-      "points": 3.31,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "VR5Q7": {
-      "points": 2.83,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "GGnKb": {
-      "points": 2.13,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "2ddWL": {
-      "points": 1.09,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "Wi5gQ": {
-      "points": 1.08,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "gNCrj": {
-      "points": 1.01,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "wTGnW": {
-      "points": 0.93,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "59qYK": {
-      "points": 0.64,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "QqdCB": {
-      "points": 0.54,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "8mtvq": {
-      "points": 0.09,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:09:31+00:00"
-    },
-    "DyBC8": {
-      "points": 5.37,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:20:09+00:00"
-    },
-    "B5R7t": {
-      "points": 5.27,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "YkVQg": {
-      "points": 3.13,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "bAC4z": {
-      "points": 2.68,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "WU-nd": {
-      "points": 2.53,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "8wKTc": {
-      "points": 2.5,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "d5027": {
-      "points": 1.63,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "oDju_": {
-      "points": 1.37,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "mwGva": {
-      "points": 1.25,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "TVvmR": {
-      "points": 1.2,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "8CJ8d": {
-      "points": 1.01,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T12:27:28+00:00"
-    },
-    "RBqN2": {
-      "points": 32.61,
-      "match_count": 3,
-      "last_score_time": "2026-07-19T15:18:08+00:00"
-    },
-    "tv999": {
-      "points": 92.96000000000001,
-      "match_count": 3,
-      "last_score_time": "2026-07-19T15:18:08+00:00"
-    },
-    "RCck7": {
-      "points": 3.34,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T13:45:52+00:00"
-    },
-    "9kWWL": {
-      "points": 1.94,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T13:45:52+00:00"
-    },
-    "4uLEq": {
-      "points": 1.62,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T13:45:52+00:00"
-    },
-    "LN2Mq": {
-      "points": 0.81,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T13:45:52+00:00"
-    },
-    "Jb9dJ": {
-      "points": 79.05,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T15:18:08+00:00"
-    },
-    "k7w7W": {
-      "points": 8.34,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T15:18:08+00:00"
-    },
-    "fm0r2": {
-      "points": 1.77,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T15:18:08+00:00"
-    },
-    "vbVgN": {
-      "points": 1.68,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T15:18:08+00:00"
-    },
-    "T2RwL": {
-      "points": 16.43,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "qTTJ2": {
-      "points": 7.1,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "JFE2Y": {
-      "points": 6.89,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "q2Jgb": {
-      "points": 1.53,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "DtnmJ": {
-      "points": 1.02,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "CLKry": {
-      "points": 0.84,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "KVKQg": {
-      "points": 0.67,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "Wk8BB": {
-      "points": 0.43,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "mbQQT": {
-      "points": 0.09,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T21:00:39+00:00"
-    },
-    "pkIga": {
-      "points": 4.69,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "DYqD8": {
-      "points": 3.45,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "VB5v5": {
-      "points": 2.77,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "NcNmN": {
-      "points": 2.68,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "rgCJV": {
-      "points": 2.66,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "KGTCn": {
-      "points": 2.65,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "CWW8y": {
-      "points": 1.87,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "FcAmM": {
-      "points": 1.82,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "G8D55": {
-      "points": 1.48,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "wNDyj": {
-      "points": 0.97,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "D5d8n": {
-      "points": 0.79,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "yYgKq": {
-      "points": 0.44,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "Kr2Tr": {
-      "points": 0.27,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    },
-    "BW9Kn": {
-      "points": 0.0,
-      "match_count": 1,
-      "last_score_time": "2026-07-19T22:14:55+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-07-19T10:30:00+00:00",
-  "current_cycle_match_count": 10,
-  "last_announced_event_time": "2026-07-19T10:30:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-07-20T00:00:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-07-20T00:00:00+00:00",
   "daily_quests": {
-    "date": "2026-07-19",
-    "created_at": "2026-07-19T01:06:51.130555+00:00",
+    "date": "2026-07-20",
+    "created_at": "2026-07-20T03:51:25.042441+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "Island",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Island",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1206,10 +877,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 3,
+        "map": "Asia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on Asia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1217,11 +888,10 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
-        "target": 6,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1230,113 +900,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "Z2Yfi": {
-          "Caucasia": 1
-        },
-        "tcwYN": {
-          "Caucasia": 1
-        },
-        "DyBC8": {
-          "Caucasia": 1
-        },
-        "8tBQL": {
-          "Caucasia": 1
-        },
-        "rT8bV": {
-          "Caucasia": 1
-        },
-        "Jb9dJ": {
-          "Caucasia": 1
-        },
-        "tv999": {
-          "Caucasia": 1
-        },
-        "RBqN2": {
-          "Caucasia": 1
-        },
-        "k7w7W": {
-          "Caucasia": 1
-        },
-        "YsRY1": {
-          "Caucasia": 1
-        },
-        "fm0r2": {
-          "Caucasia": 1
-        },
-        "vbVgN": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "tv999": {
-          "World 1": 1
-        },
-        "63cmP": {
-          "World 1": 1
-        },
-        "8tBQL": {
-          "World 1": 1
-        },
-        "MQX1B": {
-          "World 1": 1
-        },
-        "TmmwY": {
-          "World 1": 1
-        },
-        "tcwYN": {
-          "World 1": 1
-        },
-        "Rb8TG": {
-          "World 1": 1
-        },
-        "T2RwL": {
-          "World 1": 1
-        },
-        "qTTJ2": {
-          "World 1": 1
-        },
-        "JFE2Y": {
-          "World 1": 1
-        },
-        "q2Jgb": {
-          "World 1": 1
-        },
-        "DtnmJ": {
-          "World 1": 1
-        },
-        "CLKry": {
-          "World 1": 1
-        },
-        "KVKQg": {
-          "World 1": 1
-        },
-        "Wk8BB": {
-          "World 1": 1
-        },
-        "mbQQT": {
-          "World 1": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Halo",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
