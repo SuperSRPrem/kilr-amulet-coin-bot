@@ -1235,8 +1235,8 @@
   "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-07-20T00:00:00+00:00",
   "daily_quests": {
-    "date": "2026-07-20",
-    "created_at": "2026-07-20T03:51:25.042441+00:00",
+    "date": "2026-07-21",
+    "created_at": "2026-07-21T03:31:11.681627+00:00",
     "quests": {
       "easy": {
         "level": "easy",
@@ -1253,10 +1253,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Asia",
-        "target": 4,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on Asia",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1264,10 +1264,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_wins",
+        "map": "World 1",
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1276,46 +1277,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "Z2Yfi": {
-          "Asia": 1
-        },
-        "wWRWt": {
-          "Asia": 1
-        },
-        "rT8bV": {
-          "Asia": 1
-        },
-        "tcwYN": {
-          "Asia": 1
-        },
-        "pO5j1": {
-          "Asia": 1
-        },
-        "7KqwD": {
-          "Asia": 1
-        }
-      },
+      "medium": {},
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Island",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on Asia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
