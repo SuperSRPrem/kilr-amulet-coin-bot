@@ -1087,16 +1087,16 @@
   "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-07-21T05:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-21",
-    "created_at": "2026-07-21T03:31:11.681627+00:00",
+    "date": "2026-07-22",
+    "created_at": "2026-07-22T03:29:47.147701+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1105,10 +1105,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 3,
+        "map": "World 2",
+        "target": 4,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1116,11 +1116,17 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
-        "target": 6,
+        "kind": "map_set",
+        "maps": [
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
+        ],
+        "target": 5,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1134,7 +1140,7 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "quests": {
       "easy": {
         "text": "Win 4 times on Island",
@@ -1143,13 +1149,13 @@
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Asia",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
