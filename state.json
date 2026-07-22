@@ -860,7 +860,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-07-22T11:16:41+00:00",
+  "last_seen_time": "2026-07-22T13:04:06+00:00",
   "current_scores": {
     "gGJTm": {
       "points": 11.72,
@@ -1141,10 +1141,30 @@
       "points": 0.12,
       "match_count": 1,
       "last_score_time": "2026-07-22T11:16:41+00:00"
+    },
+    "C8nqj": {
+      "points": 34.97,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T13:04:06+00:00"
+    },
+    "mmLRQ": {
+      "points": 4.81,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T13:04:06+00:00"
+    },
+    "nCTW2": {
+      "points": 0.21,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T13:04:06+00:00"
+    },
+    "MQX1B": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T13:04:06+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-21T05:30:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-07-21T05:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-22",
@@ -1196,7 +1216,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "C8nqj": {
+          "British Isles": 1
+        },
+        "mmLRQ": {
+          "British Isles": 1
+        },
+        "nCTW2": {
+          "British Isles": 1
+        },
+        "MQX1B": {
+          "British Isles": 1
+        }
+      }
     }
   },
   "last_quest_day": {
