@@ -874,7 +874,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-07-23T17:35:08+00:00",
+  "last_seen_time": "2026-07-23T19:19:25+00:00",
   "current_scores": {
     "XjONh": {
       "points": 8.75,
@@ -952,9 +952,9 @@
       "last_score_time": "2026-07-23T15:18:27+00:00"
     },
     "qCJwD": {
-      "points": 0.13,
-      "match_count": 1,
-      "last_score_time": "2026-07-23T15:18:27+00:00"
+      "points": 1.63,
+      "match_count": 2,
+      "last_score_time": "2026-07-23T19:19:25+00:00"
     },
     "TNVnn": {
       "points": 0.12,
@@ -1005,10 +1005,55 @@
       "points": 0.97,
       "match_count": 1,
       "last_score_time": "2026-07-23T17:35:08+00:00"
+    },
+    "tcwYN": {
+      "points": 35.96,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:16:58+00:00"
+    },
+    "NN8N5": {
+      "points": 3.85,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:16:58+00:00"
+    },
+    "MN7NT": {
+      "points": 1.33,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:16:58+00:00"
+    },
+    "-e61o": {
+      "points": 0.85,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:16:58+00:00"
+    },
+    "wjJCt": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:16:58+00:00"
+    },
+    "q9DcG": {
+      "points": 17.13,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:19:25+00:00"
+    },
+    "B92yr": {
+      "points": 5.72,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:19:25+00:00"
+    },
+    "mLtrN": {
+      "points": 3.02,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:19:25+00:00"
+    },
+    "gK8dc": {
+      "points": 1.63,
+      "match_count": 1,
+      "last_score_time": "2026-07-23T19:19:25+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-23T14:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-07-23T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-23",
@@ -1060,7 +1105,23 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tcwYN": {
+          "Mare Nostrum": 1
+        },
+        "NN8N5": {
+          "Mare Nostrum": 1
+        },
+        "MN7NT": {
+          "Mare Nostrum": 1
+        },
+        "-e61o": {
+          "Mare Nostrum": 1
+        },
+        "wjJCt": {
+          "Mare Nostrum": 1
+        }
+      }
     }
   },
   "last_quest_day": {
