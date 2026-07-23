@@ -867,22 +867,73 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-07-22T21:04:11+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-07-22T23:50:52+00:00",
+  "current_scores": {
+    "nyQdw": {
+      "points": 9.75,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "GYrYL": {
+      "points": 7.58,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "TMTVB": {
+      "points": 7.37,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "wkwrw": {
+      "points": 4.55,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "T8cDk": {
+      "points": 1.67,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "MRgCv": {
+      "points": 0.73,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "wVr7W": {
+      "points": 0.7,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "LrJLq": {
+      "points": 0.55,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "yBCTn": {
+      "points": 0.1,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    },
+    "BttqV": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-22T23:50:52+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-07-22T21:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-07-22T21:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-22",
-    "created_at": "2026-07-22T03:29:47.147701+00:00",
+    "date": "2026-07-23",
+    "created_at": "2026-07-23T00:08:12.364808+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -891,10 +942,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 4,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on World 2",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -921,101 +972,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "RBqN2": {
-          "World 2": 1
-        },
-        "Wi5gQ": {
-          "World 2": 1
-        },
-        "63cmP": {
-          "World 2": 1
-        },
-        "7M9Mm": {
-          "World 2": 1
-        },
-        "Z2Yfi": {
-          "World 2": 1
-        },
-        "avaBG": {
-          "World 2": 1
-        },
-        "vn9nJ": {
-          "World 2": 1
-        },
-        "53kdJ": {
-          "World 2": 1
-        },
-        "7tBLL": {
-          "World 2": 1
-        },
-        "R59vb": {
-          "World 2": 1
-        },
-        "cLkNb": {
-          "World 2": 1
-        },
-        "QbCGR": {
-          "World 2": 1
-        },
-        "7M9r9": {
-          "World 2": 1
-        },
-        "bddnG": {
-          "World 2": 1
-        },
-        "n2MCQ": {
-          "World 2": 1
-        },
-        "vvvvk": {
-          "World 2": 1
-        }
-      },
-      "hard": {
-        "C8nqj": {
-          "British Isles": 1
-        },
-        "mmLRQ": {
-          "British Isles": 1
-        },
-        "nCTW2": {
-          "British Isles": 1
-        },
-        "MQX1B": {
-          "British Isles": 1
-        },
-        "rT8bV": {
-          "Caucasia": 1
-        },
-        "Wi5gQ": {
-          "Caucasia": 1
-        },
-        "8tBQL": {
-          "Caucasia": 1
-        },
-        "63cmP": {
-          "Caucasia": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
