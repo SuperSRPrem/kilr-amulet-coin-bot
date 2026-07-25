@@ -888,7 +888,7 @@
       "eligible_match_count": 7
     }
   ],
-  "last_seen_time": "2026-07-25T10:32:39+00:00",
+  "last_seen_time": "2026-07-25T11:52:02+00:00",
   "current_scores": {
     "tcwYN": {
       "points": 29.51,
@@ -916,9 +916,9 @@
       "last_score_time": "2026-07-25T10:26:06+00:00"
     },
     "qCJwD": {
-      "points": 2.91,
-      "match_count": 1,
-      "last_score_time": "2026-07-25T10:26:06+00:00"
+      "points": 4.3100000000000005,
+      "match_count": 2,
+      "last_score_time": "2026-07-25T11:52:02+00:00"
     },
     "yVVcT": {
       "points": 1.44,
@@ -949,10 +949,50 @@
       "points": 3.82,
       "match_count": 1,
       "last_score_time": "2026-07-25T10:32:39+00:00"
+    },
+    "MQX1B": {
+      "points": 31.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-25T11:46:05+00:00"
+    },
+    "dJ9JB": {
+      "points": 21.66,
+      "match_count": 1,
+      "last_score_time": "2026-07-25T11:52:02+00:00"
+    },
+    "VVwMr": {
+      "points": 3.71,
+      "match_count": 1,
+      "last_score_time": "2026-07-25T11:52:02+00:00"
+    },
+    "BVkN2": {
+      "points": 2.87,
+      "match_count": 1,
+      "last_score_time": "2026-07-25T11:52:02+00:00"
+    },
+    "GMGMM": {
+      "points": 2.62,
+      "match_count": 1,
+      "last_score_time": "2026-07-25T11:52:02+00:00"
+    },
+    "YVVCv": {
+      "points": 1.55,
+      "match_count": 1,
+      "last_score_time": "2026-07-25T11:52:02+00:00"
+    },
+    "VcDct": {
+      "points": 0.76,
+      "match_count": 1,
+      "last_score_time": "2026-07-25T11:52:02+00:00"
+    },
+    "LwyjQ": {
+      "points": 0.43,
+      "match_count": 1,
+      "last_score_time": "2026-07-25T11:52:02+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-25T04:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-07-25T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-25",
@@ -996,7 +1036,32 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "dJ9JB": {
+          "North America": 1
+        },
+        "VVwMr": {
+          "North America": 1
+        },
+        "BVkN2": {
+          "North America": 1
+        },
+        "GMGMM": {
+          "North America": 1
+        },
+        "YVVCv": {
+          "North America": 1
+        },
+        "qCJwD": {
+          "North America": 1
+        },
+        "VcDct": {
+          "North America": 1
+        },
+        "LwyjQ": {
+          "North America": 1
+        }
+      },
       "hard": {}
     }
   },
