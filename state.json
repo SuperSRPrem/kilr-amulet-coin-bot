@@ -888,7 +888,7 @@
       "eligible_match_count": 7
     }
   ],
-  "last_seen_time": "2026-07-25T22:05:01+00:00",
+  "last_seen_time": "2026-07-26T03:19:34+00:00",
   "current_scores": {
     "tcwYN": {
       "points": 37.99,
@@ -1284,22 +1284,52 @@
       "points": 0.82,
       "match_count": 1,
       "last_score_time": "2026-07-25T22:05:01+00:00"
+    },
+    "rcm2v": {
+      "points": 11.07,
+      "match_count": 1,
+      "last_score_time": "2026-07-26T03:19:34+00:00"
+    },
+    "kvgrW": {
+      "points": 10.47,
+      "match_count": 1,
+      "last_score_time": "2026-07-26T03:19:34+00:00"
+    },
+    "rYCgW": {
+      "points": 3.11,
+      "match_count": 1,
+      "last_score_time": "2026-07-26T03:19:34+00:00"
+    },
+    "-n3CP": {
+      "points": 1.74,
+      "match_count": 1,
+      "last_score_time": "2026-07-26T03:19:34+00:00"
+    },
+    "2BYJ2": {
+      "points": 1.4,
+      "match_count": 1,
+      "last_score_time": "2026-07-26T03:19:34+00:00"
+    },
+    "Vtb7L": {
+      "points": 1.2,
+      "match_count": 1,
+      "last_score_time": "2026-07-26T03:19:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-25T04:30:00+00:00",
-  "current_cycle_match_count": 14,
+  "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-07-25T04:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-25",
-    "created_at": "2026-07-25T03:28:33.518412+00:00",
+    "date": "2026-07-26",
+    "created_at": "2026-07-26T03:41:49.247174+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Black Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1308,10 +1338,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "North America",
+        "map": "South America",
         "target": 4,
         "reward": 100,
-        "text": "Win 4 times on North America",
+        "text": "Win 4 times on South America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1331,67 +1361,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "dJ9JB": {
-          "North America": 1
-        },
-        "VVwMr": {
-          "North America": 1
-        },
-        "BVkN2": {
-          "North America": 1
-        },
-        "GMGMM": {
-          "North America": 1
-        },
-        "YVVCv": {
-          "North America": 1
-        },
-        "qCJwD": {
-          "North America": 1
-        },
-        "VcDct": {
-          "North America": 1
-        },
-        "LwyjQ": {
-          "North America": 1
-        },
-        "BRqbv": {
-          "North America": 1
-        },
-        "MQX1B": {
-          "North America": 1
-        },
-        "rYB59": {
-          "North America": 1
-        },
-        "9YM2G": {
-          "North America": 1
-        },
-        "dyKQj": {
-          "North America": 1
-        }
-      },
+      "medium": {},
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 1",
+        "text": "Win 4 times on North America",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
