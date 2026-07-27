@@ -895,7 +895,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-07-27T11:32:58+00:00",
+  "last_seen_time": "2026-07-27T16:51:26+00:00",
   "current_scores": {
     "tcwYN": {
       "points": 34.84,
@@ -923,9 +923,9 @@
       "last_score_time": "2026-07-26T12:18:58+00:00"
     },
     "Z2Yfi": {
-      "points": 74.25,
-      "match_count": 5,
-      "last_score_time": "2026-07-27T11:32:58+00:00"
+      "points": 90.25,
+      "match_count": 6,
+      "last_score_time": "2026-07-27T16:51:26+00:00"
     },
     "bt9Yt": {
       "points": 0.24,
@@ -933,9 +933,9 @@
       "last_score_time": "2026-07-26T12:18:58+00:00"
     },
     "8tBQL": {
-      "points": 0.01,
-      "match_count": 1,
-      "last_score_time": "2026-07-26T12:18:58+00:00"
+      "points": 0.060000000000000005,
+      "match_count": 2,
+      "last_score_time": "2026-07-27T16:51:26+00:00"
     },
     "r8Vbq": {
       "points": 5.96,
@@ -1156,10 +1156,40 @@
       "points": 0.35,
       "match_count": 1,
       "last_score_time": "2026-07-27T11:32:58+00:00"
+    },
+    "nHHji": {
+      "points": 14.07,
+      "match_count": 1,
+      "last_score_time": "2026-07-27T16:51:26+00:00"
+    },
+    "Q2QLn": {
+      "points": 8.07,
+      "match_count": 1,
+      "last_score_time": "2026-07-27T16:51:26+00:00"
+    },
+    "NG8ry": {
+      "points": 7.24,
+      "match_count": 1,
+      "last_score_time": "2026-07-27T16:51:26+00:00"
+    },
+    "9e6Vw": {
+      "points": 4.97,
+      "match_count": 1,
+      "last_score_time": "2026-07-27T16:51:26+00:00"
+    },
+    "YqWMD": {
+      "points": 1.16,
+      "match_count": 1,
+      "last_score_time": "2026-07-27T16:51:26+00:00"
+    },
+    "nvTy2": {
+      "points": 0.44,
+      "match_count": 1,
+      "last_score_time": "2026-07-27T16:51:26+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-26T12:00:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-07-26T12:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-27",
@@ -1212,7 +1242,32 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "Z2Yfi": {
+          "Asia": 1
+        },
+        "nHHji": {
+          "Asia": 1
+        },
+        "Q2QLn": {
+          "Asia": 1
+        },
+        "NG8ry": {
+          "Asia": 1
+        },
+        "9e6Vw": {
+          "Asia": 1
+        },
+        "YqWMD": {
+          "Asia": 1
+        },
+        "nvTy2": {
+          "Asia": 1
+        },
+        "8tBQL": {
+          "Asia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
