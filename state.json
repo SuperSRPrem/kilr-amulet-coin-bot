@@ -902,12 +902,12 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-07-27T20:37:25+00:00",
+  "last_seen_time": "2026-07-27T21:55:28+00:00",
   "current_scores": {
     "1_R9v": {
-      "points": 32.91,
-      "match_count": 1,
-      "last_score_time": "2026-07-27T20:37:25+00:00"
+      "points": 70.77,
+      "match_count": 2,
+      "last_score_time": "2026-07-27T21:55:28+00:00"
     },
     "rT8bV": {
       "points": 3.27,
@@ -918,10 +918,20 @@
       "points": 0.82,
       "match_count": 1,
       "last_score_time": "2026-07-27T20:37:25+00:00"
+    },
+    "YsRY1": {
+      "points": 5.46,
+      "match_count": 1,
+      "last_score_time": "2026-07-27T21:55:28+00:00"
+    },
+    "rvd7R": {
+      "points": 1.68,
+      "match_count": 1,
+      "last_score_time": "2026-07-27T21:55:28+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-27T19:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-07-27T19:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-27",
@@ -998,6 +1008,15 @@
         },
         "8tBQL": {
           "Asia": 1
+        },
+        "1_R9v": {
+          "Europe": 1
+        },
+        "YsRY1": {
+          "Europe": 1
+        },
+        "rvd7R": {
+          "Europe": 1
         }
       }
     }
