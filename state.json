@@ -934,16 +934,16 @@
   "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-07-27T19:00:00+00:00",
   "daily_quests": {
-    "date": "2026-07-27",
-    "created_at": "2026-07-27T03:51:52.899715+00:00",
+    "date": "2026-07-28",
+    "created_at": "2026-07-28T03:22:48.095916+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -952,10 +952,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 4,
+        "map": "World 1",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on World 2",
+        "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -963,18 +963,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -984,60 +977,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "Asia": 1
-        },
-        "nHHji": {
-          "Asia": 1
-        },
-        "Q2QLn": {
-          "Asia": 1
-        },
-        "NG8ry": {
-          "Asia": 1
-        },
-        "9e6Vw": {
-          "Asia": 1
-        },
-        "YqWMD": {
-          "Asia": 1
-        },
-        "nvTy2": {
-          "Asia": 1
-        },
-        "8tBQL": {
-          "Asia": 1
-        },
-        "1_R9v": {
-          "Europe": 1
-        },
-        "YsRY1": {
-          "Europe": 1
-        },
-        "rvd7R": {
-          "Europe": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on South America",
+        "text": "Win 4 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
