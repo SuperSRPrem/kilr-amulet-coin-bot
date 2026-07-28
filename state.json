@@ -902,7 +902,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-07-27T21:55:28+00:00",
+  "last_seen_time": "2026-07-28T05:59:48+00:00",
   "current_scores": {
     "1_R9v": {
       "points": 70.77,
@@ -928,10 +928,35 @@
       "points": 1.68,
       "match_count": 1,
       "last_score_time": "2026-07-27T21:55:28+00:00"
+    },
+    "T5nVy": {
+      "points": 24.83,
+      "match_count": 1,
+      "last_score_time": "2026-07-28T05:59:48+00:00"
+    },
+    "XsCOj": {
+      "points": 16.9,
+      "match_count": 1,
+      "last_score_time": "2026-07-28T05:59:48+00:00"
+    },
+    "MRgCv": {
+      "points": 2.16,
+      "match_count": 1,
+      "last_score_time": "2026-07-28T05:59:48+00:00"
+    },
+    "KR898": {
+      "points": 0.11,
+      "match_count": 1,
+      "last_score_time": "2026-07-28T05:59:48+00:00"
+    },
+    "LQrq2": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-07-28T05:59:48+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-27T19:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-07-27T19:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-28",
@@ -976,7 +1001,23 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "T5nVy": {
+          "World 1": 1
+        },
+        "XsCOj": {
+          "World 1": 1
+        },
+        "MRgCv": {
+          "World 1": 1
+        },
+        "KR898": {
+          "World 1": 1
+        },
+        "LQrq2": {
+          "World 1": 1
+        }
+      },
       "hard": {}
     }
   },
