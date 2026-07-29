@@ -909,7 +909,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-07-28T21:08:56+00:00",
+  "last_seen_time": "2026-07-29T03:39:06+00:00",
   "current_scores": {
     "LmvrB": {
       "points": 22.54,
@@ -992,9 +992,9 @@
       "last_score_time": "2026-07-28T21:08:56+00:00"
     },
     "LrJLq": {
-      "points": 0.94,
-      "match_count": 1,
-      "last_score_time": "2026-07-28T21:08:56+00:00"
+      "points": 1.8199999999999998,
+      "match_count": 2,
+      "last_score_time": "2026-07-29T03:39:06+00:00"
     },
     "VjD8D": {
       "points": 0.56,
@@ -1005,10 +1005,15 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-07-28T21:08:56+00:00"
+    },
+    "H6RbL": {
+      "points": 15.12,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T03:39:06+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-28T16:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-07-28T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-29",
@@ -1060,7 +1065,14 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "H6RbL": {
+          "Caucasia": 1
+        },
+        "LrJLq": {
+          "Caucasia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
