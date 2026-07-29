@@ -909,7 +909,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-07-29T03:39:06+00:00",
+  "last_seen_time": "2026-07-29T11:58:27+00:00",
   "current_scores": {
     "LmvrB": {
       "points": 22.54,
@@ -922,9 +922,9 @@
       "last_score_time": "2026-07-28T17:38:48+00:00"
     },
     "Z2Yfi": {
-      "points": 14.21,
-      "match_count": 1,
-      "last_score_time": "2026-07-28T17:38:48+00:00"
+      "points": 71.58,
+      "match_count": 3,
+      "last_score_time": "2026-07-29T11:58:27+00:00"
     },
     "Vclp1": {
       "points": 13.86,
@@ -1010,10 +1010,50 @@
       "points": 15.12,
       "match_count": 1,
       "last_score_time": "2026-07-29T03:39:06+00:00"
+    },
+    "rT8bV": {
+      "points": 11.28,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T11:48:38+00:00"
+    },
+    "mrJQ5": {
+      "points": 4.81,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T11:48:38+00:00"
+    },
+    "5VMtM": {
+      "points": 0.99,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T11:48:38+00:00"
+    },
+    "7t8VN": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T11:48:38+00:00"
+    },
+    "KkCR5": {
+      "points": 6.87,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T11:58:27+00:00"
+    },
+    "GD2YW": {
+      "points": 3.1,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T11:58:27+00:00"
+    },
+    "nNKCW": {
+      "points": 2.54,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T11:58:27+00:00"
+    },
+    "BjxRv": {
+      "points": 2.04,
+      "match_count": 1,
+      "last_score_time": "2026-07-29T11:58:27+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-28T16:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-07-28T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-07-29",
@@ -1071,6 +1111,21 @@
         },
         "LrJLq": {
           "Caucasia": 1
+        },
+        "Z2Yfi": {
+          "Scandinavia": 1
+        },
+        "KkCR5": {
+          "Scandinavia": 1
+        },
+        "GD2YW": {
+          "Scandinavia": 1
+        },
+        "nNKCW": {
+          "Scandinavia": 1
+        },
+        "BjxRv": {
+          "Scandinavia": 1
         }
       }
     }
