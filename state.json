@@ -928,16 +928,16 @@
   "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-07-29T18:30:00+00:00",
   "daily_quests": {
-    "date": "2026-07-29",
-    "created_at": "2026-07-29T00:03:37.915697+00:00",
+    "date": "2026-07-30",
+    "created_at": "2026-07-30T00:04:21.754000+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "White Plains",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -946,10 +946,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "White Plains",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on White Plains",
+        "text": "Win 4 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -977,48 +977,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "H6RbL": {
-          "Caucasia": 1
-        },
-        "LrJLq": {
-          "Caucasia": 1
-        },
-        "Z2Yfi": {
-          "Scandinavia": 1
-        },
-        "KkCR5": {
-          "Scandinavia": 1
-        },
-        "GD2YW": {
-          "Scandinavia": 1
-        },
-        "nNKCW": {
-          "Scandinavia": 1
-        },
-        "BjxRv": {
-          "Scandinavia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 1",
+        "text": "Win 6 times on White Plains",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
