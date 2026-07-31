@@ -923,7 +923,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-07-31T07:07:33+00:00",
+  "last_seen_time": "2026-07-31T10:07:07+00:00",
   "current_scores": {
     "qK7j5": {
       "points": 8.67,
@@ -1036,13 +1036,73 @@
       "last_score_time": "2026-07-31T07:07:33+00:00"
     },
     "DQGkB": {
-      "points": 0.55,
+      "points": 1.71,
+      "match_count": 2,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "q8BN7": {
+      "points": 68.43,
+      "match_count": 2,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "rNrnv": {
+      "points": 6.13,
       "match_count": 1,
-      "last_score_time": "2026-07-31T07:07:33+00:00"
+      "last_score_time": "2026-07-31T09:54:40+00:00"
+    },
+    "5LRMM": {
+      "points": 5.49,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T09:54:40+00:00"
+    },
+    "R8GjB": {
+      "points": 5.85,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "5qQnG": {
+      "points": 3.37,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "T7gGw": {
+      "points": 2.81,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "lZ_Ba": {
+      "points": 2.78,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "B2bM7": {
+      "points": 2.47,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "GGNGT": {
+      "points": 2.12,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "KwGrg": {
+      "points": 1.19,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "QpdQ8": {
+      "points": 1.12,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
+    },
+    "MBYdj": {
+      "points": 0.09,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T10:07:07+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-30T22:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-07-30T22:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-31",
