@@ -923,7 +923,7 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-07-30T22:32:18+00:00",
+  "last_seen_time": "2026-07-30T23:55:45+00:00",
   "current_scores": {
     "qK7j5": {
       "points": 8.67,
@@ -979,22 +979,27 @@
       "points": 0.7,
       "match_count": 1,
       "last_score_time": "2026-07-30T22:32:18+00:00"
+    },
+    "vt2Mr": {
+      "points": 25.0,
+      "match_count": 1,
+      "last_score_time": "2026-07-30T23:55:45+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-30T22:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-07-30T22:00:00+00:00",
   "daily_quests": {
-    "date": "2026-07-30",
-    "created_at": "2026-07-30T00:04:21.754000+00:00",
+    "date": "2026-07-31",
+    "created_at": "2026-07-31T00:10:10.347232+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "Mountains 2",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Mountains 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1003,10 +1008,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 4,
+        "map": "Cliffs",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 6 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1033,131 +1038,25 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "vVVvV": {
-          "Caucasia": 1
-        },
-        "rT8bV": {
-          "Caucasia": 1
-        },
-        "85qtq": {
-          "Caucasia": 1
-        },
-        "Q7qYc": {
-          "Caucasia": 1
-        },
-        "Gtd5r": {
-          "Caucasia": 1
-        },
-        "B29Q7": {
-          "Caucasia": 1
-        },
-        "T2RwL": {
-          "Caucasia": 1
-        },
-        "Wi5gQ": {
-          "Caucasia": 1
-        },
-        "2v9L8": {
-          "Caucasia": 1
-        },
-        "yRkKD": {
-          "Caucasia": 1
-        },
-        "yB9vL": {
-          "Caucasia": 1
-        },
-        "KWlfg": {
-          "Caucasia": 1
-        },
-        "NBVV9": {
-          "Caucasia": 1
-        },
-        "vNnbw": {
-          "Caucasia": 1
-        },
-        "Nmvt2": {
-          "Caucasia": 1
-        },
-        "TVvmR": {
-          "Caucasia": 1
-        },
-        "eTONp": {
-          "Caucasia": 1
-        },
-        "85WgM": {
-          "Caucasia": 1
-        }
-      },
+      "medium": {},
       "hard": {
-        "vVVvV": {
-          "Caucasia": 1
-        },
-        "rT8bV": {
-          "Caucasia": 1
-        },
-        "85qtq": {
-          "Caucasia": 1
-        },
-        "Q7qYc": {
-          "Caucasia": 1
-        },
-        "Gtd5r": {
-          "Caucasia": 1
-        },
-        "B29Q7": {
-          "Caucasia": 1
-        },
-        "T2RwL": {
-          "Caucasia": 1
-        },
-        "Wi5gQ": {
-          "Caucasia": 1
-        },
-        "2v9L8": {
-          "Caucasia": 1
-        },
-        "yRkKD": {
-          "Caucasia": 1
-        },
-        "yB9vL": {
-          "Caucasia": 1
-        },
-        "KWlfg": {
-          "Caucasia": 1
-        },
-        "NBVV9": {
-          "Caucasia": 1
-        },
-        "vNnbw": {
-          "Caucasia": 1
-        },
-        "Nmvt2": {
-          "Caucasia": 1
-        },
-        "TVvmR": {
-          "Caucasia": 1
-        },
-        "eTONp": {
-          "Caucasia": 1
-        },
-        "85WgM": {
-          "Caucasia": 1
+        "vt2Mr": {
+          "Middle East": 1
         }
       }
     }
   },
   "last_quest_day": {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on White Plains",
+        "text": "Win 4 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
