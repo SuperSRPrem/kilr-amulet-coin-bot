@@ -930,7 +930,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-07-31T18:44:51+00:00",
+  "last_seen_time": "2026-07-31T21:32:52+00:00",
   "current_scores": {
     "rT8bV": {
       "points": 36.06,
@@ -946,10 +946,40 @@
       "points": 2.59,
       "match_count": 1,
       "last_score_time": "2026-07-31T18:44:51+00:00"
+    },
+    "f-_T2": {
+      "points": 17.75,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T21:31:11+00:00"
+    },
+    "vt2Mr": {
+      "points": 17.41,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T21:31:11+00:00"
+    },
+    "TRvTW": {
+      "points": 3.69,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T21:31:11+00:00"
+    },
+    "bqRJy": {
+      "points": 3.15,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T21:31:11+00:00"
+    },
+    "VNNMN": {
+      "points": 17.77,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T21:32:52+00:00"
+    },
+    "cVk7g": {
+      "points": 10.23,
+      "match_count": 1,
+      "last_score_time": "2026-07-31T21:32:52+00:00"
     }
   },
   "current_cycle_started_at": "2026-07-31T18:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-07-31T18:00:00+00:00",
   "daily_quests": {
     "date": "2026-07-31",
@@ -1003,7 +1033,8 @@
       "medium": {},
       "hard": {
         "vt2Mr": {
-          "Middle East": 1
+          "Middle East": 1,
+          "Caucasia": 1
         },
         "tcwYN": {
           "Mare Nostrum": 1
@@ -1050,6 +1081,15 @@
         },
         "nOeMb": {
           "Middle East": 1
+        },
+        "f-_T2": {
+          "Caucasia": 1
+        },
+        "TRvTW": {
+          "Caucasia": 1
+        },
+        "bqRJy": {
+          "Caucasia": 1
         }
       }
     }
