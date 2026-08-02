@@ -937,12 +937,12 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-08-02T09:08:26+00:00",
+  "last_seen_time": "2026-08-02T10:56:40+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 97.36000000000001,
-      "match_count": 7,
-      "last_score_time": "2026-08-02T09:08:26+00:00"
+      "points": 107.86000000000001,
+      "match_count": 8,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
     },
     "q71an": {
       "points": 30.810000000000002,
@@ -1070,9 +1070,9 @@
       "last_score_time": "2026-08-01T14:48:24+00:00"
     },
     "tcwYN": {
-      "points": 27.840000000000003,
-      "match_count": 2,
-      "last_score_time": "2026-08-01T14:59:08+00:00"
+      "points": 37.650000000000006,
+      "match_count": 4,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
     },
     "L8tLw": {
       "points": 2.39,
@@ -1425,9 +1425,9 @@
       "last_score_time": "2026-08-02T08:46:04+00:00"
     },
     "Wi5gQ": {
-      "points": 4.69,
-      "match_count": 1,
-      "last_score_time": "2026-08-02T08:46:04+00:00"
+      "points": 7.42,
+      "match_count": 2,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
     },
     "nkncB": {
       "points": 3.71,
@@ -1463,10 +1463,70 @@
       "points": 2.04,
       "match_count": 1,
       "last_score_time": "2026-08-02T09:08:26+00:00"
+    },
+    "6Ih4g": {
+      "points": 25.23,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:48:49+00:00"
+    },
+    "xgsE8": {
+      "points": 9.69,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:48:49+00:00"
+    },
+    "DdVc7": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:48:49+00:00"
+    },
+    "yVbB8": {
+      "points": 4.67,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
+    },
+    "t5rtB": {
+      "points": 4.42,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
+    },
+    "QNVY9": {
+      "points": 2.97,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
+    },
+    "B2QQr": {
+      "points": 2.58,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
+    },
+    "DBj9B": {
+      "points": 2.36,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
+    },
+    "hJSAj": {
+      "points": 1.56,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
+    },
+    "T2L5B": {
+      "points": 1.34,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
+    },
+    "8GrcY": {
+      "points": 1.32,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
+    },
+    "BRVLB": {
+      "points": 0.8,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T10:56:40+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-01T13:00:00+00:00",
-  "current_cycle_match_count": 19,
+  "current_cycle_match_count": 21,
   "last_announced_event_time": "2026-08-01T13:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-02",
@@ -1512,8 +1572,8 @@
         "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "Z2Yfi"
       }
     },
     "data": {
@@ -1550,7 +1610,8 @@
         },
         "Z2Yfi": {
           "Europe": 2,
-          "Asia": 1
+          "Asia": 1,
+          "North America": 1
         },
         "J2wMd": {
           "Europe": 1
@@ -1559,7 +1620,8 @@
           "Europe": 1
         },
         "Wi5gQ": {
-          "Europe": 1
+          "Europe": 1,
+          "North America": 1
         },
         "nkncB": {
           "Europe": 1
@@ -1575,6 +1637,46 @@
         },
         "7kcQD": {
           "Europe": 1
+        },
+        "6Ih4g": {
+          "Europe": 1
+        },
+        "xgsE8": {
+          "Europe": 1
+        },
+        "tcwYN": {
+          "Europe": 1,
+          "North America": 1
+        },
+        "DdVc7": {
+          "Europe": 1
+        },
+        "yVbB8": {
+          "North America": 1
+        },
+        "t5rtB": {
+          "North America": 1
+        },
+        "QNVY9": {
+          "North America": 1
+        },
+        "B2QQr": {
+          "North America": 1
+        },
+        "DBj9B": {
+          "North America": 1
+        },
+        "hJSAj": {
+          "North America": 1
+        },
+        "T2L5B": {
+          "North America": 1
+        },
+        "8GrcY": {
+          "North America": 1
+        },
+        "BRVLB": {
+          "North America": 1
         }
       }
     }
