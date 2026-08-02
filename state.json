@@ -937,7 +937,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-08-02T03:37:14+00:00",
+  "last_seen_time": "2026-08-02T06:17:06+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 54.36000000000001,
@@ -1285,9 +1285,9 @@
       "last_score_time": "2026-08-01T19:35:37+00:00"
     },
     "wqmnB": {
-      "points": 0.26,
-      "match_count": 1,
-      "last_score_time": "2026-08-01T19:35:37+00:00"
+      "points": 1.39,
+      "match_count": 2,
+      "last_score_time": "2026-08-02T06:17:06+00:00"
     },
     "ML2nq": {
       "points": 36.02,
@@ -1398,10 +1398,25 @@
       "points": 2.06,
       "match_count": 1,
       "last_score_time": "2026-08-02T03:37:14+00:00"
+    },
+    "n9r9n": {
+      "points": 19.74,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T06:17:06+00:00"
+    },
+    "5K9M9": {
+      "points": 0.93,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T06:17:06+00:00"
+    },
+    "nqGk9": {
+      "points": 0.2,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T06:17:06+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-01T13:00:00+00:00",
-  "current_cycle_match_count": 14,
+  "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-08-01T13:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-02",
@@ -1453,8 +1468,34 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
-      "hard": {}
+      "medium": {
+        "n9r9n": {
+          "South America": 1
+        },
+        "wqmnB": {
+          "South America": 1
+        },
+        "5K9M9": {
+          "South America": 1
+        },
+        "nqGk9": {
+          "South America": 1
+        }
+      },
+      "hard": {
+        "n9r9n": {
+          "South America": 1
+        },
+        "wqmnB": {
+          "South America": 1
+        },
+        "5K9M9": {
+          "South America": 1
+        },
+        "nqGk9": {
+          "South America": 1
+        }
+      }
     }
   },
   "last_quest_day": {
