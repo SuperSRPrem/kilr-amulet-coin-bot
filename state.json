@@ -937,7 +937,7 @@
       "eligible_match_count": 6
     }
   ],
-  "last_seen_time": "2026-08-01T22:25:45+00:00",
+  "last_seen_time": "2026-08-02T03:37:14+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 54.36000000000001,
@@ -1388,22 +1388,32 @@
       "points": 0.13,
       "match_count": 1,
       "last_score_time": "2026-08-01T22:25:45+00:00"
+    },
+    "4uLEq": {
+      "points": 3.94,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T03:37:14+00:00"
+    },
+    "tDyvM": {
+      "points": 2.06,
+      "match_count": 1,
+      "last_score_time": "2026-08-02T03:37:14+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-01T13:00:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-08-01T13:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-01",
-    "created_at": "2026-08-01T01:05:43.296474+00:00",
+    "date": "2026-08-02",
+    "created_at": "2026-08-02T03:39:07.322729+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1412,10 +1422,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Asia",
+        "map": "South America",
         "target": 4,
         "reward": 100,
-        "text": "Win 4 times on Asia",
+        "text": "Win 4 times on South America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1423,11 +1433,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1436,106 +1453,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "q71an": {
-          "Asia": 1
-        },
-        "QTqrQ": {
-          "Asia": 1
-        },
-        "7qzPq": {
-          "Asia": 1
-        },
-        "2cTBd": {
-          "Asia": 1
-        },
-        "t9rkJ": {
-          "Asia": 1
-        },
-        "5m7nL": {
-          "Asia": 1
-        },
-        "trb2v": {
-          "Asia": 1
-        },
-        "9tN58": {
-          "Asia": 1
-        },
-        "9J5GY": {
-          "Asia": 1
-        },
-        "U9UtW": {
-          "Asia": 1
-        },
-        "2dYcW": {
-          "Asia": 1
-        },
-        "KDgmR": {
-          "Asia": 1
-        },
-        "yKbTk": {
-          "Asia": 1
-        },
-        "Nn2VV": {
-          "Asia": 1
-        },
-        "drwVR": {
-          "Asia": 1
-        },
-        "5QRb9": {
-          "Asia": 1
-        },
-        "YWWRb": {
-          "Asia": 1
-        },
-        "22LDb": {
-          "Asia": 1
-        },
-        "NdKTN": {
-          "Asia": 1
-        },
-        "RVKMT": {
-          "Asia": 1
-        },
-        "cdMQ7": {
-          "Asia": 1
-        },
-        "RK78G": {
-          "Asia": 1
-        },
-        "RmKDk": {
-          "Asia": 1
-        },
-        "mrBYR": {
-          "Asia": 1
-        },
-        "9t5b2": {
-          "Asia": 1
-        },
-        "LCBg9": {
-          "Asia": 1
-        }
-      },
+      "medium": {},
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Cliffs",
+        "text": "Win 4 times on Asia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
