@@ -951,12 +951,12 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-08-03T18:49:33+00:00",
+  "last_seen_time": "2026-08-03T20:21:40+00:00",
   "current_scores": {
     "vt2Mr": {
-      "points": 17.47,
-      "match_count": 1,
-      "last_score_time": "2026-08-03T18:49:33+00:00"
+      "points": 63.47,
+      "match_count": 2,
+      "last_score_time": "2026-08-03T20:21:40+00:00"
     },
     "KwCY9": {
       "points": 6.77,
@@ -1030,7 +1030,7 @@
     }
   },
   "current_cycle_started_at": "2026-08-03T14:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-08-03T14:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-03",
