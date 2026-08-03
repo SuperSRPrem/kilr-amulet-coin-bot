@@ -1076,16 +1076,16 @@
   "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-08-02T14:30:00+00:00",
   "daily_quests": {
-    "date": "2026-08-02",
-    "created_at": "2026-08-02T03:39:07.322729+00:00",
+    "date": "2026-08-03",
+    "created_at": "2026-08-03T00:04:18.785176+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Island",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Island",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1094,10 +1094,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "South America",
-        "target": 4,
+        "map": "World 2",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on South America",
+        "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1119,170 +1119,33 @@
         "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "Wi5gQ"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "n9r9n": {
-          "South America": 1
-        },
-        "wqmnB": {
-          "South America": 1
-        },
-        "5K9M9": {
-          "South America": 1
-        },
-        "nqGk9": {
-          "South America": 1
-        }
-      },
-      "hard": {
-        "n9r9n": {
-          "South America": 1
-        },
-        "wqmnB": {
-          "South America": 1
-        },
-        "5K9M9": {
-          "South America": 1
-        },
-        "nqGk9": {
-          "South America": 1
-        },
-        "RRCgr": {
-          "Europe": 2,
-          "Asia": 1
-        },
-        "Z2Yfi": {
-          "Europe": 2,
-          "Asia": 2,
-          "North America": 1
-        },
-        "J2wMd": {
-          "Europe": 1
-        },
-        "NvFWE": {
-          "Europe": 1
-        },
-        "Wi5gQ": {
-          "Europe": 1,
-          "North America": 1,
-          "Asia": 1
-        },
-        "nkncB": {
-          "Europe": 1
-        },
-        "D1uoO": {
-          "Asia": 1
-        },
-        "tNTv7": {
-          "Asia": 1
-        },
-        "QFolY": {
-          "Asia": 1
-        },
-        "7kcQD": {
-          "Europe": 1
-        },
-        "6Ih4g": {
-          "Europe": 1
-        },
-        "xgsE8": {
-          "Europe": 1
-        },
-        "tcwYN": {
-          "Europe": 1,
-          "North America": 1
-        },
-        "DdVc7": {
-          "Europe": 1
-        },
-        "yVbB8": {
-          "North America": 1
-        },
-        "t5rtB": {
-          "North America": 1
-        },
-        "QNVY9": {
-          "North America": 1
-        },
-        "B2QQr": {
-          "North America": 1
-        },
-        "DBj9B": {
-          "North America": 1
-        },
-        "hJSAj": {
-          "North America": 1
-        },
-        "T2L5B": {
-          "North America": 1
-        },
-        "8GrcY": {
-          "North America": 1
-        },
-        "BRVLB": {
-          "North America": 1
-        },
-        "9nfRc": {
-          "Asia": 1
-        },
-        "Z6UgC": {
-          "Asia": 1
-        },
-        "wnWyL": {
-          "Asia": 1
-        },
-        "jNvjG": {
-          "Asia": 1
-        },
-        "yDY5R": {
-          "Asia": 1
-        },
-        "7vTKv": {
-          "Asia": 1
-        },
-        "QBKDV": {
-          "Asia": 1
-        },
-        "ntbV8": {
-          "Asia": 1
-        },
-        "yGyJJ": {
-          "Asia": 1
-        },
-        "Hw1CZ": {
-          "Asia": 1
-        },
-        "J2y58": {
-          "Asia": 1
-        },
-        "YkbLg": {
-          "Asia": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Asia",
+        "text": "Win 4 times on South America",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
