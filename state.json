@@ -951,7 +951,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-08-03T20:21:40+00:00",
+  "last_seen_time": "2026-08-04T03:23:15+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 63.47,
@@ -1027,22 +1027,37 @@
       "points": 0.81,
       "match_count": 1,
       "last_score_time": "2026-08-03T18:49:33+00:00"
+    },
+    "BQGvQ": {
+      "points": 7.81,
+      "match_count": 1,
+      "last_score_time": "2026-08-04T02:59:29+00:00"
+    },
+    "VMYMy": {
+      "points": 7.19,
+      "match_count": 1,
+      "last_score_time": "2026-08-04T02:59:29+00:00"
+    },
+    "TLq7n": {
+      "points": 128.0,
+      "match_count": 1,
+      "last_score_time": "2026-08-04T03:23:15+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-03T14:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-08-03T14:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-03",
-    "created_at": "2026-08-03T00:04:18.785176+00:00",
+    "date": "2026-08-04",
+    "created_at": "2026-08-04T03:25:59.046844+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island",
+        "map": "Black Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1051,10 +1066,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 3,
+        "map": "White Arena",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1062,18 +1077,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1083,66 +1091,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "vt2Mr": {
-          "Europe": 1
-        },
-        "KwCY9": {
-          "Europe": 1
-        },
-        "VFdty": {
-          "Europe": 1
-        },
-        "R8TDJ": {
-          "Europe": 1
-        },
-        "JJB8V": {
-          "Europe": 1
-        },
-        "9J5GY": {
-          "Europe": 1
-        },
-        "LcBWr": {
-          "Europe": 1
-        },
-        "fw7E9": {
-          "Europe": 1
-        },
-        "knbRV": {
-          "Europe": 1
-        },
-        "8NyUW": {
-          "Europe": 1
-        },
-        "5ytyW": {
-          "Europe": 1
-        },
-        "vNKBr": {
-          "Europe": 1
-        },
-        "958tJ": {
-          "Europe": 1
-        },
-        "rRmTb": {
-          "Europe": 1
-        },
-        "9NwnQ": {
-          "Europe": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Island",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on South America",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
