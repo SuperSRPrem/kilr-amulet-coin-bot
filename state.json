@@ -958,7 +958,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-08-04T22:10:46+00:00",
+  "last_seen_time": "2026-08-05T03:09:44+00:00",
   "current_scores": {
     "STJAm": {
       "points": 11.46,
@@ -1016,25 +1016,60 @@
       "last_score_time": "2026-08-04T22:10:46+00:00"
     },
     "JV8nT": {
-      "points": 0.36,
+      "points": 1.7599999999999998,
+      "match_count": 2,
+      "last_score_time": "2026-08-05T03:09:44+00:00"
+    },
+    "BLLq7": {
+      "points": 12.35,
       "match_count": 1,
-      "last_score_time": "2026-08-04T22:10:46+00:00"
+      "last_score_time": "2026-08-05T03:03:05+00:00"
+    },
+    "m985K": {
+      "points": 3.53,
+      "match_count": 1,
+      "last_score_time": "2026-08-05T03:03:05+00:00"
+    },
+    "8BQMm": {
+      "points": 3.03,
+      "match_count": 1,
+      "last_score_time": "2026-08-05T03:03:05+00:00"
+    },
+    "RGmtd": {
+      "points": 1.83,
+      "match_count": 1,
+      "last_score_time": "2026-08-05T03:03:05+00:00"
+    },
+    "cGkL7": {
+      "points": 0.66,
+      "match_count": 1,
+      "last_score_time": "2026-08-05T03:03:05+00:00"
+    },
+    "kL5Vy": {
+      "points": 0.59,
+      "match_count": 1,
+      "last_score_time": "2026-08-05T03:03:05+00:00"
+    },
+    "XsCOj": {
+      "points": 9.6,
+      "match_count": 1,
+      "last_score_time": "2026-08-05T03:09:44+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-04T20:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-08-04T20:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-04",
-    "created_at": "2026-08-04T03:25:59.046844+00:00",
+    "date": "2026-08-05",
+    "created_at": "2026-08-05T03:20:56.203684+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Black Arena",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1043,10 +1078,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "White Arena",
-        "target": 6,
+        "map": "World 2",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on White Arena",
+        "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1068,69 +1103,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "8tBQL": {
-          "World 1": 1
-        },
-        "QRqGj": {
-          "World 1": 1
-        },
-        "mbdQV": {
-          "World 1": 1
-        },
-        "2vWkm": {
-          "World 1": 1
-        },
-        "dymt2": {
-          "World 1": 1
-        },
-        "CR9RW": {
-          "World 1": 1
-        },
-        "bvVYC": {
-          "World 1": 1
-        },
-        "o9L4F": {
-          "World 1": 1
-        },
-        "GRLLr": {
-          "World 1": 1
-        },
-        "QMHXy": {
-          "World 1": 1
-        },
-        "8jk7B": {
-          "World 1": 1
-        },
-        "MrYcT": {
-          "World 1": 1
-        },
-        "tcj2k": {
-          "World 1": 1
-        },
-        "BERJD": {
-          "World 1": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Black Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on White Arena",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
