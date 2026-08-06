@@ -965,7 +965,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-08-06T09:52:37+00:00",
+  "last_seen_time": "2026-08-06T12:23:51+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 133.66,
@@ -993,9 +993,9 @@
       "last_score_time": "2026-08-05T16:07:28+00:00"
     },
     "tcwYN": {
-      "points": 9.25,
-      "match_count": 1,
-      "last_score_time": "2026-08-05T16:07:28+00:00"
+      "points": 100.76,
+      "match_count": 3,
+      "last_score_time": "2026-08-06T12:23:29+00:00"
     },
     "bTBmB": {
       "points": 6.91,
@@ -1003,9 +1003,9 @@
       "last_score_time": "2026-08-05T16:07:28+00:00"
     },
     "RBqN2": {
-      "points": 4.24,
-      "match_count": 1,
-      "last_score_time": "2026-08-05T16:07:28+00:00"
+      "points": 77.86999999999999,
+      "match_count": 2,
+      "last_score_time": "2026-08-06T12:02:16+00:00"
     },
     "ktBkt": {
       "points": 2.0,
@@ -1096,10 +1096,160 @@
       "points": 0.78,
       "match_count": 1,
       "last_score_time": "2026-08-06T09:52:37+00:00"
+    },
+    "wT7dN": {
+      "points": 22.13,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:02:16+00:00"
+    },
+    "dCbyn": {
+      "points": 2.83,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:02:16+00:00"
+    },
+    "BndDc": {
+      "points": 0.93,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:02:16+00:00"
+    },
+    "WdmWW": {
+      "points": 0.49,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:02:16+00:00"
+    },
+    "K2cwD": {
+      "points": 4.99,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "YBrwD": {
+      "points": 4.55,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "tDWDB": {
+      "points": 4.42,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "LDVrn": {
+      "points": 4.09,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "vRMQR": {
+      "points": 3.74,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "MGc6-": {
+      "points": 2.61,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "TmYrw": {
+      "points": 1.88,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "5FJQm": {
+      "points": 1.87,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "cCcVD": {
+      "points": 1.83,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "MNVLv": {
+      "points": 2.54,
+      "match_count": 2,
+      "last_score_time": "2026-08-06T12:23:29+00:00"
+    },
+    "2mb9D": {
+      "points": 1.53,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "Z2Yfi": {
+      "points": 1.25,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "5cNk7": {
+      "points": 2.1500000000000004,
+      "match_count": 2,
+      "last_score_time": "2026-08-06T12:23:29+00:00"
+    },
+    "vB5vb": {
+      "points": 1.04,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "98Dv2": {
+      "points": 1.02,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "LwVYn": {
+      "points": 0.92,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "myg92": {
+      "points": 6.78,
+      "match_count": 2,
+      "last_score_time": "2026-08-06T12:23:51+00:00"
+    },
+    "KMWJg": {
+      "points": 0.47,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:10:27+00:00"
+    },
+    "Md5B9": {
+      "points": 1.37,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:23:29+00:00"
+    },
+    "Dq5NJ": {
+      "points": 68.54,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:23:51+00:00"
+    },
+    "YMmNC": {
+      "points": 6.35,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:23:51+00:00"
+    },
+    "JRdnV": {
+      "points": 4.97,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:23:51+00:00"
+    },
+    "VNjbQ": {
+      "points": 2.33,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:23:51+00:00"
+    },
+    "gTKB7": {
+      "points": 1.78,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:23:51+00:00"
+    },
+    "M5mM8": {
+      "points": 0.89,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:23:51+00:00"
+    },
+    "CJRK8": {
+      "points": 0.09,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T12:23:51+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-05T09:00:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-08-05T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-06",
@@ -1126,8 +1276,8 @@
         "text": "Win 4 times on Caucasia",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "5cNk7"
       },
       "hard": {
         "level": "hard",
@@ -1159,9 +1309,94 @@
         },
         "RrwN7": {
           "Caucasia": 1
+        },
+        "tcwYN": {
+          "Caucasia": 2
+        },
+        "K2cwD": {
+          "Caucasia": 1
+        },
+        "YBrwD": {
+          "Caucasia": 1
+        },
+        "tDWDB": {
+          "Caucasia": 1
+        },
+        "LDVrn": {
+          "Caucasia": 1
+        },
+        "vRMQR": {
+          "Caucasia": 1
+        },
+        "MGc6-": {
+          "Caucasia": 1
+        },
+        "TmYrw": {
+          "Caucasia": 1
+        },
+        "5FJQm": {
+          "Caucasia": 1
+        },
+        "cCcVD": {
+          "Caucasia": 1
+        },
+        "MNVLv": {
+          "Caucasia": 2
+        },
+        "2mb9D": {
+          "Caucasia": 1
+        },
+        "Z2Yfi": {
+          "Caucasia": 1
+        },
+        "5cNk7": {
+          "Caucasia": 2
+        },
+        "vB5vb": {
+          "Caucasia": 1
+        },
+        "98Dv2": {
+          "Caucasia": 1
+        },
+        "LwVYn": {
+          "Caucasia": 1
+        },
+        "myg92": {
+          "Caucasia": 1
+        },
+        "KMWJg": {
+          "Caucasia": 1
+        },
+        "Md5B9": {
+          "Caucasia": 1
         }
       },
-      "hard": {}
+      "hard": {
+        "Dq5NJ": {
+          "World 1": 1
+        },
+        "YMmNC": {
+          "World 1": 1
+        },
+        "myg92": {
+          "World 1": 1
+        },
+        "JRdnV": {
+          "World 1": 1
+        },
+        "VNjbQ": {
+          "World 1": 1
+        },
+        "gTKB7": {
+          "World 1": 1
+        },
+        "M5mM8": {
+          "World 1": 1
+        },
+        "CJRK8": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
