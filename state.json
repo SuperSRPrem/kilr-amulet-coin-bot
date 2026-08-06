@@ -1077,16 +1077,16 @@
   "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-08-05T09:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-05",
-    "created_at": "2026-08-05T03:20:56.203684+00:00",
+    "date": "2026-08-06",
+    "created_at": "2026-08-06T00:54:04.915682+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1095,10 +1095,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 3,
+        "map": "Caucasia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 4 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1120,30 +1120,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "nkncB": {
-          "World 1": 1
-        },
-        "jwpEL": {
-          "World 1": 1
-        },
-        "JMdGb": {
-          "World 1": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on White Arena",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
