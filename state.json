@@ -965,7 +965,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-08-05T18:04:34+00:00",
+  "last_seen_time": "2026-08-06T09:52:37+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 133.66,
@@ -1071,10 +1071,35 @@
       "points": 0.1,
       "match_count": 1,
       "last_score_time": "2026-08-05T18:04:34+00:00"
+    },
+    "ck2MR": {
+      "points": 39.57,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T09:52:37+00:00"
+    },
+    "wkcvN": {
+      "points": 7.2,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T09:52:37+00:00"
+    },
+    "85JRJ": {
+      "points": 3.94,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T09:52:37+00:00"
+    },
+    "V9cJq": {
+      "points": 3.51,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T09:52:37+00:00"
+    },
+    "RrwN7": {
+      "points": 0.78,
+      "match_count": 1,
+      "last_score_time": "2026-08-06T09:52:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-05T09:00:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-08-05T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-06",
@@ -1119,7 +1144,23 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "ck2MR": {
+          "Caucasia": 1
+        },
+        "wkcvN": {
+          "Caucasia": 1
+        },
+        "85JRJ": {
+          "Caucasia": 1
+        },
+        "V9cJq": {
+          "Caucasia": 1
+        },
+        "RrwN7": {
+          "Caucasia": 1
+        }
+      },
       "hard": {}
     }
   },
