@@ -979,7 +979,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-08-07T21:41:04+00:00",
+  "last_seen_time": "2026-08-07T22:41:52+00:00",
   "current_scores": {
     "TVvmR": {
       "points": 20.16,
@@ -1062,9 +1062,9 @@
       "last_score_time": "2026-08-07T18:01:38+00:00"
     },
     "63cmP": {
-      "points": 62.879999999999995,
-      "match_count": 5,
-      "last_score_time": "2026-08-07T21:41:04+00:00"
+      "points": 93.63,
+      "match_count": 8,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
     },
     "yTqDd": {
       "points": 5.14,
@@ -1102,9 +1102,9 @@
       "last_score_time": "2026-08-07T18:01:38+00:00"
     },
     "tcwYN": {
-      "points": 30.2,
-      "match_count": 3,
-      "last_score_time": "2026-08-07T21:24:33+00:00"
+      "points": 38.61,
+      "match_count": 5,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
     },
     "hR8KW": {
       "points": 4.03,
@@ -1127,9 +1127,9 @@
       "last_score_time": "2026-08-07T20:44:29+00:00"
     },
     "YsRY1": {
-      "points": 8.05,
-      "match_count": 2,
-      "last_score_time": "2026-08-07T21:24:33+00:00"
+      "points": 24.26,
+      "match_count": 5,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
     },
     "9BQqQ": {
       "points": 3.18,
@@ -1197,9 +1197,9 @@
       "last_score_time": "2026-08-07T21:23:38+00:00"
     },
     "nkncB": {
-      "points": 9.26,
-      "match_count": 1,
-      "last_score_time": "2026-08-07T21:23:38+00:00"
+      "points": 13.64,
+      "match_count": 2,
+      "last_score_time": "2026-08-07T22:41:52+00:00"
     },
     "vjVL8": {
       "points": 8.7,
@@ -1222,18 +1222,88 @@
       "last_score_time": "2026-08-07T21:23:38+00:00"
     },
     "RBqN2": {
-      "points": 18.84,
-      "match_count": 1,
-      "last_score_time": "2026-08-07T21:24:33+00:00"
+      "points": 35.07,
+      "match_count": 4,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
     },
     "rBgKL": {
       "points": 0.81,
       "match_count": 1,
       "last_score_time": "2026-08-07T21:24:33+00:00"
+    },
+    "5rfGQ": {
+      "points": 2.43,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:21:33+00:00"
+    },
+    "r9mRV": {
+      "points": 0.27,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:21:33+00:00"
+    },
+    "nHHji": {
+      "points": 7.28,
+      "match_count": 3,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
+    },
+    "2Qv7Q": {
+      "points": 2.13,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
+    },
+    "tqnr2": {
+      "points": 0.53,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
+    },
+    "9m7LR": {
+      "points": 0.41,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
+    },
+    "dDqTL": {
+      "points": 0.34,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:38:22+00:00"
+    },
+    "CwvkW": {
+      "points": 8.32,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:41:52+00:00"
+    },
+    "AwqI7": {
+      "points": 4.64,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:41:52+00:00"
+    },
+    "nmMBQ": {
+      "points": 3.97,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:41:52+00:00"
+    },
+    "Ntm5V": {
+      "points": 1.73,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:41:52+00:00"
+    },
+    "y2Q89": {
+      "points": 0.84,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:41:52+00:00"
+    },
+    "RMtWY": {
+      "points": 0.69,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:41:52+00:00"
+    },
+    "cKmLQ": {
+      "points": 0.44,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T22:41:52+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-07T17:00:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 13,
   "last_announced_event_time": "2026-08-07T17:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-07",
