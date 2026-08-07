@@ -972,7 +972,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-06T14:55:50+00:00",
+  "last_seen_time": "2026-08-07T00:22:17+00:00",
   "current_scores": {
     "5b9LV": {
       "points": 44.98,
@@ -988,22 +988,47 @@
       "points": 8.62,
       "match_count": 1,
       "last_score_time": "2026-08-06T14:55:50+00:00"
+    },
+    "VytR5": {
+      "points": 34.27,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T00:22:17+00:00"
+    },
+    "LX-uv": {
+      "points": 29.82,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T00:22:17+00:00"
+    },
+    "jBng5": {
+      "points": 11.9,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T00:22:17+00:00"
+    },
+    "qgywY": {
+      "points": 6.5,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T00:22:17+00:00"
+    },
+    "5VC2w": {
+      "points": 2.51,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T00:22:17+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-06T13:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-08-06T13:30:00+00:00",
   "daily_quests": {
-    "date": "2026-08-06",
-    "created_at": "2026-08-06T00:54:04.915682+00:00",
+    "date": "2026-08-07",
+    "created_at": "2026-08-07T00:43:05.120294+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "White Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1012,22 +1037,21 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 4,
+        "map": "Desert",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 6 times on Desert",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "5cNk7"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
-        "target": 6,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1036,122 +1060,21 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "ck2MR": {
-          "Caucasia": 1
-        },
-        "wkcvN": {
-          "Caucasia": 1
-        },
-        "85JRJ": {
-          "Caucasia": 1
-        },
-        "V9cJq": {
-          "Caucasia": 1
-        },
-        "RrwN7": {
-          "Caucasia": 1
-        },
-        "tcwYN": {
-          "Caucasia": 2
-        },
-        "K2cwD": {
-          "Caucasia": 1
-        },
-        "YBrwD": {
-          "Caucasia": 1
-        },
-        "tDWDB": {
-          "Caucasia": 1
-        },
-        "LDVrn": {
-          "Caucasia": 1
-        },
-        "vRMQR": {
-          "Caucasia": 1
-        },
-        "MGc6-": {
-          "Caucasia": 1
-        },
-        "TmYrw": {
-          "Caucasia": 1
-        },
-        "5FJQm": {
-          "Caucasia": 1
-        },
-        "cCcVD": {
-          "Caucasia": 1
-        },
-        "MNVLv": {
-          "Caucasia": 2
-        },
-        "2mb9D": {
-          "Caucasia": 1
-        },
-        "Z2Yfi": {
-          "Caucasia": 1
-        },
-        "5cNk7": {
-          "Caucasia": 2
-        },
-        "vB5vb": {
-          "Caucasia": 1
-        },
-        "98Dv2": {
-          "Caucasia": 1
-        },
-        "LwVYn": {
-          "Caucasia": 1
-        },
-        "myg92": {
-          "Caucasia": 1
-        },
-        "KMWJg": {
-          "Caucasia": 1
-        },
-        "Md5B9": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "Dq5NJ": {
-          "World 1": 1
-        },
-        "YMmNC": {
-          "World 1": 1
-        },
-        "myg92": {
-          "World 1": 1
-        },
-        "JRdnV": {
-          "World 1": 1
-        },
-        "VNjbQ": {
-          "World 1": 1
-        },
-        "gTKB7": {
-          "World 1": 1
-        },
-        "M5mM8": {
-          "World 1": 1
-        },
-        "CJRK8": {
-          "World 1": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 4 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
