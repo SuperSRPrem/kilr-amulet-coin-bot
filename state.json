@@ -979,7 +979,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-08-07T22:41:52+00:00",
+  "last_seen_time": "2026-08-07T23:24:17+00:00",
   "current_scores": {
     "TVvmR": {
       "points": 20.16,
@@ -1300,10 +1300,20 @@
       "points": 0.44,
       "match_count": 1,
       "last_score_time": "2026-08-07T22:41:52+00:00"
+    },
+    "STJAm": {
+      "points": 19.0,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T23:24:17+00:00"
+    },
+    "VD22R": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-08-07T23:24:17+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-07T17:00:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-08-07T17:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-07",
