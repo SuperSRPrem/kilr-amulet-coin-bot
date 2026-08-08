@@ -979,7 +979,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-08-08T14:58:55+00:00",
+  "last_seen_time": "2026-08-08T15:32:55+00:00",
   "current_scores": {
     "TVvmR": {
       "points": 46.61,
@@ -1382,9 +1382,9 @@
       "last_score_time": "2026-08-08T08:47:29+00:00"
     },
     "tv999": {
-      "points": 42.809999999999995,
-      "match_count": 4,
-      "last_score_time": "2026-08-08T14:58:55+00:00"
+      "points": 48.37,
+      "match_count": 5,
+      "last_score_time": "2026-08-08T15:32:55+00:00"
     },
     "cyQKL": {
       "points": 6.31,
@@ -1542,13 +1542,23 @@
       "last_score_time": "2026-08-08T14:50:51+00:00"
     },
     "q71an": {
-      "points": 7.61,
+      "points": 19.61,
+      "match_count": 2,
+      "last_score_time": "2026-08-08T15:32:55+00:00"
+    },
+    "5JjtC": {
+      "points": 2.21,
       "match_count": 1,
-      "last_score_time": "2026-08-08T14:58:55+00:00"
+      "last_score_time": "2026-08-08T15:32:55+00:00"
+    },
+    "Qn92W": {
+      "points": 1.23,
+      "match_count": 1,
+      "last_score_time": "2026-08-08T15:32:55+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-07T17:00:00+00:00",
-  "current_cycle_match_count": 23,
+  "current_cycle_match_count": 24,
   "last_announced_event_time": "2026-08-07T17:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-08",
@@ -1658,7 +1668,8 @@
           "Asia": 1
         },
         "tv999": {
-          "Africa": 1
+          "Africa": 1,
+          "Asia": 1
         },
         "cyQKL": {
           "Africa": 1
@@ -1701,6 +1712,15 @@
         },
         "2kd8c": {
           "Africa": 1
+        },
+        "q71an": {
+          "Asia": 1
+        },
+        "5JjtC": {
+          "Asia": 1
+        },
+        "Qn92W": {
+          "Asia": 1
         }
       }
     }
