@@ -979,7 +979,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-08-08T09:36:10+00:00",
+  "last_seen_time": "2026-08-08T12:35:58+00:00",
   "current_scores": {
     "TVvmR": {
       "points": 46.61,
@@ -1012,9 +1012,9 @@
       "last_score_time": "2026-08-07T17:16:18+00:00"
     },
     "Z2Yfi": {
-      "points": 7.31,
-      "match_count": 2,
-      "last_score_time": "2026-08-08T09:36:10+00:00"
+      "points": 53.31,
+      "match_count": 3,
+      "last_score_time": "2026-08-08T12:35:58+00:00"
     },
     "vNRqm": {
       "points": 3.97,
@@ -1383,7 +1383,7 @@
     }
   },
   "current_cycle_started_at": "2026-08-07T17:00:00+00:00",
-  "current_cycle_match_count": 18,
+  "current_cycle_match_count": 19,
   "last_announced_event_time": "2026-08-07T17:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-08",
