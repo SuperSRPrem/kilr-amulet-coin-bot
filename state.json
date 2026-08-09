@@ -1123,16 +1123,16 @@
   "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-08-08T20:30:00+00:00",
   "daily_quests": {
-    "date": "2026-08-08",
-    "created_at": "2026-08-08T02:07:14.418663+00:00",
+    "date": "2026-08-09",
+    "created_at": "2026-08-09T02:18:54.412137+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Black Arena",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1141,10 +1141,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Africa",
-        "target": 4,
+        "map": "Island",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Africa",
+        "text": "Win 6 times on Island",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1172,154 +1172,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "tv999": {
-          "Africa": 1
-        },
-        "cyQKL": {
-          "Africa": 1
-        },
-        "QYk8y": {
-          "Africa": 1
-        },
-        "9jpvj": {
-          "Africa": 1
-        },
-        "9rTL7": {
-          "Africa": 1
-        },
-        "777D5": {
-          "Africa": 1
-        },
-        "CLK5y": {
-          "Africa": 1
-        },
-        "2vVbB": {
-          "Africa": 1
-        },
-        "iC-72": {
-          "Africa": 1
-        },
-        "rvCnr": {
-          "Africa": 1
-        },
-        "n59Wk": {
-          "Africa": 1
-        },
-        "9vYYV": {
-          "Africa": 1
-        },
-        "7Cy2B": {
-          "Africa": 1
-        },
-        "nY5cr": {
-          "Africa": 1
-        },
-        "2kd8c": {
-          "Africa": 1
-        }
-      },
-      "hard": {
-        "TVvmR": {
-          "Asia": 1
-        },
-        "tcwYN": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "Z2Yfi": {
-          "Asia": 1
-        },
-        "tv999": {
-          "Africa": 1,
-          "Asia": 1
-        },
-        "cyQKL": {
-          "Africa": 1
-        },
-        "QYk8y": {
-          "Africa": 1
-        },
-        "9jpvj": {
-          "Africa": 1
-        },
-        "9rTL7": {
-          "Africa": 1
-        },
-        "777D5": {
-          "Africa": 1
-        },
-        "CLK5y": {
-          "Africa": 1
-        },
-        "2vVbB": {
-          "Africa": 1
-        },
-        "iC-72": {
-          "Africa": 1
-        },
-        "rvCnr": {
-          "Africa": 1
-        },
-        "n59Wk": {
-          "Africa": 1
-        },
-        "9vYYV": {
-          "Africa": 1
-        },
-        "7Cy2B": {
-          "Africa": 1
-        },
-        "nY5cr": {
-          "Africa": 1
-        },
-        "2kd8c": {
-          "Africa": 1
-        },
-        "q71an": {
-          "Asia": 1
-        },
-        "5JjtC": {
-          "Asia": 1
-        },
-        "Qn92W": {
-          "Asia": 1
-        },
-        "4uLEq": {
-          "Europe": 1
-        },
-        "YsRY1": {
-          "Europe": 1
-        },
-        "TbQyd": {
-          "Europe": 1
-        },
-        "t9nGY": {
-          "Europe": 1
-        },
-        "qryLB": {
-          "Europe": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Black Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Desert",
+        "text": "Win 4 times on Africa",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
