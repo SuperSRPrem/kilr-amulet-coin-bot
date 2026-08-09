@@ -986,7 +986,7 @@
       "eligible_match_count": 29
     }
   ],
-  "last_seen_time": "2026-08-09T07:25:54+00:00",
+  "last_seen_time": "2026-08-09T08:28:06+00:00",
   "current_scores": {
     "RBqN2": {
       "points": 32.2,
@@ -1059,9 +1059,9 @@
       "last_score_time": "2026-08-08T22:25:29+00:00"
     },
     "1OPNc": {
-      "points": 20.66,
-      "match_count": 3,
-      "last_score_time": "2026-08-09T07:09:43+00:00"
+      "points": 50.66,
+      "match_count": 4,
+      "last_score_time": "2026-08-09T08:28:06+00:00"
     },
     "RvL8r": {
       "points": 1.32,
@@ -1205,7 +1205,7 @@
     }
   },
   "current_cycle_started_at": "2026-08-08T20:30:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-08-08T20:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-09",
@@ -1258,7 +1258,11 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "1OPNc": {
+          "Africa": 1
+        }
+      }
     }
   },
   "last_quest_day": {
