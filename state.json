@@ -1220,16 +1220,16 @@
   "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-08-09T10:30:00+00:00",
   "daily_quests": {
-    "date": "2026-08-09",
-    "created_at": "2026-08-09T02:18:54.412137+00:00",
+    "date": "2026-08-10",
+    "created_at": "2026-08-10T02:23:56.663655+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Halo",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Halo",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1238,10 +1238,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Island",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on Island",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1251,16 +1251,15 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
         ],
-        "target": 6,
+        "target": 5,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1270,61 +1269,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "1OPNc": {
-          "Africa": 1,
-          "Asia": 1
-        },
-        "Oyf9y": {
-          "Asia": 1
-        },
-        "q71an": {
-          "Asia": 1
-        },
-        "tv999": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "4DS9R": {
-          "Asia": 1
-        },
-        "8tBQL": {
-          "Europe": 1,
-          "North America": 1
-        },
-        "ktBkt": {
-          "North America": 1
-        },
-        "8Wv2g": {
-          "North America": 1
-        },
-        "QbvLb": {
-          "North America": 1
-        },
-        "Z2Yfi": {
-          "North America": 1,
-          "Asia": 1
-        },
-        "m7TTW": {
-          "North America": 1
-        },
-        "qLR8N": {
-          "Asia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Africa",
+        "text": "Win 6 times on Island",
         "reward": 100,
         "done_by": null,
         "done_at": null
