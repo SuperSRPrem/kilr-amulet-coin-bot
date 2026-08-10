@@ -993,7 +993,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-09T17:15:46+00:00",
+  "last_seen_time": "2026-08-10T05:56:14+00:00",
   "current_scores": {
     "8tBQL": {
       "points": 69.37,
@@ -1214,10 +1214,20 @@
       "points": 7.86,
       "match_count": 1,
       "last_score_time": "2026-08-09T17:15:46+00:00"
+    },
+    "LvVTr": {
+      "points": 61.62,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T05:56:14+00:00"
+    },
+    "TVTvV": {
+      "points": 44.38,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T05:56:14+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-09T10:30:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-08-09T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-10",
@@ -1269,7 +1279,14 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "LvVTr": {
+          "Middle East": 1
+        },
+        "TVTvV": {
+          "Middle East": 1
+        }
+      }
     }
   },
   "last_quest_day": {
