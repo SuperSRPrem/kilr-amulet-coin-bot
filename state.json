@@ -993,17 +993,17 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-10T13:54:52+00:00",
+  "last_seen_time": "2026-08-10T14:49:13+00:00",
   "current_scores": {
     "8tBQL": {
-      "points": 69.37,
-      "match_count": 6,
-      "last_score_time": "2026-08-09T16:42:46+00:00"
+      "points": 71.48,
+      "match_count": 7,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
     },
     "tcwYN": {
-      "points": 19.66,
-      "match_count": 4,
-      "last_score_time": "2026-08-10T13:50:07+00:00"
+      "points": 24.41,
+      "match_count": 5,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
     },
     "tEcNq": {
       "points": 6.48,
@@ -1306,9 +1306,9 @@
       "last_score_time": "2026-08-10T13:50:07+00:00"
     },
     "tBBVt": {
-      "points": 13.14,
-      "match_count": 1,
-      "last_score_time": "2026-08-10T13:54:52+00:00"
+      "points": 21.130000000000003,
+      "match_count": 2,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
     },
     "8Bq2L": {
       "points": 7.63,
@@ -1329,10 +1329,55 @@
       "points": 1.35,
       "match_count": 1,
       "last_score_time": "2026-08-10T13:54:52+00:00"
+    },
+    "YsRY1": {
+      "points": 10.85,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
+    },
+    "vV9LV": {
+      "points": 5.38,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
+    },
+    "TixHP": {
+      "points": 2.57,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
+    },
+    "DvjV2": {
+      "points": 2.11,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
+    },
+    "t2mRR": {
+      "points": 1.87,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
+    },
+    "WdQtk": {
+      "points": 1.45,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
+    },
+    "tDrYB": {
+      "points": 1.25,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
+    },
+    "DMyCJ": {
+      "points": 1.2,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
+    },
+    "8ccjc": {
+      "points": 0.47,
+      "match_count": 1,
+      "last_score_time": "2026-08-10T14:49:13+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-09T10:30:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-08-09T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-10",
