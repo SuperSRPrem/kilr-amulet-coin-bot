@@ -1007,7 +1007,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-08-11T14:55:40+00:00",
+  "last_seen_time": "2026-08-11T23:55:41+00:00",
   "current_scores": {
     "1OPNc": {
       "points": 31.36,
@@ -1058,22 +1058,67 @@
       "points": 0.34,
       "match_count": 1,
       "last_score_time": "2026-08-11T14:55:40+00:00"
+    },
+    "Y5MTB": {
+      "points": 20.51,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
+    },
+    "4uLEq": {
+      "points": 16.2,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
+    },
+    "45dHR": {
+      "points": 8.28,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
+    },
+    "NVYTc": {
+      "points": 3.55,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
+    },
+    "jyrXO": {
+      "points": 1.79,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
+    },
+    "k92bL": {
+      "points": 1.58,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
+    },
+    "Bv7CV": {
+      "points": 1.37,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
+    },
+    "yVNWk": {
+      "points": 1.04,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
+    },
+    "VWkn9": {
+      "points": 0.67,
+      "match_count": 1,
+      "last_score_time": "2026-08-11T23:55:41+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-11T14:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-08-11T14:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-11",
-    "created_at": "2026-08-11T02:16:58.154992+00:00",
+    "date": "2026-08-12",
+    "created_at": "2026-08-12T00:08:28.068332+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Island",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Island",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1082,10 +1127,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Europe",
-        "target": 4,
+        "map": "Desert",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Europe",
+        "text": "Win 6 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1093,17 +1138,10 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1113,105 +1151,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "British Isles": 1
-        },
-        "Uq0E8": {
-          "British Isles": 1
-        },
-        "UpFus": {
-          "British Isles": 1
-        },
-        "Q9VnL": {
-          "British Isles": 1
-        },
-        "qtKYC": {
-          "British Isles": 1
-        },
-        "mKvNB": {
-          "British Isles": 1
-        },
-        "NMwNy": {
-          "British Isles": 1
-        },
-        "t5mw5": {
-          "British Isles": 1
-        },
-        "JvcwC": {
-          "British Isles": 1
-        },
-        "dyNcm": {
-          "British Isles": 1
-        },
-        "YDWwQ": {
-          "British Isles": 1
-        },
-        "bBdW8": {
-          "British Isles": 1
-        },
-        "tcYJQ": {
-          "British Isles": 1
-        },
-        "LtydL": {
-          "British Isles": 1
-        },
-        "TbtRg": {
-          "British Isles": 1
-        },
-        "bM2Q9": {
-          "British Isles": 1
-        },
-        "MJj5k": {
-          "British Isles": 1
-        },
-        "qtvcN": {
-          "British Isles": 1
-        },
-        "1OPNc": {
-          "Scandinavia": 1
-        },
-        "VCt7c": {
-          "Scandinavia": 1
-        },
-        "mwrJm": {
-          "Scandinavia": 1
-        },
-        "2yTwq": {
-          "Scandinavia": 1
-        },
-        "TN7jN": {
-          "Scandinavia": 1
-        },
-        "RGWnw": {
-          "Scandinavia": 1
-        },
-        "WnLQw": {
-          "Scandinavia": 1
-        },
-        "CJG9Y": {
-          "Scandinavia": 1
-        },
-        "Vw9Cv": {
-          "Scandinavia": 1
-        },
-        "K8vWq": {
-          "Scandinavia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on Europe",
         "reward": 100,
         "done_by": null,
         "done_at": null
