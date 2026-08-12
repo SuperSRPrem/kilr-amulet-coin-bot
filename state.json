@@ -1014,7 +1014,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-12T22:18:00+00:00",
+  "last_seen_time": "2026-08-12T23:16:06+00:00",
   "current_scores": {
     "tBBVt": {
       "points": 4.84,
@@ -1147,9 +1147,9 @@
       "last_score_time": "2026-08-12T19:51:41+00:00"
     },
     "YsRY1": {
-      "points": 28.55,
-      "match_count": 2,
-      "last_score_time": "2026-08-12T22:18:00+00:00"
+      "points": 32.36,
+      "match_count": 4,
+      "last_score_time": "2026-08-12T23:16:06+00:00"
     },
     "hrPow": {
       "points": 14.85,
@@ -1162,9 +1162,9 @@
       "last_score_time": "2026-08-12T21:57:33+00:00"
     },
     "tcwYN": {
-      "points": 1.36,
-      "match_count": 1,
-      "last_score_time": "2026-08-12T21:57:33+00:00"
+      "points": 35.44,
+      "match_count": 3,
+      "last_score_time": "2026-08-12T23:16:06+00:00"
     },
     "RYvwB": {
       "points": 0.89,
@@ -1215,10 +1215,40 @@
       "points": 0.76,
       "match_count": 1,
       "last_score_time": "2026-08-12T22:18:00+00:00"
+    },
+    "djd9j": {
+      "points": 1.28,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:10:05+00:00"
+    },
+    "QLTDw": {
+      "points": 0.05,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:10:05+00:00"
+    },
+    "5n2Lq": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:10:05+00:00"
+    },
+    "QJjTn": {
+      "points": 5.1,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:16:06+00:00"
+    },
+    "2v78t": {
+      "points": 2.48,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:16:06+00:00"
+    },
+    "9r5RG": {
+      "points": 1.18,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:16:06+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-12T16:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-08-12T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-12",
