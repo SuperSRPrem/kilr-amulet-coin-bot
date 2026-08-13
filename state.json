@@ -1021,10 +1021,21 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-13T02:47:11+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-08-13T11:12:12+00:00",
+  "current_scores": {
+    "tBBVt": {
+      "points": 26.66,
+      "match_count": 1,
+      "last_score_time": "2026-08-13T11:12:12+00:00"
+    },
+    "wVgBY": {
+      "points": 5.34,
+      "match_count": 1,
+      "last_score_time": "2026-08-13T11:12:12+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-08-13T08:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-08-13T08:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-13",
