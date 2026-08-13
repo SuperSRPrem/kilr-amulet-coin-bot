@@ -1014,7 +1014,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-12T23:16:06+00:00",
+  "last_seen_time": "2026-08-13T00:01:19+00:00",
   "current_scores": {
     "tBBVt": {
       "points": 4.84,
@@ -1147,9 +1147,9 @@
       "last_score_time": "2026-08-12T19:51:41+00:00"
     },
     "YsRY1": {
-      "points": 32.36,
-      "match_count": 4,
-      "last_score_time": "2026-08-12T23:16:06+00:00"
+      "points": 40.26,
+      "match_count": 6,
+      "last_score_time": "2026-08-12T23:51:47+00:00"
     },
     "hrPow": {
       "points": 14.85,
@@ -1162,9 +1162,9 @@
       "last_score_time": "2026-08-12T21:57:33+00:00"
     },
     "tcwYN": {
-      "points": 35.44,
-      "match_count": 3,
-      "last_score_time": "2026-08-12T23:16:06+00:00"
+      "points": 37.199999999999996,
+      "match_count": 4,
+      "last_score_time": "2026-08-12T23:51:47+00:00"
     },
     "RYvwB": {
       "points": 0.89,
@@ -1245,22 +1245,42 @@
       "points": 1.18,
       "match_count": 1,
       "last_score_time": "2026-08-12T23:16:06+00:00"
+    },
+    "RBqN2": {
+      "points": 59.69,
+      "match_count": 3,
+      "last_score_time": "2026-08-13T00:01:19+00:00"
+    },
+    "5QMLT": {
+      "points": 3.15,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:51:47+00:00"
+    },
+    "bm9v5": {
+      "points": 1.81,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:51:47+00:00"
+    },
+    "vRtGD": {
+      "points": 1.68,
+      "match_count": 1,
+      "last_score_time": "2026-08-12T23:51:47+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-12T16:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-08-12T16:30:00+00:00",
   "daily_quests": {
-    "date": "2026-08-12",
-    "created_at": "2026-08-12T00:08:28.068332+00:00",
+    "date": "2026-08-13",
+    "created_at": "2026-08-13T00:08:43.928809+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1269,10 +1289,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Desert",
-        "target": 6,
+        "map": "World 1",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Desert",
+        "text": "Win 4 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1293,63 +1313,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "tcwYN": {
-          "Contest": 1
-        },
-        "2KNty": {
-          "Contest": 1
-        },
-        "Wi5gQ": {
-          "Contest": 1
-        },
-        "mRrr9": {
-          "Contest": 1
-        },
-        "RBqN2": {
-          "Contest": 1
-        },
-        "T2rgk": {
-          "Contest": 1
-        },
-        "49_3X": {
-          "Contest": 1
-        },
-        "WbWqv": {
-          "Contest": 1
-        },
-        "5Vtvh": {
-          "Contest": 1
-        },
-        "Z2Yfi": {
-          "Contest": 1
-        },
-        "vymYM": {
-          "Contest": 1
-        },
-        "kVwRL": {
-          "Contest": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Island",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Europe",
+        "text": "Win 6 times on Desert",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
