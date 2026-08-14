@@ -1021,7 +1021,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-13T22:19:46+00:00",
+  "last_seen_time": "2026-08-13T23:47:42+00:00",
   "current_scores": {
     "tBBVt": {
       "points": 33.67,
@@ -1302,22 +1302,32 @@
       "points": 0.59,
       "match_count": 1,
       "last_score_time": "2026-08-13T22:19:46+00:00"
+    },
+    "4uLEq": {
+      "points": 17.95,
+      "match_count": 1,
+      "last_score_time": "2026-08-13T23:47:42+00:00"
+    },
+    "wGkMD": {
+      "points": 0.05,
+      "match_count": 1,
+      "last_score_time": "2026-08-13T23:47:42+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-13T08:30:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-08-13T08:30:00+00:00",
   "daily_quests": {
-    "date": "2026-08-13",
-    "created_at": "2026-08-13T00:08:43.928809+00:00",
+    "date": "2026-08-14",
+    "created_at": "2026-08-14T00:09:14.933658+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1326,10 +1336,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 1",
+        "map": "Middle East",
         "target": 4,
         "reward": 100,
-        "text": "Win 4 times on World 1",
+        "text": "Win 4 times on Middle East",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1337,10 +1347,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_wins",
+        "map": "World 2",
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1349,40 +1360,21 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "tcwYN": {
-          "World 1": 1
-        },
-        "vR8b9": {
-          "World 1": 1
-        },
-        "Dj7tw": {
-          "World 1": 1
-        },
-        "wRYcC": {
-          "World 1": 1
-        },
-        "LM2bB": {
-          "World 1": 1
-        },
-        "TrMsR": {
-          "World 1": 1
-        }
-      },
+      "medium": {},
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Desert",
+        "text": "Win 4 times on World 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
