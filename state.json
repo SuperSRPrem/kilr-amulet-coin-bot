@@ -1028,7 +1028,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-08-14T14:56:15+00:00",
+  "last_seen_time": "2026-08-14T15:37:59+00:00",
   "current_scores": {
     "Wi5gQ": {
       "points": 33.489999999999995,
@@ -1036,9 +1036,9 @@
       "last_score_time": "2026-08-14T14:56:15+00:00"
     },
     "tBBVt": {
-      "points": 33.24,
-      "match_count": 6,
-      "last_score_time": "2026-08-14T13:50:33+00:00"
+      "points": 35.45,
+      "match_count": 7,
+      "last_score_time": "2026-08-14T15:37:59+00:00"
     },
     "vRtGD": {
       "points": 2.72,
@@ -1071,9 +1071,9 @@
       "last_score_time": "2026-08-14T09:35:07+00:00"
     },
     "Z2Yfi": {
-      "points": 60.879999999999995,
-      "match_count": 7,
-      "last_score_time": "2026-08-14T14:56:15+00:00"
+      "points": 73.14,
+      "match_count": 8,
+      "last_score_time": "2026-08-14T15:37:59+00:00"
     },
     "TN2Rm": {
       "points": 5.46,
@@ -1096,9 +1096,9 @@
       "last_score_time": "2026-08-14T09:27:19+00:00"
     },
     "tcwYN": {
-      "points": 42.27,
-      "match_count": 7,
-      "last_score_time": "2026-08-14T14:56:15+00:00"
+      "points": 53.63,
+      "match_count": 8,
+      "last_score_time": "2026-08-14T15:37:59+00:00"
     },
     "mr9R9": {
       "points": 4.87,
@@ -1226,9 +1226,9 @@
       "last_score_time": "2026-08-14T13:50:33+00:00"
     },
     "BjxRv": {
-      "points": 9.25,
-      "match_count": 3,
-      "last_score_time": "2026-08-14T14:56:15+00:00"
+      "points": 17.84,
+      "match_count": 4,
+      "last_score_time": "2026-08-14T15:37:59+00:00"
     },
     "LTdkK": {
       "points": 4.02,
@@ -1494,10 +1494,25 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-08-14T14:56:15+00:00"
+    },
+    "gBQkW": {
+      "points": 5.52,
+      "match_count": 1,
+      "last_score_time": "2026-08-14T15:37:59+00:00"
+    },
+    "t2RnY": {
+      "points": 2.7,
+      "match_count": 1,
+      "last_score_time": "2026-08-14T15:37:59+00:00"
+    },
+    "Bnybr": {
+      "points": 2.36,
+      "match_count": 1,
+      "last_score_time": "2026-08-14T15:37:59+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-14T09:00:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-08-14T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-14",
