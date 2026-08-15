@@ -1515,16 +1515,16 @@
   "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-08-14T09:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-14",
-    "created_at": "2026-08-14T00:09:14.933658+00:00",
+    "date": "2026-08-15",
+    "created_at": "2026-08-15T01:41:49.388502+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1533,233 +1533,50 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Middle East",
-        "target": 4,
+        "map": "White Arena",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Middle East",
+        "text": "Win 6 times on White Arena",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "Wi5gQ"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
-        "target": 6,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "tcwYN"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "Wi5gQ": {
-          "Middle East": 2
-        },
-        "tBBVt": {
-          "Middle East": 1
-        },
-        "vRtGD": {
-          "Middle East": 1
-        },
-        "TdDqV": {
-          "Middle East": 1
-        },
-        "gVDDD": {
-          "Middle East": 1
-        },
-        "Ddn9T": {
-          "Middle East": 1
-        },
-        "8tBQL": {
-          "Middle East": 1
-        },
-        "2KNty": {
-          "Middle East": 1
-        },
-        "Z2Yfi": {
-          "Middle East": 2
-        },
-        "xsSyo": {
-          "Middle East": 1
-        },
-        "7RvLt": {
-          "Middle East": 1
-        },
-        "YwCNr": {
-          "Middle East": 1
-        },
-        "LvVTr": {
-          "Middle East": 1
-        },
-        "tcwYN": {
-          "Middle East": 1
-        },
-        "QV9RT": {
-          "Middle East": 1
-        },
-        "fEa3c": {
-          "Middle East": 1
-        },
-        "TtcDk": {
-          "Middle East": 1
-        },
-        "JxB8H": {
-          "Middle East": 1
-        },
-        "LQbNm": {
-          "Middle East": 1
-        },
-        "nTwqJ": {
-          "Middle East": 1
-        },
-        "2rJJn": {
-          "Middle East": 1
-        }
-      },
-      "hard": {
-        "tcwYN": {
-          "World 2": 3
-        },
-        "TVvmR": {
-          "World 2": 2
-        },
-        "28tN9": {
-          "World 2": 1
-        },
-        "9tQnT": {
-          "World 2": 1
-        },
-        "knRGB": {
-          "World 2": 1
-        },
-        "ngQwq": {
-          "World 2": 1
-        },
-        "WXLrD": {
-          "World 2": 1
-        },
-        "qcLLD": {
-          "World 2": 1
-        },
-        "qWvrn": {
-          "World 2": 1
-        },
-        "tBBVt": {
-          "World 2": 2
-        },
-        "8Tmn9": {
-          "World 2": 1
-        },
-        "VTQtv": {
-          "World 2": 1
-        },
-        "LbqGq": {
-          "World 2": 2
-        },
-        "LvVTr": {
-          "World 2": 2
-        },
-        "NQnrr": {
-          "World 2": 1
-        },
-        "NYRVy": {
-          "World 2": 1
-        },
-        "DmQvy": {
-          "World 2": 1
-        },
-        "Lwtvc": {
-          "World 2": 1
-        },
-        "NGy7c": {
-          "World 2": 1
-        },
-        "BjxRv": {
-          "World 2": 2
-        },
-        "lFmB0": {
-          "World 2": 1
-        },
-        "RBqN2": {
-          "World 2": 1
-        },
-        "9cNcd": {
-          "World 2": 1
-        },
-        "b3FsD": {
-          "World 2": 1
-        },
-        "dSgw5": {
-          "World 2": 1
-        },
-        "2LnNB": {
-          "World 2": 1
-        },
-        "2qV8q": {
-          "World 2": 1
-        },
-        "q79Cn": {
-          "World 2": 1
-        },
-        "Z2Yfi": {
-          "World 2": 2
-        },
-        "YCtvv": {
-          "World 2": 1
-        },
-        "Wi5gQ": {
-          "World 2": 1
-        },
-        "jJbKC": {
-          "World 2": 1
-        },
-        "psE1Z": {
-          "World 2": 1
-        },
-        "ZPNWU": {
-          "World 2": 1
-        },
-        "BLD57": {
-          "World 2": 1
-        },
-        "wWWKd": {
-          "World 2": 1
-        },
-        "tn2rr": {
-          "World 2": 1
-        },
-        "jW2ND": {
-          "World 2": 1
-        },
-        "kdkyd": {
-          "World 2": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-13",
+    "date": "2026-08-14",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on World 1",
+        "text": "Win 4 times on Middle East",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
