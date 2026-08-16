@@ -1035,7 +1035,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-08-16T08:30:53+00:00",
+  "last_seen_time": "2026-08-16T10:39:40+00:00",
   "current_scores": {
     "VjRYV": {
       "points": 11.24,
@@ -1748,9 +1748,9 @@
       "last_score_time": "2026-08-15T15:05:30+00:00"
     },
     "RRCgr": {
-      "points": 86.56,
-      "match_count": 6,
-      "last_score_time": "2026-08-16T08:30:53+00:00"
+      "points": 98.52000000000001,
+      "match_count": 7,
+      "last_score_time": "2026-08-16T10:39:40+00:00"
     },
     "dVcyv": {
       "points": 6.93,
@@ -2051,10 +2051,25 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-08-16T08:30:53+00:00"
+    },
+    "8wuBH": {
+      "points": 15.52,
+      "match_count": 1,
+      "last_score_time": "2026-08-16T10:39:40+00:00"
+    },
+    "-bs8K": {
+      "points": 7.73,
+      "match_count": 1,
+      "last_score_time": "2026-08-16T10:39:40+00:00"
+    },
+    "TfOrf": {
+      "points": 2.78,
+      "match_count": 1,
+      "last_score_time": "2026-08-16T10:39:40+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-15T03:00:00+00:00",
-  "current_cycle_match_count": 37,
+  "current_cycle_match_count": 38,
   "last_announced_event_time": "2026-08-15T03:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-16",
@@ -2081,8 +2096,8 @@
         "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "RRCgr"
       },
       "hard": {
         "level": "hard",
@@ -2115,6 +2130,15 @@
           "World 1": 1
         },
         "RRCgr": {
+          "World 1": 2
+        },
+        "8wuBH": {
+          "World 1": 1
+        },
+        "-bs8K": {
+          "World 1": 1
+        },
+        "TfOrf": {
           "World 1": 1
         }
       },
