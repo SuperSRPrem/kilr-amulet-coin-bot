@@ -1035,7 +1035,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-08-16T17:47:16+00:00",
+  "last_seen_time": "2026-08-16T19:30:11+00:00",
   "current_scores": {
     "VjRYV": {
       "points": 11.24,
@@ -1158,9 +1158,9 @@
       "last_score_time": "2026-08-15T11:18:17+00:00"
     },
     "wWWKd": {
-      "points": 7.75,
-      "match_count": 3,
-      "last_score_time": "2026-08-16T08:15:47+00:00"
+      "points": 16.03,
+      "match_count": 4,
+      "last_score_time": "2026-08-16T19:30:11+00:00"
     },
     "L9cR9": {
       "points": 1.12,
@@ -2476,10 +2476,25 @@
       "points": 0.88,
       "match_count": 1,
       "last_score_time": "2026-08-16T17:47:16+00:00"
+    },
+    "TuuBR": {
+      "points": 25.41,
+      "match_count": 1,
+      "last_score_time": "2026-08-16T19:30:11+00:00"
+    },
+    "5R8R7": {
+      "points": 4.64,
+      "match_count": 1,
+      "last_score_time": "2026-08-16T19:30:11+00:00"
+    },
+    "nmMBQ": {
+      "points": 2.67,
+      "match_count": 1,
+      "last_score_time": "2026-08-16T19:30:11+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-15T03:00:00+00:00",
-  "current_cycle_match_count": 52,
+  "current_cycle_match_count": 53,
   "last_announced_event_time": "2026-08-15T03:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-16",
@@ -2537,7 +2552,7 @@
           "World 1": 1
         },
         "wWWKd": {
-          "World 1": 1
+          "World 1": 2
         },
         "RRCgr": {
           "World 1": 2
@@ -2564,6 +2579,15 @@
           "World 1": 1
         },
         "2FwQ6": {
+          "World 1": 1
+        },
+        "TuuBR": {
+          "World 1": 1
+        },
+        "5R8R7": {
+          "World 1": 1
+        },
+        "nmMBQ": {
           "World 1": 1
         }
       },
