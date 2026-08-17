@@ -1042,7 +1042,7 @@
       "eligible_match_count": 53
     }
   ],
-  "last_seen_time": "2026-08-16T21:46:06+00:00",
+  "last_seen_time": "2026-08-17T04:54:12+00:00",
   "current_scores": {
     "8wL5S": {
       "points": 38.76,
@@ -1083,10 +1083,20 @@
       "points": 1.69,
       "match_count": 1,
       "last_score_time": "2026-08-16T21:46:06+00:00"
+    },
+    "tv999": {
+      "points": 24.99,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T04:54:12+00:00"
+    },
+    "TKLjr": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T04:54:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-16T20:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-08-16T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-17",
