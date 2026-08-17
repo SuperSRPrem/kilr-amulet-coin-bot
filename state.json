@@ -1089,16 +1089,16 @@
   "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-08-16T20:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-16",
-    "created_at": "2026-08-16T01:49:14.889500+00:00",
+    "date": "2026-08-17",
+    "created_at": "2026-08-17T01:47:01.161619+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Pond",
+        "map": "White Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1113,15 +1113,16 @@
         "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "RRCgr"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_wins",
+        "map": "World 2",
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1130,134 +1131,21 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "TrMsR": {
-          "World 1": 2
-        },
-        "Lyynn": {
-          "World 1": 1
-        },
-        "t9nGY": {
-          "World 1": 1
-        },
-        "K92vW": {
-          "World 1": 1
-        },
-        "wWWKd": {
-          "World 1": 2
-        },
-        "RRCgr": {
-          "World 1": 2
-        },
-        "8wuBH": {
-          "World 1": 1
-        },
-        "-bs8K": {
-          "World 1": 1
-        },
-        "TfOrf": {
-          "World 1": 1
-        },
-        "63cmP": {
-          "World 1": 1
-        },
-        "8wL5S": {
-          "World 1": 1
-        },
-        "8285t": {
-          "World 1": 1
-        },
-        "5GBg5": {
-          "World 1": 1
-        },
-        "2FwQ6": {
-          "World 1": 1
-        },
-        "TuuBR": {
-          "World 1": 1
-        },
-        "5R8R7": {
-          "World 1": 1
-        },
-        "nmMBQ": {
-          "World 1": 1
-        }
-      },
-      "hard": {
-        "Lyynn": {
-          "Contest": 1
-        },
-        "QL2Vn": {
-          "Contest": 1
-        },
-        "8wL5S": {
-          "Contest": 1
-        },
-        "JJJBJ": {
-          "Contest": 1
-        },
-        "MefUN": {
-          "Contest": 1
-        },
-        "MNLQR": {
-          "Contest": 1
-        },
-        "neuNs": {
-          "Contest": 1
-        },
-        "J5Knr": {
-          "Contest": 1
-        },
-        "-kAcZ": {
-          "Contest": 1
-        },
-        "kmA-G": {
-          "Contest": 1
-        },
-        "vdYj2": {
-          "Contest": 1
-        },
-        "TR5rL": {
-          "Contest": 1
-        },
-        "7brRv": {
-          "Contest": 1
-        },
-        "ngM8v": {
-          "Contest": 1
-        },
-        "yBGwc": {
-          "Contest": 1
-        },
-        "GkjLm": {
-          "Contest": 1
-        },
-        "MMvRq": {
-          "Contest": 1
-        },
-        "jmtRD": {
-          "Contest": 1
-        },
-        "qGGnc": {
-          "Contest": 1
-        },
-        "NTLvL": {
-          "Contest": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Pond",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on White Arena",
+        "text": "Win 3 times on World 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
