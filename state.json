@@ -1042,12 +1042,12 @@
       "eligible_match_count": 53
     }
   ],
-  "last_seen_time": "2026-08-17T07:21:14+00:00",
+  "last_seen_time": "2026-08-17T10:29:04+00:00",
   "current_scores": {
     "8wL5S": {
-      "points": 38.76,
-      "match_count": 1,
-      "last_score_time": "2026-08-16T20:11:13+00:00"
+      "points": 39.1,
+      "match_count": 2,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
     },
     "bBmNN": {
       "points": 3.23,
@@ -1100,9 +1100,9 @@
       "last_score_time": "2026-08-17T07:10:09+00:00"
     },
     "Z2Yfi": {
-      "points": 7.04,
-      "match_count": 1,
-      "last_score_time": "2026-08-17T07:10:09+00:00"
+      "points": 15.940000000000001,
+      "match_count": 2,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
     },
     "tcwYN": {
       "points": 16.33,
@@ -1118,10 +1118,55 @@
       "points": 2.85,
       "match_count": 1,
       "last_score_time": "2026-08-17T07:21:14+00:00"
+    },
+    "TrMsR": {
+      "points": 9.43,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
+    },
+    "RX-ER": {
+      "points": 6.05,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
+    },
+    "LvVTr": {
+      "points": 3.75,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
+    },
+    "rGNGW": {
+      "points": 2.38,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
+    },
+    "BErMT": {
+      "points": 1.93,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
+    },
+    "CB2cy": {
+      "points": 1.68,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
+    },
+    "WQKB5": {
+      "points": 0.96,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
+    },
+    "at93X": {
+      "points": 0.45,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
+    },
+    "tBBVt": {
+      "points": 0.14,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T10:29:04+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-16T20:00:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-08-16T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-17",
