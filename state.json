@@ -1042,12 +1042,12 @@
       "eligible_match_count": 53
     }
   ],
-  "last_seen_time": "2026-08-17T17:29:35+00:00",
+  "last_seen_time": "2026-08-17T19:32:09+00:00",
   "current_scores": {
     "8wL5S": {
-      "points": 39.1,
-      "match_count": 2,
-      "last_score_time": "2026-08-17T10:29:04+00:00"
+      "points": 108.57,
+      "match_count": 4,
+      "last_score_time": "2026-08-17T19:32:09+00:00"
     },
     "bBmNN": {
       "points": 3.23,
@@ -1105,9 +1105,9 @@
       "last_score_time": "2026-08-17T10:29:04+00:00"
     },
     "tcwYN": {
-      "points": 16.33,
-      "match_count": 2,
-      "last_score_time": "2026-08-17T07:21:14+00:00"
+      "points": 29.759999999999998,
+      "match_count": 3,
+      "last_score_time": "2026-08-17T19:32:09+00:00"
     },
     "qQqqq": {
       "points": 11.83,
@@ -1243,10 +1243,15 @@
       "points": 0.03,
       "match_count": 1,
       "last_score_time": "2026-08-17T17:29:35+00:00"
+    },
+    "CTd5k": {
+      "points": 0.1,
+      "match_count": 1,
+      "last_score_time": "2026-08-17T19:15:15+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-16T20:00:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-08-16T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-17",
@@ -1291,7 +1296,14 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "8wL5S": {
+          "World 1": 1
+        },
+        "CTd5k": {
+          "World 1": 1
+        }
+      },
       "hard": {}
     }
   },
