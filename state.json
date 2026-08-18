@@ -1049,7 +1049,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-08-18T05:56:34+00:00",
+  "last_seen_time": "2026-08-18T08:35:31+00:00",
   "current_scores": {
     "mrBYR": {
       "points": 33.0,
@@ -1145,10 +1145,45 @@
       "points": 0.08,
       "match_count": 1,
       "last_score_time": "2026-08-18T05:56:34+00:00"
+    },
+    "4tZ6i": {
+      "points": 16.55,
+      "match_count": 1,
+      "last_score_time": "2026-08-18T08:26:03+00:00"
+    },
+    "t9nGY": {
+      "points": 15.55,
+      "match_count": 2,
+      "last_score_time": "2026-08-18T08:35:31+00:00"
+    },
+    "tcwYN": {
+      "points": 24.78,
+      "match_count": 2,
+      "last_score_time": "2026-08-18T08:35:31+00:00"
+    },
+    "wWWKd": {
+      "points": 6.83,
+      "match_count": 2,
+      "last_score_time": "2026-08-18T08:35:31+00:00"
+    },
+    "mnRwJ": {
+      "points": 2.05,
+      "match_count": 1,
+      "last_score_time": "2026-08-18T08:35:31+00:00"
+    },
+    "YCvcn": {
+      "points": 1.98,
+      "match_count": 1,
+      "last_score_time": "2026-08-18T08:35:31+00:00"
+    },
+    "57rNQ": {
+      "points": 1.26,
+      "match_count": 1,
+      "last_score_time": "2026-08-18T08:35:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-17T20:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-08-17T20:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-18",
@@ -1194,7 +1229,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tcwYN": {
+          "World 1": 1
+        },
+        "t9nGY": {
+          "World 1": 1
+        },
+        "wWWKd": {
+          "World 1": 1
+        },
+        "mnRwJ": {
+          "World 1": 1
+        },
+        "YCvcn": {
+          "World 1": 1
+        },
+        "57rNQ": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
