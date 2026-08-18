@@ -1056,7 +1056,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-08-18T11:08:42+00:00",
+  "last_seen_time": "2026-08-18T13:32:56+00:00",
   "current_scores": {
     "2FwQ6": {
       "points": 43.59,
@@ -1182,10 +1182,20 @@
       "points": 1.45,
       "match_count": 1,
       "last_score_time": "2026-08-18T11:08:42+00:00"
+    },
+    "FhJlv": {
+      "points": 33.99,
+      "match_count": 1,
+      "last_score_time": "2026-08-18T13:32:56+00:00"
+    },
+    "DmGgT": {
+      "points": 2.01,
+      "match_count": 1,
+      "last_score_time": "2026-08-18T13:32:56+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-18T10:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-08-18T10:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-18",
