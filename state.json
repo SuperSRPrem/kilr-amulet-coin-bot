@@ -1063,12 +1063,12 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-08-19T11:24:31+00:00",
+  "last_seen_time": "2026-08-19T12:50:17+00:00",
   "current_scores": {
     "8wL5S": {
-      "points": 23.689999999999998,
-      "match_count": 2,
-      "last_score_time": "2026-08-19T11:24:31+00:00"
+      "points": 23.769999999999996,
+      "match_count": 3,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
     },
     "TrMsR": {
       "points": 29.04,
@@ -1086,9 +1086,9 @@
       "last_score_time": "2026-08-19T11:17:16+00:00"
     },
     "Z2Yfi": {
-      "points": 0.0,
-      "match_count": 1,
-      "last_score_time": "2026-08-19T11:17:16+00:00"
+      "points": 3.52,
+      "match_count": 2,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
     },
     "vVVvV": {
       "points": 0.0,
@@ -1114,10 +1114,110 @@
       "points": 0.76,
       "match_count": 1,
       "last_score_time": "2026-08-19T11:24:31+00:00"
+    },
+    "Hd7I2": {
+      "points": 96.13,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "V5CGG": {
+      "points": 39.52,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "tcwYN": {
+      "points": 26.31,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "75298": {
+      "points": 11.79,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "qr72V": {
+      "points": 10.93,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "neuNs": {
+      "points": 9.33,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "gTLgV": {
+      "points": 8.38,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "NwNnB": {
+      "points": 7.9,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "nLLWg": {
+      "points": 6.54,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "63cmP": {
+      "points": 5.13,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "2L7BT": {
+      "points": 4.76,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "mWMmM": {
+      "points": 4.02,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "j7615": {
+      "points": 3.79,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "QLbtW": {
+      "points": 3.67,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "wcjCj": {
+      "points": 3.18,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "YL8dK": {
+      "points": 2.68,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "bn8LL": {
+      "points": 2.33,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "tMGTB": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:46:35+00:00"
+    },
+    "8mLvt": {
+      "points": 35.1,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:50:17+00:00"
+    },
+    "T8Bdg": {
+      "points": 0.9,
+      "match_count": 1,
+      "last_score_time": "2026-08-19T12:50:17+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-19T10:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-08-19T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-19",
@@ -1170,7 +1270,74 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "Hd7I2": {
+          "Europe": 1
+        },
+        "V5CGG": {
+          "Europe": 1
+        },
+        "tcwYN": {
+          "Europe": 1
+        },
+        "75298": {
+          "Europe": 1
+        },
+        "qr72V": {
+          "Europe": 1
+        },
+        "neuNs": {
+          "Europe": 1
+        },
+        "gTLgV": {
+          "Europe": 1
+        },
+        "NwNnB": {
+          "Europe": 1
+        },
+        "nLLWg": {
+          "Europe": 1
+        },
+        "63cmP": {
+          "Europe": 1
+        },
+        "2L7BT": {
+          "Europe": 1
+        },
+        "mWMmM": {
+          "Europe": 1
+        },
+        "j7615": {
+          "Europe": 1
+        },
+        "QLbtW": {
+          "Europe": 1
+        },
+        "Z2Yfi": {
+          "Europe": 1
+        },
+        "wcjCj": {
+          "Europe": 1
+        },
+        "YL8dK": {
+          "Europe": 1
+        },
+        "bn8LL": {
+          "Europe": 1
+        },
+        "8wL5S": {
+          "Europe": 1
+        },
+        "tMGTB": {
+          "Europe": 1
+        },
+        "8mLvt": {
+          "Australia": 1
+        },
+        "T8Bdg": {
+          "Australia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
