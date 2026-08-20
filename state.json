@@ -1070,12 +1070,12 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-08-20T16:53:44+00:00",
+  "last_seen_time": "2026-08-20T18:37:12+00:00",
   "current_scores": {
     "8wL5S": {
-      "points": 38.39,
-      "match_count": 4,
-      "last_score_time": "2026-08-20T16:53:44+00:00"
+      "points": 50.27,
+      "match_count": 5,
+      "last_score_time": "2026-08-20T18:37:12+00:00"
     },
     "v5bmB": {
       "points": 10.54,
@@ -1361,10 +1361,40 @@
       "points": 3.24,
       "match_count": 1,
       "last_score_time": "2026-08-20T16:53:44+00:00"
+    },
+    "MktGR": {
+      "points": 4.9,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T18:37:12+00:00"
+    },
+    "dWDBy": {
+      "points": 3.21,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T18:37:12+00:00"
+    },
+    "jRgn9": {
+      "points": 3.11,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T18:37:12+00:00"
+    },
+    "4z_S9": {
+      "points": 3.02,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T18:37:12+00:00"
+    },
+    "DggjB": {
+      "points": 1.98,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T18:37:12+00:00"
+    },
+    "9bDwQ": {
+      "points": 1.89,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T18:37:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-20T08:30:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-08-20T08:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-20",
@@ -1502,6 +1532,27 @@
           "Caucasia": 1
         },
         "7MMm9": {
+          "Caucasia": 1
+        },
+        "8wL5S": {
+          "Caucasia": 1
+        },
+        "MktGR": {
+          "Caucasia": 1
+        },
+        "dWDBy": {
+          "Caucasia": 1
+        },
+        "jRgn9": {
+          "Caucasia": 1
+        },
+        "4z_S9": {
+          "Caucasia": 1
+        },
+        "DggjB": {
+          "Caucasia": 1
+        },
+        "9bDwQ": {
           "Caucasia": 1
         }
       }
