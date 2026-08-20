@@ -1070,10 +1070,46 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-08-20T05:52:59+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-08-20T11:30:33+00:00",
+  "current_scores": {
+    "8wL5S": {
+      "points": 16.22,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T11:10:17+00:00"
+    },
+    "v5bmB": {
+      "points": 10.54,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T11:10:17+00:00"
+    },
+    "Z2Yfi": {
+      "points": 33.78,
+      "match_count": 2,
+      "last_score_time": "2026-08-20T11:30:33+00:00"
+    },
+    "8Vq22": {
+      "points": 3.46,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T11:10:17+00:00"
+    },
+    "LvVTr": {
+      "points": 68.14,
+      "match_count": 2,
+      "last_score_time": "2026-08-20T11:28:29+00:00"
+    },
+    "VQRBv": {
+      "points": 0.83,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T11:28:29+00:00"
+    },
+    "kkgYY": {
+      "points": 0.03,
+      "match_count": 1,
+      "last_score_time": "2026-08-20T11:28:29+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-08-20T08:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-08-20T08:30:00+00:00",
   "daily_quests": {
     "date": "2026-08-20",
@@ -1118,14 +1154,28 @@
         "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "LvVTr"
       }
     },
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "LvVTr": {
+          "Middle East": 1,
+          "Caucasia": 1
+        },
+        "VQRBv": {
+          "Caucasia": 1
+        },
+        "kkgYY": {
+          "Caucasia": 1
+        },
+        "Z2Yfi": {
+          "Middle East": 1
+        }
+      }
     }
   },
   "last_quest_day": {
