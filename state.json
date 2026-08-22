@@ -1084,7 +1084,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-22T07:15:07+00:00",
+  "last_seen_time": "2026-08-22T12:40:05+00:00",
   "current_scores": {
     "R8888": {
       "points": 19.54,
@@ -1092,9 +1092,9 @@
       "last_score_time": "2026-08-22T07:15:07+00:00"
     },
     "tcwYN": {
-      "points": 19.05,
-      "match_count": 1,
-      "last_score_time": "2026-08-22T07:15:07+00:00"
+      "points": 40.010000000000005,
+      "match_count": 2,
+      "last_score_time": "2026-08-22T12:40:05+00:00"
     },
     "JJJBJ": {
       "points": 7.96,
@@ -1180,10 +1180,45 @@
       "points": 1.76,
       "match_count": 1,
       "last_score_time": "2026-08-22T07:15:07+00:00"
+    },
+    "2jmng": {
+      "points": 4.51,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T12:40:05+00:00"
+    },
+    "2tnqv": {
+      "points": 3.29,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T12:40:05+00:00"
+    },
+    "82B8v": {
+      "points": 2.78,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T12:40:05+00:00"
+    },
+    "V75Ct": {
+      "points": 1.52,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T12:40:05+00:00"
+    },
+    "MKN75": {
+      "points": 0.91,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T12:40:05+00:00"
+    },
+    "r7rvD": {
+      "points": 0.04,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T12:40:05+00:00"
+    },
+    "CXVXL": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T12:40:05+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-22T07:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-08-22T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-22",
@@ -1240,7 +1275,7 @@
           "Middle East": 1
         },
         "tcwYN": {
-          "Middle East": 1
+          "Middle East": 2
         },
         "JJJBJ": {
           "Middle East": 1
@@ -1291,6 +1326,27 @@
           "Middle East": 1
         },
         "87BRB": {
+          "Middle East": 1
+        },
+        "2jmng": {
+          "Middle East": 1
+        },
+        "2tnqv": {
+          "Middle East": 1
+        },
+        "82B8v": {
+          "Middle East": 1
+        },
+        "V75Ct": {
+          "Middle East": 1
+        },
+        "MKN75": {
+          "Middle East": 1
+        },
+        "r7rvD": {
+          "Middle East": 1
+        },
+        "CXVXL": {
           "Middle East": 1
         }
       }
