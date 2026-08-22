@@ -1084,7 +1084,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-22T19:31:54+00:00",
+  "last_seen_time": "2026-08-22T20:29:56+00:00",
   "current_scores": {
     "R8888": {
       "points": 19.54,
@@ -1092,9 +1092,9 @@
       "last_score_time": "2026-08-22T07:15:07+00:00"
     },
     "tcwYN": {
-      "points": 48.980000000000004,
-      "match_count": 3,
-      "last_score_time": "2026-08-22T19:31:54+00:00"
+      "points": 56.63,
+      "match_count": 5,
+      "last_score_time": "2026-08-22T20:29:56+00:00"
     },
     "JJJBJ": {
       "points": 7.96,
@@ -1357,23 +1357,43 @@
       "last_score_time": "2026-08-22T17:39:59+00:00"
     },
     "2FwQ6": {
-      "points": 3.21,
-      "match_count": 1,
-      "last_score_time": "2026-08-22T19:31:54+00:00"
+      "points": 11.879999999999999,
+      "match_count": 4,
+      "last_score_time": "2026-08-22T20:29:56+00:00"
     },
     "t9nGY": {
-      "points": 2.34,
-      "match_count": 1,
-      "last_score_time": "2026-08-22T19:31:54+00:00"
+      "points": 12.469999999999999,
+      "match_count": 3,
+      "last_score_time": "2026-08-22T20:29:56+00:00"
     },
     "rVBLR": {
       "points": 0.48,
       "match_count": 1,
       "last_score_time": "2026-08-22T19:31:54+00:00"
+    },
+    "YmTRQ": {
+      "points": 25.22,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T20:16:36+00:00"
+    },
+    "bVRJn": {
+      "points": 36.26,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T20:29:56+00:00"
+    },
+    "kDVwk": {
+      "points": 1.81,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T20:29:56+00:00"
+    },
+    "63cmP": {
+      "points": 1.26,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T20:29:56+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-22T07:00:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-08-22T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-22",
@@ -1424,7 +1444,26 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "bVRJn": {
+          "World 2": 1
+        },
+        "t9nGY": {
+          "World 2": 1
+        },
+        "2FwQ6": {
+          "World 2": 1
+        },
+        "kDVwk": {
+          "World 2": 1
+        },
+        "63cmP": {
+          "World 2": 1
+        },
+        "tcwYN": {
+          "World 2": 1
+        }
+      },
       "hard": {
         "R8888": {
           "Middle East": 1
