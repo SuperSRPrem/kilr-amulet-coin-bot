@@ -1084,7 +1084,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-22T22:02:27+00:00",
+  "last_seen_time": "2026-08-22T23:36:22+00:00",
   "current_scores": {
     "R8888": {
       "points": 19.54,
@@ -1400,10 +1400,25 @@
       "points": 3.17,
       "match_count": 1,
       "last_score_time": "2026-08-22T22:02:27+00:00"
+    },
+    "YccLY": {
+      "points": 10.3,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T23:36:22+00:00"
+    },
+    "dcMRm": {
+      "points": 3.02,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T23:36:22+00:00"
+    },
+    "4uLEq": {
+      "points": 1.68,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T23:36:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-22T07:00:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-08-22T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-22",
