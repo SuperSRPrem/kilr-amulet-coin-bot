@@ -1084,7 +1084,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-08-22T20:29:56+00:00",
+  "last_seen_time": "2026-08-22T22:02:27+00:00",
   "current_scores": {
     "R8888": {
       "points": 19.54,
@@ -1297,9 +1297,9 @@
       "last_score_time": "2026-08-22T17:27:11+00:00"
     },
     "vt2Mr": {
-      "points": 7.98,
-      "match_count": 1,
-      "last_score_time": "2026-08-22T17:39:59+00:00"
+      "points": 13.99,
+      "match_count": 2,
+      "last_score_time": "2026-08-22T22:02:27+00:00"
     },
     "qtLLQ": {
       "points": 4.42,
@@ -1390,10 +1390,20 @@
       "points": 1.26,
       "match_count": 1,
       "last_score_time": "2026-08-22T20:29:56+00:00"
+    },
+    "lqwl4": {
+      "points": 12.83,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T22:02:27+00:00"
+    },
+    "BRVTr": {
+      "points": 3.17,
+      "match_count": 1,
+      "last_score_time": "2026-08-22T22:02:27+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-22T07:00:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-08-22T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-22",
@@ -1541,6 +1551,15 @@
           "Middle East": 1
         },
         "CXVXL": {
+          "Middle East": 1
+        },
+        "lqwl4": {
+          "Middle East": 1
+        },
+        "vt2Mr": {
+          "Middle East": 1
+        },
+        "BRVTr": {
           "Middle East": 1
         }
       }
