@@ -1091,7 +1091,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-08-23T19:46:11+00:00",
+  "last_seen_time": "2026-08-23T22:31:15+00:00",
   "current_scores": {
     "TrMsR": {
       "points": 82.08,
@@ -1159,9 +1159,9 @@
       "last_score_time": "2026-08-23T09:18:14+00:00"
     },
     "STJAm": {
-      "points": 41.59,
-      "match_count": 2,
-      "last_score_time": "2026-08-23T14:22:35+00:00"
+      "points": 65.59,
+      "match_count": 3,
+      "last_score_time": "2026-08-23T22:31:15+00:00"
     },
     "vVvVv": {
       "points": 38.32,
@@ -1480,7 +1480,7 @@
     }
   },
   "current_cycle_started_at": "2026-08-23T04:00:00+00:00",
-  "current_cycle_match_count": 16,
+  "current_cycle_match_count": 17,
   "last_announced_event_time": "2026-08-23T04:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-23",
