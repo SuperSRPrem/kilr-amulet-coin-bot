@@ -1091,7 +1091,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-08-23T19:20:22+00:00",
+  "last_seen_time": "2026-08-23T19:46:11+00:00",
   "current_scores": {
     "TrMsR": {
       "points": 82.08,
@@ -1467,10 +1467,20 @@
       "points": 0.08,
       "match_count": 1,
       "last_score_time": "2026-08-23T19:20:22+00:00"
+    },
+    "2a_el": {
+      "points": 30.68,
+      "match_count": 1,
+      "last_score_time": "2026-08-23T19:46:11+00:00"
+    },
+    "kwwWW": {
+      "points": 8.32,
+      "match_count": 1,
+      "last_score_time": "2026-08-23T19:46:11+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-23T04:00:00+00:00",
-  "current_cycle_match_count": 15,
+  "current_cycle_match_count": 16,
   "last_announced_event_time": "2026-08-23T04:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-23",
