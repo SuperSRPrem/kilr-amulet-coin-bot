@@ -1091,7 +1091,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-08-23T10:12:38+00:00",
+  "last_seen_time": "2026-08-23T11:31:22+00:00",
   "current_scores": {
     "TrMsR": {
       "points": 82.08,
@@ -1172,10 +1172,25 @@
       "points": 4.49,
       "match_count": 1,
       "last_score_time": "2026-08-23T10:12:38+00:00"
+    },
+    "bTv72": {
+      "points": 32.9,
+      "match_count": 1,
+      "last_score_time": "2026-08-23T11:31:22+00:00"
+    },
+    "V9Q25": {
+      "points": 1.74,
+      "match_count": 1,
+      "last_score_time": "2026-08-23T11:31:22+00:00"
+    },
+    "TMbTM": {
+      "points": 0.36,
+      "match_count": 1,
+      "last_score_time": "2026-08-23T11:31:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-23T04:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-08-23T04:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-23",
