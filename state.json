@@ -1098,7 +1098,7 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-08-24T20:29:22+00:00",
+  "last_seen_time": "2026-08-24T23:23:26+00:00",
   "current_scores": {
     "tcwYN": {
       "points": 123.49000000000001,
@@ -1394,10 +1394,15 @@
       "points": 4.12,
       "match_count": 1,
       "last_score_time": "2026-08-24T20:29:22+00:00"
+    },
+    "STJAm": {
+      "points": 25.0,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T23:23:26+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-24T04:00:00+00:00",
-  "current_cycle_match_count": 11,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-08-24T04:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-24",
@@ -1553,6 +1558,9 @@
         },
         "BwcRb": {
           "Africa": 1
+        },
+        "STJAm": {
+          "North America": 1
         }
       }
     }
