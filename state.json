@@ -1098,12 +1098,12 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-08-24T19:12:19+00:00",
+  "last_seen_time": "2026-08-24T20:29:22+00:00",
   "current_scores": {
     "tcwYN": {
-      "points": 105.2,
-      "match_count": 5,
-      "last_score_time": "2026-08-24T14:47:22+00:00"
+      "points": 123.49000000000001,
+      "match_count": 6,
+      "last_score_time": "2026-08-24T20:29:22+00:00"
     },
     "d9lDm": {
       "points": 7.43,
@@ -1221,9 +1221,9 @@
       "last_score_time": "2026-08-24T17:34:48+00:00"
     },
     "8wL5S": {
-      "points": 44.0,
-      "match_count": 3,
-      "last_score_time": "2026-08-24T17:54:38+00:00"
+      "points": 56.64,
+      "match_count": 4,
+      "last_score_time": "2026-08-24T20:29:22+00:00"
     },
     "RqC72": {
       "points": 4.92,
@@ -1311,9 +1311,9 @@
       "last_score_time": "2026-08-24T17:44:41+00:00"
     },
     "YsRY1": {
-      "points": 3.43,
-      "match_count": 1,
-      "last_score_time": "2026-08-24T17:54:38+00:00"
+      "points": 55.1,
+      "match_count": 2,
+      "last_score_time": "2026-08-24T20:29:22+00:00"
     },
     "fq5qh": {
       "points": 6.64,
@@ -1374,10 +1374,30 @@
       "points": 0.4,
       "match_count": 1,
       "last_score_time": "2026-08-24T19:12:19+00:00"
+    },
+    "v4cgp": {
+      "points": 37.15,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T20:29:22+00:00"
+    },
+    "4jULA": {
+      "points": 26.34,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T20:29:22+00:00"
+    },
+    "97V29": {
+      "points": 9.78,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T20:29:22+00:00"
+    },
+    "BwcRb": {
+      "points": 4.12,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T20:29:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-24T04:00:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-08-24T04:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-24",
@@ -1461,7 +1481,7 @@
       "hard": {
         "tcwYN": {
           "Asia": 1,
-          "Africa": 1
+          "Africa": 2
         },
         "d9lDm": {
           "Asia": 1
@@ -1479,10 +1499,12 @@
           "Europe": 1
         },
         "8wL5S": {
-          "Europe": 1
+          "Europe": 1,
+          "Africa": 1
         },
         "YsRY1": {
-          "Europe": 1
+          "Europe": 1,
+          "Africa": 1
         },
         "fq5qh": {
           "North America": 1
@@ -1519,6 +1541,18 @@
         },
         "8wW5R": {
           "North America": 1
+        },
+        "v4cgp": {
+          "Africa": 1
+        },
+        "4jULA": {
+          "Africa": 1
+        },
+        "97V29": {
+          "Africa": 1
+        },
+        "BwcRb": {
+          "Africa": 1
         }
       }
     }
