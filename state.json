@@ -1098,10 +1098,31 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-08-23T22:31:15+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-08-24T11:24:13+00:00",
+  "current_scores": {
+    "tcwYN": {
+      "points": 7.47,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T11:24:13+00:00"
+    },
+    "d9lDm": {
+      "points": 7.43,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T11:24:13+00:00"
+    },
+    "QMtVM": {
+      "points": 3.26,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T11:24:13+00:00"
+    },
+    "yRkKD": {
+      "points": 1.83,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T11:24:13+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-08-24T04:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-08-24T04:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-24",
@@ -1154,7 +1175,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tcwYN": {
+          "Asia": 1
+        },
+        "d9lDm": {
+          "Asia": 1
+        },
+        "QMtVM": {
+          "Asia": 1
+        },
+        "yRkKD": {
+          "Asia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
