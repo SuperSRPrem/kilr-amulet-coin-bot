@@ -1098,12 +1098,12 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-08-24T11:24:13+00:00",
+  "last_seen_time": "2026-08-24T12:54:05+00:00",
   "current_scores": {
     "tcwYN": {
-      "points": 7.47,
-      "match_count": 1,
-      "last_score_time": "2026-08-24T11:24:13+00:00"
+      "points": 45.47,
+      "match_count": 2,
+      "last_score_time": "2026-08-24T12:54:05+00:00"
     },
     "d9lDm": {
       "points": 7.43,
@@ -1122,7 +1122,7 @@
     }
   },
   "current_cycle_started_at": "2026-08-24T04:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-08-24T04:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-24",
@@ -1177,7 +1177,8 @@
       "medium": {},
       "hard": {
         "tcwYN": {
-          "Asia": 1
+          "Asia": 1,
+          "Africa": 1
         },
         "d9lDm": {
           "Asia": 1
