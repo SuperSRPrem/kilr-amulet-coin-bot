@@ -1098,7 +1098,7 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-08-24T14:47:22+00:00",
+  "last_seen_time": "2026-08-24T17:54:38+00:00",
   "current_scores": {
     "tcwYN": {
       "points": 105.2,
@@ -1121,9 +1121,9 @@
       "last_score_time": "2026-08-24T11:24:13+00:00"
     },
     "tBBVt": {
-      "points": 33.480000000000004,
-      "match_count": 3,
-      "last_score_time": "2026-08-24T14:47:22+00:00"
+      "points": 35.63,
+      "match_count": 4,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
     },
     "wy88c": {
       "points": 2.91,
@@ -1186,9 +1186,9 @@
       "last_score_time": "2026-08-24T14:18:31+00:00"
     },
     "63cmP": {
-      "points": 102.42,
-      "match_count": 1,
-      "last_score_time": "2026-08-24T14:47:22+00:00"
+      "points": 111.38,
+      "match_count": 3,
+      "last_score_time": "2026-08-24T17:54:38+00:00"
     },
     "uMa94": {
       "points": 8.33,
@@ -1214,10 +1214,110 @@
       "points": 1.49,
       "match_count": 1,
       "last_score_time": "2026-08-24T14:47:22+00:00"
+    },
+    "vVVvV": {
+      "points": 11.48,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "8wL5S": {
+      "points": 44.0,
+      "match_count": 3,
+      "last_score_time": "2026-08-24T17:54:38+00:00"
+    },
+    "RqC72": {
+      "points": 4.92,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "RBqN2": {
+      "points": 25.830000000000002,
+      "match_count": 2,
+      "last_score_time": "2026-08-24T17:54:38+00:00"
+    },
+    "fwyW1": {
+      "points": 2.34,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "rTvmV": {
+      "points": 1.85,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "MQBR9": {
+      "points": 1.65,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "tvTCy": {
+      "points": 1.58,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "d2dr9": {
+      "points": 1.42,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "rqkQy": {
+      "points": 1.33,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "VY88Q": {
+      "points": 1.17,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "WWvT7": {
+      "points": 1.08,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "ktNRY": {
+      "points": 0.86,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "K7GtR": {
+      "points": 0.86,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "t987M": {
+      "points": 0.75,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "TRvTW": {
+      "points": 0.69,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "bCDRj": {
+      "points": 1.75,
+      "match_count": 2,
+      "last_score_time": "2026-08-24T17:44:41+00:00"
+    },
+    "KyNMN": {
+      "points": 0.23,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:34:48+00:00"
+    },
+    "nGKqL": {
+      "points": 1.67,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:44:41+00:00"
+    },
+    "YsRY1": {
+      "points": 3.43,
+      "match_count": 1,
+      "last_score_time": "2026-08-24T17:54:38+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-24T04:00:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-08-24T04:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-24",
@@ -1311,6 +1411,18 @@
         },
         "yRkKD": {
           "Asia": 1
+        },
+        "RBqN2": {
+          "Europe": 1
+        },
+        "63cmP": {
+          "Europe": 1
+        },
+        "8wL5S": {
+          "Europe": 1
+        },
+        "YsRY1": {
+          "Europe": 1
         }
       }
     }
