@@ -1112,7 +1112,7 @@
       "eligible_match_count": 29
     }
   ],
-  "last_seen_time": "2026-08-27T21:01:06+00:00",
+  "last_seen_time": "2026-08-28T18:20:08+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 113.45,
@@ -1120,9 +1120,9 @@
       "last_score_time": "2026-08-27T11:00:16+00:00"
     },
     "vVvVv": {
-      "points": 54.55,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T11:00:16+00:00"
+      "points": 70.12,
+      "match_count": 2,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
     },
     "MbBq7": {
       "points": 13.53,
@@ -1218,10 +1218,55 @@
       "points": 0.28,
       "match_count": 1,
       "last_score_time": "2026-08-27T21:01:06+00:00"
+    },
+    "QAJwM": {
+      "points": 12.31,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
+    },
+    "kVT8n": {
+      "points": 11.23,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
+    },
+    "nvDCt": {
+      "points": 3.79,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
+    },
+    "2tLNV": {
+      "points": 2.63,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
+    },
+    "ynDTW": {
+      "points": 2.1,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
+    },
+    "vMBQN": {
+      "points": 2.0,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
+    },
+    "789t5": {
+      "points": 1.42,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
+    },
+    "bgyBK": {
+      "points": 1.27,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
+    },
+    "VTBCq": {
+      "points": 0.68,
+      "match_count": 1,
+      "last_score_time": "2026-08-28T18:20:08+00:00"
     }
   },
   "current_cycle_started_at": "2026-08-26T23:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-08-26T23:00:00+00:00",
   "daily_quests": {
     "date": "2026-08-28",
