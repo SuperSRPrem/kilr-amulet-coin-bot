@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-08-28T20:00:00+00:00",
-  "last_event_time": "2026-08-26T23:00:00+00:00",
+  "next_event_time": "2026-08-30T09:30:00+00:00",
+  "last_event_time": "2026-08-28T20:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -1110,175 +1110,31 @@
       "winner_username": "vVVvV",
       "winner_points": 228.88,
       "eligible_match_count": 29
+    },
+    {
+      "event_time": "2026-08-28T20:00:00+00:00",
+      "cycle_started_at": "2026-08-26T23:00:00+00:00",
+      "winner_username": "Oyf9y",
+      "winner_points": 113.45,
+      "eligible_match_count": 4
     }
   ],
   "last_seen_time": "2026-08-28T18:20:08+00:00",
-  "current_scores": {
-    "Oyf9y": {
-      "points": 113.45,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T11:00:16+00:00"
-    },
-    "vVvVv": {
-      "points": 70.12,
-      "match_count": 2,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "MbBq7": {
-      "points": 13.53,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "GueSH": {
-      "points": 8.48,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "2WCYQ": {
-      "points": 8.31,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "BulZI": {
-      "points": 7.63,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "TQ2t8": {
-      "points": 2.06,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "j2nCg": {
-      "points": 1.89,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "NGgcw": {
-      "points": 1.76,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "7mn5q": {
-      "points": 1.25,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "Cbn7k": {
-      "points": 0.99,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "WVCnV": {
-      "points": 0.74,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "BNtvn": {
-      "points": 0.64,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "VcRKY": {
-      "points": 0.58,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "-9f-i": {
-      "points": 0.14,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T20:53:13+00:00"
-    },
-    "8wL5S": {
-      "points": 15.63,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T21:01:06+00:00"
-    },
-    "tcwYN": {
-      "points": 9.67,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T21:01:06+00:00"
-    },
-    "TN2Rm": {
-      "points": 2.55,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T21:01:06+00:00"
-    },
-    "dK2DW": {
-      "points": 1.49,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T21:01:06+00:00"
-    },
-    "qFqYF": {
-      "points": 1.37,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T21:01:06+00:00"
-    },
-    "RBqN2": {
-      "points": 0.28,
-      "match_count": 1,
-      "last_score_time": "2026-08-27T21:01:06+00:00"
-    },
-    "QAJwM": {
-      "points": 12.31,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "kVT8n": {
-      "points": 11.23,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "nvDCt": {
-      "points": 3.79,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "2tLNV": {
-      "points": 2.63,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "ynDTW": {
-      "points": 2.1,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "vMBQN": {
-      "points": 2.0,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "789t5": {
-      "points": 1.42,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "bgyBK": {
-      "points": 1.27,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    },
-    "VTBCq": {
-      "points": 0.68,
-      "match_count": 1,
-      "last_score_time": "2026-08-28T18:20:08+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-08-26T23:00:00+00:00",
-  "current_cycle_match_count": 4,
-  "last_announced_event_time": "2026-08-26T23:00:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-08-28T20:00:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-08-28T20:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-28",
-    "created_at": "2026-08-28T05:35:02.939620+00:00",
+    "date": "2026-08-29",
+    "created_at": "2026-08-29T02:02:30.940909+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Island Kingdom",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1287,10 +1143,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Black Arena",
-        "target": 6,
+        "map": "World 2",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Black Arena",
+        "text": "Win 4 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1299,10 +1155,10 @@
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1316,22 +1172,22 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Middle East",
+        "text": "Win 6 times on Black Arena",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
