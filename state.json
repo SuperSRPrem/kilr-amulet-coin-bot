@@ -1133,22 +1133,48 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-08-31T19:50:46+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-09-01T04:42:10+00:00",
+  "current_scores": {
+    "QTr2T": {
+      "points": 28.83,
+      "match_count": 2,
+      "last_score_time": "2026-09-01T04:42:10+00:00"
+    },
+    "mdK92": {
+      "points": 5.27,
+      "match_count": 1,
+      "last_score_time": "2026-09-01T04:42:10+00:00"
+    },
+    "SjCsb": {
+      "points": 3.28,
+      "match_count": 1,
+      "last_score_time": "2026-09-01T04:42:10+00:00"
+    },
+    "Bc5bn": {
+      "points": 1.89,
+      "match_count": 1,
+      "last_score_time": "2026-09-01T04:42:10+00:00"
+    },
+    "b8V5N": {
+      "points": 1.72,
+      "match_count": 1,
+      "last_score_time": "2026-09-01T04:42:10+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-08-31T21:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-08-31T21:00:00+00:00",
   "daily_quests": {
-    "date": "2026-08-31",
-    "created_at": "2026-08-31T00:22:01.790384+00:00",
+    "date": "2026-09-01",
+    "created_at": "2026-09-01T04:50:23.168967+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Black Arena",
+        "map": "Mountains 1",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Mountains 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1157,10 +1183,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Mountains 2",
+        "map": "Cliffs",
         "target": 6,
         "reward": 100,
-        "text": "Win 6 times on Mountains 2",
+        "text": "Win 6 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1170,15 +1196,16 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
         ],
-        "target": 5,
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1188,30 +1215,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "LVVvv": {
-          "Caucasia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-08-30",
+    "date": "2026-08-31",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Black Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Africa",
+        "text": "Win 6 times on Mountains 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
