@@ -1147,7 +1147,7 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-03T06:11:57+00:00",
+  "last_seen_time": "2026-09-03T16:10:00+00:00",
   "current_scores": {
     "tv999": {
       "points": 62.94,
@@ -1173,10 +1173,80 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-09-03T06:11:57+00:00"
+    },
+    "Z2Yfi": {
+      "points": 19.9,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "V2r2m": {
+      "points": 11.45,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "lgaXt": {
+      "points": 3.08,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "RGmtd": {
+      "points": 1.94,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "QbvbR": {
+      "points": 1.85,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "bHvK8": {
+      "points": 1.81,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "jGyCc": {
+      "points": 1.62,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "hjVDa": {
+      "points": 1.6,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "7TTwg": {
+      "points": 1.27,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "MkrLN": {
+      "points": 1.27,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "1TecC": {
+      "points": 1.13,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "2CKNj": {
+      "points": 0.85,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "Gmq8k": {
+      "points": 0.66,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
+    },
+    "VV5m9": {
+      "points": 0.58,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T16:10:00+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-02T19:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-09-02T19:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-03",
@@ -1243,6 +1313,48 @@
         },
         "cTg8b": {
           "Mare Nostrum": 1
+        },
+        "Z2Yfi": {
+          "Scandinavia": 1
+        },
+        "V2r2m": {
+          "Scandinavia": 1
+        },
+        "lgaXt": {
+          "Scandinavia": 1
+        },
+        "RGmtd": {
+          "Scandinavia": 1
+        },
+        "QbvbR": {
+          "Scandinavia": 1
+        },
+        "bHvK8": {
+          "Scandinavia": 1
+        },
+        "jGyCc": {
+          "Scandinavia": 1
+        },
+        "hjVDa": {
+          "Scandinavia": 1
+        },
+        "7TTwg": {
+          "Scandinavia": 1
+        },
+        "MkrLN": {
+          "Scandinavia": 1
+        },
+        "1TecC": {
+          "Scandinavia": 1
+        },
+        "2CKNj": {
+          "Scandinavia": 1
+        },
+        "Gmq8k": {
+          "Scandinavia": 1
+        },
+        "VV5m9": {
+          "Scandinavia": 1
         }
       }
     }
