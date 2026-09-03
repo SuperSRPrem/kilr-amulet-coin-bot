@@ -1147,10 +1147,36 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-01T18:01:53+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-09-03T06:11:57+00:00",
+  "current_scores": {
+    "tv999": {
+      "points": 62.94,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T06:11:57+00:00"
+    },
+    "qQqqq": {
+      "points": 16.77,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T06:11:57+00:00"
+    },
+    "8Q8Cb": {
+      "points": 0.26,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T06:11:57+00:00"
+    },
+    "LdrKQ": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T06:11:57+00:00"
+    },
+    "cTg8b": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-03T06:11:57+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-09-02T19:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-09-02T19:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-03",
@@ -1202,7 +1228,23 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tv999": {
+          "Mare Nostrum": 1
+        },
+        "qQqqq": {
+          "Mare Nostrum": 1
+        },
+        "8Q8Cb": {
+          "Mare Nostrum": 1
+        },
+        "LdrKQ": {
+          "Mare Nostrum": 1
+        },
+        "cTg8b": {
+          "Mare Nostrum": 1
+        }
+      }
     }
   },
   "last_quest_day": {
