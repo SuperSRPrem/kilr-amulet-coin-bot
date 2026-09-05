@@ -1161,10 +1161,86 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-03T23:38:06+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-09-05T08:29:42+00:00",
+  "current_scores": {
+    "Z2Yfi": {
+      "points": 23.73,
+      "match_count": 3,
+      "last_score_time": "2026-09-05T08:29:42+00:00"
+    },
+    "RgMVn": {
+      "points": 11.29,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:05:06+00:00"
+    },
+    "GcTbB": {
+      "points": 0.34,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:05:06+00:00"
+    },
+    "gRnG9": {
+      "points": 0.26,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:05:06+00:00"
+    },
+    "tcwYN": {
+      "points": 42.67,
+      "match_count": 3,
+      "last_score_time": "2026-09-05T08:29:42+00:00"
+    },
+    "vVvVv": {
+      "points": 12.469999999999999,
+      "match_count": 2,
+      "last_score_time": "2026-09-05T08:21:19+00:00"
+    },
+    "MtKtW": {
+      "points": 6.21,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:13:35+00:00"
+    },
+    "UPeQg": {
+      "points": 5.14,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:13:35+00:00"
+    },
+    "dGbjd": {
+      "points": 3.15,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:13:35+00:00"
+    },
+    "9MM5N": {
+      "points": 1.42,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:21:19+00:00"
+    },
+    "9L2nt": {
+      "points": 1.41,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:21:19+00:00"
+    },
+    "VycGG": {
+      "points": 1.34,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:21:19+00:00"
+    },
+    "JGWjg": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:21:19+00:00"
+    },
+    "dkdGw": {
+      "points": 3.08,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:29:42+00:00"
+    },
+    "M9QwK": {
+      "points": 2.49,
+      "match_count": 1,
+      "last_score_time": "2026-09-05T08:29:42+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-09-04T21:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-09-04T21:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-05",
@@ -1209,7 +1285,20 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "tcwYN": {
+          "Asia": 1
+        },
+        "dkdGw": {
+          "Asia": 1
+        },
+        "M9QwK": {
+          "Asia": 1
+        },
+        "Z2Yfi": {
+          "Asia": 1
+        }
+      },
       "hard": {}
     }
   },
