@@ -1203,12 +1203,12 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-09-10T21:22:52+00:00",
+  "last_seen_time": "2026-09-11T08:48:41+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 10.58,
-      "match_count": 1,
-      "last_score_time": "2026-09-10T11:00:12+00:00"
+      "match_count": 2,
+      "last_score_time": "2026-09-11T08:48:41+00:00"
     },
     "KVmG2": {
       "points": 10.16,
@@ -1284,10 +1284,20 @@
       "points": 0.05,
       "match_count": 1,
       "last_score_time": "2026-09-10T21:22:52+00:00"
+    },
+    "TrMsR": {
+      "points": 139.48,
+      "match_count": 1,
+      "last_score_time": "2026-09-11T08:48:41+00:00"
+    },
+    "bMQtr": {
+      "points": 12.52,
+      "match_count": 1,
+      "last_score_time": "2026-09-11T08:48:41+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-10T06:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-09-10T06:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-11",
@@ -1339,7 +1349,17 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "TrMsR": {
+          "Mare Nostrum": 1
+        },
+        "bMQtr": {
+          "Mare Nostrum": 1
+        },
+        "Z2Yfi": {
+          "Mare Nostrum": 1
+        }
+      }
     }
   },
   "last_quest_day": {
