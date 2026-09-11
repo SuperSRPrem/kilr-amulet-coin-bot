@@ -1210,7 +1210,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-09-11T13:36:43+00:00",
+  "last_seen_time": "2026-09-11T17:41:32+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 162.51,
@@ -1316,10 +1316,50 @@
       "points": 2.93,
       "match_count": 1,
       "last_score_time": "2026-09-11T13:36:43+00:00"
+    },
+    "RRCgr": {
+      "points": 40.61,
+      "match_count": 2,
+      "last_score_time": "2026-09-11T17:32:13+00:00"
+    },
+    "tBT79": {
+      "points": 8.31,
+      "match_count": 1,
+      "last_score_time": "2026-09-11T17:21:56+00:00"
+    },
+    "BulZI": {
+      "points": 1.08,
+      "match_count": 1,
+      "last_score_time": "2026-09-11T17:21:56+00:00"
+    },
+    "h4IZz": {
+      "points": 3.16,
+      "match_count": 2,
+      "last_score_time": "2026-09-11T17:32:13+00:00"
+    },
+    "WVcNw": {
+      "points": 24.63,
+      "match_count": 1,
+      "last_score_time": "2026-09-11T17:32:13+00:00"
+    },
+    "wwMWJ": {
+      "points": 0.2,
+      "match_count": 1,
+      "last_score_time": "2026-09-11T17:32:13+00:00"
+    },
+    "STJAm": {
+      "points": 32.73,
+      "match_count": 1,
+      "last_score_time": "2026-09-11T17:41:32+00:00"
+    },
+    "BR2NV": {
+      "points": 1.27,
+      "match_count": 1,
+      "last_score_time": "2026-09-11T17:41:32+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-11T11:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-09-11T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-11",
@@ -1365,7 +1405,7 @@
         "done_by": null,
         "done_at": null,
         "halfway_posted": true,
-        "last_leader": "TrMsR"
+        "last_leader": "h4IZz"
       }
     },
     "data": {
@@ -1396,6 +1436,32 @@
         },
         "vQ5v2": {
           "Middle East": 1
+        },
+        "RRCgr": {
+          "Mare Nostrum": 1,
+          "Scandinavia": 1
+        },
+        "tBT79": {
+          "Mare Nostrum": 1
+        },
+        "BulZI": {
+          "Mare Nostrum": 1
+        },
+        "h4IZz": {
+          "Mare Nostrum": 1,
+          "Scandinavia": 1
+        },
+        "WVcNw": {
+          "Scandinavia": 1
+        },
+        "wwMWJ": {
+          "Scandinavia": 1
+        },
+        "STJAm": {
+          "Scandinavia": 1
+        },
+        "BR2NV": {
+          "Scandinavia": 1
         }
       }
     }
