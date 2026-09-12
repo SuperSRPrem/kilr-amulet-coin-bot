@@ -1217,7 +1217,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-09-12T14:17:28+00:00",
+  "last_seen_time": "2026-09-12T21:50:34+00:00",
   "current_scores": {
     "vVvVv": {
       "points": 58.92,
@@ -1318,10 +1318,15 @@
       "points": 0.11,
       "match_count": 1,
       "last_score_time": "2026-09-12T14:17:28+00:00"
+    },
+    "2FwQ6": {
+      "points": 29.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-12T21:50:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-12T04:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-09-12T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-12",
@@ -1418,6 +1423,9 @@
         },
         "2t9dD": {
           "Middle East": 1
+        },
+        "2FwQ6": {
+          "Scandinavia": 1
         }
       }
     }
