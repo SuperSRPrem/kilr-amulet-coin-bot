@@ -1217,7 +1217,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-09-12T21:50:34+00:00",
+  "last_seen_time": "2026-09-12T23:58:49+00:00",
   "current_scores": {
     "vVvVv": {
       "points": 58.92,
@@ -1323,22 +1323,27 @@
       "points": 29.0,
       "match_count": 1,
       "last_score_time": "2026-09-12T21:50:34+00:00"
+    },
+    "TrMsR": {
+      "points": 114.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-12T23:58:49+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-12T04:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-09-12T04:30:00+00:00",
   "daily_quests": {
-    "date": "2026-09-12",
-    "created_at": "2026-09-12T01:26:33.690440+00:00",
+    "date": "2026-09-13",
+    "created_at": "2026-09-13T00:10:47.197520+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Arena",
+        "map": "White Plains",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1347,10 +1352,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "White Plains",
-        "target": 6,
+        "map": "World 2",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on White Plains",
+        "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1358,17 +1363,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "map_wins",
+        "map": "World 1",
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1378,60 +1377,11 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "RRCgr": {
-          "Middle East": 1
-        },
-        "J7M5g": {
-          "Middle East": 1
-        },
-        "CyccC": {
-          "Middle East": 1
-        },
-        "vVvVv": {
-          "Middle East": 1
-        },
-        "Lbn2M": {
-          "Middle East": 1
-        },
-        "rWbQD": {
-          "Middle East": 1
-        },
-        "wnWyL": {
-          "Middle East": 1
-        },
-        "RKTQ8": {
-          "Middle East": 1
-        },
-        "J7gnt": {
-          "Middle East": 1
-        },
-        "7ByjQ": {
-          "Middle East": 1
-        },
-        "NYRVy": {
-          "Middle East": 1
-        },
-        "8T5vn": {
-          "Middle East": 1
-        },
-        "y7nqR": {
-          "Middle East": 1
-        },
-        "mMm2d": {
-          "Middle East": 1
-        },
-        "2t9dD": {
-          "Middle East": 1
-        },
-        "2FwQ6": {
-          "Scandinavia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "quests": {
       "easy": {
         "text": "Win 4 times on White Arena",
@@ -1440,7 +1390,7 @@
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Pond",
+        "text": "Win 6 times on White Plains",
         "reward": 100,
         "done_by": null,
         "done_at": null
