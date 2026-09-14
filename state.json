@@ -1224,10 +1224,76 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-09-13T17:56:20+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-09-14T14:53:46+00:00",
+  "current_scores": {
+    "tcwYN": {
+      "points": 86.63,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:39:26+00:00"
+    },
+    "Oyf9y": {
+      "points": 54.78,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:39:26+00:00"
+    },
+    "W6UwS": {
+      "points": 32.16,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:39:26+00:00"
+    },
+    "5Q5rT": {
+      "points": 21.12,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:39:26+00:00"
+    },
+    "8285t": {
+      "points": 10.54,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:39:26+00:00"
+    },
+    "92qcJ": {
+      "points": 7.63,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:39:26+00:00"
+    },
+    "JlDCd": {
+      "points": 1.15,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:39:26+00:00"
+    },
+    "79H3R": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:39:26+00:00"
+    },
+    "yqdg9": {
+      "points": 22.41,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:53:46+00:00"
+    },
+    "KLWVT": {
+      "points": 6.03,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:53:46+00:00"
+    },
+    "GueSH": {
+      "points": 5.77,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:53:46+00:00"
+    },
+    "P8DKx": {
+      "points": 3.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:53:46+00:00"
+    },
+    "NmMdg": {
+      "points": 0.79,
+      "match_count": 1,
+      "last_score_time": "2026-09-14T14:53:46+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-09-13T19:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-09-13T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-14",
@@ -1273,7 +1339,32 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tcwYN": {
+          "World 2": 1
+        },
+        "Oyf9y": {
+          "World 2": 1
+        },
+        "W6UwS": {
+          "World 2": 1
+        },
+        "5Q5rT": {
+          "World 2": 1
+        },
+        "8285t": {
+          "World 2": 1
+        },
+        "92qcJ": {
+          "World 2": 1
+        },
+        "JlDCd": {
+          "World 2": 1
+        },
+        "79H3R": {
+          "World 2": 1
+        }
+      }
     }
   },
   "last_quest_day": {
