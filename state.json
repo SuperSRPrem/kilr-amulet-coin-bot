@@ -1230,16 +1230,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-09-13T19:30:00+00:00",
   "daily_quests": {
-    "date": "2026-09-13",
-    "created_at": "2026-09-13T00:10:47.197520+00:00",
+    "date": "2026-09-14",
+    "created_at": "2026-09-14T01:30:09.554549+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "White Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1248,10 +1248,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 3,
+        "map": "Island Kingdom",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1260,10 +1260,10 @@
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 1",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1273,72 +1273,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "vVvVv": {
-          "World 1": 1
-        },
-        "Q2CRQ": {
-          "World 1": 1
-        },
-        "q8Mdv": {
-          "World 1": 1
-        },
-        "3QAo7": {
-          "World 1": 1
-        },
-        "cqyyw": {
-          "World 1": 1
-        },
-        "Oyf9y": {
-          "World 1": 1
-        },
-        "MM278": {
-          "World 1": 1
-        },
-        "RNLB5": {
-          "World 1": 1
-        },
-        "NwNnB": {
-          "World 1": 1
-        },
-        "ytN9n": {
-          "World 1": 1
-        },
-        "tvr89": {
-          "World 1": 1
-        },
-        "QND2k": {
-          "World 1": 1
-        },
-        "m8hyQ": {
-          "World 1": 1
-        },
-        "RM9tN": {
-          "World 1": 1
-        },
-        "8wL5S": {
-          "World 1": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-09-12",
+    "date": "2026-09-13",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on White Plains",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
