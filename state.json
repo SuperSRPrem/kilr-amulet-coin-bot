@@ -1231,10 +1231,16 @@
       "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-09-14T14:53:46+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-09-15T13:07:50+00:00",
+  "current_scores": {
+    "BjxRv": {
+      "points": 22.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-15T13:07:50+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-09-14T15:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-09-14T15:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-15",
