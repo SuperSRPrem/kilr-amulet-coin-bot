@@ -1231,16 +1231,31 @@
       "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-09-15T13:07:50+00:00",
+  "last_seen_time": "2026-09-15T17:33:57+00:00",
   "current_scores": {
     "BjxRv": {
-      "points": 22.0,
+      "points": 41.72,
+      "match_count": 2,
+      "last_score_time": "2026-09-15T17:21:12+00:00"
+    },
+    "rt95q": {
+      "points": 3.92,
       "match_count": 1,
-      "last_score_time": "2026-09-15T13:07:50+00:00"
+      "last_score_time": "2026-09-15T17:21:12+00:00"
+    },
+    "mtGVC": {
+      "points": 3.36,
+      "match_count": 1,
+      "last_score_time": "2026-09-15T17:21:12+00:00"
+    },
+    "Oyf9y": {
+      "points": 166.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-15T17:33:57+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-14T15:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-09-14T15:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-15",
