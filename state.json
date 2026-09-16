@@ -1238,7 +1238,7 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-09-15T23:36:36+00:00",
+  "last_seen_time": "2026-09-16T09:46:41+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 31.3,
@@ -1279,10 +1279,125 @@
       "points": 0.06,
       "match_count": 1,
       "last_score_time": "2026-09-15T23:36:36+00:00"
+    },
+    "nMdKb": {
+      "points": 6.04,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "TVvmR": {
+      "points": 5.59,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "QWgt8": {
+      "points": 4.37,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "rkdrL": {
+      "points": 2.92,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "tcwYN": {
+      "points": 2.85,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "tqvMN": {
+      "points": 2.13,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "2GygM": {
+      "points": 2.03,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "CrvGr": {
+      "points": 1.31,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "5Wy7b": {
+      "points": 1.28,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "Bv85R": {
+      "points": 1.24,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "V88JR": {
+      "points": 1.24,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "B7CkG": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:26:53+00:00"
+    },
+    "8wL5S": {
+      "points": 179.71,
+      "match_count": 2,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
+    },
+    "RrmVM": {
+      "points": 4.26,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:28:35+00:00"
+    },
+    "tCtQ8": {
+      "points": 1.66,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:28:35+00:00"
+    },
+    "5gBGj": {
+      "points": 34.46,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
+    },
+    "AypmV": {
+      "points": 12.98,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
+    },
+    "TVT85": {
+      "points": 12.08,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
+    },
+    "YwK9k": {
+      "points": 9.14,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
+    },
+    "NDL8J": {
+      "points": 5.57,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
+    },
+    "4m7O5": {
+      "points": 5.41,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
+    },
+    "7j9vB": {
+      "points": 3.05,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
+    },
+    "0mW6Q": {
+      "points": 1.69,
+      "match_count": 1,
+      "last_score_time": "2026-09-16T09:46:41+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-15T23:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-09-15T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-16",
@@ -1334,7 +1449,35 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "8wL5S": {
+          "Middle East": 1
+        },
+        "5gBGj": {
+          "Middle East": 1
+        },
+        "AypmV": {
+          "Middle East": 1
+        },
+        "TVT85": {
+          "Middle East": 1
+        },
+        "YwK9k": {
+          "Middle East": 1
+        },
+        "NDL8J": {
+          "Middle East": 1
+        },
+        "4m7O5": {
+          "Middle East": 1
+        },
+        "7j9vB": {
+          "Middle East": 1
+        },
+        "0mW6Q": {
+          "Middle East": 1
+        }
+      }
     }
   },
   "last_quest_day": {
