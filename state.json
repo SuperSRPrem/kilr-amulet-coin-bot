@@ -1245,10 +1245,66 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-09-16T18:38:30+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-09-17T16:45:27+00:00",
+  "current_scores": {
+    "vVvVv": {
+      "points": 144.51,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:29:00+00:00"
+    },
+    "bUr5j": {
+      "points": 16.16,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:29:00+00:00"
+    },
+    "Z2Yfi": {
+      "points": 2.25,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:29:00+00:00"
+    },
+    "VrdnG": {
+      "points": 1.08,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:29:00+00:00"
+    },
+    "5jvQd": {
+      "points": 22.11,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:45:27+00:00"
+    },
+    "tmRk2": {
+      "points": 9.08,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:45:27+00:00"
+    },
+    "jDNmV": {
+      "points": 6.92,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:45:27+00:00"
+    },
+    "RMK5w": {
+      "points": 4.58,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:45:27+00:00"
+    },
+    "t9nGY": {
+      "points": 1.96,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:45:27+00:00"
+    },
+    "k8KWM": {
+      "points": 1.46,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:45:27+00:00"
+    },
+    "GGmBM": {
+      "points": 0.89,
+      "match_count": 1,
+      "last_score_time": "2026-09-17T16:45:27+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-09-16T22:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-09-16T22:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-17",
@@ -1293,7 +1349,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "vVvVv": {
+          "Contest": 1
+        },
+        "bUr5j": {
+          "Contest": 1
+        },
+        "Z2Yfi": {
+          "Contest": 1
+        },
+        "VrdnG": {
+          "Contest": 1
+        }
+      }
     }
   },
   "last_quest_day": {
