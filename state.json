@@ -1259,10 +1259,21 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-18T16:38:25+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-09-19T04:36:29+00:00",
+  "current_scores": {
+    "Z2Yfi": {
+      "points": 13.04,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T04:36:29+00:00"
+    },
+    "y5t8k": {
+      "points": 2.96,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T04:36:29+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-09-18T22:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-09-18T22:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-19",
