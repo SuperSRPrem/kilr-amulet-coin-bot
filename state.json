@@ -1259,21 +1259,111 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-19T04:36:29+00:00",
+  "last_seen_time": "2026-09-19T09:19:31+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 13.04,
-      "match_count": 1,
-      "last_score_time": "2026-09-19T04:36:29+00:00"
+      "points": 14.5,
+      "match_count": 2,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
     },
     "y5t8k": {
       "points": 2.96,
       "match_count": 1,
       "last_score_time": "2026-09-19T04:36:29+00:00"
+    },
+    "vVvVv": {
+      "points": 9.63,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "VRntt": {
+      "points": 6.13,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "KWwvQ": {
+      "points": 5.67,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "VQr5q": {
+      "points": 3.16,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "gcGTD": {
+      "points": 3.09,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "ztXi9": {
+      "points": 2.74,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "G5rMT": {
+      "points": 2.61,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "TrMsR": {
+      "points": 2.47,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "zy-Hw": {
+      "points": 2.12,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "2FwQ6": {
+      "points": 1.78,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "d7gJm": {
+      "points": 1.53,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "8bB9y": {
+      "points": 1.26,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "tTJQ2": {
+      "points": 1.21,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "L7Jtr": {
+      "points": 1.13,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "WKbmv": {
+      "points": 0.75,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "nKy5L": {
+      "points": 0.6,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "MyQVq": {
+      "points": 0.51,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
+    },
+    "qn9nQ": {
+      "points": 0.16,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T09:19:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-18T22:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-09-18T22:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-19",
@@ -1319,7 +1409,65 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "vVvVv": {
+          "World 2": 1
+        },
+        "VRntt": {
+          "World 2": 1
+        },
+        "KWwvQ": {
+          "World 2": 1
+        },
+        "VQr5q": {
+          "World 2": 1
+        },
+        "gcGTD": {
+          "World 2": 1
+        },
+        "ztXi9": {
+          "World 2": 1
+        },
+        "G5rMT": {
+          "World 2": 1
+        },
+        "TrMsR": {
+          "World 2": 1
+        },
+        "zy-Hw": {
+          "World 2": 1
+        },
+        "2FwQ6": {
+          "World 2": 1
+        },
+        "d7gJm": {
+          "World 2": 1
+        },
+        "Z2Yfi": {
+          "World 2": 1
+        },
+        "8bB9y": {
+          "World 2": 1
+        },
+        "tTJQ2": {
+          "World 2": 1
+        },
+        "L7Jtr": {
+          "World 2": 1
+        },
+        "WKbmv": {
+          "World 2": 1
+        },
+        "nKy5L": {
+          "World 2": 1
+        },
+        "MyQVq": {
+          "World 2": 1
+        },
+        "qn9nQ": {
+          "World 2": 1
+        }
+      }
     }
   },
   "last_quest_day": {
