@@ -1259,7 +1259,7 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-20T09:55:35+00:00",
+  "last_seen_time": "2026-09-20T17:14:50+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 56.04,
@@ -1272,9 +1272,9 @@
       "last_score_time": "2026-09-19T04:36:29+00:00"
     },
     "vVvVv": {
-      "points": 15.940000000000001,
-      "match_count": 2,
-      "last_score_time": "2026-09-19T13:01:05+00:00"
+      "points": 43.0,
+      "match_count": 3,
+      "last_score_time": "2026-09-20T17:14:50+00:00"
     },
     "VRntt": {
       "points": 6.13,
@@ -1460,10 +1460,15 @@
       "points": 1.46,
       "match_count": 1,
       "last_score_time": "2026-09-20T09:55:35+00:00"
+    },
+    "qJcJ5": {
+      "points": 0.94,
+      "match_count": 1,
+      "last_score_time": "2026-09-20T17:14:50+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-18T22:30:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-09-18T22:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-20",
@@ -1522,6 +1527,12 @@
         },
         "TrMsR": {
           "Europe": 1
+        },
+        "vVvVv": {
+          "Asia": 1
+        },
+        "qJcJ5": {
+          "Asia": 1
         }
       }
     }
