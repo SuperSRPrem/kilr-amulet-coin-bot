@@ -1259,7 +1259,7 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-19T21:28:00+00:00",
+  "last_seen_time": "2026-09-19T23:55:20+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 14.5,
@@ -1307,9 +1307,9 @@
       "last_score_time": "2026-09-19T09:19:31+00:00"
     },
     "TrMsR": {
-      "points": 2.47,
-      "match_count": 1,
-      "last_score_time": "2026-09-19T09:19:31+00:00"
+      "points": 84.47,
+      "match_count": 2,
+      "last_score_time": "2026-09-19T23:55:20+00:00"
     },
     "zy-Hw": {
       "points": 2.12,
@@ -1450,22 +1450,27 @@
       "points": 1.17,
       "match_count": 1,
       "last_score_time": "2026-09-19T21:28:00+00:00"
+    },
+    "STJAm": {
+      "points": 27.0,
+      "match_count": 1,
+      "last_score_time": "2026-09-19T23:41:38+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-18T22:30:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-09-18T22:30:00+00:00",
   "daily_quests": {
-    "date": "2026-09-19",
-    "created_at": "2026-09-19T00:06:48.271854+00:00",
+    "date": "2026-09-20",
+    "created_at": "2026-09-20T00:02:07.914075+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Mountains 2",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Mountains 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1474,10 +1479,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Swamp",
-        "target": 6,
+        "map": "South America",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Swamp",
+        "text": "Win 4 times on South America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1485,11 +1490,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1500,83 +1512,32 @@
       "easy": {},
       "medium": {},
       "hard": {
-        "vVvVv": {
-          "World 2": 1
-        },
-        "VRntt": {
-          "World 2": 1
-        },
-        "KWwvQ": {
-          "World 2": 1
-        },
-        "VQr5q": {
-          "World 2": 1
-        },
-        "gcGTD": {
-          "World 2": 1
-        },
-        "ztXi9": {
-          "World 2": 1
-        },
-        "G5rMT": {
-          "World 2": 1
+        "STJAm": {
+          "Africa": 1
         },
         "TrMsR": {
-          "World 2": 1
-        },
-        "zy-Hw": {
-          "World 2": 1
-        },
-        "2FwQ6": {
-          "World 2": 1
-        },
-        "d7gJm": {
-          "World 2": 1
-        },
-        "Z2Yfi": {
-          "World 2": 1
-        },
-        "8bB9y": {
-          "World 2": 1
-        },
-        "tTJQ2": {
-          "World 2": 1
-        },
-        "L7Jtr": {
-          "World 2": 1
-        },
-        "WKbmv": {
-          "World 2": 1
-        },
-        "nKy5L": {
-          "World 2": 1
-        },
-        "MyQVq": {
-          "World 2": 1
-        },
-        "qn9nQ": {
-          "World 2": 1
+          "Europe": 1
         }
       }
     }
   },
   "last_quest_day": {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on Swamp",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
