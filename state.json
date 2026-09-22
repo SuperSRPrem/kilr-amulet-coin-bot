@@ -1273,7 +1273,7 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-09-21T22:51:59+00:00",
+  "last_seen_time": "2026-09-22T07:26:55+00:00",
   "current_scores": {
     "3kfUf": {
       "points": 10.6,
@@ -1289,10 +1289,100 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-09-21T22:51:59+00:00"
+    },
+    "CPT-Z": {
+      "points": 66.12,
+      "match_count": 2,
+      "last_score_time": "2026-09-22T07:26:55+00:00"
+    },
+    "TrMsR": {
+      "points": 22.04,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "tcwYN": {
+      "points": 15.48,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "RRCgr": {
+      "points": 65.06,
+      "match_count": 2,
+      "last_score_time": "2026-09-22T07:26:55+00:00"
+    },
+    "nMdKb": {
+      "points": 10.62,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "uMa94": {
+      "points": 5.51,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "Z2Yfi": {
+      "points": 3.74,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "JGbKq": {
+      "points": 3.59,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "Oyf9y": {
+      "points": 3.47,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "2voP6": {
+      "points": 3.1,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "PVRXl": {
+      "points": 2.84,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "R5KGB": {
+      "points": 2.36,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "LbRTr": {
+      "points": 2.25,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "Kkmvm": {
+      "points": 1.61,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:15:46+00:00"
+    },
+    "BmyVR": {
+      "points": 14.52,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:26:55+00:00"
+    },
+    "pd4XN": {
+      "points": 9.96,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:26:55+00:00"
+    },
+    "grNmC": {
+      "points": 3.54,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:26:55+00:00"
+    },
+    "72qb5": {
+      "points": 2.21,
+      "match_count": 1,
+      "last_score_time": "2026-09-22T07:26:55+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-21T21:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-09-21T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-22",
@@ -1328,8 +1418,8 @@
         "target": 2,
         "reward": 150,
         "text": "Win 2 Contests",
-        "done_by": null,
-        "done_at": null,
+        "done_by": "RRCgr",
+        "done_at": "2026-09-22T07:37:26.827644+00:00",
         "halfway_posted": false,
         "last_leader": null
       }
@@ -1337,7 +1427,50 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "CPT-Z": {
+          "Contest": 1
+        },
+        "TrMsR": {
+          "Contest": 1
+        },
+        "tcwYN": {
+          "Contest": 1
+        },
+        "RRCgr": {
+          "Contest": 2
+        },
+        "nMdKb": {
+          "Contest": 1
+        },
+        "uMa94": {
+          "Contest": 1
+        },
+        "Z2Yfi": {
+          "Contest": 1
+        },
+        "JGbKq": {
+          "Contest": 1
+        },
+        "Oyf9y": {
+          "Contest": 1
+        },
+        "2voP6": {
+          "Contest": 1
+        },
+        "PVRXl": {
+          "Contest": 1
+        },
+        "R5KGB": {
+          "Contest": 1
+        },
+        "LbRTr": {
+          "Contest": 1
+        },
+        "Kkmvm": {
+          "Contest": 1
+        }
+      }
     }
   },
   "last_quest_day": {
