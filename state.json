@@ -1273,7 +1273,7 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-09-22T07:26:55+00:00",
+  "last_seen_time": "2026-09-22T17:25:19+00:00",
   "current_scores": {
     "3kfUf": {
       "points": 10.6,
@@ -1306,9 +1306,9 @@
       "last_score_time": "2026-09-22T07:15:46+00:00"
     },
     "RRCgr": {
-      "points": 65.06,
-      "match_count": 2,
-      "last_score_time": "2026-09-22T07:26:55+00:00"
+      "points": 243.06,
+      "match_count": 3,
+      "last_score_time": "2026-09-22T17:25:19+00:00"
     },
     "nMdKb": {
       "points": 10.62,
@@ -1382,7 +1382,7 @@
     }
   },
   "current_cycle_started_at": "2026-09-21T21:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-09-21T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-22",
