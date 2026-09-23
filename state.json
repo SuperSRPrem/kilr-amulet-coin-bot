@@ -1286,16 +1286,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-09-22T19:30:00+00:00",
   "daily_quests": {
-    "date": "2026-09-22",
-    "created_at": "2026-09-22T01:46:12.295217+00:00",
+    "date": "2026-09-23",
+    "created_at": "2026-09-23T04:31:17.645327+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island",
+        "map": "Mountains 2",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Mountains 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1304,10 +1304,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Mountains 2",
+        "map": "White Plains",
         "target": 6,
         "reward": 100,
-        "text": "Win 6 times on Mountains 2",
+        "text": "Win 6 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1315,12 +1315,19 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_set",
+        "maps": [
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
+        ],
+        "target": 5,
         "reward": 150,
-        "text": "Win 2 Contests",
-        "done_by": "RRCgr",
-        "done_at": "2026-09-22T07:37:26.827644+00:00",
+        "text": "Win on all regional maps",
+        "done_by": null,
+        "done_at": null,
         "halfway_posted": false,
         "last_leader": null
       }
@@ -1328,72 +1335,29 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "CPT-Z": {
-          "Contest": 1
-        },
-        "TrMsR": {
-          "Contest": 1
-        },
-        "tcwYN": {
-          "Contest": 1
-        },
-        "RRCgr": {
-          "Contest": 2
-        },
-        "nMdKb": {
-          "Contest": 1
-        },
-        "uMa94": {
-          "Contest": 1
-        },
-        "Z2Yfi": {
-          "Contest": 1
-        },
-        "JGbKq": {
-          "Contest": 1
-        },
-        "Oyf9y": {
-          "Contest": 1
-        },
-        "2voP6": {
-          "Contest": 1
-        },
-        "PVRXl": {
-          "Contest": 1
-        },
-        "R5KGB": {
-          "Contest": 1
-        },
-        "LbRTr": {
-          "Contest": 1
-        },
-        "Kkmvm": {
-          "Contest": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Island",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Scandinavia",
+        "text": "Win 6 times on Mountains 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 2 Contests",
         "reward": 150,
-        "done_by": null,
-        "done_at": null
+        "done_by": "RRCgr",
+        "done_at": "2026-09-22T07:37:26.827644+00:00"
       }
     }
   }
