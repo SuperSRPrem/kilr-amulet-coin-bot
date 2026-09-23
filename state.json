@@ -1280,7 +1280,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-09-23T09:37:26+00:00",
+  "last_seen_time": "2026-09-23T14:48:03+00:00",
   "current_scores": {
     "43WgB": {
       "points": 145.93,
@@ -1301,10 +1301,40 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-09-23T09:37:26+00:00"
+    },
+    "vt2Mr": {
+      "points": 13.88,
+      "match_count": 1,
+      "last_score_time": "2026-09-23T14:48:03+00:00"
+    },
+    "8DwgK": {
+      "points": 6.84,
+      "match_count": 1,
+      "last_score_time": "2026-09-23T14:48:03+00:00"
+    },
+    "T2DmG": {
+      "points": 2.63,
+      "match_count": 1,
+      "last_score_time": "2026-09-23T14:48:03+00:00"
+    },
+    "kwdcQ": {
+      "points": 2.61,
+      "match_count": 1,
+      "last_score_time": "2026-09-23T14:48:03+00:00"
+    },
+    "77kWR": {
+      "points": 2.32,
+      "match_count": 1,
+      "last_score_time": "2026-09-23T14:48:03+00:00"
+    },
+    "2VvVQ": {
+      "points": 1.72,
+      "match_count": 1,
+      "last_score_time": "2026-09-23T14:48:03+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-22T19:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-09-22T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-09-23",
