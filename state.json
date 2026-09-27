@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-09-27T22:00:00+00:00",
-  "last_event_time": "2026-09-26T21:00:00+00:00",
+  "next_event_time": "2026-09-28T16:00:00+00:00",
+  "last_event_time": "2026-09-27T22:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -1306,49 +1306,36 @@
       "winner_username": "XdPxf",
       "winner_points": 86.29,
       "eligible_match_count": 3
+    },
+    {
+      "event_time": "2026-09-27T22:00:00+00:00",
+      "cycle_started_at": "2026-09-26T21:00:00+00:00",
+      "winner_username": "RRCgr",
+      "winner_points": 48.67,
+      "eligible_match_count": 2
     }
   ],
-  "last_seen_time": "2026-09-27T17:46:18+00:00",
+  "last_seen_time": "2026-09-27T23:38:38+00:00",
   "current_scores": {
-    "8DO6T": {
-      "points": 18.45,
+    "4uLEq": {
+      "points": 8.4,
       "match_count": 1,
-      "last_score_time": "2026-09-26T22:12:52+00:00"
+      "last_score_time": "2026-09-27T23:38:38+00:00"
     },
-    "wSM3X": {
-      "points": 8.55,
+    "LgmWb": {
+      "points": 2.6,
       "match_count": 1,
-      "last_score_time": "2026-09-26T22:12:52+00:00"
+      "last_score_time": "2026-09-27T23:38:38+00:00"
     },
-    "RRCgr": {
-      "points": 48.67,
+    "T8Lwr": {
+      "points": 0.0,
       "match_count": 1,
-      "last_score_time": "2026-09-27T17:46:18+00:00"
-    },
-    "dYqbN": {
-      "points": 13.56,
-      "match_count": 1,
-      "last_score_time": "2026-09-27T17:46:18+00:00"
-    },
-    "XCVrI": {
-      "points": 3.03,
-      "match_count": 1,
-      "last_score_time": "2026-09-27T17:46:18+00:00"
-    },
-    "KKIpL": {
-      "points": 1.74,
-      "match_count": 1,
-      "last_score_time": "2026-09-27T17:46:18+00:00"
-    },
-    "GnKtn": {
-      "points": 0.01,
-      "match_count": 1,
-      "last_score_time": "2026-09-27T17:46:18+00:00"
+      "last_score_time": "2026-09-27T23:38:38+00:00"
     }
   },
-  "current_cycle_started_at": "2026-09-26T21:00:00+00:00",
-  "current_cycle_match_count": 2,
-  "last_announced_event_time": "2026-09-26T21:00:00+00:00",
+  "current_cycle_started_at": "2026-09-27T22:00:00+00:00",
+  "current_cycle_match_count": 1,
+  "last_announced_event_time": "2026-09-27T22:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-27",
     "created_at": "2026-09-27T01:16:53.558154+00:00",
@@ -1400,7 +1387,17 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "4uLEq": {
+          "Africa": 1
+        },
+        "LgmWb": {
+          "Africa": 1
+        },
+        "T8Lwr": {
+          "Africa": 1
+        }
+      }
     }
   },
   "last_quest_day": {
