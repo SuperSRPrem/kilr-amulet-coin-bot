@@ -1325,16 +1325,16 @@
   "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-09-26T21:00:00+00:00",
   "daily_quests": {
-    "date": "2026-09-26",
-    "created_at": "2026-09-26T01:24:56.116668+00:00",
+    "date": "2026-09-27",
+    "created_at": "2026-09-27T01:16:53.558154+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1343,10 +1343,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "White Plains",
-        "target": 6,
+        "map": "Middle East",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on White Plains",
+        "text": "Win 4 times on Middle East",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1356,15 +1356,16 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
         ],
-        "target": 5,
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1374,75 +1375,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "XdPxf": {
-          "Mare Nostrum": 1
-        },
-        "DWBVc": {
-          "Mare Nostrum": 1
-        },
-        "hujCy": {
-          "Mare Nostrum": 1
-        },
-        "tcwYN": {
-          "Mare Nostrum": 1
-        },
-        "QjwJY": {
-          "Mare Nostrum": 1
-        },
-        "75298": {
-          "Mare Nostrum": 1
-        },
-        "DhC1o": {
-          "Mare Nostrum": 1
-        },
-        "vVvVv": {
-          "Mare Nostrum": 1
-        },
-        "VVMmR": {
-          "Mare Nostrum": 1
-        },
-        "g5JY0": {
-          "Mare Nostrum": 1
-        },
-        "RBqN2": {
-          "Mare Nostrum": 1
-        },
-        "nWG8V": {
-          "Mare Nostrum": 1
-        },
-        "wK2Kv": {
-          "Mare Nostrum": 1
-        },
-        "yMyGK": {
-          "Mare Nostrum": 1
-        },
-        "mtBJy": {
-          "Mare Nostrum": 1
-        },
-        "Z2Yfi": {
-          "Mare Nostrum": 1
-        },
-        "8DO6T": {
-          "Mare Nostrum": 1
-        },
-        "wSM3X": {
-          "Mare Nostrum": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on White Plains",
         "reward": 100,
         "done_by": null,
         "done_at": null
