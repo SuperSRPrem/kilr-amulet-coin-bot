@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-09-28T16:00:00+00:00",
-  "last_event_time": "2026-09-27T22:00:00+00:00",
+  "next_event_time": "2026-09-29T14:30:00+00:00",
+  "last_event_time": "2026-09-28T16:00:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -1313,29 +1313,36 @@
       "winner_username": "RRCgr",
       "winner_points": 48.67,
       "eligible_match_count": 2
+    },
+    {
+      "event_time": "2026-09-28T16:00:00+00:00",
+      "cycle_started_at": "2026-09-27T22:00:00+00:00",
+      "winner_username": "4uLEq",
+      "winner_points": 8.4,
+      "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-27T23:38:38+00:00",
+  "last_seen_time": "2026-09-28T19:13:06+00:00",
   "current_scores": {
-    "4uLEq": {
-      "points": 8.4,
+    "VTvv9": {
+      "points": 21.83,
       "match_count": 1,
-      "last_score_time": "2026-09-27T23:38:38+00:00"
+      "last_score_time": "2026-09-28T19:13:06+00:00"
     },
-    "LgmWb": {
-      "points": 2.6,
+    "cc05g": {
+      "points": 7.3,
       "match_count": 1,
-      "last_score_time": "2026-09-27T23:38:38+00:00"
+      "last_score_time": "2026-09-28T19:13:06+00:00"
     },
-    "T8Lwr": {
-      "points": 0.0,
+    "n5GTg": {
+      "points": 0.87,
       "match_count": 1,
-      "last_score_time": "2026-09-27T23:38:38+00:00"
+      "last_score_time": "2026-09-28T19:13:06+00:00"
     }
   },
-  "current_cycle_started_at": "2026-09-27T22:00:00+00:00",
+  "current_cycle_started_at": "2026-09-28T16:00:00+00:00",
   "current_cycle_match_count": 1,
-  "last_announced_event_time": "2026-09-27T22:00:00+00:00",
+  "last_announced_event_time": "2026-09-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-28",
     "created_at": "2026-09-28T05:06:29.355265+00:00",
