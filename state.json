@@ -1322,7 +1322,7 @@
       "eligible_match_count": 1
     }
   ],
-  "last_seen_time": "2026-09-28T19:13:06+00:00",
+  "last_seen_time": "2026-09-29T05:58:11+00:00",
   "current_scores": {
     "VTvv9": {
       "points": 21.83,
@@ -1338,10 +1338,55 @@
       "points": 0.87,
       "match_count": 1,
       "last_score_time": "2026-09-28T19:13:06+00:00"
+    },
+    "tcwYN": {
+      "points": 31.650000000000002,
+      "match_count": 2,
+      "last_score_time": "2026-09-29T05:58:11+00:00"
+    },
+    "qQqqq": {
+      "points": 48.8,
+      "match_count": 2,
+      "last_score_time": "2026-09-29T05:58:11+00:00"
+    },
+    "TQbVL": {
+      "points": 14.670000000000002,
+      "match_count": 2,
+      "last_score_time": "2026-09-29T05:58:11+00:00"
+    },
+    "Z2Yfi": {
+      "points": 13.6,
+      "match_count": 2,
+      "last_score_time": "2026-09-29T05:58:11+00:00"
+    },
+    "YLJ59": {
+      "points": 0.78,
+      "match_count": 1,
+      "last_score_time": "2026-09-29T05:47:40+00:00"
+    },
+    "TrMsR": {
+      "points": 25.44,
+      "match_count": 1,
+      "last_score_time": "2026-09-29T05:58:11+00:00"
+    },
+    "Oyf9y": {
+      "points": 23.56,
+      "match_count": 1,
+      "last_score_time": "2026-09-29T05:58:11+00:00"
+    },
+    "ttttt": {
+      "points": 14.87,
+      "match_count": 1,
+      "last_score_time": "2026-09-29T05:58:11+00:00"
+    },
+    "RtQtq": {
+      "points": 8.63,
+      "match_count": 1,
+      "last_score_time": "2026-09-29T05:58:11+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-28T16:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-09-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-09-29",
@@ -1377,8 +1422,8 @@
         "target": 2,
         "reward": 150,
         "text": "Win 2 Contests",
-        "done_by": null,
-        "done_at": null,
+        "done_by": "qQqqq",
+        "done_at": "2026-09-29T06:03:26.959375+00:00",
         "halfway_posted": false,
         "last_leader": null
       }
@@ -1386,7 +1431,23 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tcwYN": {
+          "Contest": 1
+        },
+        "qQqqq": {
+          "Contest": 2
+        },
+        "TQbVL": {
+          "Contest": 1
+        },
+        "Z2Yfi": {
+          "Contest": 1
+        },
+        "YLJ59": {
+          "Contest": 1
+        }
+      }
     }
   },
   "last_quest_day": {
