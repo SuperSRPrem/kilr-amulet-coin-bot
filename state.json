@@ -1335,16 +1335,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-09-29T14:30:00+00:00",
   "daily_quests": {
-    "date": "2026-09-29",
-    "created_at": "2026-09-29T00:18:38.612797+00:00",
+    "date": "2026-09-30",
+    "created_at": "2026-09-30T01:58:18.608867+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1353,10 +1353,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 1",
-        "target": 4,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on World 1",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1364,12 +1364,13 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_wins",
+        "map": "World 2",
+        "target": 6,
         "reward": 150,
-        "text": "Win 2 Contests",
-        "done_by": "qQqqq",
-        "done_at": "2026-09-29T06:03:26.959375+00:00",
+        "text": "Win 6 times on World 2",
+        "done_by": null,
+        "done_at": null,
         "halfway_posted": false,
         "last_leader": null
       }
@@ -1377,27 +1378,11 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "tcwYN": {
-          "Contest": 1
-        },
-        "qQqqq": {
-          "Contest": 2
-        },
-        "TQbVL": {
-          "Contest": 1
-        },
-        "Z2Yfi": {
-          "Contest": 1
-        },
-        "YLJ59": {
-          "Contest": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "quests": {
       "easy": {
         "text": "Win 4 times on Island Kingdom",
@@ -1406,16 +1391,16 @@
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Europe",
+        "text": "Win 4 times on World 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 2 Contests",
         "reward": 150,
-        "done_by": null,
-        "done_at": null
+        "done_by": "qQqqq",
+        "done_at": "2026-09-29T06:03:26.959375+00:00"
       }
     }
   }
