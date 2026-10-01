@@ -1336,7 +1336,7 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-09-30T19:51:19+00:00",
+  "last_seen_time": "2026-09-30T23:52:19+00:00",
   "current_scores": {
     "2FwQ6": {
       "points": 14.27,
@@ -1352,22 +1352,37 @@
       "points": 3.49,
       "match_count": 1,
       "last_score_time": "2026-09-30T19:51:19+00:00"
+    },
+    "vdyTC": {
+      "points": 8.03,
+      "match_count": 1,
+      "last_score_time": "2026-09-30T23:52:19+00:00"
+    },
+    "TQbVL": {
+      "points": 5.9,
+      "match_count": 1,
+      "last_score_time": "2026-09-30T23:52:19+00:00"
+    },
+    "QTqrQ": {
+      "points": 2.07,
+      "match_count": 1,
+      "last_score_time": "2026-09-30T23:52:19+00:00"
     }
   },
   "current_cycle_started_at": "2026-09-30T19:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-09-30T19:00:00+00:00",
   "daily_quests": {
-    "date": "2026-09-30",
-    "created_at": "2026-09-30T01:58:18.608867+00:00",
+    "date": "2026-10-01",
+    "created_at": "2026-10-01T00:07:28.548784+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Pond",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Pond",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1376,10 +1391,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
+        "map": "World 1",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1387,11 +1402,17 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
-        "target": 6,
+        "kind": "map_set",
+        "maps": [
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
+        ],
+        "target": 5,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1405,25 +1426,25 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on World 1",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win 6 times on World 2",
         "reward": 150,
-        "done_by": "qQqqq",
-        "done_at": "2026-09-29T06:03:26.959375+00:00"
+        "done_by": null,
+        "done_at": null
       }
     }
   }
