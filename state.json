@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-10-03T10:30:00+00:00",
-  "last_event_time": "2026-10-02T19:00:00+00:00",
+  "next_event_time": "2026-10-04T22:00:00+00:00",
+  "last_event_time": "2026-10-03T10:30:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -1348,13 +1348,20 @@
       "winner_username": "RRCgr",
       "winner_points": 52.18,
       "eligible_match_count": 2
+    },
+    {
+      "event_time": "2026-10-03T10:30:00+00:00",
+      "cycle_started_at": "2026-10-02T19:00:00+00:00",
+      "winner_username": null,
+      "winner_points": null,
+      "eligible_match_count": 0
     }
   ],
   "last_seen_time": "2026-10-02T16:09:07+00:00",
   "current_scores": {},
-  "current_cycle_started_at": "2026-10-02T19:00:00+00:00",
+  "current_cycle_started_at": "2026-10-03T10:30:00+00:00",
   "current_cycle_match_count": 0,
-  "last_announced_event_time": "2026-10-02T19:00:00+00:00",
+  "last_announced_event_time": "2026-10-03T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-03",
     "created_at": "2026-10-03T00:21:11.109702+00:00",
