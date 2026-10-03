@@ -1357,10 +1357,36 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-10-02T16:09:07+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-03T15:49:04+00:00",
+  "current_scores": {
+    "Z2Yfi": {
+      "points": 185.28,
+      "match_count": 1,
+      "last_score_time": "2026-10-03T15:49:04+00:00"
+    },
+    "v5bmB": {
+      "points": 14.87,
+      "match_count": 1,
+      "last_score_time": "2026-10-03T15:49:04+00:00"
+    },
+    "2FwQ6": {
+      "points": 9.35,
+      "match_count": 1,
+      "last_score_time": "2026-10-03T15:49:04+00:00"
+    },
+    "5QBvb": {
+      "points": 4.56,
+      "match_count": 1,
+      "last_score_time": "2026-10-03T15:49:04+00:00"
+    },
+    "LvJWn": {
+      "points": 1.95,
+      "match_count": 1,
+      "last_score_time": "2026-10-03T15:49:04+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-03T10:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-03T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-03",
@@ -1412,7 +1438,23 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "Z2Yfi": {
+          "Caucasia": 1
+        },
+        "v5bmB": {
+          "Caucasia": 1
+        },
+        "2FwQ6": {
+          "Caucasia": 1
+        },
+        "5QBvb": {
+          "Caucasia": 1
+        },
+        "LvJWn": {
+          "Caucasia": 1
+        }
+      }
     }
   },
   "last_quest_day": {
