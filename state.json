@@ -1389,16 +1389,16 @@
   "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-03T10:30:00+00:00",
   "daily_quests": {
-    "date": "2026-10-03",
-    "created_at": "2026-10-03T00:21:11.109702+00:00",
+    "date": "2026-10-04",
+    "created_at": "2026-10-04T01:56:01.696034+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Halo",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Halo",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1407,10 +1407,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Africa",
-        "target": 4,
+        "map": "Swamp",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Africa",
+        "text": "Win 6 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1418,17 +1418,10 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1438,42 +1431,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "Caucasia": 1
-        },
-        "v5bmB": {
-          "Caucasia": 1
-        },
-        "2FwQ6": {
-          "Caucasia": 1
-        },
-        "5QBvb": {
-          "Caucasia": 1
-        },
-        "LvJWn": {
-          "Caucasia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on Africa",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
