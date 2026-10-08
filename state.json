@@ -1378,10 +1378,56 @@
       "eligible_match_count": 3
     }
   ],
-  "last_seen_time": "2026-10-06T20:54:18+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-08T14:45:42+00:00",
+  "current_scores": {
+    "RbKcV": {
+      "points": 16.67,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    },
+    "QTRqN": {
+      "points": 10.72,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    },
+    "2FwQ6": {
+      "points": 6.87,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    },
+    "MtB9J": {
+      "points": 3.87,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    },
+    "vVvVv": {
+      "points": 2.59,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    },
+    "NQTRY": {
+      "points": 1.93,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    },
+    "Tv2rQ": {
+      "points": 1.35,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    },
+    "Z2Yfi": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    },
+    "TYn85": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-08T14:45:42+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-07T06:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-07T06:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-08",
@@ -1426,7 +1472,35 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "RbKcV": {
+          "World 2": 1
+        },
+        "QTRqN": {
+          "World 2": 1
+        },
+        "2FwQ6": {
+          "World 2": 1
+        },
+        "MtB9J": {
+          "World 2": 1
+        },
+        "vVvVv": {
+          "World 2": 1
+        },
+        "NQTRY": {
+          "World 2": 1
+        },
+        "Tv2rQ": {
+          "World 2": 1
+        },
+        "Z2Yfi": {
+          "World 2": 1
+        },
+        "TYn85": {
+          "World 2": 1
+        }
+      },
       "hard": {}
     }
   },
