@@ -1391,8 +1391,8 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-10-08T20:00:00+00:00",
   "daily_quests": {
-    "date": "2026-10-08",
-    "created_at": "2026-10-08T00:54:08.994888+00:00",
+    "date": "2026-10-09",
+    "created_at": "2026-10-09T01:08:22.010381+00:00",
     "quests": {
       "easy": {
         "level": "easy",
@@ -1409,10 +1409,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "World 1",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1420,11 +1420,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1433,49 +1440,21 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "RbKcV": {
-          "World 2": 1
-        },
-        "QTRqN": {
-          "World 2": 1
-        },
-        "2FwQ6": {
-          "World 2": 1
-        },
-        "MtB9J": {
-          "World 2": 1
-        },
-        "vVvVv": {
-          "World 2": 1
-        },
-        "NQTRY": {
-          "World 2": 1
-        },
-        "Tv2rQ": {
-          "World 2": 1
-        },
-        "Z2Yfi": {
-          "World 2": 1
-        },
-        "TYn85": {
-          "World 2": 1
-        }
-      },
+      "medium": {},
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Black Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on White Plains",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
