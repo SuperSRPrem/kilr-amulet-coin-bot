@@ -1392,7 +1392,7 @@
       "eligible_match_count": 0
     }
   ],
-  "last_seen_time": "2026-10-09T19:53:38+00:00",
+  "last_seen_time": "2026-10-10T06:00:27+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 47.72,
@@ -1425,9 +1425,9 @@
       "last_score_time": "2026-10-09T15:02:13+00:00"
     },
     "TN9gv": {
-      "points": 51.449999999999996,
-      "match_count": 2,
-      "last_score_time": "2026-10-09T15:12:23+00:00"
+      "points": 75.36999999999999,
+      "match_count": 4,
+      "last_score_time": "2026-10-10T06:00:27+00:00"
     },
     "2mBWY": {
       "points": 3.62,
@@ -1563,10 +1563,50 @@
       "points": 0.49,
       "match_count": 1,
       "last_score_time": "2026-10-09T19:53:38+00:00"
+    },
+    "DKLTT": {
+      "points": 15.72,
+      "match_count": 1,
+      "last_score_time": "2026-10-10T05:55:10+00:00"
+    },
+    "RKcyb": {
+      "points": 1.59,
+      "match_count": 1,
+      "last_score_time": "2026-10-10T05:55:10+00:00"
+    },
+    "tQCmr": {
+      "points": 2.57,
+      "match_count": 2,
+      "last_score_time": "2026-10-10T06:00:27+00:00"
+    },
+    "8WDCW": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-10-10T05:55:10+00:00"
+    },
+    "QqRMy": {
+      "points": 3.76,
+      "match_count": 1,
+      "last_score_time": "2026-10-10T06:00:27+00:00"
+    },
+    "QcNRW": {
+      "points": 3.35,
+      "match_count": 1,
+      "last_score_time": "2026-10-10T06:00:27+00:00"
+    },
+    "nncDw": {
+      "points": 1.78,
+      "match_count": 1,
+      "last_score_time": "2026-10-10T06:00:27+00:00"
+    },
+    "Kb2Wr": {
+      "points": 0.29,
+      "match_count": 1,
+      "last_score_time": "2026-10-10T06:00:27+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-09T09:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-10-09T09:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-10",
@@ -1612,7 +1652,23 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "DKLTT": {
+          "World 2": 1
+        },
+        "TN9gv": {
+          "World 2": 1
+        },
+        "RKcyb": {
+          "World 2": 1
+        },
+        "tQCmr": {
+          "World 2": 1
+        },
+        "8WDCW": {
+          "World 2": 1
+        }
+      }
     }
   },
   "last_quest_day": {
