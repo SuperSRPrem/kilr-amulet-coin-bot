@@ -1399,7 +1399,7 @@
       "eligible_match_count": 7
     }
   ],
-  "last_seen_time": "2026-10-11T06:45:37+00:00",
+  "last_seen_time": "2026-10-11T13:44:58+00:00",
   "current_scores": {
     "ttbRr": {
       "points": 3.76,
@@ -1445,10 +1445,40 @@
       "points": 0.34,
       "match_count": 1,
       "last_score_time": "2026-10-11T06:45:37+00:00"
+    },
+    "Z2Yfi": {
+      "points": 27.84,
+      "match_count": 1,
+      "last_score_time": "2026-10-11T13:44:58+00:00"
+    },
+    "gcKrM": {
+      "points": 16.46,
+      "match_count": 1,
+      "last_score_time": "2026-10-11T13:44:58+00:00"
+    },
+    "PuCIK": {
+      "points": 4.03,
+      "match_count": 1,
+      "last_score_time": "2026-10-11T13:44:58+00:00"
+    },
+    "t2R2k": {
+      "points": 3.94,
+      "match_count": 1,
+      "last_score_time": "2026-10-11T13:44:58+00:00"
+    },
+    "RQbkq": {
+      "points": 1.3,
+      "match_count": 1,
+      "last_score_time": "2026-10-11T13:44:58+00:00"
+    },
+    "7t9b9": {
+      "points": 0.42,
+      "match_count": 1,
+      "last_score_time": "2026-10-11T13:44:58+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-10T14:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-10-10T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-11",
@@ -1528,6 +1558,24 @@
         },
         "2cKqG": {
           "Asia": 1
+        },
+        "Z2Yfi": {
+          "Europe": 1
+        },
+        "gcKrM": {
+          "Europe": 1
+        },
+        "PuCIK": {
+          "Europe": 1
+        },
+        "t2R2k": {
+          "Europe": 1
+        },
+        "RQbkq": {
+          "Europe": 1
+        },
+        "7t9b9": {
+          "Europe": 1
         }
       }
     }
