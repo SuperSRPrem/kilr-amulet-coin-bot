@@ -1405,16 +1405,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-10-10T14:30:00+00:00",
   "daily_quests": {
-    "date": "2026-10-10",
-    "created_at": "2026-10-10T00:16:08.298639+00:00",
+    "date": "2026-10-11",
+    "created_at": "2026-10-11T00:47:24.744275+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Halo",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Halo",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1423,10 +1423,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
+        "map": "World 1",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1434,11 +1434,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1448,42 +1455,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "DKLTT": {
-          "World 2": 1
-        },
-        "TN9gv": {
-          "World 2": 1
-        },
-        "RKcyb": {
-          "World 2": 1
-        },
-        "tQCmr": {
-          "World 2": 1
-        },
-        "8WDCW": {
-          "World 2": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 1",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
