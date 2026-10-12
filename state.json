@@ -1406,10 +1406,21 @@
       "eligible_match_count": 5
     }
   ],
-  "last_seen_time": "2026-10-11T18:35:39+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-12T09:39:24+00:00",
+  "current_scores": {
+    "vVvVv": {
+      "points": 24.96,
+      "match_count": 1,
+      "last_score_time": "2026-10-12T09:39:24+00:00"
+    },
+    "MqmVN": {
+      "points": 0.04,
+      "match_count": 1,
+      "last_score_time": "2026-10-12T09:39:24+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-11T23:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-11T23:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-12",
