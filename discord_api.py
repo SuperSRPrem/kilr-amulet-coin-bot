@@ -74,3 +74,14 @@ def sync_single_winner_role(
             add_role(guild_id, user_id, role_id)
         else:
             remove_role(guild_id, user_id, role_id)
+
+
+def get_messages(channel_id: str, limit: int = 100, before: str = "") -> list:
+    url = f"{DISCORD_API_BASE}/channels/{channel_id}/messages"
+    params = {"limit": min(limit, 100)}
+    if before:
+        params["before"] = before
+    resp = requests.get(url, headers=_headers(), params=params, timeout=30)
+    if resp.status_code >= 400:
+        raise DiscordAPIError(f"Discord read failed: {resp.status_code} {resp.text}")
+    return resp.json()

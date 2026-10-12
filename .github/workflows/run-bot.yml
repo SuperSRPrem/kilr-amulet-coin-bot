@@ -2,7 +2,7 @@ name: Run KILR Territorial Bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
     inputs:
       command:
@@ -25,6 +25,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: kilr-territorial-state-writer
+  cancel-in-progress: false
 
 jobs:
   run-bot:
@@ -69,8 +73,3 @@ jobs:
           git add state.json
           git commit -m "Update bot state [skip ci]"
           git push
-
-      - name: Test Discord access
-        env:
-          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-        run: python test_read.py
