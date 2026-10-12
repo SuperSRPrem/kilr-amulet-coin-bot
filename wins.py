@@ -2,7 +2,7 @@ import re
 from datetime import datetime, timedelta, timezone
 
 from discord_api import send_channel_message
-from linking import get_recent, msg_text, msg_time
+from linking import get_recent, get_since_id, msg_text, msg_time
 
 TEAM_CHANNEL = "1523272067011711077"
 WIN_CHANNEL = "1424575893178810408"
@@ -104,34 +104,68 @@ def send_unclaimed(game, accounts, state):
                          f"Accounts: {names}\n{tags}")
 
 
-def check_wins(state):
+def collect_wins(state, now=None):
+    """Read and match logs without posting messages or saving state."""
     state.setdefault("games", {})
     state.setdefault("win_last_id", "0")
-    now = datetime.now(timezone.utc)
-    # Look back 48 hours initially; stored games remain available for later claims.
-    team_msgs = get_recent(TEAM_CHANNEL, now - timedelta(hours=48))
+    now = now or datetime.now(timezone.utc)
+
+    # On the first run, backfill 48 hours. Afterwards, use the saved ID
+    # so a busy channel cannot cause older unprocessed messages to be lost.
+    if state.get("team_last_id"):
+        team_msgs = get_since_id(TEAM_CHANNEL, state["team_last_id"])
+    else:
+        team_msgs = get_recent(TEAM_CHANNEL, now - timedelta(hours=48), max_pages=200)
+        if len(team_msgs) >= 20000:
+            raise RuntimeError("Initial team-log scan hit the 20,000-message limit. "
+                               "Backfill in smaller time windows before enabling sync.")
+        team_msgs.sort(key=lambda msg: int(msg["id"]))
+
     for msg in team_msgs:
         if msg["id"] not in state["games"]:
             game = parse_team(msg)
             if game:
                 state["games"][msg["id"]] = game
+        state["team_last_id"] = msg["id"]
 
-    msgs = get_recent(WIN_CHANNEL, now - timedelta(hours=48))
-    msgs = sorted((msg for msg in msgs if int(msg["id"]) > int(state["win_last_id"])),
-                  key=lambda msg: int(msg["id"]))
+    if int(state["win_last_id"]):
+        msgs = get_since_id(WIN_CHANNEL, state["win_last_id"])
+    else:
+        msgs = get_recent(WIN_CHANNEL, now - timedelta(hours=48), max_pages=200)
+        if len(msgs) >= 20000:
+            raise RuntimeError("Initial winlog scan hit the 20,000-message limit. "
+                               "Backfill in smaller time windows before enabling sync.")
+        msgs.sort(key=lambda msg: int(msg["id"]))
+
+    pending = state.setdefault("unmatched_claims", {})
     for msg in msgs:
         claim = parse_claim(msg)
         if claim:
-            game = match_claim(claim, state["games"])
-            if game:
-                game["points"] = claim["points"]
-                game["claims"] = sorted(set(game["claims"]) | set(claim["users"]))
-                game.setdefault("claim_ids", []).append(msg["id"])
-            else:
-                state.setdefault("unmatched_claims", {})[msg["id"]] = msg["content"]
+            pending[msg["id"]] = {"content": msg.get("content", ""),
+                                  "embeds": msg.get("embeds", []),
+                                  "timestamp": msg["timestamp"], "id": msg["id"]}
         state["win_last_id"] = msg["id"]
 
-    # Unmatched claims may become matchable when older logs are fetched later.
+    # Keep ambiguous/unmatched claims for a later run rather than losing them.
+    for claim_id, msg in list(pending.items()):
+        # Older versions stored plain content strings.
+        if isinstance(msg, str):
+            continue
+        claim = parse_claim(msg)
+        game = match_claim(claim, state["games"]) if claim else None
+        if game:
+            game["points"] = claim["points"]
+            game["claims"] = sorted(set(game["claims"]) | set(claim["users"]))
+            claim_ids = game.setdefault("claim_ids", [])
+            if claim_id not in claim_ids:
+                claim_ids.append(claim_id)
+            del pending[claim_id]
+    return state
+
+
+def check_wins(state):
+    collect_wins(state)
+    now = datetime.now(timezone.utc)
     # Only announce after claims have had time to appear.
     for game in state["games"].values():
         if game["posted"] or now - datetime.fromisoformat(game["time"]) < timedelta(minutes=30):

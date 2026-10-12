@@ -83,3 +83,26 @@ def handle_links(state):
             send_channel_message(LINK_CHANNEL, reply)
         state["link_last_id"] = msg["id"]
     return state
+
+
+def get_since_id(channel, last_id, max_pages=20):
+    """Fetch every message newer than last_id, oldest first.
+
+    Raise if the page limit is reached so callers never advance a cursor
+    past messages they have not inspected.
+    """
+    last_id = int(last_id)
+    before = ""
+    found = []
+    for page in range(max_pages):
+        msgs = get_messages(channel, 100, before)
+        if not msgs:
+            break
+        newer = [msg for msg in msgs if int(msg['id']) > last_id]
+        found.extend(newer)
+        if len(newer) < len(msgs) or len(msgs) < 100:
+            break
+        if page == max_pages - 1:
+            raise RuntimeError(f'Message scan limit reached in channel {channel}; cursor unchanged')
+        before = msgs[-1]['id']
+    return sorted(found, key=lambda msg: int(msg['id']))
