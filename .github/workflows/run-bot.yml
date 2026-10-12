@@ -52,11 +52,12 @@ jobs:
           test -f config.json || (echo "config.json missing. Copy config.example.json to config.json and commit it." && exit 1)
           test -f state.json || cp state.example.json state.json
 
-      - name: Test Discord access
+      - name: Run bots
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-        run: python sync.py run
-        
+        run: |
+          python main.py run
+          python sync.py run        
       - name: Commit updated state
         run: |
           if git diff --quiet -- state.json; then
