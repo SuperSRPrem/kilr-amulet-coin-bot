@@ -55,7 +55,7 @@ jobs:
       - name: Test Discord access
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-        run: python test_win_matching.py
+        run: python test_full_sync.py
         
       - name: Commit updated state
         run: |
