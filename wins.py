@@ -186,6 +186,7 @@ def send_reminders(state):
     # Reminder covers outstanding wins from the previous 24 hours.
     cutoff = now - timedelta(hours=24)
     due = {}
+
     for game in state.get("games", {}).values():
         if datetime.fromisoformat(game["time"]) < cutoff:
             continue
@@ -194,15 +195,37 @@ def send_reminders(state):
                 due.setdefault(user, []).append((game, account))
 
     if due:
-        lines = ["**Unclaimed KILR wins — daily reminder**",
-                 "Please use `/addwin` in this channel to claim your wins."]
+        lines = [
+            "🏆 **KILR — Daily Unclaimed Wins Reminder**",
+            "",
+            "You have unclaimed wins! Use `/addwin` in this channel to claim your points.",
+            "||Or amgery potato bot will beat u up and take ur pet kangaroos||"
+        ]
+
         for user, wins in sorted(due.items()):
-            details = ", ".join(
-                f"{game['map']} ({game['points']} pts)" if game["points"] is not None
-                else f"{game['map']} (points not yet confirmed)"
-                for game, account in wins
-            )
-            lines.append(f"<@{user}> — {details}")
+            total = sum(game["points"] or 0 for game, account in wins)
+            unknown = any(game["points"] is None for game, account in wins)
+
+            lines.append("")
+            heading = f"**<@{user}> — {total} points unclaimed"
+            if unknown:
+                heading += " (plus unconfirmed points)"
+            lines.append(heading + "**")
+
+            for game, account in wins:
+                points = (
+                    f"{game['points']} pts"
+                    if game["points"] is not None
+                    else "points not yet confirmed"
+                )
+                lines.append(f"- {game['map']} — {points}")
+
+        lines.extend([
+            "",
+            "Don't leave your hard-earned points unclaimed! ⚔️"
+        ])
+
         send_channel_message(ADDWIN_CHANNEL, "\n".join(lines)[:1900])
+
     state["last_reminder"] = today
     return state
