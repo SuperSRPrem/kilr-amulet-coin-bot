@@ -77,11 +77,26 @@ def sync_single_winner_role(
 
 
 def get_messages(channel_id: str, limit: int = 100, before: str = "") -> list:
+    import time
+
     url = f"{DISCORD_API_BASE}/channels/{channel_id}/messages"
     params = {"limit": min(limit, 100)}
+
     if before:
         params["before"] = before
-    resp = requests.get(url, headers=_headers(), params=params, timeout=30)
-    if resp.status_code >= 400:
-        raise DiscordAPIError(f"Discord read failed: {resp.status_code} {resp.text}")
-    return resp.json()
+
+    for attempt in range(10):
+        resp = requests.get(url, headers=_headers(), params=params, timeout=30)
+
+        if resp.status_code == 429:
+            wait = float(resp.json().get("retry_after", 1))
+            print(f"Discord rate limited. Waiting {wait:.2f}s...")
+            time.sleep(max(wait, 0.5))
+            continue
+
+        if resp.status_code >= 400:
+            raise DiscordAPIError(f"Discord read failed: {resp.status_code} {resp.text}")
+
+        return resp.json()
+
+    raise DiscordAPIError("Discord rate limit exceeded after 10 retries")
