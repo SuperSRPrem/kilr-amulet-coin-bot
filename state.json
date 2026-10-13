@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-10-13T00:30:00+00:00",
-  "last_event_time": "2026-10-11T23:00:00+00:00",
+  "next_event_time": "2026-10-14T12:30:00+00:00",
+  "last_event_time": "2026-10-13T00:30:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -1404,85 +1404,31 @@
       "winner_username": "vt2Mr",
       "winner_points": 68.39,
       "eligible_match_count": 5
+    },
+    {
+      "event_time": "2026-10-13T00:30:00+00:00",
+      "cycle_started_at": "2026-10-11T23:00:00+00:00",
+      "winner_username": "vVvVv",
+      "winner_points": 24.96,
+      "eligible_match_count": 4
     }
   ],
   "last_seen_time": "2026-10-12T23:13:02+00:00",
-  "current_scores": {
-    "vVvVv": {
-      "points": 24.96,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T09:39:24+00:00"
-    },
-    "MqmVN": {
-      "points": 0.04,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T09:39:24+00:00"
-    },
-    "DyBC8": {
-      "points": 21.26,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T16:24:06+00:00"
-    },
-    "W5bGt": {
-      "points": 7.8,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T16:24:06+00:00"
-    },
-    "IXUxR": {
-      "points": 2.92,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T16:24:06+00:00"
-    },
-    "YLkNV": {
-      "points": 2.02,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T16:24:06+00:00"
-    },
-    "wjbWY": {
-      "points": 11.38,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T22:55:14+00:00"
-    },
-    "MYcbr": {
-      "points": 8.83,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T22:55:14+00:00"
-    },
-    "GrVy8": {
-      "points": 19.470000000000002,
-      "match_count": 2,
-      "last_score_time": "2026-10-12T23:13:02+00:00"
-    },
-    "gdgRT": {
-      "points": 9.1,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T23:13:02+00:00"
-    },
-    "djC8w": {
-      "points": 1.2,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T23:13:02+00:00"
-    },
-    "9k5GJ": {
-      "points": 0.01,
-      "match_count": 1,
-      "last_score_time": "2026-10-12T23:13:02+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-10-11T23:00:00+00:00",
-  "current_cycle_match_count": 4,
-  "last_announced_event_time": "2026-10-11T23:00:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-10-13T00:30:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-10-13T00:30:00+00:00",
   "daily_quests": {
-    "date": "2026-10-12",
-    "created_at": "2026-10-12T02:13:59.139123+00:00",
+    "date": "2026-10-13",
+    "created_at": "2026-10-13T03:15:21.488285+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "Island",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Island",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1491,10 +1437,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Asia",
-        "target": 4,
+        "map": "World 1",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on Asia",
+        "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1504,16 +1450,15 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
         ],
-        "target": 6,
+        "target": 5,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1523,42 +1468,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "DyBC8": {
-          "Africa": 1
-        },
-        "W5bGt": {
-          "Africa": 1
-        },
-        "IXUxR": {
-          "Africa": 1
-        },
-        "YLkNV": {
-          "Africa": 1
-        },
-        "wjbWY": {
-          "Australia": 1
-        },
-        "MYcbr": {
-          "Australia": 1
-        },
-        "GrVy8": {
-          "Australia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 1",
+        "text": "Win 4 times on Asia",
         "reward": 100,
         "done_by": null,
         "done_at": null
@@ -1576,7 +1499,7 @@
       "_tFM4"
     ]
   },
-  "link_last_id": "1559277610876407900",
+  "link_last_id": "1559373997466980393",
   "games": {
     "1558900526643552380": {
       "id": "1558900526643552380",
@@ -2383,7 +2306,7 @@
       ],
       "claims": [],
       "points": 26,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1559338703955038270"
       ]
@@ -2403,14 +2326,75 @@
       ],
       "claims": [],
       "points": 31,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1559343181043208365"
       ]
+    },
+    "1559344480501506059": {
+      "id": "1559344480501506059",
+      "time": "2026-10-12T23:18:11+00:00",
+      "map": "Scandinavia",
+      "prev": "13.05235",
+      "curr": "13.17399",
+      "contest": true,
+      "accounts": [
+        "vt2Mr",
+        "yKRbb"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 86,
+      "posted": true,
+      "claim_ids": [
+        "1559344481558470807"
+      ]
+    },
+    "1559370537417965749": {
+      "id": "1559370537417965749",
+      "time": "2026-10-13T01:01:44+00:00",
+      "map": "World 2",
+      "prev": "13.06364",
+      "curr": "13.09556",
+      "contest": false,
+      "accounts": [
+        "rNbt5",
+        "8VY88",
+        "ttbRr",
+        "N97tD"
+      ],
+      "claims": [
+        "1327715572330266644"
+      ],
+      "points": 21,
+      "posted": true,
+      "claim_ids": [
+        "1559370538361823233"
+      ]
+    },
+    "1559392204320149574": {
+      "id": "1559392204320149574",
+      "time": "2026-10-13T02:27:48+00:00",
+      "map": "World 1",
+      "prev": "13.01711",
+      "curr": "13.04754",
+      "contest": false,
+      "accounts": [
+        "QjKY9",
+        "wSM3X",
+        "mJ9qR"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": true,
+      "claim_ids": [
+        "1559392205615931454"
+      ]
     }
   },
-  "win_last_id": "1559343181043208365",
-  "team_last_id": "1559343280670376099",
+  "win_last_id": "1559392205615931454",
+  "team_last_id": "1559404145125883915",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -2687,6 +2671,20 @@
         "time": "2026-10-12T17:53:34+00:00",
         "block": "15:00-18:00",
         "points": 65
+      },
+      "1559344480501506059:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1559344480501506059",
+        "time": "2026-10-12T23:18:11+00:00",
+        "block": "21:00-00:00",
+        "points": 86
+      },
+      "1559370537417965749:1327715572330266644": {
+        "user": "1327715572330266644",
+        "game": "1559370537417965749",
+        "time": "2026-10-13T01:01:44+00:00",
+        "block": "00:00-03:00",
+        "points": 21
       }
     }
   },
