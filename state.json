@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-10-14T12:30:00+00:00",
-  "last_event_time": "2026-10-13T00:30:00+00:00",
+  "next_event_time": "2026-10-15T17:00:00+00:00",
+  "last_event_time": "2026-10-14T12:30:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -1411,54 +1411,20 @@
       "winner_username": "vVvVv",
       "winner_points": 24.96,
       "eligible_match_count": 4
+    },
+    {
+      "event_time": "2026-10-14T12:30:00+00:00",
+      "cycle_started_at": "2026-10-13T00:30:00+00:00",
+      "winner_username": "nGGGR",
+      "winner_points": 40.29,
+      "eligible_match_count": 2
     }
   ],
   "last_seen_time": "2026-10-14T07:06:42+00:00",
-  "current_scores": {
-    "DyBC8": {
-      "points": 30.01,
-      "match_count": 1,
-      "last_score_time": "2026-10-13T18:21:42+00:00"
-    },
-    "cgQrJ": {
-      "points": 5.99,
-      "match_count": 1,
-      "last_score_time": "2026-10-13T18:21:42+00:00"
-    },
-    "nGGGR": {
-      "points": 40.29,
-      "match_count": 1,
-      "last_score_time": "2026-10-14T07:06:42+00:00"
-    },
-    "VWdjY": {
-      "points": 23.05,
-      "match_count": 1,
-      "last_score_time": "2026-10-14T07:06:42+00:00"
-    },
-    "Z2Yfi": {
-      "points": 11.7,
-      "match_count": 1,
-      "last_score_time": "2026-10-14T07:06:42+00:00"
-    },
-    "w8jkM": {
-      "points": 5.03,
-      "match_count": 1,
-      "last_score_time": "2026-10-14T07:06:42+00:00"
-    },
-    "LWBDc": {
-      "points": 1.27,
-      "match_count": 1,
-      "last_score_time": "2026-10-14T07:06:42+00:00"
-    },
-    "mvmmL": {
-      "points": 0.66,
-      "match_count": 1,
-      "last_score_time": "2026-10-14T07:06:42+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-10-13T00:30:00+00:00",
-  "current_cycle_match_count": 2,
-  "last_announced_event_time": "2026-10-13T00:30:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-10-14T12:30:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-10-14T12:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-14",
     "created_at": "2026-10-14T01:57:42.272238+00:00",
@@ -3064,14 +3030,110 @@
         "1402645821505278114"
       ],
       "points": 90,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1559824770722435103"
       ]
+    },
+    "1559830101065994271": {
+      "id": "1559830101065994271",
+      "time": "2026-10-14T07:27:53+00:00",
+      "map": "Europe",
+      "prev": "12.79505",
+      "curr": "13.01870",
+      "contest": true,
+      "accounts": [
+        "8R2NQ",
+        "nwGBQ",
+        "T8qQ5",
+        "mM64e",
+        "C55r5"
+      ],
+      "claims": [
+        "1270983483145322524",
+        "1402645821505278114"
+      ],
+      "points": 160,
+      "posted": true,
+      "claim_ids": [
+        "1559830102533996687"
+      ]
+    },
+    "1559839828500029441": {
+      "id": "1559839828500029441",
+      "time": "2026-10-14T08:06:30+00:00",
+      "map": "Africa",
+      "prev": "12.95921",
+      "curr": "13.15154",
+      "contest": true,
+      "accounts": [
+        "8R2NQ",
+        "AypmV",
+        "T8qQ5",
+        "SqUUu",
+        "8vtt7",
+        "VWdjY",
+        "DvTpi",
+        "LnJvR",
+        "C55r5",
+        "Z2Yfi"
+      ],
+      "claims": [
+        "1270983483145322524",
+        "1402645821505278114",
+        "505093210691862528"
+      ],
+      "points": 152,
+      "posted": true,
+      "claim_ids": [
+        "1559839829855051847"
+      ]
+    },
+    "1559854791990186068": {
+      "id": "1559854791990186068",
+      "time": "2026-10-14T09:05:59+00:00",
+      "map": "World 2",
+      "prev": "13.05677",
+      "curr": "13.11617",
+      "contest": false,
+      "accounts": [
+        "RBcVg",
+        "JFE2Y"
+      ],
+      "claims": [],
+      "points": 45,
+      "posted": true,
+      "claim_ids": [
+        "1559854792954613905"
+      ]
+    },
+    "1559855217271509033": {
+      "id": "1559855217271509033",
+      "time": "2026-10-14T09:07:41+00:00",
+      "map": "Mare Nostrum",
+      "prev": "13.11427",
+      "curr": "13.15839",
+      "contest": false,
+      "accounts": [
+        "WqCK2",
+        "DyBC8",
+        "n59J2",
+        "RtwD8",
+        "xBijb",
+        "qYrTq",
+        "JJTCj",
+        "QtByR"
+      ],
+      "claims": [],
+      "points": 31,
+      "posted": true,
+      "claim_ids": [
+        "1559855218345123882"
+      ]
     }
   },
-  "win_last_id": "1559824770722435103",
-  "team_last_id": "1559827522462552085",
+  "win_last_id": "1559855218345123882",
+  "team_last_id": "1559912619891105823",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -3523,6 +3585,41 @@
         "time": "2026-10-14T07:06:42+00:00",
         "block": "06:00-09:00",
         "points": 90
+      },
+      "1559830101065994271:1270983483145322524": {
+        "user": "1270983483145322524",
+        "game": "1559830101065994271",
+        "time": "2026-10-14T07:27:53+00:00",
+        "block": "06:00-09:00",
+        "points": 160
+      },
+      "1559830101065994271:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1559830101065994271",
+        "time": "2026-10-14T07:27:53+00:00",
+        "block": "06:00-09:00",
+        "points": 160
+      },
+      "1559839828500029441:1270983483145322524": {
+        "user": "1270983483145322524",
+        "game": "1559839828500029441",
+        "time": "2026-10-14T08:06:30+00:00",
+        "block": "06:00-09:00",
+        "points": 152
+      },
+      "1559839828500029441:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1559839828500029441",
+        "time": "2026-10-14T08:06:30+00:00",
+        "block": "06:00-09:00",
+        "points": 152
+      },
+      "1559839828500029441:505093210691862528": {
+        "user": "505093210691862528",
+        "game": "1559839828500029441",
+        "time": "2026-10-14T08:06:30+00:00",
+        "block": "06:00-09:00",
+        "points": 152
       }
     }
   },
