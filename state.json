@@ -1433,16 +1433,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-10-15T17:00:00+00:00",
   "daily_quests": {
-    "date": "2026-10-15",
-    "created_at": "2026-10-15T04:06:31.622234+00:00",
+    "date": "2026-10-16",
+    "created_at": "2026-10-16T00:03:28.089413+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 2",
+        "map": "White Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1451,10 +1451,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Mountains 1",
+        "map": "White Plains",
         "target": 6,
         "reward": 100,
-        "text": "Win 6 times on Mountains 1",
+        "text": "Win 6 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1486,22 +1486,22 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on Mountains 2",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on Mountains 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -4123,10 +4123,50 @@
       "claim_ids": [
         "1560387160681484303"
       ]
+    },
+    "1560420919837458454": {
+      "id": "1560420919837458454",
+      "time": "2026-10-15T22:35:34+00:00",
+      "map": "Mare Nostrum",
+      "prev": "13.23618",
+      "curr": "13.27698",
+      "contest": false,
+      "accounts": [
+        "Vt725",
+        "JFE2Y"
+      ],
+      "claims": [],
+      "points": 28,
+      "posted": true,
+      "claim_ids": [
+        "1560420920068411423"
+      ]
+    },
+    "1560434335105159244": {
+      "id": "1560434335105159244",
+      "time": "2026-10-15T23:28:53+00:00",
+      "map": "World 2",
+      "prev": "13.22504",
+      "curr": "13.25388",
+      "contest": false,
+      "accounts": [
+        "25vVQ",
+        "wSM3X",
+        "bp3Up",
+        "L5ndG",
+        "d58YY",
+        "d7Jd8"
+      ],
+      "claims": [],
+      "points": 23,
+      "posted": true,
+      "claim_ids": [
+        "1560434336229232691"
+      ]
     }
   },
-  "win_last_id": "1560387160681484303",
-  "team_last_id": "1560407900239699969",
+  "win_last_id": "1560434336229232691",
+  "team_last_id": "1560442877799043083",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
