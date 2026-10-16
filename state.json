@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-10-16T11:30:00+00:00",
-  "last_event_time": "2026-10-15T17:00:00+00:00",
+  "next_event_time": "2026-10-17T19:30:00+00:00",
+  "last_event_time": "2026-10-16T11:30:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -1425,24 +1425,20 @@
       "winner_username": "tbL2r",
       "winner_points": 21.47,
       "eligible_match_count": 2
+    },
+    {
+      "event_time": "2026-10-16T11:30:00+00:00",
+      "cycle_started_at": "2026-10-15T17:00:00+00:00",
+      "winner_username": "MnMnn",
+      "winner_points": 62.19,
+      "eligible_match_count": 1
     }
   ],
   "last_seen_time": "2026-10-16T04:27:17+00:00",
-  "current_scores": {
-    "MnMnn": {
-      "points": 62.19,
-      "match_count": 1,
-      "last_score_time": "2026-10-16T04:27:17+00:00"
-    },
-    "R8VwQ": {
-      "points": 1.81,
-      "match_count": 1,
-      "last_score_time": "2026-10-16T04:27:17+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-10-15T17:00:00+00:00",
-  "current_cycle_match_count": 1,
-  "last_announced_event_time": "2026-10-15T17:00:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-10-16T11:30:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-10-16T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-16",
     "created_at": "2026-10-16T00:03:28.089413+00:00",
@@ -1541,9 +1537,12 @@
     ],
     "1478994639603372206": [
       "Oyf9y"
+    ],
+    "1321954579503513640": [
+      "vt2Mr"
     ]
   },
-  "link_last_id": "1560526871630848063",
+  "link_last_id": "1560652725371535421",
   "games": {
     "1558900526643552380": {
       "id": "1558900526643552380",
@@ -4425,10 +4424,31 @@
       "claim_ids": [
         "1560555331959136288"
       ]
+    },
+    "1560598979731914863": {
+      "id": "1560598979731914863",
+      "time": "2026-10-16T10:23:08+00:00",
+      "map": "Island",
+      "prev": "13.33415",
+      "curr": "13.36739",
+      "contest": false,
+      "accounts": [
+        "STJAm",
+        "pHlzK",
+        "jRltu"
+      ],
+      "claims": [
+        "1095024791452389386"
+      ],
+      "points": 25,
+      "posted": true,
+      "claim_ids": [
+        "1560598980889550930"
+      ]
     }
   },
-  "win_last_id": "1560555331959136288",
-  "team_last_id": "1560582460905881701",
+  "win_last_id": "1560598980889550930",
+  "team_last_id": "1560654118605824072",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -5363,6 +5383,13 @@
         "time": "2026-10-16T07:29:38+00:00",
         "block": "06:00-09:00",
         "points": 28
+      },
+      "1560598979731914863:1095024791452389386": {
+        "user": "1095024791452389386",
+        "game": "1560598979731914863",
+        "time": "2026-10-16T10:23:08+00:00",
+        "block": "09:00-12:00",
+        "points": 25
       }
     }
   },
