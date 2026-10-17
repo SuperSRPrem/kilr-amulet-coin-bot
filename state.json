@@ -1441,7 +1441,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-10-17T19:56:02+00:00",
+  "last_seen_time": "2026-10-17T20:02:08+00:00",
   "current_scores": {
     "JFE2Y": {
       "points": 29.09,
@@ -1517,10 +1517,20 @@
       "points": 0.02,
       "match_count": 1,
       "last_score_time": "2026-10-17T19:56:02+00:00"
+    },
+    "mOoI0": {
+      "points": 24.47,
+      "match_count": 1,
+      "last_score_time": "2026-10-17T20:02:08+00:00"
+    },
+    "ttbRr": {
+      "points": 3.53,
+      "match_count": 1,
+      "last_score_time": "2026-10-17T20:02:08+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-17T19:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-10-17T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-17",
@@ -5291,10 +5301,28 @@
       "claim_ids": [
         "1561105546562773012"
       ]
+    },
+    "1561107081698742366": {
+      "id": "1561107081698742366",
+      "time": "2026-10-17T20:02:08+00:00",
+      "map": "Africa",
+      "prev": "11.77757",
+      "curr": "11.82139",
+      "contest": false,
+      "accounts": [
+        "mOoI0",
+        "ttbRr"
+      ],
+      "claims": [],
+      "points": 33,
+      "posted": false,
+      "claim_ids": [
+        "1561107083045245161"
+      ]
     }
   },
-  "win_last_id": "1561105546562773012",
-  "team_last_id": "1561106638830837901",
+  "win_last_id": "1561107083045245161",
+  "team_last_id": "1561107267363934290",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
