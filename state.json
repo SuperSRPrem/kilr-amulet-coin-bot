@@ -5308,14 +5308,14 @@
         "1559835312312819755"
       ],
       "points": 39,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561081415200800920"
       ]
     }
   },
   "win_last_id": "1561081415200800920",
-  "team_last_id": "1561087838790090885",
+  "team_last_id": "1561091502258786391",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
