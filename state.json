@@ -1441,7 +1441,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-10-17T20:02:08+00:00",
+  "last_seen_time": "2026-10-17T22:33:31+00:00",
   "current_scores": {
     "JFE2Y": {
       "points": 29.09,
@@ -1527,10 +1527,20 @@
       "points": 3.53,
       "match_count": 1,
       "last_score_time": "2026-10-17T20:02:08+00:00"
+    },
+    "wSM3X": {
+      "points": 14.91,
+      "match_count": 1,
+      "last_score_time": "2026-10-17T22:33:31+00:00"
+    },
+    "MnLBm": {
+      "points": 3.09,
+      "match_count": 1,
+      "last_score_time": "2026-10-17T22:33:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-17T19:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-10-17T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-17",
@@ -5319,10 +5329,28 @@
       "claim_ids": [
         "1561107083045245161"
       ]
+    },
+    "1561145181796044822": {
+      "id": "1561145181796044822",
+      "time": "2026-10-17T22:33:31+00:00",
+      "map": "Europe",
+      "prev": "11.56250",
+      "curr": "11.59084",
+      "contest": false,
+      "accounts": [
+        "wSM3X",
+        "MnLBm"
+      ],
+      "claims": [],
+      "points": 19,
+      "posted": false,
+      "claim_ids": [
+        "1561145183352131617"
+      ]
     }
   },
-  "win_last_id": "1561107083045245161",
-  "team_last_id": "1561144387889799240",
+  "win_last_id": "1561145183352131617",
+  "team_last_id": "1561148163753255006",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
