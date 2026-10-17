@@ -5343,14 +5343,14 @@
       ],
       "claims": [],
       "points": 19,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561145183352131617"
       ]
     }
   },
   "win_last_id": "1561145183352131617",
-  "team_last_id": "1561152163932016661",
+  "team_last_id": "1561155748392603669",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
