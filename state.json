@@ -1576,16 +1576,16 @@
   "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-10-16T11:30:00+00:00",
   "daily_quests": {
-    "date": "2026-10-16",
-    "created_at": "2026-10-16T00:03:28.089413+00:00",
+    "date": "2026-10-17",
+    "created_at": "2026-10-17T02:53:04.748493+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Arena",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1594,10 +1594,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "White Plains",
-        "target": 6,
+        "map": "South America",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on White Plains",
+        "text": "Win 4 times on South America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1625,96 +1625,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "MnMnn": {
-          "Caucasia": 1
-        },
-        "R8VwQ": {
-          "Caucasia": 1
-        },
-        "kq2Dt": {
-          "Scandinavia": 1
-        },
-        "vt2Mr": {
-          "Scandinavia": 1
-        },
-        "MkNBW": {
-          "Scandinavia": 1
-        },
-        "3L3JR": {
-          "Scandinavia": 1
-        },
-        "85KcW": {
-          "Scandinavia": 1
-        },
-        "yNjK8": {
-          "Scandinavia": 1
-        },
-        "wWyJC": {
-          "Scandinavia": 1
-        },
-        "7RvLt": {
-          "Scandinavia": 1
-        },
-        "YBcT9": {
-          "Scandinavia": 1
-        },
-        "7MbCd": {
-          "Scandinavia": 1
-        },
-        "E05ZT": {
-          "Scandinavia": 1
-        },
-        "8qkm9": {
-          "Scandinavia": 1
-        },
-        "GgWWn": {
-          "Scandinavia": 1
-        },
-        "TmL9J": {
-          "Scandinavia": 1
-        },
-        "WcgdG": {
-          "Scandinavia": 1
-        },
-        "JNRQ5": {
-          "Scandinavia": 1
-        },
-        "kGC8k": {
-          "Scandinavia": 1
-        },
-        "25CtM": {
-          "Scandinavia": 1
-        },
-        "gkqrv": {
-          "Scandinavia": 1
-        },
-        "YVRTy": {
-          "Caucasia": 1
-        },
-        "Fe_02": {
-          "Caucasia": 1
-        },
-        "CiH7h": {
-          "Caucasia": 1
-        },
-        "Z2Yfi": {
-          "Caucasia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on White Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Mountains 1",
+        "text": "Win 6 times on White Plains",
         "reward": 100,
         "done_by": null,
         "done_at": null
@@ -5112,7 +5036,7 @@
     }
   },
   "win_last_id": "1560773028923842631",
-  "team_last_id": "1560799606059573281",
+  "team_last_id": "1560847972307173488",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
