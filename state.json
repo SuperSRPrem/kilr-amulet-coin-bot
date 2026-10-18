@@ -5924,11 +5924,11 @@
       ],
       "claims": [],
       "points": null,
-      "posted": false
+      "posted": true
     }
   },
   "win_last_id": "1561372302007074827",
-  "team_last_id": "1561386170938822657",
+  "team_last_id": "1561389729050656791",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
