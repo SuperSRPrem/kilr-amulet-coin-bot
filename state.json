@@ -1448,7 +1448,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-18T13:07:51+00:00",
+  "last_seen_time": "2026-10-18T13:36:02+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 45.0,
@@ -1669,10 +1669,20 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-10-18T13:07:51+00:00"
+    },
+    "vt2Mr": {
+      "points": 38.3,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T13:36:02+00:00"
+    },
+    "mGvBc": {
+      "points": 1.7,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T13:36:02+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-18T11:30:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-10-18T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-18",
@@ -5859,14 +5869,34 @@
         "784280004753752081"
       ],
       "points": 47,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561365217559052384"
       ]
+    },
+    "1561372300425826360": {
+      "id": "1561372300425826360",
+      "time": "2026-10-18T13:36:02+00:00",
+      "map": "Scandinavia",
+      "prev": "11.39952",
+      "curr": "11.46278",
+      "contest": false,
+      "accounts": [
+        "vt2Mr",
+        "mGvBc"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 42,
+      "posted": false,
+      "claim_ids": [
+        "1561372302007074827"
+      ]
     }
   },
-  "win_last_id": "1561365217559052384",
-  "team_last_id": "1561370891747725443",
+  "win_last_id": "1561372302007074827",
+  "team_last_id": "1561374733046653061",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -7200,6 +7230,13 @@
         "time": "2026-10-18T13:07:51+00:00",
         "block": "12:00-15:00",
         "points": 47
+      },
+      "1561372300425826360:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1561372300425826360",
+        "time": "2026-10-18T13:36:02+00:00",
+        "block": "12:00-15:00",
+        "points": 42
       }
     }
   },
