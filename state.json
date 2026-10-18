@@ -5710,14 +5710,14 @@
         "1191801665389608990"
       ],
       "points": 41,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561303389722247300"
       ]
     }
   },
   "win_last_id": "1561303389722247300",
-  "team_last_id": "1561310634157543435",
+  "team_last_id": "1561314192999321651",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
