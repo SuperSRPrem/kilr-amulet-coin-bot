@@ -1441,7 +1441,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-10-18T05:30:03+00:00",
+  "last_seen_time": "2026-10-18T06:29:29+00:00",
   "current_scores": {
     "JFE2Y": {
       "points": 29.09,
@@ -1612,10 +1612,25 @@
       "points": 0.43,
       "match_count": 1,
       "last_score_time": "2026-10-18T05:30:03+00:00"
+    },
+    "YsRY1": {
+      "points": 25.67,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T06:29:29+00:00"
+    },
+    "UDWOR": {
+      "points": 5.29,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T06:29:29+00:00"
+    },
+    "tbR5V": {
+      "points": 0.04,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T06:29:29+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-17T19:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-10-17T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-18",
@@ -1659,7 +1674,17 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "YsRY1": {
+          "World 2": 1
+        },
+        "UDWOR": {
+          "World 2": 1
+        },
+        "tbR5V": {
+          "World 2": 1
+        }
+      },
       "hard": {}
     }
   },
@@ -5420,10 +5445,31 @@
       "claim_ids": [
         "1561250008723103745"
       ]
+    },
+    "1561264957864288288": {
+      "id": "1561264957864288288",
+      "time": "2026-10-18T06:29:29+00:00",
+      "map": "World 2",
+      "prev": "11.23912",
+      "curr": "11.28831",
+      "contest": false,
+      "accounts": [
+        "YsRY1",
+        "UDWOR",
+        "tbR5V"
+      ],
+      "claims": [
+        "1306762612679250021"
+      ],
+      "points": 33,
+      "posted": false,
+      "claim_ids": [
+        "1561264958891753583"
+      ]
     }
   },
-  "win_last_id": "1561250008723103745",
-  "team_last_id": "1561261470250041397",
+  "win_last_id": "1561264958891753583",
+  "team_last_id": "1561265346772598795",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -6568,6 +6614,13 @@
         "time": "2026-10-17T23:36:41+00:00",
         "block": "21:00-00:00",
         "points": 25
+      },
+      "1561264957864288288:1306762612679250021": {
+        "user": "1306762612679250021",
+        "game": "1561264957864288288",
+        "time": "2026-10-18T06:29:29+00:00",
+        "block": "06:00-09:00",
+        "points": 33
       }
     }
   },
