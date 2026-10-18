@@ -5523,14 +5523,14 @@
         "1306762612679250021"
       ],
       "points": 21,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561268406613835857"
       ]
     }
   },
   "win_last_id": "1561268406613835857",
-  "team_last_id": "1561272909681659945",
+  "team_last_id": "1561276532066881547",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
