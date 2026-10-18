@@ -1441,7 +1441,7 @@
       "eligible_match_count": 8
     }
   ],
-  "last_seen_time": "2026-10-17T23:36:41+00:00",
+  "last_seen_time": "2026-10-18T05:30:03+00:00",
   "current_scores": {
     "JFE2Y": {
       "points": 29.09,
@@ -1592,10 +1592,30 @@
       "points": 0.32,
       "match_count": 1,
       "last_score_time": "2026-10-17T23:36:41+00:00"
+    },
+    "M9jgw": {
+      "points": 9.92,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T05:30:03+00:00"
+    },
+    "mNbDy": {
+      "points": 1.99,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T05:30:03+00:00"
+    },
+    "5YL8r": {
+      "points": 0.67,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T05:30:03+00:00"
+    },
+    "ctNRt": {
+      "points": 0.43,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T05:30:03+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-17T19:30:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-10-17T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-18",
@@ -5380,10 +5400,30 @@
       "claim_ids": [
         "1561161074605039628"
       ]
+    },
+    "1561250007326261369": {
+      "id": "1561250007326261369",
+      "time": "2026-10-18T05:30:03+00:00",
+      "map": "Black Arena",
+      "prev": "11.26622",
+      "curr": "11.28684",
+      "contest": false,
+      "accounts": [
+        "M9jgw",
+        "mNbDy",
+        "5YL8r",
+        "ctNRt"
+      ],
+      "claims": [],
+      "points": 18,
+      "posted": false,
+      "claim_ids": [
+        "1561250008723103745"
+      ]
     }
   },
-  "win_last_id": "1561161074605039628",
-  "team_last_id": "1561246233819881546",
+  "win_last_id": "1561250008723103745",
+  "team_last_id": "1561250220640305183",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
