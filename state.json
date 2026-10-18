@@ -1448,7 +1448,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-18T14:57:50+00:00",
+  "last_seen_time": "2026-10-18T20:29:09+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 45.0,
@@ -1456,9 +1456,9 @@
       "last_score_time": "2026-10-18T13:07:51+00:00"
     },
     "vVvVv": {
-      "points": 58.099999999999994,
-      "match_count": 4,
-      "last_score_time": "2026-10-18T13:07:51+00:00"
+      "points": 92.57,
+      "match_count": 6,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
     },
     "ShyDC": {
       "points": 9.87,
@@ -1724,10 +1724,55 @@
       "points": 1.04,
       "match_count": 1,
       "last_score_time": "2026-10-18T14:57:50+00:00"
+    },
+    "EmSzr": {
+      "points": 4.68,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:18:36+00:00"
+    },
+    "HoFWR": {
+      "points": 13.35,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
+    },
+    "uidCF": {
+      "points": 5.71,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
+    },
+    "2ktNM": {
+      "points": 3.13,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
+    },
+    "58929": {
+      "points": 2.95,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
+    },
+    "RnT2c": {
+      "points": 2.54,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
+    },
+    "A9JaC": {
+      "points": 2.27,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
+    },
+    "NT2r7": {
+      "points": 1.89,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
+    },
+    "vVdqv": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T20:29:09+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-18T11:30:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-10-18T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-18",
@@ -5980,10 +6025,57 @@
       "claim_ids": [
         "1561392889336963217"
       ]
+    },
+    "1561473607660609549": {
+      "id": "1561473607660609549",
+      "time": "2026-10-18T20:18:36+00:00",
+      "map": "British Isles",
+      "prev": "10.84487",
+      "curr": "10.90096",
+      "contest": false,
+      "accounts": [
+        "vVvVv",
+        "EmSzr"
+      ],
+      "claims": [
+        "1559835312312819755"
+      ],
+      "points": 36,
+      "posted": false,
+      "claim_ids": [
+        "1561473609254314016"
+      ]
+    },
+    "1561476274487173222": {
+      "id": "1561476274487173222",
+      "time": "2026-10-18T20:29:09+00:00",
+      "map": "British Isles",
+      "prev": "10.88903",
+      "curr": "10.94667",
+      "contest": false,
+      "accounts": [
+        "HoFWR",
+        "uidCF",
+        "vVvVv",
+        "2ktNM",
+        "58929",
+        "RnT2c",
+        "A9JaC",
+        "NT2r7",
+        "vVdqv"
+      ],
+      "claims": [
+        "1559835312312819755"
+      ],
+      "points": 36,
+      "posted": false,
+      "claim_ids": [
+        "1561476275804311664"
+      ]
     }
   },
-  "win_last_id": "1561392889336963217",
-  "team_last_id": "1561472765041574010",
+  "win_last_id": "1561476275804311664",
+  "team_last_id": "1561476675664093286",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -7330,6 +7422,20 @@
         "game": "1561392888125063209",
         "time": "2026-10-18T14:57:50+00:00",
         "block": "12:00-15:00",
+        "points": 36
+      },
+      "1561473607660609549:1559835312312819755": {
+        "user": "1559835312312819755",
+        "game": "1561473607660609549",
+        "time": "2026-10-18T20:18:36+00:00",
+        "block": "18:00-21:00",
+        "points": 36
+      },
+      "1561476274487173222:1559835312312819755": {
+        "user": "1559835312312819755",
+        "game": "1561476274487173222",
+        "time": "2026-10-18T20:29:09+00:00",
+        "block": "18:00-21:00",
         "points": 36
       }
     }
