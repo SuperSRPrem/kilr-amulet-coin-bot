@@ -1448,7 +1448,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-18T23:32:08+00:00",
+  "last_seen_time": "2026-10-18T23:38:19+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 45.0,
@@ -1671,9 +1671,9 @@
       "last_score_time": "2026-10-18T13:07:51+00:00"
     },
     "vt2Mr": {
-      "points": 110.02999999999999,
-      "match_count": 6,
-      "last_score_time": "2026-10-18T23:32:08+00:00"
+      "points": 128.02999999999997,
+      "match_count": 7,
+      "last_score_time": "2026-10-18T23:38:19+00:00"
     },
     "mGvBc": {
       "points": 1.7,
@@ -1847,7 +1847,7 @@
     }
   },
   "current_cycle_started_at": "2026-10-18T11:30:00+00:00",
-  "current_cycle_match_count": 16,
+  "current_cycle_match_count": 17,
   "last_announced_event_time": "2026-10-18T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-18",
@@ -6250,7 +6250,7 @@
         "1321954579503513640"
       ],
       "points": 20,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561517471792496651"
       ]
@@ -6293,10 +6293,27 @@
       "claim_ids": [
         "1561522319107825877"
       ]
+    },
+    "1561523880592408589": {
+      "id": "1561523880592408589",
+      "time": "2026-10-18T23:38:19+00:00",
+      "map": "Scandinavia",
+      "prev": "11.00660",
+      "curr": "11.03533",
+      "contest": false,
+      "accounts": [
+        "vt2Mr"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1561523862217433182"
+      ]
     }
   },
-  "win_last_id": "1561522319107825877",
-  "team_last_id": "1561523535355060276",
+  "win_last_id": "1561523862217433182",
+  "team_last_id": "1561525742293229600",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
