@@ -5416,14 +5416,14 @@
       ],
       "claims": [],
       "points": 18,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561250008723103745"
       ]
     }
   },
   "win_last_id": "1561250008723103745",
-  "team_last_id": "1561253581946884138",
+  "team_last_id": "1561257721511288946",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
