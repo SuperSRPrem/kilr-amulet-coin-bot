@@ -1448,7 +1448,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-18T13:36:02+00:00",
+  "last_seen_time": "2026-10-18T14:07:35+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 45.0,
@@ -1591,9 +1591,9 @@
       "last_score_time": "2026-10-18T12:43:46+00:00"
     },
     "RRCgr": {
-      "points": 12.8,
-      "match_count": 3,
-      "last_score_time": "2026-10-18T13:07:51+00:00"
+      "points": 29.75,
+      "match_count": 4,
+      "last_score_time": "2026-10-18T14:07:35+00:00"
     },
     "ZacJo": {
       "points": 8.26,
@@ -1679,10 +1679,25 @@
       "points": 1.7,
       "match_count": 1,
       "last_score_time": "2026-10-18T13:36:02+00:00"
+    },
+    "CCGGr": {
+      "points": 17.7,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T14:07:35+00:00"
+    },
+    "nwtQT": {
+      "points": 11.7,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T14:07:35+00:00"
+    },
+    "V87Mq": {
+      "points": 4.65,
+      "match_count": 1,
+      "last_score_time": "2026-10-18T14:07:35+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-18T11:30:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-10-18T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-18",
@@ -5889,14 +5904,31 @@
         "1321954579503513640"
       ],
       "points": 42,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561372302007074827"
       ]
+    },
+    "1561380242541510709": {
+      "id": "1561380242541510709",
+      "time": "2026-10-18T14:07:35+00:00",
+      "map": "Mare Nostrum",
+      "prev": "11.40759",
+      "curr": "11.48824",
+      "contest": false,
+      "accounts": [
+        "CCGGr",
+        "RRCgr",
+        "nwtQT",
+        "V87Mq"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1561372302007074827",
-  "team_last_id": "1561378605261651970",
+  "team_last_id": "1561382257552269435",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
