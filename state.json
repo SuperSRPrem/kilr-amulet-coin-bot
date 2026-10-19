@@ -1448,7 +1448,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-18T23:38:19+00:00",
+  "last_seen_time": "2026-10-19T01:11:32+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 45.0,
@@ -1844,10 +1844,25 @@
       "points": 0.02,
       "match_count": 1,
       "last_score_time": "2026-10-18T23:32:08+00:00"
+    },
+    "4uLEq": {
+      "points": 7.03,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T01:11:32+00:00"
+    },
+    "mVqcM": {
+      "points": 3.4,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T01:11:32+00:00"
+    },
+    "vm2gJ": {
+      "points": 1.57,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T01:11:32+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-18T11:30:00+00:00",
-  "current_cycle_match_count": 17,
+  "current_cycle_match_count": 18,
   "last_announced_event_time": "2026-10-18T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-19",
@@ -6256,10 +6271,31 @@
       "claim_ids": [
         "1561523862217433182"
       ]
+    },
+    "1561547329884921938": {
+      "id": "1561547329884921938",
+      "time": "2026-10-19T01:11:32+00:00",
+      "map": "Africa",
+      "prev": "10.97770",
+      "curr": "10.99687",
+      "contest": false,
+      "accounts": [
+        "4uLEq",
+        "mVqcM",
+        "vm2gJ"
+      ],
+      "claims": [
+        "1471367580160622807"
+      ],
+      "points": 13,
+      "posted": false,
+      "claim_ids": [
+        "1561547330916720641"
+      ]
     }
   },
-  "win_last_id": "1561523862217433182",
-  "team_last_id": "1561544651142471781",
+  "win_last_id": "1561547330916720641",
+  "team_last_id": "1561548174013898846",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -7656,6 +7692,13 @@
         "time": "2026-10-18T23:32:08+00:00",
         "block": "21:00-00:00",
         "points": 20
+      },
+      "1561547329884921938:1471367580160622807": {
+        "user": "1471367580160622807",
+        "game": "1561547329884921938",
+        "time": "2026-10-19T01:11:32+00:00",
+        "block": "00:00-03:00",
+        "points": 13
       }
     }
   },
