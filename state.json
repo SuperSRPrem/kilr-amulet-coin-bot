@@ -1448,12 +1448,12 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-19T02:43:19+00:00",
+  "last_seen_time": "2026-10-19T04:53:34+00:00",
   "current_scores": {
     "Z2Yfi": {
-      "points": 45.0,
-      "match_count": 3,
-      "last_score_time": "2026-10-18T13:07:51+00:00"
+      "points": 120.98,
+      "match_count": 4,
+      "last_score_time": "2026-10-19T04:53:34+00:00"
     },
     "vVvVv": {
       "points": 108.91999999999999,
@@ -1969,10 +1969,15 @@
       "points": 0.94,
       "match_count": 1,
       "last_score_time": "2026-10-19T02:43:19+00:00"
+    },
+    "qWQtd": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T04:53:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-18T11:30:00+00:00",
-  "current_cycle_match_count": 23,
+  "current_cycle_match_count": 24,
   "last_announced_event_time": "2026-10-18T11:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-19",
@@ -6529,10 +6534,30 @@
       "claim_ids": [
         "1561570432228921399"
       ]
+    },
+    "1561603210794373141": {
+      "id": "1561603210794373141",
+      "time": "2026-10-19T04:53:34+00:00",
+      "map": "World 2",
+      "prev": "11.02648",
+      "curr": "11.14761",
+      "contest": true,
+      "accounts": [
+        "Z2Yfi",
+        "qWQtd"
+      ],
+      "claims": [
+        "1402645821505278114"
+      ],
+      "points": 82,
+      "posted": false,
+      "claim_ids": [
+        "1561603213055098911"
+      ]
     }
   },
-  "win_last_id": "1561570432228921399",
-  "team_last_id": "1561601197083721860",
+  "win_last_id": "1561603213055098911",
+  "team_last_id": "1561605047601856578",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -7957,6 +7982,13 @@
         "time": "2026-10-19T02:43:19+00:00",
         "block": "00:00-03:00",
         "points": 22
+      },
+      "1561603210794373141:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1561603210794373141",
+        "time": "2026-10-19T04:53:34+00:00",
+        "block": "03:00-06:00",
+        "points": 82
       }
     }
   },
