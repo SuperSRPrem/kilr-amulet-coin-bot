@@ -6877,14 +6877,14 @@
         "1471367580160622807"
       ],
       "points": 21,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561853905548218402"
       ]
     }
   },
   "win_last_id": "1561853905548218402",
-  "team_last_id": "1561857837364412487",
+  "team_last_id": "1561861778470862952",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
