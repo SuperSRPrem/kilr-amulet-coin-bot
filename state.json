@@ -6446,7 +6446,7 @@
         "1402645821505278114"
       ],
       "points": 54,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561740194065948674"
       ]
@@ -6469,7 +6469,7 @@
         "1423709238445867089"
       ],
       "points": 29,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561740302006354013"
       ]
@@ -6545,7 +6545,7 @@
     }
   },
   "win_last_id": "1561745333690699890",
-  "team_last_id": "1561745339235438723",
+  "team_last_id": "1561748483676053537",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -8176,5 +8176,5 @@
       }
     }
   },
-  "last_reminder": "2026-10-18"
+  "last_reminder": "2026-10-19"
 }
