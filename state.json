@@ -6768,14 +6768,14 @@
         "1559835312312819755"
       ],
       "points": 57,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561796725176275016"
       ]
     }
   },
   "win_last_id": "1561796725176275016",
-  "team_last_id": "1561801478165762150",
+  "team_last_id": "1561805006577864798",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
