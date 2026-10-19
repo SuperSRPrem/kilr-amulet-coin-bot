@@ -1850,16 +1850,16 @@
   "current_cycle_match_count": 17,
   "last_announced_event_time": "2026-10-18T11:30:00+00:00",
   "daily_quests": {
-    "date": "2026-10-18",
-    "created_at": "2026-10-18T00:01:32.975156+00:00",
+    "date": "2026-10-19",
+    "created_at": "2026-10-19T00:01:27.279534+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1868,10 +1868,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "Caucasia",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1879,10 +1879,17 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_set",
+        "maps": [
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
+        ],
+        "target": 5,
         "reward": 150,
-        "text": "Win 2 Contests",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1891,88 +1898,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "YsRY1": {
-          "World 2": 1
-        },
-        "UDWOR": {
-          "World 2": 1
-        },
-        "tbR5V": {
-          "World 2": 1
-        },
-        "vVvVv": {
-          "World 2": 1
-        },
-        "58KCb": {
-          "World 2": 1
-        },
-        "25WVJ": {
-          "World 2": 1
-        },
-        "Tq2Qv": {
-          "World 2": 1
-        },
-        "ShyDC": {
-          "World 2": 1
-        },
-        "qtGRW": {
-          "World 2": 1
-        },
-        "5vjnk": {
-          "World 2": 1
-        },
-        "YgCJB": {
-          "World 2": 1
-        },
-        "cTKgV": {
-          "World 2": 1
-        },
-        "VnMbN": {
-          "World 2": 1
-        },
-        "RRCgr": {
-          "World 2": 1
-        },
-        "uidCF": {
-          "World 2": 1
-        },
-        "VQ5LV": {
-          "World 2": 1
-        },
-        "wSM3X": {
-          "World 2": 1
-        },
-        "3z5Iq": {
-          "World 2": 1
-        },
-        "TbQyd": {
-          "World 2": 1
-        },
-        "b8wrQ": {
-          "World 2": 1
-        }
-      },
+      "medium": {},
       "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on South America",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win 2 Contests",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -6269,7 +6215,7 @@
         "1321954579503513640"
       ],
       "points": 27,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561520377472229480"
       ]
@@ -6313,7 +6259,7 @@
     }
   },
   "win_last_id": "1561523862217433182",
-  "team_last_id": "1561525742293229600",
+  "team_last_id": "1561529676323758091",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
