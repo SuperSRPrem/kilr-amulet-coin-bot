@@ -1455,7 +1455,7 @@
       "eligible_match_count": 32
     }
   ],
-  "last_seen_time": "2026-10-19T17:42:31+00:00",
+  "last_seen_time": "2026-10-19T21:29:45+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 11.23,
@@ -1641,10 +1641,45 @@
       "points": 0.94,
       "match_count": 1,
       "last_score_time": "2026-10-19T17:42:31+00:00"
+    },
+    "4uLEq": {
+      "points": 9.04,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T21:29:45+00:00"
+    },
+    "MBMvv": {
+      "points": 2.75,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T21:29:45+00:00"
+    },
+    "YqCqV": {
+      "points": 2.2,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T21:29:45+00:00"
+    },
+    "4dOxA": {
+      "points": 1.93,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T21:29:45+00:00"
+    },
+    "tBdLy": {
+      "points": 1.25,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T21:29:45+00:00"
+    },
+    "YLVqd": {
+      "points": 1.04,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T21:29:45+00:00"
+    },
+    "7qnKd": {
+      "points": 0.78,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T21:29:45+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-19T14:00:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-10-19T14:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-19",
@@ -1672,7 +1707,7 @@
         "done_by": null,
         "done_at": null,
         "halfway_posted": true,
-        "last_leader": "JR797"
+        "last_leader": "4uLEq"
       },
       "hard": {
         "level": "hard",
@@ -1697,7 +1732,7 @@
       "easy": {},
       "medium": {
         "4uLEq": {
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "YtjcC": {
           "Caucasia": 1
@@ -1776,11 +1811,29 @@
         },
         "Z2Yfi": {
           "Caucasia": 1
+        },
+        "MBMvv": {
+          "Caucasia": 1
+        },
+        "YqCqV": {
+          "Caucasia": 1
+        },
+        "4dOxA": {
+          "Caucasia": 1
+        },
+        "tBdLy": {
+          "Caucasia": 1
+        },
+        "YLVqd": {
+          "Caucasia": 1
+        },
+        "7qnKd": {
+          "Caucasia": 1
         }
       },
       "hard": {
         "4uLEq": {
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "YtjcC": {
           "Caucasia": 1
@@ -1916,6 +1969,24 @@
         },
         "NM82B": {
           "Scandinavia": 1
+        },
+        "MBMvv": {
+          "Caucasia": 1
+        },
+        "YqCqV": {
+          "Caucasia": 1
+        },
+        "4dOxA": {
+          "Caucasia": 1
+        },
+        "tBdLy": {
+          "Caucasia": 1
+        },
+        "YLVqd": {
+          "Caucasia": 1
+        },
+        "7qnKd": {
+          "Caucasia": 1
         }
       }
     }
@@ -6784,10 +6855,35 @@
       "claim_ids": [
         "1561796725176275016"
       ]
+    },
+    "1561853904386269305": {
+      "id": "1561853904386269305",
+      "time": "2026-10-19T21:29:45+00:00",
+      "map": "Caucasia",
+      "prev": "10.63787",
+      "curr": "10.66842",
+      "contest": false,
+      "accounts": [
+        "4uLEq",
+        "MBMvv",
+        "YqCqV",
+        "4dOxA",
+        "tBdLy",
+        "YLVqd",
+        "7qnKd"
+      ],
+      "claims": [
+        "1471367580160622807"
+      ],
+      "points": 21,
+      "posted": false,
+      "claim_ids": [
+        "1561853905548218402"
+      ]
     }
   },
-  "win_last_id": "1561796725176275016",
-  "team_last_id": "1561849999149637633",
+  "win_last_id": "1561853905548218402",
+  "team_last_id": "1561854252261843007",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -8436,6 +8532,13 @@
         "time": "2026-10-19T17:42:31+00:00",
         "block": "15:00-18:00",
         "points": 57
+      },
+      "1561853904386269305:1471367580160622807": {
+        "user": "1471367580160622807",
+        "game": "1561853904386269305",
+        "time": "2026-10-19T21:29:45+00:00",
+        "block": "21:00-00:00",
+        "points": 21
       }
     }
   },
