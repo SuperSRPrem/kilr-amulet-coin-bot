@@ -7074,14 +7074,14 @@
         "1134147627399774268"
       ],
       "points": 62,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562127290174013451"
       ]
     }
   },
   "win_last_id": "1562127290174013451",
-  "team_last_id": "1562133554802991207",
+  "team_last_id": "1562136852067123232",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
