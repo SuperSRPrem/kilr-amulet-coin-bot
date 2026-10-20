@@ -1462,7 +1462,7 @@
       "eligible_match_count": 21
     }
   ],
-  "last_seen_time": "2026-10-20T20:24:16+00:00",
+  "last_seen_time": "2026-10-20T22:48:14+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 33.85,
@@ -1728,10 +1728,30 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-10-20T20:24:16+00:00"
+    },
+    "wSM3X": {
+      "points": 19.26,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T22:48:14+00:00"
+    },
+    "7OKDc": {
+      "points": 3.65,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T22:48:14+00:00"
+    },
+    "wrRe_": {
+      "points": 1.78,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T22:48:14+00:00"
+    },
+    "nwGvk": {
+      "points": 1.31,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T22:48:14+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-20T11:00:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-10-20T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-20",
@@ -7431,10 +7451,30 @@
       "claim_ids": [
         "1562199818582106246"
       ]
+    },
+    "1562236046077464667": {
+      "id": "1562236046077464667",
+      "time": "2026-10-20T22:48:14+00:00",
+      "map": "World 2",
+      "prev": "10.86605",
+      "curr": "10.90770",
+      "contest": false,
+      "accounts": [
+        "wSM3X",
+        "7OKDc",
+        "wrRe_",
+        "nwGvk"
+      ],
+      "claims": [],
+      "points": 26,
+      "posted": false,
+      "claim_ids": [
+        "1562236047369441281"
+      ]
     }
   },
-  "win_last_id": "1562199818582106246",
-  "team_last_id": "1562235225323475060",
+  "win_last_id": "1562236047369441281",
+  "team_last_id": "1562239317882044538",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
