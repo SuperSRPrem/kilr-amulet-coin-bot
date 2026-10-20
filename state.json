@@ -6889,14 +6889,14 @@
         "1321954579503513640"
       ],
       "points": 112,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561913606696869941"
       ]
     }
   },
   "win_last_id": "1561913606696869941",
-  "team_last_id": "1561918261703217214",
+  "team_last_id": "1561922199177142343",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
