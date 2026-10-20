@@ -1455,7 +1455,7 @@
       "eligible_match_count": 32
     }
   ],
-  "last_seen_time": "2026-10-20T02:22:01+00:00",
+  "last_seen_time": "2026-10-20T04:41:23+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 183.53,
@@ -1811,10 +1811,20 @@
       "points": 3.27,
       "match_count": 1,
       "last_score_time": "2026-10-20T02:22:01+00:00"
+    },
+    "7DvnB": {
+      "points": 14.94,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T04:41:23+00:00"
+    },
+    "8kkVD": {
+      "points": 3.06,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T04:41:23+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-19T14:00:00+00:00",
-  "current_cycle_match_count": 12,
+  "current_cycle_match_count": 13,
   "last_announced_event_time": "2026-10-19T14:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-20",
@@ -1938,6 +1948,12 @@
         },
         "eY4oU": {
           "Europe": 1
+        },
+        "7DvnB": {
+          "Europe": 1
+        },
+        "8kkVD": {
+          "Europe": 1
         }
       }
     }
@@ -2005,7 +2021,7 @@
       "rb2Q7"
     ]
   },
-  "link_last_id": "1561854444755353662",
+  "link_last_id": "1561963225032032329",
   "games": {
     "1558900526643552380": {
       "id": "1558900526643552380",
@@ -6970,10 +6986,28 @@
       "claim_ids": [
         "1561927460080328705"
       ]
+    },
+    "1561962535308238980": {
+      "id": "1561962535308238980",
+      "time": "2026-10-20T04:41:23+00:00",
+      "map": "Europe",
+      "prev": "10.98738",
+      "curr": "11.01609",
+      "contest": false,
+      "accounts": [
+        "7DvnB",
+        "8kkVD"
+      ],
+      "claims": [],
+      "points": 18,
+      "posted": false,
+      "claim_ids": [
+        "1561962536595886122"
+      ]
     }
   },
-  "win_last_id": "1561927460080328705",
-  "team_last_id": "1561959909938040923",
+  "win_last_id": "1561962536595886122",
+  "team_last_id": "1561963558928121909",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
