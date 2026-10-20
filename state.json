@@ -1462,7 +1462,7 @@
       "eligible_match_count": 21
     }
   ],
-  "last_seen_time": "2026-10-20T14:22:17+00:00",
+  "last_seen_time": "2026-10-20T14:48:03+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 33.85,
@@ -1498,10 +1498,70 @@
       "points": 0.1,
       "match_count": 1,
       "last_score_time": "2026-10-20T14:22:17+00:00"
+    },
+    "JR797": {
+      "points": 25.51,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "WWMCV": {
+      "points": 6.57,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "XCNNm": {
+      "points": 5.14,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "v5bmB": {
+      "points": 4.39,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "YDCwQ": {
+      "points": 4.31,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "asMVv": {
+      "points": 3.64,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "Qvvyt": {
+      "points": 2.83,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "T8Gjb": {
+      "points": 2.34,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "jnYmr": {
+      "points": 1.88,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "QCRMb": {
+      "points": 0.9,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "JjQYQ": {
+      "points": 0.39,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
+    },
+    "BQcMD": {
+      "points": 0.1,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T14:48:03+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-20T11:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-10-20T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-20",
@@ -6960,14 +7020,46 @@
         "879398730762186752"
       ],
       "points": 61,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562108718449950803"
       ]
+    },
+    "1562115209772933254": {
+      "id": "1562115209772933254",
+      "time": "2026-10-20T14:48:03+00:00",
+      "map": "World 2",
+      "prev": "11.04108",
+      "curr": "11.13359",
+      "contest": false,
+      "accounts": [
+        "JR797",
+        "WWMCV",
+        "XCNNm",
+        "v5bmB",
+        "YDCwQ",
+        "asMVv",
+        "Qvvyt",
+        "T8Gjb",
+        "jnYmr",
+        "QCRMb",
+        "JjQYQ",
+        "BQcMD"
+      ],
+      "claims": [
+        "1134147627399774268",
+        "1280501562342641694",
+        "879398730762186752"
+      ],
+      "points": 62,
+      "posted": false,
+      "claim_ids": [
+        "1562115211480146062"
+      ]
     }
   },
-  "win_last_id": "1562108718449950803",
-  "team_last_id": "1562114592002543702",
+  "win_last_id": "1562115211480146062",
+  "team_last_id": "1562118532286648324",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -8763,6 +8855,27 @@
         "time": "2026-10-20T14:22:17+00:00",
         "block": "12:00-15:00",
         "points": 61
+      },
+      "1562115209772933254:1134147627399774268": {
+        "user": "1134147627399774268",
+        "game": "1562115209772933254",
+        "time": "2026-10-20T14:48:03+00:00",
+        "block": "12:00-15:00",
+        "points": 62
+      },
+      "1562115209772933254:1280501562342641694": {
+        "user": "1280501562342641694",
+        "game": "1562115209772933254",
+        "time": "2026-10-20T14:48:03+00:00",
+        "block": "12:00-15:00",
+        "points": 62
+      },
+      "1562115209772933254:879398730762186752": {
+        "user": "879398730762186752",
+        "game": "1562115209772933254",
+        "time": "2026-10-20T14:48:03+00:00",
+        "block": "12:00-15:00",
+        "points": 62
       }
     }
   },
