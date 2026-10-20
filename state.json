@@ -6916,14 +6916,14 @@
         "1423709238445867089"
       ],
       "points": 43,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562065359526432811"
       ]
     }
   },
   "win_last_id": "1562065359526432811",
-  "team_last_id": "1562069271037743180",
+  "team_last_id": "1562073006572830875",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
