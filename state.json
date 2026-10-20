@@ -7052,14 +7052,14 @@
         "879398730762186752"
       ],
       "points": 62,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562115211480146062"
       ]
     }
   },
   "win_last_id": "1562115211480146062",
-  "team_last_id": "1562122066293948419",
+  "team_last_id": "1562125732480815276",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
