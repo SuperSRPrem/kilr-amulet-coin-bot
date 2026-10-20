@@ -1462,10 +1462,26 @@
       "eligible_match_count": 21
     }
   ],
-  "last_seen_time": "2026-10-20T10:24:54+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-20T11:29:58+00:00",
+  "current_scores": {
+    "BjxRv": {
+      "points": 33.85,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T11:29:58+00:00"
+    },
+    "D5Ntv": {
+      "points": 5.41,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T11:29:58+00:00"
+    },
+    "T57DM": {
+      "points": 0.74,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T11:29:58+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-20T11:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-20T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-20",
@@ -6883,10 +6899,31 @@
       "claim_ids": [
         "1562048985777049621"
       ]
+    },
+    "1562065358058430516": {
+      "id": "1562065358058430516",
+      "time": "2026-10-20T11:29:58+00:00",
+      "map": "Scandinavia",
+      "prev": "11.21344",
+      "curr": "11.27695",
+      "contest": false,
+      "accounts": [
+        "BjxRv",
+        "D5Ntv",
+        "T57DM"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 43,
+      "posted": false,
+      "claim_ids": [
+        "1562065359526432811"
+      ]
     }
   },
-  "win_last_id": "1562048985777049621",
-  "team_last_id": "1562061567489740891",
+  "win_last_id": "1562065359526432811",
+  "team_last_id": "1562065601097236482",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -8654,6 +8691,13 @@
         "time": "2026-10-20T10:24:54+00:00",
         "block": "09:00-12:00",
         "points": 47
+      },
+      "1562065358058430516:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1562065358058430516",
+        "time": "2026-10-20T11:29:58+00:00",
+        "block": "09:00-12:00",
+        "points": 43
       }
     }
   },
