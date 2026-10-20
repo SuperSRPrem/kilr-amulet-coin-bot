@@ -1455,12 +1455,12 @@
       "eligible_match_count": 32
     }
   ],
-  "last_seen_time": "2026-10-19T21:29:45+00:00",
+  "last_seen_time": "2026-10-19T23:49:09+00:00",
   "current_scores": {
     "vt2Mr": {
-      "points": 11.23,
-      "match_count": 1,
-      "last_score_time": "2026-10-19T14:06:51+00:00"
+      "points": 55.650000000000006,
+      "match_count": 2,
+      "last_score_time": "2026-10-19T23:49:09+00:00"
     },
     "BjxRv": {
       "points": 10.77,
@@ -1676,22 +1676,32 @@
       "points": 0.78,
       "match_count": 1,
       "last_score_time": "2026-10-19T21:29:45+00:00"
+    },
+    "55977": {
+      "points": 29.18,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T23:49:09+00:00"
+    },
+    "vM8r5": {
+      "points": 0.4,
+      "match_count": 1,
+      "last_score_time": "2026-10-19T23:49:09+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-19T14:00:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-10-19T14:00:00+00:00",
   "daily_quests": {
-    "date": "2026-10-19",
-    "created_at": "2026-10-19T00:01:27.279534+00:00",
+    "date": "2026-10-20",
+    "created_at": "2026-10-20T00:01:23.979116+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "White Plains",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1700,314 +1710,58 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
+        "map": "World 1",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 3 times on World 1",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "4uLEq"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
         ],
-        "target": 5,
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "JR797"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "4uLEq": {
-          "Caucasia": 2
-        },
-        "YtjcC": {
-          "Caucasia": 1
-        },
-        "JR797": {
-          "Caucasia": 2
-        },
-        "9Bvq5": {
-          "Caucasia": 1
-        },
-        "5tQBC": {
-          "Caucasia": 1
-        },
-        "gNTJg": {
-          "Caucasia": 1
-        },
-        "vWrB2": {
-          "Caucasia": 1
-        },
-        "jD5LT": {
-          "Caucasia": 1
-        },
-        "JJvN8": {
-          "Caucasia": 1
-        },
-        "yvTvk": {
-          "Caucasia": 1
-        },
-        "Jgcyn": {
-          "Caucasia": 1
-        },
-        "tJRDR": {
-          "Caucasia": 1
-        },
-        "5NC8D": {
-          "Caucasia": 1
-        },
-        "wk9vV": {
-          "Caucasia": 1
-        },
-        "gdv7w": {
-          "Caucasia": 1
-        },
-        "wTJLN": {
-          "Caucasia": 1
-        },
-        "CJyNY": {
-          "Caucasia": 1
-        },
-        "SJMIJ": {
-          "Caucasia": 1
-        },
-        "bRb7Y": {
-          "Caucasia": 1
-        },
-        "B7MNq": {
-          "Caucasia": 1
-        },
-        "KT79J": {
-          "Caucasia": 1
-        },
-        "tm8mM": {
-          "Caucasia": 1
-        },
-        "Oyf9y": {
-          "Caucasia": 1
-        },
-        "NTb99": {
-          "Caucasia": 1
-        },
-        "NBy7d": {
-          "Caucasia": 1
-        },
-        "q5GnR": {
-          "Caucasia": 1
-        },
-        "Z2Yfi": {
-          "Caucasia": 1
-        },
-        "MBMvv": {
-          "Caucasia": 1
-        },
-        "YqCqV": {
-          "Caucasia": 1
-        },
-        "4dOxA": {
-          "Caucasia": 1
-        },
-        "tBdLy": {
-          "Caucasia": 1
-        },
-        "YLVqd": {
-          "Caucasia": 1
-        },
-        "7qnKd": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "4uLEq": {
-          "Caucasia": 2
-        },
-        "YtjcC": {
-          "Caucasia": 1
-        },
-        "JR797": {
-          "Caucasia": 2,
-          "Scandinavia": 1
-        },
-        "9Bvq5": {
-          "Caucasia": 1
-        },
-        "5tQBC": {
-          "Caucasia": 1
-        },
-        "gNTJg": {
-          "Caucasia": 1
-        },
-        "vWrB2": {
-          "Caucasia": 1
-        },
-        "jD5LT": {
-          "Caucasia": 1
-        },
-        "JJvN8": {
-          "Caucasia": 1
-        },
-        "yvTvk": {
-          "Caucasia": 1
-        },
-        "Jgcyn": {
-          "Caucasia": 1
-        },
-        "tJRDR": {
-          "Caucasia": 1
-        },
-        "5NC8D": {
-          "Caucasia": 1
-        },
-        "wk9vV": {
-          "Caucasia": 1
-        },
-        "gdv7w": {
-          "Caucasia": 1
-        },
-        "wTJLN": {
-          "Caucasia": 1
-        },
-        "CJyNY": {
-          "Caucasia": 1
-        },
-        "SJMIJ": {
-          "Caucasia": 1
-        },
-        "bRb7Y": {
-          "Caucasia": 1
-        },
-        "B7MNq": {
-          "Caucasia": 1
-        },
-        "KT79J": {
-          "Caucasia": 1
-        },
-        "tm8mM": {
-          "Caucasia": 1
-        },
-        "Oyf9y": {
-          "Caucasia": 1
-        },
-        "NTb99": {
-          "Caucasia": 1,
-          "Scandinavia": 1
-        },
-        "NBy7d": {
-          "Caucasia": 1
-        },
-        "q5GnR": {
-          "Caucasia": 1
-        },
-        "Z2Yfi": {
-          "Caucasia": 1,
-          "Scandinavia": 1
-        },
-        "wy88c": {
-          "Scandinavia": 1
-        },
-        "UOCj9": {
-          "Scandinavia": 1
-        },
-        "mvmmL": {
-          "Scandinavia": 1
-        },
-        "vt2Mr": {
-          "Scandinavia": 1
-        },
-        "wGgRn": {
-          "Scandinavia": 1
-        },
-        "BjxRv": {
-          "Scandinavia": 1
-        },
-        "vVvVv": {
-          "Scandinavia": 1
-        },
-        "88b9q": {
-          "Scandinavia": 1
-        },
-        "JJYBY": {
-          "Scandinavia": 1
-        },
-        "wn9qr": {
-          "Scandinavia": 1
-        },
-        "9Br9R": {
-          "Scandinavia": 1
-        },
-        "wYtjn": {
-          "Scandinavia": 1
-        },
-        "ED4in": {
-          "Scandinavia": 1
-        },
-        "85YbT": {
-          "Scandinavia": 1
-        },
-        "Y9kDj": {
-          "Scandinavia": 1
-        },
-        "K2tCY": {
-          "Scandinavia": 1
-        },
-        "jV9nv": {
-          "Scandinavia": 1
-        },
-        "NM82B": {
-          "Scandinavia": 1
-        },
-        "MBMvv": {
-          "Caucasia": 1
-        },
-        "YqCqV": {
-          "Caucasia": 1
-        },
-        "4dOxA": {
-          "Caucasia": 1
-        },
-        "tBdLy": {
-          "Caucasia": 1
-        },
-        "YLVqd": {
-          "Caucasia": 1
-        },
-        "7qnKd": {
-          "Caucasia": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -6881,10 +6635,31 @@
       "claim_ids": [
         "1561853905548218402"
       ]
+    },
+    "1561888980708888627": {
+      "id": "1561888980708888627",
+      "time": "2026-10-19T23:49:09+00:00",
+      "map": "Scandinavia",
+      "prev": "10.55898",
+      "curr": "10.67816",
+      "contest": true,
+      "accounts": [
+        "vt2Mr",
+        "55977",
+        "vM8r5"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 80,
+      "posted": false,
+      "claim_ids": [
+        "1561888982651117650"
+      ]
     }
   },
-  "win_last_id": "1561853905548218402",
-  "team_last_id": "1561888049384788061",
+  "win_last_id": "1561888982651117650",
+  "team_last_id": "1561891522570362912",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -8540,6 +8315,13 @@
         "time": "2026-10-19T21:29:45+00:00",
         "block": "21:00-00:00",
         "points": 21
+      },
+      "1561888980708888627:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1561888980708888627",
+        "time": "2026-10-19T23:49:09+00:00",
+        "block": "21:00-00:00",
+        "points": 80
       }
     }
   },
