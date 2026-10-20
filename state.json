@@ -1455,12 +1455,12 @@
       "eligible_match_count": 32
     }
   ],
-  "last_seen_time": "2026-10-19T23:49:09+00:00",
+  "last_seen_time": "2026-10-20T00:14:36+00:00",
   "current_scores": {
     "vt2Mr": {
-      "points": 55.650000000000006,
-      "match_count": 2,
-      "last_score_time": "2026-10-19T23:49:09+00:00"
+      "points": 131.65,
+      "match_count": 3,
+      "last_score_time": "2026-10-20T00:14:36+00:00"
     },
     "BjxRv": {
       "points": 10.77,
@@ -1689,7 +1689,7 @@
     }
   },
   "current_cycle_started_at": "2026-10-19T14:00:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-10-19T14:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-20",
@@ -1742,7 +1742,11 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "vt2Mr": {
+          "North America": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -6656,10 +6660,29 @@
       "claim_ids": [
         "1561888982651117650"
       ]
+    },
+    "1561895398996709519": {
+      "id": "1561895398996709519",
+      "time": "2026-10-20T00:14:36+00:00",
+      "map": "North America",
+      "prev": "10.66907",
+      "curr": "10.79119",
+      "contest": true,
+      "accounts": [
+        "vt2Mr"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 84,
+      "posted": false,
+      "claim_ids": [
+        "1561895400296943659"
+      ]
     }
   },
-  "win_last_id": "1561888982651117650",
-  "team_last_id": "1561891522570362912",
+  "win_last_id": "1561895400296943659",
+  "team_last_id": "1561895599383642244",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -8322,6 +8345,13 @@
         "time": "2026-10-19T23:49:09+00:00",
         "block": "21:00-00:00",
         "points": 80
+      },
+      "1561895398996709519:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1561895398996709519",
+        "time": "2026-10-20T00:14:36+00:00",
+        "block": "00:00-03:00",
+        "points": 84
       }
     }
   },
