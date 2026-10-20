@@ -1455,12 +1455,12 @@
       "eligible_match_count": 32
     }
   ],
-  "last_seen_time": "2026-10-20T00:56:33+00:00",
+  "last_seen_time": "2026-10-20T01:26:58+00:00",
   "current_scores": {
     "vt2Mr": {
-      "points": 143.27,
-      "match_count": 4,
-      "last_score_time": "2026-10-20T00:56:33+00:00"
+      "points": 183.53,
+      "match_count": 5,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
     },
     "BjxRv": {
       "points": 10.77,
@@ -1726,10 +1726,65 @@
       "points": 2.7,
       "match_count": 1,
       "last_score_time": "2026-10-20T00:56:33+00:00"
+    },
+    "L7B2R": {
+      "points": 12.03,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "JLbrd": {
+      "points": 11.7,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "MLTKL": {
+      "points": 10.36,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "9D5qW": {
+      "points": 8.44,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "9dvdt": {
+      "points": 7.42,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "UTsKL": {
+      "points": 5.13,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "jTmgN": {
+      "points": 4.06,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "KbK9G": {
+      "points": 2.43,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "LnGt2": {
+      "points": 2.23,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "VyD82": {
+      "points": 1.91,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
+    },
+    "qY92B": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-20T01:26:58+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-19T14:00:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-10-19T14:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-20",
@@ -1781,7 +1836,44 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "vt2Mr": {
+          "World 1": 1
+        },
+        "L7B2R": {
+          "World 1": 1
+        },
+        "JLbrd": {
+          "World 1": 1
+        },
+        "MLTKL": {
+          "World 1": 1
+        },
+        "9D5qW": {
+          "World 1": 1
+        },
+        "9dvdt": {
+          "World 1": 1
+        },
+        "UTsKL": {
+          "World 1": 1
+        },
+        "jTmgN": {
+          "World 1": 1
+        },
+        "KbK9G": {
+          "World 1": 1
+        },
+        "LnGt2": {
+          "World 1": 1
+        },
+        "VyD82": {
+          "World 1": 1
+        },
+        "qY92B": {
+          "World 1": 1
+        }
+      },
       "hard": {
         "vt2Mr": {
           "North America": 1,
@@ -6767,14 +6859,44 @@
         "1321954579503513640"
       ],
       "points": 90,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1561905956164476950"
       ]
+    },
+    "1561913605216272495": {
+      "id": "1561913605216272495",
+      "time": "2026-10-20T01:26:58+00:00",
+      "map": "World 1",
+      "prev": "10.88482",
+      "curr": "11.05426",
+      "contest": true,
+      "accounts": [
+        "vt2Mr",
+        "L7B2R",
+        "JLbrd",
+        "MLTKL",
+        "9D5qW",
+        "9dvdt",
+        "UTsKL",
+        "jTmgN",
+        "KbK9G",
+        "LnGt2",
+        "VyD82",
+        "qY92B"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 112,
+      "posted": false,
+      "claim_ids": [
+        "1561913606696869941"
+      ]
     }
   },
-  "win_last_id": "1561905956164476950",
-  "team_last_id": "1561910673221615629",
+  "win_last_id": "1561913606696869941",
+  "team_last_id": "1561914575228506164",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -8451,6 +8573,13 @@
         "time": "2026-10-20T00:56:33+00:00",
         "block": "00:00-03:00",
         "points": 90
+      },
+      "1561913605216272495:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1561913605216272495",
+        "time": "2026-10-20T01:26:58+00:00",
+        "block": "00:00-03:00",
+        "points": 112
       }
     }
   },
