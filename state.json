@@ -1462,7 +1462,7 @@
       "eligible_match_count": 21
     }
   ],
-  "last_seen_time": "2026-10-20T14:48:03+00:00",
+  "last_seen_time": "2026-10-20T15:36:03+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 33.85,
@@ -1515,9 +1515,9 @@
       "last_score_time": "2026-10-20T14:48:03+00:00"
     },
     "v5bmB": {
-      "points": 4.39,
-      "match_count": 1,
-      "last_score_time": "2026-10-20T14:48:03+00:00"
+      "points": 58.39,
+      "match_count": 2,
+      "last_score_time": "2026-10-20T15:36:03+00:00"
     },
     "YDCwQ": {
       "points": 4.31,
@@ -1561,7 +1561,7 @@
     }
   },
   "current_cycle_started_at": "2026-10-20T11:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-10-20T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-20",
@@ -1654,6 +1654,9 @@
           "World 1": 1
         },
         "kmtT5": {
+          "World 1": 1
+        },
+        "v5bmB": {
           "World 1": 1
         }
       },
@@ -7056,10 +7059,29 @@
       "claim_ids": [
         "1562115211480146062"
       ]
+    },
+    "1562127288383045743": {
+      "id": "1562127288383045743",
+      "time": "2026-10-20T15:36:03+00:00",
+      "map": "World 1",
+      "prev": "11.04595",
+      "curr": "11.13207",
+      "contest": false,
+      "accounts": [
+        "v5bmB"
+      ],
+      "claims": [
+        "1134147627399774268"
+      ],
+      "points": 62,
+      "posted": false,
+      "claim_ids": [
+        "1562127290174013451"
+      ]
     }
   },
-  "win_last_id": "1562115211480146062",
-  "team_last_id": "1562125732480815276",
+  "win_last_id": "1562127290174013451",
+  "team_last_id": "1562129606683787277",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -8875,6 +8897,13 @@
         "game": "1562115209772933254",
         "time": "2026-10-20T14:48:03+00:00",
         "block": "12:00-15:00",
+        "points": 62
+      },
+      "1562127288383045743:1134147627399774268": {
+        "user": "1134147627399774268",
+        "game": "1562127288383045743",
+        "time": "2026-10-20T15:36:03+00:00",
+        "block": "15:00-18:00",
         "points": 62
       }
     }
