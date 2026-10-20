@@ -7061,14 +7061,14 @@
         "1402645821505278114"
       ],
       "points": 156,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562014583932067873"
       ]
     }
   },
   "win_last_id": "1562014583932067873",
-  "team_last_id": "1562019744863887371",
+  "team_last_id": "1562022825194422385",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
