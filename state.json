@@ -1754,16 +1754,16 @@
   "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-10-20T11:00:00+00:00",
   "daily_quests": {
-    "date": "2026-10-20",
-    "created_at": "2026-10-20T00:01:23.979116+00:00",
+    "date": "2026-10-21",
+    "created_at": "2026-10-21T00:01:26.581461+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "Mountains 2",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Mountains 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1772,10 +1772,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 1",
+        "map": "Caucasia",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on World 1",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1783,18 +1783,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1803,205 +1796,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "vt2Mr": {
-          "World 1": 1
-        },
-        "L7B2R": {
-          "World 1": 1
-        },
-        "JLbrd": {
-          "World 1": 1
-        },
-        "MLTKL": {
-          "World 1": 1
-        },
-        "9D5qW": {
-          "World 1": 1
-        },
-        "9dvdt": {
-          "World 1": 1
-        },
-        "UTsKL": {
-          "World 1": 1
-        },
-        "jTmgN": {
-          "World 1": 1
-        },
-        "KbK9G": {
-          "World 1": 1
-        },
-        "LnGt2": {
-          "World 1": 1
-        },
-        "VyD82": {
-          "World 1": 1
-        },
-        "qY92B": {
-          "World 1": 1
-        },
-        "wSM3X": {
-          "World 1": 1
-        },
-        "kmtT5": {
-          "World 1": 1
-        },
-        "v5bmB": {
-          "World 1": 1
-        }
-      },
-      "hard": {
-        "vt2Mr": {
-          "North America": 1,
-          "Europe": 1
-        },
-        "mKkrC": {
-          "Europe": 1
-        },
-        "dj9j7": {
-          "Europe": 1
-        },
-        "RvLmr": {
-          "Europe": 1
-        },
-        "jbVNW": {
-          "Europe": 1
-        },
-        "fd4KF": {
-          "Europe": 1
-        },
-        "bTv72": {
-          "Europe": 1
-        },
-        "BrNQY": {
-          "Europe": 1
-        },
-        "eY4oU": {
-          "Europe": 1
-        },
-        "7DvnB": {
-          "Europe": 1
-        },
-        "8kkVD": {
-          "Europe": 1
-        },
-        "Z2Yfi": {
-          "Europe": 3
-        },
-        "B2v2Q": {
-          "Europe": 1
-        },
-        "nb25M": {
-          "Europe": 1
-        },
-        "9Ck7t": {
-          "Europe": 1
-        },
-        "Vv7LV": {
-          "Europe": 1
-        },
-        "bVQBJ": {
-          "Europe": 1
-        },
-        "LLyKg": {
-          "Europe": 1
-        },
-        "MnRN2": {
-          "Europe": 1
-        },
-        "tLQQr": {
-          "Europe": 1
-        },
-        "LyKn5": {
-          "Europe": 1
-        },
-        "wdbGj": {
-          "Europe": 1
-        },
-        "dPJBK": {
-          "Europe": 1
-        },
-        "qBQJn": {
-          "Europe": 1
-        },
-        "JFE2Y": {
-          "Europe": 1
-        },
-        "RBY2m": {
-          "Europe": 1
-        },
-        "KLtqC": {
-          "North America": 1
-        },
-        "GXoWr": {
-          "North America": 1
-        },
-        "vVvVv": {
-          "Europe": 1
-        },
-        "RMrQ5": {
-          "Europe": 1,
-          "North America": 1
-        },
-        "tQ7V7": {
-          "Europe": 1
-        },
-        "xsSyo": {
-          "Europe": 1
-        },
-        "YsRY1": {
-          "Europe": 1
-        },
-        "Mb2Nv": {
-          "Europe": 1
-        },
-        "79q5j": {
-          "Europe": 1
-        },
-        "r99gJ": {
-          "North America": 1
-        },
-        "FjgqV": {
-          "North America": 1
-        },
-        "K9ys5": {
-          "North America": 1
-        },
-        "RZhQU": {
-          "North America": 1
-        },
-        "7BTbv": {
-          "North America": 1
-        },
-        "mctm8": {
-          "North America": 1
-        },
-        "Qt5Ln": {
-          "North America": 1
-        },
-        "vqkRc": {
-          "North America": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 3 times on World 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -7474,7 +7289,7 @@
     }
   },
   "win_last_id": "1562236047369441281",
-  "team_last_id": "1562250311630848111",
+  "team_last_id": "1562254338750025841",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
