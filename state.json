@@ -8098,14 +8098,14 @@
       ],
       "claims": [],
       "points": 36,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562573316324204649"
       ]
     }
   },
   "win_last_id": "1562573316324204649",
-  "team_last_id": "1562578994337939468",
+  "team_last_id": "1562582629365325892",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
