@@ -7743,14 +7743,14 @@
         "1191801665389608990"
       ],
       "points": 46,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562483437451874325"
       ]
     }
   },
   "win_last_id": "1562483437451874325",
-  "team_last_id": "1562488279582904452",
+  "team_last_id": "1562492130042187777",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
