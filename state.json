@@ -8058,14 +8058,14 @@
         "1471367580160622807"
       ],
       "points": 38,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562526660144922797"
       ]
     }
   },
   "win_last_id": "1562526660144922797",
-  "team_last_id": "1562533620789289011",
+  "team_last_id": "1562537416491925555",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
