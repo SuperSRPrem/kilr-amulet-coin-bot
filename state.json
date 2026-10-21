@@ -1469,7 +1469,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-21T18:03:01+00:00",
+  "last_seen_time": "2026-10-21T21:08:26+00:00",
   "current_scores": {
     "rRgcc": {
       "points": 10.43,
@@ -2075,10 +2075,30 @@
       "points": 0.07,
       "match_count": 1,
       "last_score_time": "2026-10-21T18:03:01+00:00"
+    },
+    "CdNtb": {
+      "points": 20.24,
+      "match_count": 1,
+      "last_score_time": "2026-10-21T21:08:26+00:00"
+    },
+    "nC7j5": {
+      "points": 5.87,
+      "match_count": 1,
+      "last_score_time": "2026-10-21T21:08:26+00:00"
+    },
+    "I77wB": {
+      "points": 4.13,
+      "match_count": 1,
+      "last_score_time": "2026-10-21T21:08:26+00:00"
+    },
+    "JFE2Y": {
+      "points": 1.76,
+      "match_count": 1,
+      "last_score_time": "2026-10-21T21:08:26+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-21T00:30:00+00:00",
-  "current_cycle_match_count": 15,
+  "current_cycle_match_count": 16,
   "last_announced_event_time": "2026-10-21T00:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-21",
@@ -8062,10 +8082,30 @@
       "claim_ids": [
         "1562526660144922797"
       ]
+    },
+    "1562573314994737274": {
+      "id": "1562573314994737274",
+      "time": "2026-10-21T21:08:26+00:00",
+      "map": "Asia",
+      "prev": "11.37230",
+      "curr": "11.42299",
+      "contest": false,
+      "accounts": [
+        "CdNtb",
+        "nC7j5",
+        "I77wB",
+        "JFE2Y"
+      ],
+      "claims": [],
+      "points": 36,
+      "posted": false,
+      "claim_ids": [
+        "1562573316324204649"
+      ]
     }
   },
-  "win_last_id": "1562526660144922797",
-  "team_last_id": "1562571504191807549",
+  "win_last_id": "1562573316324204649",
+  "team_last_id": "1562575050714914971",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
