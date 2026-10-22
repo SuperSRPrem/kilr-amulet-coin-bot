@@ -8982,14 +8982,14 @@
         "1321954579503513640"
       ],
       "points": 44,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562876202514128937"
       ]
     }
   },
   "win_last_id": "1562876202514128937",
-  "team_last_id": "1562880985614258309",
+  "team_last_id": "1562884645022863361",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
