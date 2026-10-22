@@ -1469,7 +1469,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-21T21:08:26+00:00",
+  "last_seen_time": "2026-10-22T04:43:06+00:00",
   "current_scores": {
     "rRgcc": {
       "points": 10.43,
@@ -2095,10 +2095,20 @@
       "points": 1.76,
       "match_count": 1,
       "last_score_time": "2026-10-21T21:08:26+00:00"
+    },
+    "VYd8w": {
+      "points": 10.21,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T04:43:06+00:00"
+    },
+    "RMrQ5": {
+      "points": 3.79,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T04:43:06+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-21T00:30:00+00:00",
-  "current_cycle_match_count": 16,
+  "current_cycle_match_count": 17,
   "last_announced_event_time": "2026-10-21T00:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-22",
@@ -8064,10 +8074,30 @@
       "claim_ids": [
         "1562573316324204649"
       ]
+    },
+    "1562687745300893749": {
+      "id": "1562687745300893749",
+      "time": "2026-10-22T04:43:06+00:00",
+      "map": "Asia",
+      "prev": "11.10461",
+      "curr": "11.12691",
+      "contest": false,
+      "accounts": [
+        "VYd8w",
+        "RMrQ5"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 16,
+      "posted": false,
+      "claim_ids": [
+        "1562687746743599246"
+      ]
     }
   },
-  "win_last_id": "1562573316324204649",
-  "team_last_id": "1562684653641662538",
+  "win_last_id": "1562687746743599246",
+  "team_last_id": "1562688208419160106",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -10150,6 +10180,13 @@
         "time": "2026-10-21T18:03:01+00:00",
         "block": "18:00-21:00",
         "points": 38
+      },
+      "1562687745300893749:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1562687745300893749",
+        "time": "2026-10-22T04:43:06+00:00",
+        "block": "03:00-06:00",
+        "points": 16
       }
     }
   },
