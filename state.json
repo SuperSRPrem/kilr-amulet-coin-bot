@@ -1469,7 +1469,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-22T19:19:42+00:00",
+  "last_seen_time": "2026-10-22T20:23:37+00:00",
   "current_scores": {
     "rRgcc": {
       "points": 10.43,
@@ -2027,9 +2027,9 @@
       "last_score_time": "2026-10-21T18:03:01+00:00"
     },
     "4uLEq": {
-      "points": 2.4,
-      "match_count": 1,
-      "last_score_time": "2026-10-21T18:03:01+00:00"
+      "points": 9.87,
+      "match_count": 2,
+      "last_score_time": "2026-10-22T20:23:37+00:00"
     },
     "bkcMc": {
       "points": 2.39,
@@ -2640,10 +2640,25 @@
       "points": 1.28,
       "match_count": 1,
       "last_score_time": "2026-10-22T19:19:42+00:00"
+    },
+    "cwv5k": {
+      "points": 21.41,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T20:23:37+00:00"
+    },
+    "rjCrq": {
+      "points": 19.19,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T20:23:37+00:00"
+    },
+    "Btjj8": {
+      "points": 0.93,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T20:23:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-21T00:30:00+00:00",
-  "current_cycle_match_count": 32,
+  "current_cycle_match_count": 33,
   "last_announced_event_time": "2026-10-21T00:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-22",
@@ -2799,6 +2814,18 @@
           "World 1": 1
         },
         "qKqqc": {
+          "World 1": 1
+        },
+        "cwv5k": {
+          "World 1": 1
+        },
+        "rjCrq": {
+          "World 1": 1
+        },
+        "4uLEq": {
+          "World 1": 1
+        },
+        "Btjj8": {
           "World 1": 1
         }
       }
@@ -9155,10 +9182,32 @@
       "claim_ids": [
         "1562908349387903138"
       ]
+    },
+    "1562924430861140112": {
+      "id": "1562924430861140112",
+      "time": "2026-10-22T20:23:37+00:00",
+      "map": "World 1",
+      "prev": "11.80084",
+      "curr": "11.87770",
+      "contest": false,
+      "accounts": [
+        "cwv5k",
+        "rjCrq",
+        "4uLEq",
+        "Btjj8"
+      ],
+      "claims": [
+        "1471367580160622807"
+      ],
+      "points": 52,
+      "posted": false,
+      "claim_ids": [
+        "1562924432459309127"
+      ]
     }
   },
-  "win_last_id": "1562908349387903138",
-  "team_last_id": "1562922327207968799",
+  "win_last_id": "1562924432459309127",
+  "team_last_id": "1562926230485995582",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -11451,6 +11500,13 @@
         "time": "2026-10-22T19:14:12+00:00",
         "block": "18:00-21:00",
         "points": 35
+      },
+      "1562924430861140112:1471367580160622807": {
+        "user": "1471367580160622807",
+        "game": "1562924430861140112",
+        "time": "2026-10-22T20:23:37+00:00",
+        "block": "18:00-21:00",
+        "points": 52
       }
     }
   },
