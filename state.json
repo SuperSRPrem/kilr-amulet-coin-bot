@@ -2101,8 +2101,8 @@
   "current_cycle_match_count": 16,
   "last_announced_event_time": "2026-10-21T00:30:00+00:00",
   "daily_quests": {
-    "date": "2026-10-21",
-    "created_at": "2026-10-21T00:01:26.581461+00:00",
+    "date": "2026-10-22",
+    "created_at": "2026-10-22T00:01:32.619291+00:00",
     "quests": {
       "easy": {
         "level": "easy",
@@ -2119,10 +2119,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 3,
+        "map": "World 2",
+        "target": 4,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2131,10 +2131,10 @@
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2143,65 +2143,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "4tZ6i": {
-          "Caucasia": 1
-        },
-        "qrmnM": {
-          "Caucasia": 1
-        },
-        "RgdLL": {
-          "Caucasia": 1
-        },
-        "8VkTJ": {
-          "Caucasia": 1
-        },
-        "rb2Q7": {
-          "Caucasia": 1
-        },
-        "dRjGJ": {
-          "Caucasia": 1
-        },
-        "NND9w": {
-          "Caucasia": 1
-        },
-        "9NGdc": {
-          "Caucasia": 1
-        },
-        "2DK2k": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "rRgcc": {
-          "World 2": 1
-        },
-        "wSM3X": {
-          "World 2": 1
-        },
-        "y5BwR": {
-          "World 2": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Mountains 2",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 1",
+        "text": "Win 3 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -8105,7 +8067,7 @@
     }
   },
   "win_last_id": "1562573316324204649",
-  "team_last_id": "1562612888307241001",
+  "team_last_id": "1562616839429824564",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
