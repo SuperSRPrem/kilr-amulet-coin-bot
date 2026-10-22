@@ -1469,7 +1469,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-22T15:54:36+00:00",
+  "last_seen_time": "2026-10-22T16:15:41+00:00",
   "current_scores": {
     "rRgcc": {
       "points": 10.43,
@@ -2535,10 +2535,30 @@
       "points": 0.78,
       "match_count": 1,
       "last_score_time": "2026-10-22T15:54:36+00:00"
+    },
+    "79V8v": {
+      "points": 14.34,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T16:15:41+00:00"
+    },
+    "GrVy8": {
+      "points": 12.85,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T16:15:41+00:00"
+    },
+    "5YD2L": {
+      "points": 9.09,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T16:15:41+00:00"
+    },
+    "QDvGG": {
+      "points": 2.72,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T16:15:41+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-21T00:30:00+00:00",
-  "current_cycle_match_count": 26,
+  "current_cycle_match_count": 27,
   "last_announced_event_time": "2026-10-21T00:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-22",
@@ -8921,10 +8941,30 @@
       "claim_ids": [
         "1562856734211702785"
       ]
+    },
+    "1562862031806267515": {
+      "id": "1562862031806267515",
+      "time": "2026-10-22T16:15:41+00:00",
+      "map": "Australia",
+      "prev": "11.94752",
+      "curr": "12.00843",
+      "contest": false,
+      "accounts": [
+        "79V8v",
+        "GrVy8",
+        "5YD2L",
+        "QDvGG"
+      ],
+      "claims": [],
+      "points": 40,
+      "posted": false,
+      "claim_ids": [
+        "1562862033345585207"
+      ]
     }
   },
-  "win_last_id": "1562856734211702785",
-  "team_last_id": "1562858216982057001",
+  "win_last_id": "1562862033345585207",
+  "team_last_id": "1562862031806267515",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
