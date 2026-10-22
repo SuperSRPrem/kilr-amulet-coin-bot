@@ -1469,7 +1469,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-22T04:58:20+00:00",
+  "last_seen_time": "2026-10-22T13:03:14+00:00",
   "current_scores": {
     "rRgcc": {
       "points": 10.43,
@@ -2120,10 +2120,25 @@
       "points": 4.26,
       "match_count": 1,
       "last_score_time": "2026-10-22T04:58:20+00:00"
+    },
+    "vt2Mr": {
+      "points": 18.1,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T13:03:14+00:00"
+    },
+    "CmWdw": {
+      "points": 9.21,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T13:03:14+00:00"
+    },
+    "QVjGC": {
+      "points": 0.69,
+      "match_count": 1,
+      "last_score_time": "2026-10-22T13:03:14+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-21T00:30:00+00:00",
-  "current_cycle_match_count": 19,
+  "current_cycle_match_count": 20,
   "last_announced_event_time": "2026-10-21T00:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-22",
@@ -8150,10 +8165,31 @@
       "claim_ids": [
         "1562691571793535040"
       ]
+    },
+    "1562813599708225556": {
+      "id": "1562813599708225556",
+      "time": "2026-10-22T13:03:14+00:00",
+      "map": "North America",
+      "prev": "10.65811",
+      "curr": "10.70315",
+      "contest": false,
+      "accounts": [
+        "vt2Mr",
+        "CmWdw",
+        "QVjGC"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 30,
+      "posted": false,
+      "claim_ids": [
+        "1562813602887368755"
+      ]
     }
   },
-  "win_last_id": "1562691571793535040",
-  "team_last_id": "1562813059184201751",
+  "win_last_id": "1562813602887368755",
+  "team_last_id": "1562816530423746574",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -10257,6 +10293,13 @@
         "time": "2026-10-22T04:58:20+00:00",
         "block": "03:00-06:00",
         "points": 10
+      },
+      "1562813599708225556:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1562813599708225556",
+        "time": "2026-10-22T13:03:14+00:00",
+        "block": "12:00-15:00",
+        "points": 30
       }
     }
   },
