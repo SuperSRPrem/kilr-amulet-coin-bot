@@ -8477,14 +8477,14 @@
         "1402645821505278114"
       ],
       "points": 210,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562831793982410873"
       ]
     }
   },
   "win_last_id": "1562831793982410873",
-  "team_last_id": "1562835657242710167",
+  "team_last_id": "1562839431948537977",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
