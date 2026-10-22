@@ -9151,14 +9151,14 @@
       ],
       "claims": [],
       "points": 47,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1562908349387903138"
       ]
     }
   },
   "win_last_id": "1562908349387903138",
-  "team_last_id": "1562914878526726297",
+  "team_last_id": "1562918654050308107",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
