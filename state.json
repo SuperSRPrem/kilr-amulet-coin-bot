@@ -1476,7 +1476,7 @@
       "eligible_match_count": 36
     }
   ],
-  "last_seen_time": "2026-10-23T07:17:02+00:00",
+  "last_seen_time": "2026-10-23T10:58:22+00:00",
   "current_scores": {
     "JR797": {
       "points": 47.41,
@@ -1557,10 +1557,25 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-10-23T07:17:02+00:00"
+    },
+    "9B9ng": {
+      "points": 33.55,
+      "match_count": 1,
+      "last_score_time": "2026-10-23T10:58:22+00:00"
+    },
+    "JFE2Y": {
+      "points": 2.26,
+      "match_count": 1,
+      "last_score_time": "2026-10-23T10:58:22+00:00"
+    },
+    "Mk5Bq": {
+      "points": 0.2,
+      "match_count": 1,
+      "last_score_time": "2026-10-23T10:58:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-22T23:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-10-22T23:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-23",
@@ -8182,10 +8197,29 @@
       "claim_ids": [
         "1563088863558238291"
       ]
+    },
+    "1563144567883046994": {
+      "id": "1563144567883046994",
+      "time": "2026-10-23T10:58:22+00:00",
+      "map": "Scandinavia",
+      "prev": "11.37531",
+      "curr": "11.43239",
+      "contest": false,
+      "accounts": [
+        "9B9ng",
+        "JFE2Y",
+        "Mk5Bq"
+      ],
+      "claims": [],
+      "points": 44,
+      "posted": false,
+      "claim_ids": [
+        "1563144570290577550"
+      ]
     }
   },
-  "win_last_id": "1563088863558238291",
-  "team_last_id": "1563141231318532118",
+  "win_last_id": "1563144570290577550",
+  "team_last_id": "1563145333050179615",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
