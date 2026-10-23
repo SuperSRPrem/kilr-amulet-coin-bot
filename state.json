@@ -1476,7 +1476,7 @@
       "eligible_match_count": 36
     }
   ],
-  "last_seen_time": "2026-10-23T12:06:49+00:00",
+  "last_seen_time": "2026-10-23T12:54:12+00:00",
   "current_scores": {
     "JR797": {
       "points": 47.41,
@@ -1667,10 +1667,15 @@
       "points": 0.4,
       "match_count": 1,
       "last_score_time": "2026-10-23T12:06:49+00:00"
+    },
+    "vt2Mr": {
+      "points": 36.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-23T12:54:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-22T23:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-10-22T23:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-23",
@@ -8400,10 +8405,29 @@
       "claim_ids": [
         "1563161793768071198"
       ]
+    },
+    "1563173721248768013": {
+      "id": "1563173721248768013",
+      "time": "2026-10-23T12:54:12+00:00",
+      "map": "Scandinavia",
+      "prev": "11.39107",
+      "curr": "11.44812",
+      "contest": false,
+      "accounts": [
+        "vt2Mr"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 36,
+      "posted": false,
+      "claim_ids": [
+        "1563173724021325825"
+      ]
     }
   },
-  "win_last_id": "1563161793768071198",
-  "team_last_id": "1563171141898469377",
+  "win_last_id": "1563173724021325825",
+  "team_last_id": "1563175226303324211",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -10731,6 +10755,13 @@
         "time": "2026-10-23T12:06:49+00:00",
         "block": "12:00-15:00",
         "points": 47
+      },
+      "1563173721248768013:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1563173721248768013",
+        "time": "2026-10-23T12:54:12+00:00",
+        "block": "12:00-15:00",
+        "points": 36
       }
     }
   },
