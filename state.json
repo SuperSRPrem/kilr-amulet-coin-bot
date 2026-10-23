@@ -8606,14 +8606,14 @@
         "879398730762186752"
       ],
       "points": 268,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563195799397990442"
       ]
     }
   },
   "win_last_id": "1563195799397990442",
-  "team_last_id": "1563201416615432303",
+  "team_last_id": "1563205508565831833",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
