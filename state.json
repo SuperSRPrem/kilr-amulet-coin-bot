@@ -8396,14 +8396,14 @@
         "1402645821505278114"
       ],
       "points": 47,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563161793768071198"
       ]
     }
   },
   "win_last_id": "1563161793768071198",
-  "team_last_id": "1563167821368655923",
+  "team_last_id": "1563171141898469377",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
