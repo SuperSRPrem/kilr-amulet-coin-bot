@@ -8212,14 +8212,14 @@
       ],
       "claims": [],
       "points": 44,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563144570290577550"
       ]
     }
   },
   "win_last_id": "1563144570290577550",
-  "team_last_id": "1563148794911129633",
+  "team_last_id": "1563152659198779393",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
