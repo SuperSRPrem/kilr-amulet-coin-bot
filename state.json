@@ -1482,16 +1482,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-10-22T23:00:00+00:00",
   "daily_quests": {
-    "date": "2026-10-22",
-    "created_at": "2026-10-22T00:01:32.619291+00:00",
+    "date": "2026-10-23",
+    "created_at": "2026-10-23T00:01:31.993928+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 2",
+        "map": "White Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1500,10 +1500,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 4,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on World 2",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1511,11 +1511,10 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
-        "target": 6,
+        "kind": "contest_wins",
+        "target": 2,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win 2 Contests",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1525,156 +1524,11 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "JR797": {
-          "World 1": 1
-        },
-        "bTv72": {
-          "World 1": 1
-        },
-        "8vtt7": {
-          "World 1": 1
-        },
-        "TL5Lq": {
-          "World 1": 1
-        },
-        "MNmbm": {
-          "World 1": 1
-        },
-        "wLLy5": {
-          "World 1": 1
-        },
-        "bvNBt": {
-          "World 1": 1
-        },
-        "RRCgr": {
-          "World 1": 1
-        },
-        "rT8bV": {
-          "World 1": 1
-        },
-        "_tFM4": {
-          "World 1": 1
-        },
-        "YwgBq": {
-          "World 1": 1
-        },
-        "w-dgB": {
-          "World 1": 1
-        },
-        "TVvmR": {
-          "World 1": 1
-        },
-        "B8bbq": {
-          "World 1": 1
-        },
-        "Nrx7R": {
-          "World 1": 1
-        },
-        "jnYmr": {
-          "World 1": 1
-        },
-        "tTgb5": {
-          "World 1": 1
-        },
-        "ntQMt": {
-          "World 1": 2
-        },
-        "NrYMd": {
-          "World 1": 1
-        },
-        "dc5cb": {
-          "World 1": 1
-        },
-        "LVVvv": {
-          "World 1": 1
-        },
-        "t82L7": {
-          "World 1": 1
-        },
-        "bddrk": {
-          "World 1": 1
-        },
-        "yKMKd": {
-          "World 1": 1
-        },
-        "sOtSV": {
-          "World 1": 1
-        },
-        "Y8tCY": {
-          "World 1": 1
-        },
-        "DyBC8": {
-          "World 1": 1
-        },
-        "9wGKd": {
-          "World 1": 1
-        },
-        "VLTbJ": {
-          "World 1": 1
-        },
-        "Qvt85": {
-          "World 1": 1
-        },
-        "8tjB7": {
-          "World 1": 1
-        },
-        "c8RNC": {
-          "World 1": 1
-        },
-        "9Ny7L": {
-          "World 1": 1
-        },
-        "8dTdt": {
-          "World 1": 1
-        },
-        "TvR7M": {
-          "World 1": 1
-        },
-        "ymvy5": {
-          "World 1": 1
-        },
-        "qKqqc": {
-          "World 1": 1
-        },
-        "cwv5k": {
-          "World 1": 1
-        },
-        "rjCrq": {
-          "World 1": 1
-        },
-        "4uLEq": {
-          "World 1": 1
-        },
-        "Btjj8": {
-          "World 1": 1
-        },
-        "gQJkK": {
-          "World 1": 1
-        },
-        "c5J2r": {
-          "World 1": 1
-        },
-        "tTf2Q": {
-          "World 1": 1
-        },
-        "bqr58": {
-          "World 1": 1
-        },
-        "N5d5v": {
-          "World 1": 1
-        },
-        "KRb7J": {
-          "World 1": 1
-        },
-        "vt2Mr": {
-          "World 1": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "quests": {
       "easy": {
         "text": "Win 4 times on Mountains 2",
@@ -1683,13 +1537,13 @@
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -8115,7 +7969,7 @@
     }
   },
   "win_last_id": "1562954101858500609",
-  "team_last_id": "1562975130051936320",
+  "team_last_id": "1562979129618604114",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
