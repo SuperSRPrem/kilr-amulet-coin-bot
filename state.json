@@ -8175,14 +8175,14 @@
         "879398730762186752"
       ],
       "points": 130,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563088863558238291"
       ]
     }
   },
   "win_last_id": "1563088863558238291",
-  "team_last_id": "1563096008630734849",
+  "team_last_id": "1563099986827284531",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
