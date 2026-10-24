@@ -8535,14 +8535,14 @@
         "879398730762186752"
       ],
       "points": 158,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563463963071750227"
       ]
     }
   },
   "win_last_id": "1563463963071750227",
-  "team_last_id": "1563469620868947979",
+  "team_last_id": "1563473559429447791",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
