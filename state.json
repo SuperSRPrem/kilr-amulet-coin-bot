@@ -1483,7 +1483,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-24T05:10:39+00:00",
+  "last_seen_time": "2026-10-24T05:41:23+00:00",
   "current_scores": {
     "bRvcw": {
       "points": 10.71,
@@ -1514,10 +1514,20 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-10-24T05:10:39+00:00"
+    },
+    "q71an": {
+      "points": 13.63,
+      "match_count": 1,
+      "last_score_time": "2026-10-24T05:41:23+00:00"
+    },
+    "rgn7Q": {
+      "points": 3.37,
+      "match_count": 1,
+      "last_score_time": "2026-10-24T05:41:23+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-23T19:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-10-23T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-24",
@@ -8421,14 +8431,32 @@
         "1402645821505278114"
       ],
       "points": 86,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563419454920990761"
       ]
+    },
+    "1563427181500309655": {
+      "id": "1563427181500309655",
+      "time": "2026-10-24T05:41:23+00:00",
+      "map": "Scandinavia",
+      "prev": "11.40948",
+      "curr": "11.43639",
+      "contest": false,
+      "accounts": [
+        "q71an",
+        "rgn7Q"
+      ],
+      "claims": [],
+      "points": 17,
+      "posted": false,
+      "claim_ids": [
+        "1563427182682837003"
+      ]
     }
   },
-  "win_last_id": "1563419454920990761",
-  "team_last_id": "1563424588866650214",
+  "win_last_id": "1563427182682837003",
+  "team_last_id": "1563428200585891862",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
