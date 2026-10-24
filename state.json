@@ -8449,14 +8449,14 @@
       ],
       "claims": [],
       "points": 17,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563427182682837003"
       ]
     }
   },
   "win_last_id": "1563427182682837003",
-  "team_last_id": "1563432186617659445",
+  "team_last_id": "1563435798651478017",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
