@@ -1483,10 +1483,21 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-23T18:51:50+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-24T00:45:04+00:00",
+  "current_scores": {
+    "bRvcw": {
+      "points": 10.71,
+      "match_count": 1,
+      "last_score_time": "2026-10-24T00:45:04+00:00"
+    },
+    "4uLEq": {
+      "points": 1.29,
+      "match_count": 1,
+      "last_score_time": "2026-10-24T00:45:04+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-23T19:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-23T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-24",
@@ -8352,10 +8363,30 @@
       "claim_ids": [
         "1563263717301293057"
       ]
+    },
+    "1563352611669680302": {
+      "id": "1563352611669680302",
+      "time": "2026-10-24T00:45:04+00:00",
+      "map": "Asia",
+      "prev": "11.46549",
+      "curr": "11.48446",
+      "contest": false,
+      "accounts": [
+        "bRvcw",
+        "4uLEq"
+      ],
+      "claims": [
+        "1471367580160622807"
+      ],
+      "points": 14,
+      "posted": false,
+      "claim_ids": [
+        "1563352612672118926"
+      ]
     }
   },
-  "win_last_id": "1563263717301293057",
-  "team_last_id": "1563348992597823567",
+  "win_last_id": "1563352612672118926",
+  "team_last_id": "1563352611669680302",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -10837,6 +10868,13 @@
         "time": "2026-10-23T18:51:50+00:00",
         "block": "18:00-21:00",
         "points": 43
+      },
+      "1563352611669680302:1471367580160622807": {
+        "user": "1471367580160622807",
+        "game": "1563352611669680302",
+        "time": "2026-10-24T00:45:04+00:00",
+        "block": "00:00-03:00",
+        "points": 14
       }
     }
   },
