@@ -1483,7 +1483,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-10-24T15:05:11+00:00",
+  "last_seen_time": "2026-10-24T19:10:05+00:00",
   "current_scores": {
     "bRvcw": {
       "points": 10.71,
@@ -1646,9 +1646,9 @@
       "last_score_time": "2026-10-24T13:15:38+00:00"
     },
     "DyBC8": {
-      "points": 20.79,
-      "match_count": 2,
-      "last_score_time": "2026-10-24T14:11:47+00:00"
+      "points": 38.989999999999995,
+      "match_count": 3,
+      "last_score_time": "2026-10-24T19:10:05+00:00"
     },
     "j2vq5": {
       "points": 2.27,
@@ -1809,10 +1809,15 @@
       "points": 3.21,
       "match_count": 1,
       "last_score_time": "2026-10-24T15:05:11+00:00"
+    },
+    "YHZG-": {
+      "points": 8.8,
+      "match_count": 1,
+      "last_score_time": "2026-10-24T19:10:05+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-23T19:30:00+00:00",
-  "current_cycle_match_count": 14,
+  "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-10-23T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-24",
@@ -9041,10 +9046,28 @@
       "claim_ids": [
         "1563569070656331858"
       ]
+    },
+    "1563630695245549639": {
+      "id": "1563630695245549639",
+      "time": "2026-10-24T19:10:05+00:00",
+      "map": "Scandinavia",
+      "prev": "11.60022",
+      "curr": "11.64283",
+      "contest": false,
+      "accounts": [
+        "DyBC8",
+        "YHZG-"
+      ],
+      "claims": [],
+      "points": 28,
+      "posted": false,
+      "claim_ids": [
+        "1563630696252182611"
+      ]
     }
   },
-  "win_last_id": "1563569070656331858",
-  "team_last_id": "1563628418635923518",
+  "win_last_id": "1563630696252182611",
+  "team_last_id": "1563632103210487909",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
