@@ -8922,14 +8922,14 @@
         "811175434548150292"
       ],
       "points": 22,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563786160264708177"
       ]
     }
   },
   "win_last_id": "1563786160264708177",
-  "team_last_id": "1563790625055187066",
+  "team_last_id": "1563794273336434790",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
