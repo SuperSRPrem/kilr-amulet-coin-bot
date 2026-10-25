@@ -9280,14 +9280,14 @@
         "1478994639603372206"
       ],
       "points": 37,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563837462130724910"
       ]
     }
   },
   "win_last_id": "1563837462130724910",
-  "team_last_id": "1563843509344018473",
+  "team_last_id": "1563847388563509249",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
