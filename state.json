@@ -1490,7 +1490,7 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-10-25T08:40:50+00:00",
+  "last_seen_time": "2026-10-25T08:51:40+00:00",
   "current_scores": {
     "YVYDb": {
       "points": 4.91,
@@ -1703,9 +1703,9 @@
       "last_score_time": "2026-10-25T08:40:50+00:00"
     },
     "Oyf9y": {
-      "points": 5.58,
-      "match_count": 1,
-      "last_score_time": "2026-10-25T08:40:50+00:00"
+      "points": 42.58,
+      "match_count": 2,
+      "last_score_time": "2026-10-25T08:51:40+00:00"
     },
     "7jKy7": {
       "points": 4.52,
@@ -1744,7 +1744,7 @@
     }
   },
   "current_cycle_started_at": "2026-10-24T23:00:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-10-24T23:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-25",
@@ -9265,10 +9265,29 @@
       "claim_ids": [
         "1563834727268618343"
       ]
+    },
+    "1563837460943868024": {
+      "id": "1563837460943868024",
+      "time": "2026-10-25T08:51:40+00:00",
+      "map": "Asia",
+      "prev": "11.58419",
+      "curr": "11.64260",
+      "contest": false,
+      "accounts": [
+        "Oyf9y"
+      ],
+      "claims": [
+        "1478994639603372206"
+      ],
+      "points": 37,
+      "posted": false,
+      "claim_ids": [
+        "1563837462130724910"
+      ]
     }
   },
-  "win_last_id": "1563834727268618343",
-  "team_last_id": "1563835596672340009",
+  "win_last_id": "1563837462130724910",
+  "team_last_id": "1563839862845612113",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -12009,6 +12028,13 @@
         "time": "2026-10-25T08:40:50+00:00",
         "block": "06:00-09:00",
         "points": 38
+      },
+      "1563837460943868024:1478994639603372206": {
+        "user": "1478994639603372206",
+        "game": "1563837460943868024",
+        "time": "2026-10-25T08:51:40+00:00",
+        "block": "06:00-09:00",
+        "points": 37
       }
     }
   },
