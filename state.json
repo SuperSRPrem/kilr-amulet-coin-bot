@@ -9743,14 +9743,14 @@
         "1095764905476501574"
       ],
       "points": 39,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563977277425848411"
       ]
     }
   },
   "win_last_id": "1563977277425848411",
-  "team_last_id": "1563983155713675386",
+  "team_last_id": "1563986709224358042",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
