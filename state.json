@@ -1497,12 +1497,12 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-25T17:30:31+00:00",
+  "last_seen_time": "2026-10-25T17:39:59+00:00",
   "current_scores": {
     "DyBC8": {
-      "points": 67.41,
-      "match_count": 3,
-      "last_score_time": "2026-10-25T17:30:31+00:00"
+      "points": 68.11,
+      "match_count": 4,
+      "last_score_time": "2026-10-25T17:39:59+00:00"
     },
     "cmJqV": {
       "points": 7.31,
@@ -1745,9 +1745,9 @@
       "last_score_time": "2026-10-25T16:34:29+00:00"
     },
     "vt2Mr": {
-      "points": 79.95,
-      "match_count": 3,
-      "last_score_time": "2026-10-25T17:30:31+00:00"
+      "points": 120.27000000000001,
+      "match_count": 4,
+      "last_score_time": "2026-10-25T17:39:59+00:00"
     },
     "KMtMq": {
       "points": 5.25,
@@ -1808,10 +1808,15 @@
       "points": 1.41,
       "match_count": 1,
       "last_score_time": "2026-10-25T17:30:31+00:00"
+    },
+    "8NyUW": {
+      "points": 0.98,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T17:39:59+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-25T12:00:00+00:00",
-  "current_cycle_match_count": 11,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-10-25T12:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-25",
@@ -9607,7 +9612,7 @@
         "1345384809295511563"
       ],
       "points": 36,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563962235632750664"
       ]
@@ -9628,7 +9633,7 @@
         "1321954579503513640"
       ],
       "points": 54,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563963284338507807"
       ]
@@ -9655,10 +9660,26 @@
       "claim_ids": [
         "1563968031896641672"
       ]
+    },
+    "1563970407936164024": {
+      "id": "1563970407936164024",
+      "time": "2026-10-25T17:39:59+00:00",
+      "map": "Scandinavia",
+      "prev": "11.65992",
+      "curr": "11.72612",
+      "contest": false,
+      "accounts": [
+        "vt2Mr",
+        "8NyUW",
+        "DyBC8"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1563968031896641672",
-  "team_last_id": "1563968030793408715",
+  "team_last_id": "1563971705188262019",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
