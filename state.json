@@ -9330,14 +9330,14 @@
         "1478994639603372206"
       ],
       "points": 37,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563855502348386325"
       ]
     }
   },
   "win_last_id": "1563855502348386325",
-  "team_last_id": "1563862434236731433",
+  "team_last_id": "1563865934551326831",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
