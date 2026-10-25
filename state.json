@@ -1497,12 +1497,12 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-25T12:38:49+00:00",
+  "last_seen_time": "2026-10-25T13:10:07+00:00",
   "current_scores": {
     "DyBC8": {
-      "points": 33.67,
-      "match_count": 1,
-      "last_score_time": "2026-10-25T12:38:49+00:00"
+      "points": 41.63,
+      "match_count": 2,
+      "last_score_time": "2026-10-25T13:10:07+00:00"
     },
     "cmJqV": {
       "points": 7.31,
@@ -1523,10 +1523,20 @@
       "points": 0.72,
       "match_count": 1,
       "last_score_time": "2026-10-25T12:38:49+00:00"
+    },
+    "vQzdi": {
+      "points": 22.65,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T13:10:07+00:00"
+    },
+    "KVMmw": {
+      "points": 9.39,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T13:10:07+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-25T12:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-10-25T12:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-25",
@@ -9120,14 +9130,33 @@
         "1095764905476501574"
       ],
       "points": 51,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1563894622374338591"
       ]
+    },
+    "1563902499625377865": {
+      "id": "1563902499625377865",
+      "time": "2026-10-25T13:10:07+00:00",
+      "map": "World 1",
+      "prev": "11.40204",
+      "curr": "11.46547",
+      "contest": false,
+      "accounts": [
+        "vQzdi",
+        "KVMmw",
+        "DyBC8"
+      ],
+      "claims": [],
+      "points": 45,
+      "posted": false,
+      "claim_ids": [
+        "1563902500745121803"
+      ]
     }
   },
-  "win_last_id": "1563894622374338591",
-  "team_last_id": "1563900224995463250",
+  "win_last_id": "1563902500745121803",
+  "team_last_id": "1563903442810835055",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
