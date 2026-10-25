@@ -1497,10 +1497,36 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-25T10:03:21+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-25T12:38:49+00:00",
+  "current_scores": {
+    "DyBC8": {
+      "points": 33.67,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T12:38:49+00:00"
+    },
+    "cmJqV": {
+      "points": 7.31,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T12:38:49+00:00"
+    },
+    "VVqTV": {
+      "points": 2.18,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T12:38:49+00:00"
+    },
+    "8RT2q": {
+      "points": 1.12,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T12:38:49+00:00"
+    },
+    "TtMTc": {
+      "points": 0.72,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T12:38:49+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-25T12:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-25T12:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-25",
@@ -9075,10 +9101,33 @@
       "claim_ids": [
         "1563855502348386325"
       ]
+    },
+    "1563894621212254399": {
+      "id": "1563894621212254399",
+      "time": "2026-10-25T12:38:49+00:00",
+      "map": "World 1",
+      "prev": "11.37250",
+      "curr": "11.44390",
+      "contest": false,
+      "accounts": [
+        "DyBC8",
+        "cmJqV",
+        "VVqTV",
+        "8RT2q",
+        "TtMTc"
+      ],
+      "claims": [
+        "1095764905476501574"
+      ],
+      "points": 51,
+      "posted": false,
+      "claim_ids": [
+        "1563894622374338591"
+      ]
     }
   },
-  "win_last_id": "1563855502348386325",
-  "team_last_id": "1563892670932451432",
+  "win_last_id": "1563894622374338591",
+  "team_last_id": "1563896332022845480",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -11833,6 +11882,13 @@
         "time": "2026-10-25T10:03:21+00:00",
         "block": "09:00-12:00",
         "points": 37
+      },
+      "1563894621212254399:1095764905476501574": {
+        "user": "1095764905476501574",
+        "game": "1563894621212254399",
+        "time": "2026-10-25T12:38:49+00:00",
+        "block": "12:00-15:00",
+        "points": 51
       }
     }
   },
