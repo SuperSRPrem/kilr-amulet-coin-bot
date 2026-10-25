@@ -1490,10 +1490,36 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-10-24T21:57:20+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-25T02:28:22+00:00",
+  "current_scores": {
+    "YVYDb": {
+      "points": 4.91,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T02:28:22+00:00"
+    },
+    "vMTtv": {
+      "points": 4.87,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T02:28:22+00:00"
+    },
+    "vtqnn": {
+      "points": 3.7,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T02:28:22+00:00"
+    },
+    "zZBRm": {
+      "points": 3.59,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T02:28:22+00:00"
+    },
+    "wSM3X": {
+      "points": 2.92,
+      "match_count": 1,
+      "last_score_time": "2026-10-25T02:28:22+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-24T23:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-24T23:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-25",
@@ -8799,10 +8825,31 @@
       "claim_ids": [
         "1563672795106512988"
       ]
+    },
+    "1563740996234117281": {
+      "id": "1563740996234117281",
+      "time": "2026-10-25T02:28:22+00:00",
+      "map": "Asia",
+      "prev": "11.39859",
+      "curr": "11.43028",
+      "contest": false,
+      "accounts": [
+        "YVYDb",
+        "vMTtv",
+        "vtqnn",
+        "zZBRm",
+        "wSM3X"
+      ],
+      "claims": [],
+      "points": 21,
+      "posted": false,
+      "claim_ids": [
+        "1563740997257535570"
+      ]
     }
   },
-  "win_last_id": "1563672795106512988",
-  "team_last_id": "1563737586516627547",
+  "win_last_id": "1563740997257535570",
+  "team_last_id": "1563741683395461282",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
