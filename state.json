@@ -1504,7 +1504,7 @@
       "eligible_match_count": 28
     }
   ],
-  "last_seen_time": "2026-10-26T17:13:35+00:00",
+  "last_seen_time": "2026-10-26T18:03:11+00:00",
   "current_scores": {
     "RMrQ5": {
       "points": 24.53,
@@ -1545,10 +1545,25 @@
       "points": 0.34,
       "match_count": 1,
       "last_score_time": "2026-10-26T17:13:35+00:00"
+    },
+    "wSM3X": {
+      "points": 32.83,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T18:03:11+00:00"
+    },
+    "Rvq22": {
+      "points": 11.05,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T18:03:11+00:00"
+    },
+    "k3Kux": {
+      "points": 5.12,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T18:03:11+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-26T16:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-10-26T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-26",
@@ -1638,7 +1653,7 @@
           "Mare Nostrum": 1
         },
         "wSM3X": {
-          "Mare Nostrum": 1
+          "Mare Nostrum": 2
         },
         "GwvNG": {
           "Mare Nostrum": 1
@@ -1722,6 +1737,12 @@
           "Mare Nostrum": 1
         },
         "Kbw5W": {
+          "Mare Nostrum": 1
+        },
+        "Rvq22": {
+          "Mare Nostrum": 1
+        },
+        "k3Kux": {
           "Mare Nostrum": 1
         }
       }
@@ -9953,10 +9974,29 @@
       "claim_ids": [
         "1564326156646350942"
       ]
+    },
+    "1564338636886118701": {
+      "id": "1564338636886118701",
+      "time": "2026-10-26T18:03:11+00:00",
+      "map": "Mare Nostrum",
+      "prev": "11.54567",
+      "curr": "11.62314",
+      "contest": false,
+      "accounts": [
+        "wSM3X",
+        "Rvq22",
+        "k3Kux"
+      ],
+      "claims": [],
+      "points": 53,
+      "posted": false,
+      "claim_ids": [
+        "1564338638362513550"
+      ]
     }
   },
-  "win_last_id": "1564326156646350942",
-  "team_last_id": "1564338207514959972",
+  "win_last_id": "1564338638362513550",
+  "team_last_id": "1564341055946629173",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
