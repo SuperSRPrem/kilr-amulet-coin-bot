@@ -1497,7 +1497,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-26T15:54:57+00:00",
+  "last_seen_time": "2026-10-26T16:09:40+00:00",
   "current_scores": {
     "DyBC8": {
       "points": 84.24,
@@ -1545,9 +1545,9 @@
       "last_score_time": "2026-10-26T15:54:57+00:00"
     },
     "Z2Yfi": {
-      "points": 442.37,
-      "match_count": 10,
-      "last_score_time": "2026-10-26T15:54:57+00:00"
+      "points": 465.66,
+      "match_count": 11,
+      "last_score_time": "2026-10-26T16:09:40+00:00"
     },
     "vV8n8": {
       "points": 4.4,
@@ -2183,10 +2183,20 @@
       "points": 0.38,
       "match_count": 1,
       "last_score_time": "2026-10-26T15:54:57+00:00"
+    },
+    "aFm1L": {
+      "points": 10.71,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T16:09:40+00:00"
+    },
+    "EEm_u": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T16:09:40+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-25T12:00:00+00:00",
-  "current_cycle_match_count": 26,
+  "current_cycle_match_count": 27,
   "last_announced_event_time": "2026-10-25T12:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-26",
@@ -2246,7 +2256,7 @@
         "Z2Yfi": {
           "Scandinavia": 1,
           "Mare Nostrum": 1,
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "8kDkB": {
           "Mare Nostrum": 1
@@ -2345,6 +2355,12 @@
           "Caucasia": 1
         },
         "L2jcn": {
+          "Caucasia": 1
+        },
+        "aFm1L": {
+          "Caucasia": 1
+        },
+        "EEm_u": {
           "Caucasia": 1
         }
       }
@@ -10476,10 +10492,32 @@
       "claim_ids": [
         "1564306382314803203"
       ]
+    },
+    "1564310070932541571": {
+      "id": "1564310070932541571",
+      "time": "2026-10-26T16:09:40+00:00",
+      "map": "Caucasia",
+      "prev": "11.45310",
+      "curr": "11.50692",
+      "contest": false,
+      "accounts": [
+        "Z2Yfi",
+        "aFm1L",
+        "EEm_u"
+      ],
+      "claims": [
+        "1239294415588163644",
+        "1402645821505278114"
+      ],
+      "points": 35,
+      "posted": false,
+      "claim_ids": [
+        "1564310072190963763"
+      ]
     }
   },
-  "win_last_id": "1564306382314803203",
-  "team_last_id": "1564307568866627597",
+  "win_last_id": "1564310072190963763",
+  "team_last_id": "1564310070932541571",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -13402,6 +13440,20 @@
         "time": "2026-10-26T15:54:57+00:00",
         "block": "15:00-18:00",
         "points": 44
+      },
+      "1564310070932541571:1239294415588163644": {
+        "user": "1239294415588163644",
+        "game": "1564310070932541571",
+        "time": "2026-10-26T16:09:40+00:00",
+        "block": "15:00-18:00",
+        "points": 35
+      },
+      "1564310070932541571:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1564310070932541571",
+        "time": "2026-10-26T16:09:40+00:00",
+        "block": "15:00-18:00",
+        "points": 35
       }
     }
   },
