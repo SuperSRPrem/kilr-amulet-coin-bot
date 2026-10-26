@@ -1504,7 +1504,7 @@
       "eligible_match_count": 28
     }
   ],
-  "last_seen_time": "2026-10-26T21:36:03+00:00",
+  "last_seen_time": "2026-10-26T22:53:34+00:00",
   "current_scores": {
     "RMrQ5": {
       "points": 24.53,
@@ -1562,9 +1562,9 @@
       "last_score_time": "2026-10-26T18:03:11+00:00"
     },
     "vt2Mr": {
-      "points": 57.19,
-      "match_count": 3,
-      "last_score_time": "2026-10-26T20:27:18+00:00"
+      "points": 63.16,
+      "match_count": 4,
+      "last_score_time": "2026-10-26T22:53:34+00:00"
     },
     "vkMDV": {
       "points": 3.53,
@@ -1670,10 +1670,25 @@
       "points": 1.29,
       "match_count": 1,
       "last_score_time": "2026-10-26T21:36:03+00:00"
+    },
+    "io-QY": {
+      "points": 20.74,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T22:53:34+00:00"
+    },
+    "Rj8Tt": {
+      "points": 1.29,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T22:53:34+00:00"
+    },
+    "G5G59": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T22:53:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-26T16:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-10-26T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-26",
@@ -1886,7 +1901,8 @@
           "Mare Nostrum": 1
         },
         "vt2Mr": {
-          "Scandinavia": 1
+          "Scandinavia": 1,
+          "Middle East": 1
         },
         "vkMDV": {
           "Scandinavia": 1
@@ -1914,6 +1930,15 @@
         },
         "T9mnJ": {
           "Scandinavia": 1
+        },
+        "io-QY": {
+          "Middle East": 1
+        },
+        "Rj8Tt": {
+          "Middle East": 1
+        },
+        "G5G59": {
+          "Middle East": 1
         }
       }
     }
@@ -10257,10 +10282,32 @@
       "claim_ids": [
         "1564392214052999279"
       ]
+    },
+    "1564411715506929946": {
+      "id": "1564411715506929946",
+      "time": "2026-10-26T22:53:34+00:00",
+      "map": "Middle East",
+      "prev": "11.44260",
+      "curr": "11.48696",
+      "contest": false,
+      "accounts": [
+        "io-QY",
+        "vt2Mr",
+        "Rj8Tt",
+        "G5G59"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 28,
+      "posted": false,
+      "claim_ids": [
+        "1564411716664557729"
+      ]
     }
   },
-  "win_last_id": "1564392214052999279",
-  "team_last_id": "1564409578555445320",
+  "win_last_id": "1564411716664557729",
+  "team_last_id": "1564413654361706637",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -13239,6 +13286,13 @@
         "time": "2026-10-26T20:27:18+00:00",
         "block": "18:00-21:00",
         "points": 55
+      },
+      "1564411715506929946:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1564411715506929946",
+        "time": "2026-10-26T22:53:34+00:00",
+        "block": "21:00-00:00",
+        "points": 28
       }
     }
   },
