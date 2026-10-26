@@ -1504,10 +1504,36 @@
       "eligible_match_count": 28
     }
   ],
-  "last_seen_time": "2026-10-26T16:16:31+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-26T16:56:30+00:00",
+  "current_scores": {
+    "RMrQ5": {
+      "points": 24.53,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T16:56:30+00:00"
+    },
+    "j82V8": {
+      "points": 16.38,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T16:56:30+00:00"
+    },
+    "rachT": {
+      "points": 8.27,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T16:56:30+00:00"
+    },
+    "qqqtT": {
+      "points": 4.56,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T16:56:30+00:00"
+    },
+    "_jgG-": {
+      "points": 0.25,
+      "match_count": 1,
+      "last_score_time": "2026-10-26T16:56:30+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-26T16:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-26T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-26",
@@ -9855,14 +9881,37 @@
         "1402645821505278114"
       ],
       "points": 60,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1564311796553228389"
       ]
+    },
+    "1564321852271235145": {
+      "id": "1564321852271235145",
+      "time": "2026-10-26T16:56:30+00:00",
+      "map": "World 2",
+      "prev": "11.51358",
+      "curr": "11.59895",
+      "contest": false,
+      "accounts": [
+        "RMrQ5",
+        "j82V8",
+        "rachT",
+        "qqqtT",
+        "_jgG-"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 60,
+      "posted": false,
+      "claim_ids": [
+        "1564321853076414558"
+      ]
     }
   },
-  "win_last_id": "1564311796553228389",
-  "team_last_id": "1564319084357754941",
+  "win_last_id": "1564321853076414558",
+  "team_last_id": "1564323069781217442",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -12804,6 +12853,13 @@
         "user": "1402645821505278114",
         "game": "1564311795236208851",
         "time": "2026-10-26T16:16:31+00:00",
+        "block": "15:00-18:00",
+        "points": 60
+      },
+      "1564321852271235145:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1564321852271235145",
+        "time": "2026-10-26T16:56:30+00:00",
         "block": "15:00-18:00",
         "points": 60
       }
