@@ -10093,7 +10093,7 @@
         "1402645821505278114"
       ],
       "points": 47,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1564264409331794001"
       ]
@@ -10125,10 +10125,25 @@
       "claim_ids": [
         "1564268739287982103"
       ]
+    },
+    "1564273869580275844": {
+      "id": "1564273869580275844",
+      "time": "2026-10-26T13:45:50+00:00",
+      "map": "Mare Nostrum",
+      "prev": "11.17557",
+      "curr": "11.50057",
+      "contest": true,
+      "accounts": [
+        "Z2Yfi",
+        "8kDkB"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1564268739287982103",
-  "team_last_id": "1564269394262102090",
+  "team_last_id": "1564273869580275844",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
