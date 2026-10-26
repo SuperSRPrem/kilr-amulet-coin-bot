@@ -9939,14 +9939,14 @@
         "1402645821505278114"
       ],
       "points": 164,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1564245672222396467"
       ]
     }
   },
   "win_last_id": "1564245672222396467",
-  "team_last_id": "1564251034732466220",
+  "team_last_id": "1564255083653496923",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
