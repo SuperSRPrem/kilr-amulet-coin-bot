@@ -9888,14 +9888,14 @@
         "1345384809295511563"
       ],
       "points": 9,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1564164890095124551"
       ]
     }
   },
   "win_last_id": "1564164890095124551",
-  "team_last_id": "1564171835359109251",
+  "team_last_id": "1564175543124103240",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
