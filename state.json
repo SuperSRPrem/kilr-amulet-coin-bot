@@ -9912,14 +9912,14 @@
         "1423709238445867089"
       ],
       "points": 19,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1564230966543786040"
       ]
     }
   },
   "win_last_id": "1564230966543786040",
-  "team_last_id": "1564236423463444492",
+  "team_last_id": "1564239763232260219",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
