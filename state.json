@@ -1497,7 +1497,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-10-26T06:30:56+00:00",
+  "last_seen_time": "2026-10-26T06:32:46+00:00",
   "current_scores": {
     "DyBC8": {
       "points": 84.24,
@@ -1765,9 +1765,9 @@
       "last_score_time": "2026-10-25T16:36:57+00:00"
     },
     "8wL5S": {
-      "points": 19.2,
-      "match_count": 1,
-      "last_score_time": "2026-10-25T17:07:29+00:00"
+      "points": 28.2,
+      "match_count": 2,
+      "last_score_time": "2026-10-26T06:32:46+00:00"
     },
     "SlK1Y": {
       "points": 6.93,
@@ -1916,7 +1916,7 @@
     }
   },
   "current_cycle_started_at": "2026-10-25T12:00:00+00:00",
-  "current_cycle_match_count": 17,
+  "current_cycle_match_count": 18,
   "last_announced_event_time": "2026-10-25T12:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-26",
@@ -9873,10 +9873,29 @@
       "claim_ids": [
         "1564164428100804659"
       ]
+    },
+    "1564164889092558899": {
+      "id": "1564164889092558899",
+      "time": "2026-10-26T06:32:46+00:00",
+      "map": "North America",
+      "prev": "11.21135",
+      "curr": "11.22567",
+      "contest": false,
+      "accounts": [
+        "8wL5S"
+      ],
+      "claims": [
+        "1345384809295511563"
+      ],
+      "points": 9,
+      "posted": false,
+      "claim_ids": [
+        "1564164890095124551"
+      ]
     }
   },
-  "win_last_id": "1564164428100804659",
-  "team_last_id": "1564164426498572309",
+  "win_last_id": "1564164890095124551",
+  "team_last_id": "1564168062163361854",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -12736,6 +12755,13 @@
         "time": "2026-10-25T18:07:16+00:00",
         "block": "18:00-21:00",
         "points": 39
+      },
+      "1564164889092558899:1345384809295511563": {
+        "user": "1345384809295511563",
+        "game": "1564164889092558899",
+        "time": "2026-10-26T06:32:46+00:00",
+        "block": "06:00-09:00",
+        "points": 9
       }
     }
   },
