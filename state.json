@@ -10207,14 +10207,14 @@
         "1321954579503513640"
       ],
       "points": 55,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1564374912578355293"
       ]
     }
   },
   "win_last_id": "1564374912578355293",
-  "team_last_id": "1564379455340683476",
+  "team_last_id": "1564383479104544842",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
