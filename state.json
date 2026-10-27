@@ -1504,7 +1504,7 @@
       "eligible_match_count": 28
     }
   ],
-  "last_seen_time": "2026-10-27T02:21:08+00:00",
+  "last_seen_time": "2026-10-27T10:27:14+00:00",
   "current_scores": {
     "RMrQ5": {
       "points": 116.72,
@@ -1735,10 +1735,15 @@
       "points": 0.15,
       "match_count": 1,
       "last_score_time": "2026-10-27T01:57:01+00:00"
+    },
+    "Z2Yfi": {
+      "points": 192.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-27T10:27:14+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-26T16:30:00+00:00",
-  "current_cycle_match_count": 11,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-10-26T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-10-27",
@@ -10216,10 +10221,29 @@
       "claim_ids": [
         "1564463953348792413"
       ]
+    },
+    "1564586277582409760": {
+      "id": "1564586277582409760",
+      "time": "2026-10-27T10:27:14+00:00",
+      "map": "Asia",
+      "prev": "11.22760",
+      "curr": "11.53316",
+      "contest": true,
+      "accounts": [
+        "Z2Yfi"
+      ],
+      "claims": [
+        "1402645821505278114"
+      ],
+      "points": 204,
+      "posted": false,
+      "claim_ids": [
+        "1564586278962602066"
+      ]
     }
   },
-  "win_last_id": "1564463953348792413",
-  "team_last_id": "1564583272393084969",
+  "win_last_id": "1564586278962602066",
+  "team_last_id": "1564587172177387541",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -13226,6 +13250,13 @@
         "time": "2026-10-27T02:21:08+00:00",
         "block": "00:00-03:00",
         "points": 80
+      },
+      "1564586277582409760:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1564586277582409760",
+        "time": "2026-10-27T10:27:14+00:00",
+        "block": "09:00-12:00",
+        "points": 204
       }
     }
   },
