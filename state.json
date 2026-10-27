@@ -10287,14 +10287,14 @@
         "1423709238445867089"
       ],
       "points": 34,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1564695712938070067"
       ]
     }
   },
   "win_last_id": "1564695712938070067",
-  "team_last_id": "1564700546256998474",
+  "team_last_id": "1564703729159249931",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
