@@ -1691,16 +1691,16 @@
   "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-10-26T16:30:00+00:00",
   "daily_quests": {
-    "date": "2026-10-26",
-    "created_at": "2026-10-26T00:01:27.906766+00:00",
+    "date": "2026-10-27",
+    "created_at": "2026-10-27T00:01:27.954130+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Halo",
+        "map": "Mountains 2",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Mountains 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1709,10 +1709,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Scandinavia",
-        "target": 4,
+        "map": "Desert",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Scandinavia",
+        "text": "Win 6 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1720,246 +1720,40 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "map_wins",
+        "map": "World 1",
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "Z2Yfi"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "Z2Yfi": {
-          "Scandinavia": 1
-        },
-        "vt2Mr": {
-          "Scandinavia": 1
-        },
-        "vkMDV": {
-          "Scandinavia": 1
-        },
-        "q58Jd": {
-          "Scandinavia": 1
-        },
-        "CQW7C": {
-          "Scandinavia": 1
-        },
-        "LqqJR": {
-          "Scandinavia": 1
-        },
-        "k2gKn": {
-          "Scandinavia": 1
-        },
-        "7T8w9": {
-          "Scandinavia": 1
-        },
-        "9k2nw": {
-          "Scandinavia": 1
-        },
-        "QjBCy": {
-          "Scandinavia": 1
-        },
-        "T9mnJ": {
-          "Scandinavia": 1
-        }
-      },
-      "hard": {
-        "Z2Yfi": {
-          "Scandinavia": 1,
-          "Mare Nostrum": 1,
-          "Caucasia": 2
-        },
-        "8kDkB": {
-          "Mare Nostrum": 1
-        },
-        "x6QNP": {
-          "Mare Nostrum": 1
-        },
-        "BjxRv": {
-          "Mare Nostrum": 1
-        },
-        "D592B": {
-          "Mare Nostrum": 1
-        },
-        "VN2Rm": {
-          "Mare Nostrum": 1
-        },
-        "YcRMR": {
-          "Mare Nostrum": 1
-        },
-        "cwDDR": {
-          "Mare Nostrum": 1
-        },
-        "YwqTB": {
-          "Mare Nostrum": 1
-        },
-        "jqqMy": {
-          "Mare Nostrum": 1
-        },
-        "wSM3X": {
-          "Mare Nostrum": 2
-        },
-        "GwvNG": {
-          "Mare Nostrum": 1
-        },
-        "wT8MW": {
-          "Mare Nostrum": 1
-        },
-        "5L9bV": {
-          "Mare Nostrum": 1
-        },
-        "saKSP": {
-          "Mare Nostrum": 1
-        },
-        "9UdF5": {
-          "Mare Nostrum": 1
-        },
-        "VTLMb": {
-          "Mare Nostrum": 1
-        },
-        "5Jm7Y": {
-          "Caucasia": 1
-        },
-        "-OgI_": {
-          "Caucasia": 1
-        },
-        "asMVv": {
-          "Caucasia": 1
-        },
-        "88b9q": {
-          "Caucasia": 1
-        },
-        "B5b9b": {
-          "Caucasia": 1
-        },
-        "ShyDC": {
-          "Caucasia": 1
-        },
-        "JrKwm": {
-          "Caucasia": 1
-        },
-        "9k5GJ": {
-          "Caucasia": 1
-        },
-        "JGd5k": {
-          "Caucasia": 1
-        },
-        "RmV2q": {
-          "Caucasia": 1
-        },
-        "BnJ97": {
-          "Caucasia": 1
-        },
-        "G2MWm": {
-          "Caucasia": 1
-        },
-        "pd4XN": {
-          "Caucasia": 1
-        },
-        "gW7CB": {
-          "Caucasia": 1
-        },
-        "WdnEs": {
-          "Caucasia": 1
-        },
-        "CGg7j": {
-          "Caucasia": 1
-        },
-        "L2jcn": {
-          "Caucasia": 1
-        },
-        "aFm1L": {
-          "Caucasia": 1
-        },
-        "EEm_u": {
-          "Caucasia": 1
-        },
-        "DyBC8": {
-          "Mare Nostrum": 1
-        },
-        "KCq5j": {
-          "Mare Nostrum": 1
-        },
-        "Kbw5W": {
-          "Mare Nostrum": 1
-        },
-        "Rvq22": {
-          "Mare Nostrum": 1
-        },
-        "k3Kux": {
-          "Mare Nostrum": 1
-        },
-        "vt2Mr": {
-          "Scandinavia": 1,
-          "Middle East": 1
-        },
-        "vkMDV": {
-          "Scandinavia": 1
-        },
-        "q58Jd": {
-          "Scandinavia": 1
-        },
-        "CQW7C": {
-          "Scandinavia": 1
-        },
-        "LqqJR": {
-          "Scandinavia": 1
-        },
-        "k2gKn": {
-          "Scandinavia": 1
-        },
-        "7T8w9": {
-          "Scandinavia": 1
-        },
-        "9k2nw": {
-          "Scandinavia": 1
-        },
-        "QjBCy": {
-          "Scandinavia": 1
-        },
-        "T9mnJ": {
-          "Scandinavia": 1
-        },
-        "io-QY": {
-          "Middle East": 1
-        },
-        "Rj8Tt": {
-          "Middle East": 1
-        },
-        "G5G59": {
-          "Middle East": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Halo",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Middle East",
+        "text": "Win 4 times on Scandinavia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 2 Contests",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -10307,7 +10101,7 @@
     }
   },
   "win_last_id": "1564411716664557729",
-  "team_last_id": "1564424826637000857",
+  "team_last_id": "1564428693886210101",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
