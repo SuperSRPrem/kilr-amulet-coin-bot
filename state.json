@@ -10623,14 +10623,14 @@
         "1191801665389608990"
       ],
       "points": 56,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1565058443570712688"
       ]
     }
   },
   "win_last_id": "1565058443570712688",
-  "team_last_id": "1565062883509805137",
+  "team_last_id": "1565066530289614910",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
