@@ -1518,7 +1518,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-28T16:53:28+00:00",
+  "last_seen_time": "2026-10-28T17:09:59+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 9.35,
@@ -1569,10 +1569,50 @@
       "points": 0.7,
       "match_count": 1,
       "last_score_time": "2026-10-28T16:53:28+00:00"
+    },
+    "wV9BR": {
+      "points": 19.41,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:09:59+00:00"
+    },
+    "nttmr": {
+      "points": 16.5,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:09:59+00:00"
+    },
+    "Gbvqb": {
+      "points": 5.78,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:09:59+00:00"
+    },
+    "bVtdj": {
+      "points": 3.89,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:09:59+00:00"
+    },
+    "rnDGC": {
+      "points": 2.69,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:09:59+00:00"
+    },
+    "QRGT8": {
+      "points": 2.41,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:09:59+00:00"
+    },
+    "2kkmr": {
+      "points": 1.01,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:09:59+00:00"
+    },
+    "vTMCK": {
+      "points": 0.32,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:09:59+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-28",
@@ -10539,10 +10579,34 @@
       "claim_ids": [
         "1565045871546998835"
       ]
+    },
+    "1565050023752769759": {
+      "id": "1565050023752769759",
+      "time": "2026-10-28T17:09:59+00:00",
+      "map": "Middle East",
+      "prev": "11.69933",
+      "curr": "11.78115",
+      "contest": false,
+      "accounts": [
+        "wV9BR",
+        "nttmr",
+        "Gbvqb",
+        "bVtdj",
+        "rnDGC",
+        "QRGT8",
+        "2kkmr",
+        "vTMCK"
+      ],
+      "claims": [],
+      "points": 53,
+      "posted": false,
+      "claim_ids": [
+        "1565050014714175611"
+      ]
     }
   },
-  "win_last_id": "1565045871546998835",
-  "team_last_id": "1565047608051765261",
+  "win_last_id": "1565050014714175611",
+  "team_last_id": "1565050866824912917",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
