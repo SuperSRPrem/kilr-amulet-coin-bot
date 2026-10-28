@@ -1518,7 +1518,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-28T17:09:59+00:00",
+  "last_seen_time": "2026-10-28T17:43:25+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 9.35,
@@ -1609,10 +1609,15 @@
       "points": 0.32,
       "match_count": 1,
       "last_score_time": "2026-10-28T17:09:59+00:00"
+    },
+    "RRCgr": {
+      "points": 53.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-28T17:43:25+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-28",
@@ -10599,14 +10604,33 @@
       ],
       "claims": [],
       "points": 53,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1565050014714175611"
       ]
+    },
+    "1565058442413088920": {
+      "id": "1565058442413088920",
+      "time": "2026-10-28T17:43:25+00:00",
+      "map": "Europe",
+      "prev": "11.72544",
+      "curr": "11.80887",
+      "contest": false,
+      "accounts": [
+        "RRCgr"
+      ],
+      "claims": [
+        "1191801665389608990"
+      ],
+      "points": 56,
+      "posted": false,
+      "claim_ids": [
+        "1565058443570712688"
+      ]
     }
   },
-  "win_last_id": "1565050014714175611",
-  "team_last_id": "1565055329761493032",
+  "win_last_id": "1565058443570712688",
+  "team_last_id": "1565058968311562251",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -13781,6 +13805,13 @@
         "time": "2026-10-28T16:53:28+00:00",
         "block": "15:00-18:00",
         "points": 40
+      },
+      "1565058442413088920:1191801665389608990": {
+        "user": "1191801665389608990",
+        "game": "1565058442413088920",
+        "time": "2026-10-28T17:43:25+00:00",
+        "block": "15:00-18:00",
+        "points": 56
       }
     }
   },
