@@ -1673,16 +1673,16 @@
   "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-10-27T14:30:00+00:00",
   "daily_quests": {
-    "date": "2026-10-27",
-    "created_at": "2026-10-27T00:01:27.954130+00:00",
+    "date": "2026-10-28",
+    "created_at": "2026-10-28T00:01:27.185644+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 2",
+        "map": "Halo",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Halo",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1691,10 +1691,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Cliffs",
         "target": 6,
         "reward": 100,
-        "text": "Win 6 times on Desert",
+        "text": "Win 6 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1716,57 +1716,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "World 1": 1
-        },
-        "qnVnr": {
-          "World 1": 1
-        },
-        "mvnV5": {
-          "World 1": 1
-        },
-        "2HZWe": {
-          "World 1": 1
-        },
-        "1OPNc": {
-          "World 1": 1
-        },
-        "cGLNK": {
-          "World 1": 1
-        },
-        "yCwkq": {
-          "World 1": 1
-        },
-        "7CknT": {
-          "World 1": 1
-        },
-        "j885c": {
-          "World 1": 1
-        },
-        "AYq9U": {
-          "World 1": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Mountains 2",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Scandinavia",
+        "text": "Win 6 times on Desert",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -10442,7 +10411,7 @@
     }
   },
   "win_last_id": "1564767980724818141",
-  "team_last_id": "1564787204008579303",
+  "team_last_id": "1564791128811638955",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
