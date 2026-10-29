@@ -1518,12 +1518,12 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-29T13:00:31+00:00",
+  "last_seen_time": "2026-10-29T13:41:31+00:00",
   "current_scores": {
     "BjxRv": {
-      "points": 47.46,
-      "match_count": 3,
-      "last_score_time": "2026-10-29T13:00:31+00:00"
+      "points": 66.03,
+      "match_count": 4,
+      "last_score_time": "2026-10-29T13:41:31+00:00"
     },
     "dRQhw": {
       "points": 7.08,
@@ -1959,10 +1959,20 @@
       "points": 12.71,
       "match_count": 1,
       "last_score_time": "2026-10-29T13:00:31+00:00"
+    },
+    "GwCyr": {
+      "points": 3.99,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T13:41:31+00:00"
+    },
+    "vMwt7": {
+      "points": 3.44,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T13:41:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 23,
+  "current_cycle_match_count": 24,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -11538,10 +11548,31 @@
       "claim_ids": [
         "1565349656899231798"
       ]
+    },
+    "1565359952434954282": {
+      "id": "1565359952434954282",
+      "time": "2026-10-29T13:41:31+00:00",
+      "map": "White Arena",
+      "prev": "11.74619",
+      "curr": "11.78706",
+      "contest": false,
+      "accounts": [
+        "BjxRv",
+        "GwCyr",
+        "vMwt7"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 32,
+      "posted": false,
+      "claim_ids": [
+        "1565359953550770301"
+      ]
     }
   },
-  "win_last_id": "1565349656899231798",
-  "team_last_id": "1565357245443874953",
+  "win_last_id": "1565359953550770301",
+  "team_last_id": "1565360974054035559",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -14877,6 +14908,13 @@
         "time": "2026-10-29T13:00:31+00:00",
         "block": "12:00-15:00",
         "points": 46
+      },
+      "1565359952434954282:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1565359952434954282",
+        "time": "2026-10-29T13:41:31+00:00",
+        "block": "12:00-15:00",
+        "points": 32
       }
     }
   },
