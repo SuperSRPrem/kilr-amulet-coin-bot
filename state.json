@@ -1518,7 +1518,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-29T01:59:50+00:00",
+  "last_seen_time": "2026-10-29T02:28:09+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 9.35,
@@ -1661,9 +1661,9 @@
       "last_score_time": "2026-10-28T19:14:30+00:00"
     },
     "vt2Mr": {
-      "points": 12.02,
-      "match_count": 3,
-      "last_score_time": "2026-10-28T19:43:54+00:00"
+      "points": 96.02,
+      "match_count": 4,
+      "last_score_time": "2026-10-29T02:23:44+00:00"
     },
     "tJtgv": {
       "points": 4.37,
@@ -1726,9 +1726,9 @@
       "last_score_time": "2026-10-29T01:37:21+00:00"
     },
     "4uLEq": {
-      "points": 11.120000000000001,
-      "match_count": 2,
-      "last_score_time": "2026-10-29T01:59:50+00:00"
+      "points": 20.23,
+      "match_count": 4,
+      "last_score_time": "2026-10-29T02:28:09+00:00"
     },
     "2jRjB": {
       "points": 1.43,
@@ -1749,10 +1749,35 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-10-29T01:59:50+00:00"
+    },
+    "kbK5D": {
+      "points": 5.66,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:28:09+00:00"
+    },
+    "sxcy5": {
+      "points": 1.74,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:28:09+00:00"
+    },
+    "dNGYM": {
+      "points": 1.72,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:28:09+00:00"
+    },
+    "D8q2c": {
+      "points": 0.71,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:28:09+00:00"
+    },
+    "2LqTM": {
+      "points": 0.06,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:28:09+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -1798,8 +1823,8 @@
         "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "4uLEq"
       }
     },
     "data": {
@@ -1823,7 +1848,8 @@
         },
         "4uLEq": {
           "Africa": 1,
-          "Australia": 1
+          "Australia": 1,
+          "South America": 1
         },
         "2jRjB": {
           "Africa": 1
@@ -1836,6 +1862,24 @@
         },
         "VN2Rm": {
           "Australia": 1
+        },
+        "vt2Mr": {
+          "Africa": 1
+        },
+        "kbK5D": {
+          "South America": 1
+        },
+        "sxcy5": {
+          "South America": 1
+        },
+        "dNGYM": {
+          "South America": 1
+        },
+        "D8q2c": {
+          "South America": 1
+        },
+        "2LqTM": {
+          "South America": 1
         }
       }
     }
@@ -10938,14 +10982,76 @@
         "1471367580160622807"
       ],
       "points": 12,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1565183364238020672"
       ]
+    },
+    "1565188827759255684": {
+      "id": "1565188827759255684",
+      "time": "2026-10-29T02:21:32+00:00",
+      "map": "Mountains 1",
+      "prev": "11.47094",
+      "curr": "11.48200",
+      "contest": false,
+      "accounts": [
+        "4uLEq"
+      ],
+      "claims": [
+        "1471367580160622807"
+      ],
+      "points": 8,
+      "posted": false,
+      "claim_ids": [
+        "1565188828606627924"
+      ]
+    },
+    "1565189378383544350": {
+      "id": "1565189378383544350",
+      "time": "2026-10-29T02:23:44+00:00",
+      "map": "Africa",
+      "prev": "11.48162",
+      "curr": "11.61440",
+      "contest": true,
+      "accounts": [
+        "vt2Mr"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 92,
+      "posted": false,
+      "claim_ids": [
+        "1565189379687718955"
+      ]
+    },
+    "1565190496916082853": {
+      "id": "1565190496916082853",
+      "time": "2026-10-29T02:28:09+00:00",
+      "map": "South America",
+      "prev": "11.61168",
+      "curr": "11.63060",
+      "contest": false,
+      "accounts": [
+        "kbK5D",
+        "4uLEq",
+        "sxcy5",
+        "dNGYM",
+        "D8q2c",
+        "2LqTM"
+      ],
+      "claims": [
+        "1471367580160622807"
+      ],
+      "points": 13,
+      "posted": false,
+      "claim_ids": [
+        "1565190498099142669"
+      ]
     }
   },
-  "win_last_id": "1565183364238020672",
-  "team_last_id": "1565187200491069483",
+  "win_last_id": "1565190498099142669",
+  "team_last_id": "1565190988312612977",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -14197,6 +14303,27 @@
         "time": "2026-10-29T01:59:50+00:00",
         "block": "00:00-03:00",
         "points": 12
+      },
+      "1565188827759255684:1471367580160622807": {
+        "user": "1471367580160622807",
+        "game": "1565188827759255684",
+        "time": "2026-10-29T02:21:32+00:00",
+        "block": "00:00-03:00",
+        "points": 8
+      },
+      "1565189378383544350:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1565189378383544350",
+        "time": "2026-10-29T02:23:44+00:00",
+        "block": "00:00-03:00",
+        "points": 92
+      },
+      "1565190496916082853:1471367580160622807": {
+        "user": "1471367580160622807",
+        "game": "1565190496916082853",
+        "time": "2026-10-29T02:28:09+00:00",
+        "block": "00:00-03:00",
+        "points": 13
       }
     }
   },
