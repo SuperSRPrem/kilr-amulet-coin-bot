@@ -11680,14 +11680,14 @@
         "1478994639603372206"
       ],
       "points": 230,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1565421698512326697"
       ]
     }
   },
   "win_last_id": "1565421698512326697",
-  "team_last_id": "1565428970533552138",
+  "team_last_id": "1565432669905362977",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
