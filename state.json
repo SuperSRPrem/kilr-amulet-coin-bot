@@ -1518,7 +1518,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-29T02:28:09+00:00",
+  "last_seen_time": "2026-10-29T02:33:37+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 9.35,
@@ -1774,10 +1774,35 @@
       "points": 0.06,
       "match_count": 1,
       "last_score_time": "2026-10-29T02:28:09+00:00"
+    },
+    "kKwTg": {
+      "points": 5.52,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:33:37+00:00"
+    },
+    "wSM3X": {
+      "points": 2.33,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:33:37+00:00"
+    },
+    "25LJK": {
+      "points": 1.59,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:33:37+00:00"
+    },
+    "or2Ae": {
+      "points": 1.36,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:33:37+00:00"
+    },
+    "jwQN8": {
+      "points": 1.2,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T02:33:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 12,
+  "current_cycle_match_count": 13,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -11048,10 +11073,31 @@
       "claim_ids": [
         "1565190498099142669"
       ]
+    },
+    "1565191868730581134": {
+      "id": "1565191868730581134",
+      "time": "2026-10-29T02:33:37+00:00",
+      "map": "Middle East",
+      "prev": "11.62911",
+      "curr": "11.64802",
+      "contest": false,
+      "accounts": [
+        "kKwTg",
+        "wSM3X",
+        "25LJK",
+        "or2Ae",
+        "jwQN8"
+      ],
+      "claims": [],
+      "points": 12,
+      "posted": false,
+      "claim_ids": [
+        "1565191870403969038"
+      ]
     }
   },
-  "win_last_id": "1565190498099142669",
-  "team_last_id": "1565190988312612977",
+  "win_last_id": "1565191870403969038",
+  "team_last_id": "1565194838192824321",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
