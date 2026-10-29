@@ -1518,7 +1518,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-29T09:20:54+00:00",
+  "last_seen_time": "2026-10-29T09:39:13+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 9.35,
@@ -1646,9 +1646,9 @@
       "last_score_time": "2026-10-28T18:30:32+00:00"
     },
     "LVVvv": {
-      "points": 74.02,
-      "match_count": 5,
-      "last_score_time": "2026-10-29T09:20:54+00:00"
+      "points": 92.64999999999999,
+      "match_count": 6,
+      "last_score_time": "2026-10-29T09:39:13+00:00"
     },
     "kGmbk": {
       "points": 10.38,
@@ -1859,10 +1859,35 @@
       "points": 1.87,
       "match_count": 1,
       "last_score_time": "2026-10-29T09:20:54+00:00"
+    },
+    "yy9Bc": {
+      "points": 22.23,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T09:35:27+00:00"
+    },
+    "V9knL": {
+      "points": 8.39,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T09:35:27+00:00"
+    },
+    "KMtMq": {
+      "points": 3.28,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T09:35:27+00:00"
+    },
+    "QNGLq": {
+      "points": 0.1,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T09:35:27+00:00"
+    },
+    "gMQ9M": {
+      "points": 12.37,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T09:39:13+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 17,
+  "current_cycle_match_count": 19,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -2007,13 +2032,17 @@
           "Africa": 1
         },
         "LVVvv": {
-          "Africa": 1
+          "Africa": 1,
+          "Europe": 1
         },
         "WwWNV": {
           "Africa": 1
         },
         "mccMY": {
           "Africa": 1
+        },
+        "gMQ9M": {
+          "Europe": 1
         }
       }
     }
@@ -11290,10 +11319,50 @@
       "claim_ids": [
         "1565294371673473117"
       ]
+    },
+    "1565298031874543738": {
+      "id": "1565298031874543738",
+      "time": "2026-10-29T09:35:27+00:00",
+      "map": "Mare Nostrum",
+      "prev": "11.51511",
+      "curr": "11.56881",
+      "contest": false,
+      "accounts": [
+        "yy9Bc",
+        "V9knL",
+        "KMtMq",
+        "QNGLq"
+      ],
+      "claims": [],
+      "points": 38,
+      "posted": false,
+      "claim_ids": [
+        "1565298033032302604"
+      ]
+    },
+    "1565298976088137770": {
+      "id": "1565298976088137770",
+      "time": "2026-10-29T09:39:13+00:00",
+      "map": "Europe",
+      "prev": "11.56155",
+      "curr": "11.61046",
+      "contest": false,
+      "accounts": [
+        "LVVvv",
+        "gMQ9M"
+      ],
+      "claims": [
+        "822816383825477705"
+      ],
+      "points": 33,
+      "posted": false,
+      "claim_ids": [
+        "1565298978415710268"
+      ]
     }
   },
-  "win_last_id": "1565294371673473117",
-  "team_last_id": "1565296888050356225",
+  "win_last_id": "1565298978415710268",
+  "team_last_id": "1565300156679721072",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -14587,6 +14656,13 @@
         "time": "2026-10-29T09:20:54+00:00",
         "block": "09:00-12:00",
         "points": 24
+      },
+      "1565298976088137770:822816383825477705": {
+        "user": "822816383825477705",
+        "game": "1565298976088137770",
+        "time": "2026-10-29T09:39:13+00:00",
+        "block": "09:00-12:00",
+        "points": 33
       }
     }
   },
