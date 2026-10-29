@@ -1705,16 +1705,16 @@
   "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
-    "date": "2026-10-28",
-    "created_at": "2026-10-28T00:01:27.185644+00:00",
+    "date": "2026-10-29",
+    "created_at": "2026-10-29T00:01:26.735732+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Halo",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1723,10 +1723,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Cliffs",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Cliffs",
+        "text": "Win 4 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1734,11 +1734,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1748,24 +1755,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "wSM3X": {
-          "World 1": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Halo",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Desert",
+        "text": "Win 6 times on Cliffs",
         "reward": 100,
         "done_by": null,
         "done_at": null
@@ -10813,7 +10816,7 @@
     }
   },
   "win_last_id": "1565088765423263899",
-  "team_last_id": "1565149565017919569",
+  "team_last_id": "1565153228931342337",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
