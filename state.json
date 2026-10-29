@@ -1525,7 +1525,7 @@
       "eligible_match_count": 28
     }
   ],
-  "last_seen_time": "2026-10-29T17:46:52+00:00",
+  "last_seen_time": "2026-10-29T19:38:24+00:00",
   "current_scores": {
     "CCGGr": {
       "points": 22.14,
@@ -1766,10 +1766,30 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-10-29T17:46:52+00:00"
+    },
+    "GueSH": {
+      "points": 26.24,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T19:38:24+00:00"
+    },
+    "Nv7Vt": {
+      "points": 6.19,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T19:38:24+00:00"
+    },
+    "DQRkB": {
+      "points": 5.88,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T19:38:24+00:00"
+    },
+    "DcZmP": {
+      "points": 2.7,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T19:38:24+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-29T16:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-10-29T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -11684,10 +11704,30 @@
       "claim_ids": [
         "1565421698512326697"
       ]
+    },
+    "1565449767708921911": {
+      "id": "1565449767708921911",
+      "time": "2026-10-29T19:38:24+00:00",
+      "map": "Middle East",
+      "prev": "12.63485",
+      "curr": "12.69786",
+      "contest": false,
+      "accounts": [
+        "GueSH",
+        "Nv7Vt",
+        "DQRkB",
+        "DcZmP"
+      ],
+      "claims": [],
+      "points": 46,
+      "posted": false,
+      "claim_ids": [
+        "1565449769231589388"
+      ]
     }
   },
-  "win_last_id": "1565421698512326697",
-  "team_last_id": "1565447908416028724",
+  "win_last_id": "1565449769231589388",
+  "team_last_id": "1565451496324337675",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
