@@ -1518,7 +1518,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-29T03:08:00+00:00",
+  "last_seen_time": "2026-10-29T03:28:54+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 9.35,
@@ -1536,9 +1536,9 @@
       "last_score_time": "2026-10-28T16:53:28+00:00"
     },
     "wMby2": {
-      "points": 3.61,
-      "match_count": 1,
-      "last_score_time": "2026-10-28T16:53:28+00:00"
+      "points": 4.62,
+      "match_count": 2,
+      "last_score_time": "2026-10-29T03:28:54+00:00"
     },
     "CLbk9": {
       "points": 3.13,
@@ -1616,9 +1616,9 @@
       "last_score_time": "2026-10-28T17:43:25+00:00"
     },
     "DyBC8": {
-      "points": 42.61,
-      "match_count": 2,
-      "last_score_time": "2026-10-28T19:43:54+00:00"
+      "points": 50.96,
+      "match_count": 3,
+      "last_score_time": "2026-10-29T03:28:54+00:00"
     },
     "U9UtW": {
       "points": 2.23,
@@ -1814,10 +1814,30 @@
       "points": 1.59,
       "match_count": 1,
       "last_score_time": "2026-10-29T03:08:00+00:00"
+    },
+    "dGcMq": {
+      "points": 6.15,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T03:28:54+00:00"
+    },
+    "Kgmyc": {
+      "points": 1.83,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T03:28:54+00:00"
+    },
+    "7G25C": {
+      "points": 0.66,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T03:28:54+00:00"
+    },
+    "cBRBJ": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T03:28:54+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 14,
+  "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -1928,6 +1948,24 @@
           "Africa": 1
         },
         "2vGQL": {
+          "Africa": 1
+        },
+        "DyBC8": {
+          "Africa": 1
+        },
+        "dGcMq": {
+          "Africa": 1
+        },
+        "Kgmyc": {
+          "Africa": 1
+        },
+        "wMby2": {
+          "Africa": 1
+        },
+        "7G25C": {
+          "Africa": 1
+        },
+        "cBRBJ": {
           "Africa": 1
         }
       }
@@ -11140,10 +11178,32 @@
       "claim_ids": [
         "1565200527594102825"
       ]
+    },
+    "1565205786509054105": {
+      "id": "1565205786509054105",
+      "time": "2026-10-29T03:28:54+00:00",
+      "map": "Africa",
+      "prev": "11.73298",
+      "curr": "11.76128",
+      "contest": false,
+      "accounts": [
+        "DyBC8",
+        "dGcMq",
+        "Kgmyc",
+        "wMby2",
+        "7G25C",
+        "cBRBJ"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1565205787494715423"
+      ]
     }
   },
-  "win_last_id": "1565200527594102825",
-  "team_last_id": "1565202477303734355",
+  "win_last_id": "1565205787494715423",
+  "team_last_id": "1565206028000436235",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
