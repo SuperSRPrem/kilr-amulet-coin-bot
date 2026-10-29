@@ -1518,12 +1518,12 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-29T13:41:31+00:00",
+  "last_seen_time": "2026-10-29T14:03:39+00:00",
   "current_scores": {
     "BjxRv": {
-      "points": 66.03,
-      "match_count": 4,
-      "last_score_time": "2026-10-29T13:41:31+00:00"
+      "points": 74.05,
+      "match_count": 5,
+      "last_score_time": "2026-10-29T14:03:39+00:00"
     },
     "dRQhw": {
       "points": 7.08,
@@ -1969,10 +1969,25 @@
       "points": 3.44,
       "match_count": 1,
       "last_score_time": "2026-10-29T13:41:31+00:00"
+    },
+    "v9Gm5": {
+      "points": 25.94,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T14:03:39+00:00"
+    },
+    "Dy8G8": {
+      "points": 1.02,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T14:03:39+00:00"
+    },
+    "5n79m": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T14:03:39+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 24,
+  "current_cycle_match_count": 25,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -2136,10 +2151,20 @@
           "Europe": 1
         },
         "BjxRv": {
-          "Africa": 1
+          "Africa": 1,
+          "South America": 1
         },
         "DVVCk": {
           "Africa": 1
+        },
+        "v9Gm5": {
+          "South America": 1
+        },
+        "Dy8G8": {
+          "South America": 1
+        },
+        "5n79m": {
+          "South America": 1
         }
       }
     }
@@ -11565,14 +11590,36 @@
         "1423709238445867089"
       ],
       "points": 32,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1565359953550770301"
       ]
+    },
+    "1565365526224576606": {
+      "id": "1565365526224576606",
+      "time": "2026-10-29T14:03:39+00:00",
+      "map": "South America",
+      "prev": "11.74475",
+      "curr": "11.79977",
+      "contest": false,
+      "accounts": [
+        "v9Gm5",
+        "BjxRv",
+        "Dy8G8",
+        "5n79m"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 38,
+      "posted": false,
+      "claim_ids": [
+        "1565365527713419405"
+      ]
     }
   },
-  "win_last_id": "1565359953550770301",
-  "team_last_id": "1565364935247134861",
+  "win_last_id": "1565365527713419405",
+  "team_last_id": "1565368546031304837",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -14915,6 +14962,13 @@
         "time": "2026-10-29T13:41:31+00:00",
         "block": "12:00-15:00",
         "points": 32
+      },
+      "1565365526224576606:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1565365526224576606",
+        "time": "2026-10-29T14:03:39+00:00",
+        "block": "12:00-15:00",
+        "points": 38
       }
     }
   },
