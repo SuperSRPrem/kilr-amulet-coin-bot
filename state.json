@@ -1518,12 +1518,12 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-29T12:26:24+00:00",
+  "last_seen_time": "2026-10-29T13:00:31+00:00",
   "current_scores": {
     "BjxRv": {
-      "points": 16.17,
-      "match_count": 2,
-      "last_score_time": "2026-10-29T12:26:24+00:00"
+      "points": 47.46,
+      "match_count": 3,
+      "last_score_time": "2026-10-29T13:00:31+00:00"
     },
     "dRQhw": {
       "points": 7.08,
@@ -1646,9 +1646,9 @@
       "last_score_time": "2026-10-28T18:30:32+00:00"
     },
     "LVVvv": {
-      "points": 101.92999999999999,
-      "match_count": 7,
-      "last_score_time": "2026-10-29T09:56:22+00:00"
+      "points": 298.92,
+      "match_count": 8,
+      "last_score_time": "2026-10-29T12:53:14+00:00"
     },
     "kGmbk": {
       "points": 10.38,
@@ -1944,10 +1944,25 @@
       "points": 5.95,
       "match_count": 1,
       "last_score_time": "2026-10-29T12:26:24+00:00"
+    },
+    "q8T7r": {
+      "points": 0.66,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T12:53:14+00:00"
+    },
+    "2ntMR": {
+      "points": 0.35,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T12:53:14+00:00"
+    },
+    "DVVCk": {
+      "points": 12.71,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T13:00:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 21,
+  "current_cycle_match_count": 23,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -1974,8 +1989,8 @@
         "text": "Win 4 times on Caucasia",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "LVVvv"
       },
       "hard": {
         "level": "hard",
@@ -2001,7 +2016,7 @@
       "easy": {},
       "medium": {
         "LVVvv": {
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "dNjYQ": {
           "Caucasia": 1
@@ -2010,6 +2025,12 @@
           "Caucasia": 1
         },
         "kwQBV": {
+          "Caucasia": 1
+        },
+        "q8T7r": {
+          "Caucasia": 1
+        },
+        "2ntMR": {
           "Caucasia": 1
         }
       },
@@ -2103,6 +2124,12 @@
         },
         "gMQ9M": {
           "Europe": 1
+        },
+        "BjxRv": {
+          "Africa": 1
+        },
+        "DVVCk": {
+          "Africa": 1
         }
       }
     }
@@ -11465,14 +11492,56 @@
         "1423709238445867089"
       ],
       "points": 33,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1565341053354254499"
       ]
+    },
+    "1565347796985315339": {
+      "id": "1565347796985315339",
+      "time": "2026-10-29T12:53:14+00:00",
+      "map": "Caucasia",
+      "prev": "11.45186",
+      "curr": "11.76530",
+      "contest": true,
+      "accounts": [
+        "LVVvv",
+        "q8T7r",
+        "2ntMR"
+      ],
+      "claims": [
+        "822816383825477705",
+        "879398730762186752"
+      ],
+      "points": 224,
+      "posted": false,
+      "claim_ids": [
+        "1565347798092611677"
+      ]
+    },
+    "1565349637668339723": {
+      "id": "1565349637668339723",
+      "time": "2026-10-29T13:00:31+00:00",
+      "map": "Africa",
+      "prev": "11.75052",
+      "curr": "11.81968",
+      "contest": false,
+      "accounts": [
+        "BjxRv",
+        "DVVCk"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 46,
+      "posted": false,
+      "claim_ids": [
+        "1565349656899231798"
+      ]
     }
   },
-  "win_last_id": "1565341053354254499",
-  "team_last_id": "1565345607634124841",
+  "win_last_id": "1565349656899231798",
+  "team_last_id": "1565349748200710300",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -14787,6 +14856,27 @@
         "time": "2026-10-29T12:26:24+00:00",
         "block": "12:00-15:00",
         "points": 33
+      },
+      "1565347796985315339:822816383825477705": {
+        "user": "822816383825477705",
+        "game": "1565347796985315339",
+        "time": "2026-10-29T12:53:14+00:00",
+        "block": "12:00-15:00",
+        "points": 224
+      },
+      "1565347796985315339:879398730762186752": {
+        "user": "879398730762186752",
+        "game": "1565347796985315339",
+        "time": "2026-10-29T12:53:14+00:00",
+        "block": "12:00-15:00",
+        "points": 224
+      },
+      "1565349637668339723:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1565349637668339723",
+        "time": "2026-10-29T13:00:31+00:00",
+        "block": "12:00-15:00",
+        "points": 46
       }
     }
   },
