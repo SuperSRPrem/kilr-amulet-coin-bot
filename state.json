@@ -1518,7 +1518,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-29T02:33:37+00:00",
+  "last_seen_time": "2026-10-29T03:08:00+00:00",
   "current_scores": {
     "BjxRv": {
       "points": 9.35,
@@ -1661,9 +1661,9 @@
       "last_score_time": "2026-10-28T19:14:30+00:00"
     },
     "vt2Mr": {
-      "points": 96.02,
-      "match_count": 4,
-      "last_score_time": "2026-10-29T02:23:44+00:00"
+      "points": 147.95999999999998,
+      "match_count": 5,
+      "last_score_time": "2026-10-29T03:08:00+00:00"
     },
     "tJtgv": {
       "points": 4.37,
@@ -1799,10 +1799,25 @@
       "points": 1.2,
       "match_count": 1,
       "last_score_time": "2026-10-29T02:33:37+00:00"
+    },
+    "-eWP0": {
+      "points": 10.21,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T03:08:00+00:00"
+    },
+    "L9dj5": {
+      "points": 4.26,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T03:08:00+00:00"
+    },
+    "2vGQL": {
+      "points": 1.59,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T03:08:00+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-28T16:00:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-10-28T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-29",
@@ -1889,7 +1904,7 @@
           "Australia": 1
         },
         "vt2Mr": {
-          "Africa": 1
+          "Africa": 2
         },
         "kbK5D": {
           "South America": 1
@@ -1905,6 +1920,15 @@
         },
         "2LqTM": {
           "South America": 1
+        },
+        "-eWP0": {
+          "Africa": 1
+        },
+        "L9dj5": {
+          "Africa": 1
+        },
+        "2vGQL": {
+          "Africa": 1
         }
       }
     }
@@ -11090,14 +11114,36 @@
       ],
       "claims": [],
       "points": 12,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1565191870403969038"
       ]
+    },
+    "1565200525841137815": {
+      "id": "1565200525841137815",
+      "time": "2026-10-29T03:08:00+00:00",
+      "map": "Africa",
+      "prev": "11.63236",
+      "curr": "11.73951",
+      "contest": true,
+      "accounts": [
+        "vt2Mr",
+        "-eWP0",
+        "L9dj5",
+        "2vGQL"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 82,
+      "posted": false,
+      "claim_ids": [
+        "1565200527594102825"
+      ]
     }
   },
-  "win_last_id": "1565191870403969038",
-  "team_last_id": "1565198551720399024",
+  "win_last_id": "1565200527594102825",
+  "team_last_id": "1565202477303734355",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -14370,6 +14416,13 @@
         "time": "2026-10-29T02:28:09+00:00",
         "block": "00:00-03:00",
         "points": 13
+      },
+      "1565200525841137815:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1565200525841137815",
+        "time": "2026-10-29T03:08:00+00:00",
+        "block": "03:00-06:00",
+        "points": 82
       }
     }
   },
