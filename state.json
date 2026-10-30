@@ -1532,7 +1532,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-30T13:39:32+00:00",
+  "last_seen_time": "2026-10-30T14:29:31+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 140.56,
@@ -1608,10 +1608,15 @@
       "points": 0.14,
       "match_count": 1,
       "last_score_time": "2026-10-30T13:39:32+00:00"
+    },
+    "tcwYN": {
+      "points": 27.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-30T14:29:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-30T13:00:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-10-30T13:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-30",
@@ -11692,10 +11697,27 @@
       "claim_ids": [
         "1565721843619471443"
       ]
+    },
+    "1565734420470829204": {
+      "id": "1565734420470829204",
+      "time": "2026-10-30T14:29:31+00:00",
+      "map": "Black Arena",
+      "prev": "12.45233",
+      "curr": "12.49411",
+      "contest": false,
+      "accounts": [
+        "tcwYN"
+      ],
+      "claims": [],
+      "points": 31,
+      "posted": false,
+      "claim_ids": [
+        "1565734421854949551"
+      ]
     }
   },
-  "win_last_id": "1565721843619471443",
-  "team_last_id": "1565730947993706557",
+  "win_last_id": "1565734421854949551",
+  "team_last_id": "1565734495150280866",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -15307,5 +15329,5 @@
       }
     }
   },
-  "last_reminder": "2026-10-29"
+  "last_reminder": "2026-10-30"
 }
