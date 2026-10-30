@@ -1525,7 +1525,7 @@
       "eligible_match_count": 28
     }
   ],
-  "last_seen_time": "2026-10-30T02:13:10+00:00",
+  "last_seen_time": "2026-10-30T03:28:59+00:00",
   "current_scores": {
     "CCGGr": {
       "points": 22.14,
@@ -1553,9 +1553,9 @@
       "last_score_time": "2026-10-29T16:03:22+00:00"
     },
     "LVVvv": {
-      "points": 190.69,
-      "match_count": 2,
-      "last_score_time": "2026-10-29T17:08:25+00:00"
+      "points": 200.69,
+      "match_count": 3,
+      "last_score_time": "2026-10-30T03:28:59+00:00"
     },
     "Z2Yfi": {
       "points": 31.88,
@@ -1866,10 +1866,15 @@
       "points": 7.19,
       "match_count": 1,
       "last_score_time": "2026-10-30T02:13:10+00:00"
+    },
+    "JCbyC": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-10-30T03:28:59+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-29T16:00:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-10-29T16:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-30",
@@ -11687,10 +11692,28 @@
       "claim_ids": [
         "1565549113205071993"
       ]
+    },
+    "1565568189151060080": {
+      "id": "1565568189151060080",
+      "time": "2026-10-30T03:28:59+00:00",
+      "map": "Africa",
+      "prev": "12.30619",
+      "curr": "12.32171",
+      "contest": false,
+      "accounts": [
+        "LVVvv",
+        "JCbyC"
+      ],
+      "claims": [],
+      "points": 10,
+      "posted": false,
+      "claim_ids": [
+        "1565568190258483341"
+      ]
     }
   },
-  "win_last_id": "1565549113205071993",
-  "team_last_id": "1565564791278538864",
+  "win_last_id": "1565568190258483341",
+  "team_last_id": "1565568690605264948",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
