@@ -1532,10 +1532,31 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-10-30T11:52:57+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-30T13:27:18+00:00",
+  "current_scores": {
+    "vt2Mr": {
+      "points": 112.86,
+      "match_count": 2,
+      "last_score_time": "2026-10-30T13:27:18+00:00"
+    },
+    "c58Rc": {
+      "points": 18.22,
+      "match_count": 1,
+      "last_score_time": "2026-10-30T13:27:18+00:00"
+    },
+    "mLwvB": {
+      "points": 4.53,
+      "match_count": 1,
+      "last_score_time": "2026-10-30T13:27:18+00:00"
+    },
+    "vQKDd": {
+      "points": 1.38,
+      "match_count": 1,
+      "last_score_time": "2026-10-30T13:27:18+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-30T13:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-10-30T13:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-30",
@@ -1595,9 +1616,25 @@
         },
         "KGN7Y": {
           "World 2": 1
+        },
+        "vt2Mr": {
+          "World 2": 1
+        },
+        "c58Rc": {
+          "World 2": 1
+        },
+        "mLwvB": {
+          "World 2": 1
+        },
+        "vQKDd": {
+          "World 2": 1
         }
       },
-      "hard": {}
+      "hard": {
+        "vt2Mr": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -11511,10 +11548,51 @@
       "claim_ids": [
         "1565695010509168741"
       ]
+    },
+    "1565716110408556637": {
+      "id": "1565716110408556637",
+      "time": "2026-10-30T13:16:48+00:00",
+      "map": "World 1",
+      "prev": "12.20929",
+      "curr": "12.32139",
+      "contest": false,
+      "accounts": [
+        "vt2Mr"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 79,
+      "posted": false,
+      "claim_ids": [
+        "1565716111771701372"
+      ]
+    },
+    "1565718766367809558": {
+      "id": "1565718766367809558",
+      "time": "2026-10-30T13:27:18+00:00",
+      "map": "World 2",
+      "prev": "12.29960",
+      "curr": "12.40061",
+      "contest": false,
+      "accounts": [
+        "vt2Mr",
+        "c58Rc",
+        "mLwvB",
+        "vQKDd"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 76,
+      "posted": false,
+      "claim_ids": [
+        "1565718767781027923"
+      ]
     }
   },
-  "win_last_id": "1565695010509168741",
-  "team_last_id": "1565715795961577473",
+  "win_last_id": "1565718767781027923",
+  "team_last_id": "1565719710077558817",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -15095,6 +15173,20 @@
         "time": "2026-10-30T11:52:57+00:00",
         "block": "09:00-12:00",
         "points": 33
+      },
+      "1565716110408556637:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1565716110408556637",
+        "time": "2026-10-30T13:16:48+00:00",
+        "block": "12:00-15:00",
+        "points": 79
+      },
+      "1565718766367809558:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1565718766367809558",
+        "time": "2026-10-30T13:27:18+00:00",
+        "block": "12:00-15:00",
+        "points": 76
       }
     }
   },
