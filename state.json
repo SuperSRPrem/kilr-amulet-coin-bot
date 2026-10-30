@@ -1525,7 +1525,7 @@
       "eligible_match_count": 28
     }
   ],
-  "last_seen_time": "2026-10-29T23:33:05+00:00",
+  "last_seen_time": "2026-10-29T23:49:01+00:00",
   "current_scores": {
     "CCGGr": {
       "points": 22.14,
@@ -1788,9 +1788,9 @@
       "last_score_time": "2026-10-29T19:38:24+00:00"
     },
     "4uLEq": {
-      "points": 13.93,
-      "match_count": 1,
-      "last_score_time": "2026-10-29T23:33:05+00:00"
+      "points": 19.0,
+      "match_count": 2,
+      "last_score_time": "2026-10-29T23:49:01+00:00"
     },
     "DddQw": {
       "points": 0.4,
@@ -1801,22 +1801,52 @@
       "points": 0.16,
       "match_count": 1,
       "last_score_time": "2026-10-29T23:33:05+00:00"
+    },
+    "Rj8Tt": {
+      "points": 9.28,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T23:49:01+00:00"
+    },
+    "T8Bdg": {
+      "points": 2.26,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T23:49:01+00:00"
+    },
+    "MQqTN": {
+      "points": 1.69,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T23:49:01+00:00"
+    },
+    "YgDn2": {
+      "points": 1.33,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T23:49:01+00:00"
+    },
+    "vGLRv": {
+      "points": 0.81,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T23:49:01+00:00"
+    },
+    "d9CYQ": {
+      "points": 0.56,
+      "match_count": 1,
+      "last_score_time": "2026-10-29T23:49:01+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-29T16:00:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-10-29T16:00:00+00:00",
   "daily_quests": {
-    "date": "2026-10-29",
-    "created_at": "2026-10-29T00:01:26.735732+00:00",
+    "date": "2026-10-30",
+    "created_at": "2026-10-30T00:01:27.580530+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1825,271 +1855,51 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 4,
+        "map": "World 2",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "LVVvv"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
-        ],
+        "kind": "map_wins",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "4uLEq"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "LVVvv": {
-          "Caucasia": 2
-        },
-        "dNjYQ": {
-          "Caucasia": 1
-        },
-        "bL9BN": {
-          "Caucasia": 1
-        },
-        "kwQBV": {
-          "Caucasia": 1
-        },
-        "q8T7r": {
-          "Caucasia": 1
-        },
-        "2ntMR": {
-          "Caucasia": 1
-        },
-        "Oyf9y": {
-          "Caucasia": 1
-        },
-        "bRbQq": {
-          "Caucasia": 1
-        },
-        "kBcq2": {
-          "Caucasia": 1
-        },
-        "GLGNC": {
-          "Caucasia": 1
-        },
-        "mGqMR": {
-          "Caucasia": 1
-        },
-        "Nw8rB": {
-          "Caucasia": 1
-        },
-        "w7CNT": {
-          "Caucasia": 1
-        },
-        "dcdVn": {
-          "Caucasia": 1
-        },
-        "f3TOA": {
-          "Caucasia": 1
-        },
-        "Grq2J": {
-          "Caucasia": 1
-        },
-        "89Q7q": {
-          "Caucasia": 1
-        },
-        "QqQqQ": {
-          "Caucasia": 1
-        },
-        "YcRMR": {
-          "Caucasia": 1
-        },
-        "NND9w": {
-          "Caucasia": 1
-        },
-        "L7Nkd": {
-          "Caucasia": 1
-        },
-        "MyKNk": {
-          "Caucasia": 1
-        },
-        "Ynbjy": {
-          "Caucasia": 1
-        },
-        "4uLEq": {
-          "Caucasia": 1
-        },
-        "4jULA": {
-          "Caucasia": 1
-        },
-        "DddQw": {
-          "Caucasia": 1
-        },
-        "TdVTq": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "LcfxO": {
-          "Africa": 1
-        },
-        "Gdvgj": {
-          "Africa": 1
-        },
-        "GqdtM": {
-          "Africa": 1
-        },
-        "GWYdR": {
-          "Africa": 1
-        },
-        "jnnMg": {
-          "Africa": 1
-        },
-        "4uLEq": {
-          "Africa": 1,
-          "Australia": 1,
-          "South America": 1
-        },
-        "2jRjB": {
-          "Africa": 1
-        },
-        "WGVV9": {
-          "Africa": 1
-        },
-        "vM9tN": {
-          "Australia": 1
-        },
-        "VN2Rm": {
-          "Australia": 1
-        },
-        "vt2Mr": {
-          "Africa": 2
-        },
-        "kbK5D": {
-          "South America": 1
-        },
-        "sxcy5": {
-          "South America": 1
-        },
-        "dNGYM": {
-          "South America": 1
-        },
-        "D8q2c": {
-          "South America": 1
-        },
-        "2LqTM": {
-          "South America": 1
-        },
-        "-eWP0": {
-          "Africa": 1
-        },
-        "L9dj5": {
-          "Africa": 1
-        },
-        "2vGQL": {
-          "Africa": 1
-        },
-        "DyBC8": {
-          "Africa": 1
-        },
-        "dGcMq": {
-          "Africa": 1
-        },
-        "Kgmyc": {
-          "Africa": 1
-        },
-        "wMby2": {
-          "Africa": 1
-        },
-        "7G25C": {
-          "Africa": 1
-        },
-        "cBRBJ": {
-          "Africa": 1
-        },
-        "LVVvv": {
-          "Africa": 2,
-          "Europe": 1
-        },
-        "WwWNV": {
-          "Africa": 1
-        },
-        "mccMY": {
-          "Africa": 1
-        },
-        "gMQ9M": {
-          "Europe": 1
-        },
-        "BjxRv": {
-          "Africa": 1,
-          "South America": 1
-        },
-        "DVVCk": {
-          "Africa": 1
-        },
-        "v9Gm5": {
-          "South America": 1
-        },
-        "Dy8G8": {
-          "South America": 1
-        },
-        "5n79m": {
-          "South America": 1
-        },
-        "Z2Yfi": {
-          "Africa": 1
-        },
-        "4jULA": {
-          "Africa": 1
-        },
-        "Nwp9K": {
-          "Africa": 1
-        },
-        "2HZWe": {
-          "Africa": 1
-        },
-        "BkwCD": {
-          "Africa": 1
-        },
-        "LW2n7": {
-          "Africa": 1
-        },
-        "8wL5S": {
-          "Africa": 1
-        },
-        "N92Wm": {
-          "Africa": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Halo",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Cliffs",
+        "text": "Win 4 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -11773,10 +11583,35 @@
       "claim_ids": [
         "1565508823626809345"
       ]
+    },
+    "1565512835516211301": {
+      "id": "1565512835516211301",
+      "time": "2026-10-29T23:49:01+00:00",
+      "map": "North America",
+      "prev": "12.36309",
+      "curr": "12.39565",
+      "contest": false,
+      "accounts": [
+        "Rj8Tt",
+        "4uLEq",
+        "T8Bdg",
+        "MQqTN",
+        "YgDn2",
+        "vGLRv",
+        "d9CYQ"
+      ],
+      "claims": [
+        "1471367580160622807"
+      ],
+      "points": 22,
+      "posted": false,
+      "claim_ids": [
+        "1565512836849991771"
+      ]
     }
   },
-  "win_last_id": "1565508823626809345",
-  "team_last_id": "1565511880833765438",
+  "win_last_id": "1565512836849991771",
+  "team_last_id": "1565515917041864755",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -15280,6 +15115,13 @@
         "time": "2026-10-29T23:33:05+00:00",
         "block": "21:00-00:00",
         "points": 28
+      },
+      "1565512835516211301:1471367580160622807": {
+        "user": "1471367580160622807",
+        "game": "1565512835516211301",
+        "time": "2026-10-29T23:49:01+00:00",
+        "block": "21:00-00:00",
+        "points": 22
       }
     }
   },
