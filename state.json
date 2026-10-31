@@ -2014,16 +2014,16 @@
   "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-10-30T13:00:00+00:00",
   "daily_quests": {
-    "date": "2026-10-30",
-    "created_at": "2026-10-30T00:01:27.580530+00:00",
+    "date": "2026-10-31",
+    "created_at": "2026-10-31T00:01:24.467875+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Black Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2032,22 +2032,22 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "Caucasia",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "Z2Yfi"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 1",
+        "map": "World 2",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2056,233 +2056,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "Z2Yfi": {
-          "World 2": 2
-        },
-        "1dX5T": {
-          "World 2": 1
-        },
-        "wCVnm": {
-          "World 2": 1
-        },
-        "CDrKn": {
-          "World 2": 1
-        },
-        "KGN7Y": {
-          "World 2": 1
-        },
-        "vt2Mr": {
-          "World 2": 1
-        },
-        "c58Rc": {
-          "World 2": 1
-        },
-        "mLwvB": {
-          "World 2": 1
-        },
-        "vQKDd": {
-          "World 2": 1
-        },
-        "kNyky": {
-          "World 2": 1
-        },
-        "TLmQM": {
-          "World 2": 1
-        },
-        "q9d2b": {
-          "World 2": 1
-        },
-        "l2C_W": {
-          "World 2": 1
-        },
-        "JQK9k": {
-          "World 2": 1
-        },
-        "kdj2q": {
-          "World 2": 1
-        },
-        "AOB65": {
-          "World 2": 1
-        },
-        "bN8NM": {
-          "World 2": 1
-        },
-        "XB8XZ": {
-          "World 2": 1
-        },
-        "85YbT": {
-          "World 2": 1
-        },
-        "nWdjn": {
-          "World 2": 1
-        },
-        "NRK97": {
-          "World 2": 1
-        },
-        "TJw9V": {
-          "World 2": 1
-        },
-        "yB9Tm": {
-          "World 2": 1
-        },
-        "RjTDJ": {
-          "World 2": 1
-        },
-        "yTBDv": {
-          "World 2": 1
-        },
-        "wWyMn": {
-          "World 2": 1
-        },
-        "vMRYj": {
-          "World 2": 1
-        },
-        "JR797": {
-          "World 2": 1
-        },
-        "Oyf9y": {
-          "World 2": 1
-        },
-        "qrb8t": {
-          "World 2": 1
-        },
-        "N5ytc": {
-          "World 2": 1
-        },
-        "qTL9c": {
-          "World 2": 1
-        },
-        "BNxHu": {
-          "World 2": 1
-        },
-        "dRmdd": {
-          "World 2": 1
-        },
-        "mn2Mm": {
-          "World 2": 1
-        },
-        "MYvCr": {
-          "World 2": 1
-        },
-        "VVMmR": {
-          "World 2": 1
-        },
-        "jaeH-": {
-          "World 2": 1
-        },
-        "djcBL": {
-          "World 2": 1
-        },
-        "8vtt7": {
-          "World 2": 1
-        },
-        "nvtQw": {
-          "World 2": 1
-        },
-        "CBwJn": {
-          "World 2": 1
-        },
-        "_IWx6": {
-          "World 2": 1
-        },
-        "qnVnr": {
-          "World 2": 1
-        },
-        "qMjmK": {
-          "World 2": 1
-        },
-        "HgkdK": {
-          "World 2": 1
-        },
-        "ka2aS": {
-          "World 2": 1
-        }
-      },
-      "hard": {
-        "vt2Mr": {
-          "World 1": 2
-        },
-        "dWYR7": {
-          "World 1": 1
-        },
-        "yTNL5": {
-          "World 1": 1
-        },
-        "yWDwg": {
-          "World 1": 1
-        },
-        "Gwgmc": {
-          "World 1": 1
-        },
-        "NqkrT": {
-          "World 1": 1
-        },
-        "bTv72": {
-          "World 1": 1
-        },
-        "YC97s": {
-          "World 1": 1
-        },
-        "9VTt2": {
-          "World 1": 1
-        },
-        "XB8XZ": {
-          "World 1": 1
-        },
-        "NNtRb": {
-          "World 1": 1
-        },
-        "DaTPg": {
-          "World 1": 1
-        },
-        "c5MwR": {
-          "World 1": 1
-        },
-        "dmmmd": {
-          "World 1": 1
-        },
-        "vKqkR": {
-          "World 1": 1
-        },
-        "R4MEL": {
-          "World 1": 1
-        },
-        "Z2Yfi": {
-          "World 1": 1
-        },
-        "lqwl4": {
-          "World 1": 1
-        },
-        "oDju_": {
-          "World 1": 1
-        },
-        "qKwQ7": {
-          "World 1": 1
-        },
-        "MKBTG": {
-          "World 1": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -12553,7 +12347,7 @@
     }
   },
   "win_last_id": "1565776763244642327",
-  "team_last_id": "1565874230741180448",
+  "team_last_id": "1565878155045113868",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
