@@ -1539,10 +1539,31 @@
       "eligible_match_count": 25
     }
   ],
-  "last_seen_time": "2026-10-31T14:16:08+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-10-31T21:01:02+00:00",
+  "current_scores": {
+    "Jy8nV": {
+      "points": 15.12,
+      "match_count": 1,
+      "last_score_time": "2026-10-31T21:01:02+00:00"
+    },
+    "GB7YT": {
+      "points": 5.47,
+      "match_count": 1,
+      "last_score_time": "2026-10-31T21:01:02+00:00"
+    },
+    "4uLEq": {
+      "points": 0.99,
+      "match_count": 1,
+      "last_score_time": "2026-10-31T21:01:02+00:00"
+    },
+    "nD2Gb": {
+      "points": 0.42,
+      "match_count": 1,
+      "last_score_time": "2026-10-31T21:01:02+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-10-31T20:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-10-31T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-10-31",
@@ -12145,10 +12166,30 @@
       "claim_ids": [
         "1566093438238068747"
       ]
+    },
+    "1566195332763885802": {
+      "id": "1566195332763885802",
+      "time": "2026-10-31T21:01:02+00:00",
+      "map": "Australia",
+      "prev": "11.88102",
+      "curr": "11.91554",
+      "contest": false,
+      "accounts": [
+        "Jy8nV",
+        "GB7YT",
+        "4uLEq",
+        "nD2Gb"
+      ],
+      "claims": [],
+      "points": 27,
+      "posted": false,
+      "claim_ids": [
+        "1566195334353391819"
+      ]
     }
   },
-  "win_last_id": "1566093438238068747",
-  "team_last_id": "1566191241538834536",
+  "win_last_id": "1566195334353391819",
+  "team_last_id": "1566195395569262778",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
