@@ -1539,7 +1539,7 @@
       "eligible_match_count": 25
     }
   ],
-  "last_seen_time": "2026-11-01T03:34:15+00:00",
+  "last_seen_time": "2026-11-01T04:36:00+00:00",
   "current_scores": {
     "Jy8nV": {
       "points": 15.799999999999999,
@@ -1700,10 +1700,25 @@
       "points": 1.8,
       "match_count": 1,
       "last_score_time": "2026-11-01T03:34:15+00:00"
+    },
+    "mW5qJ": {
+      "points": 7.39,
+      "match_count": 1,
+      "last_score_time": "2026-11-01T04:36:00+00:00"
+    },
+    "q8J7W": {
+      "points": 3.07,
+      "match_count": 1,
+      "last_score_time": "2026-11-01T04:36:00+00:00"
+    },
+    "Q8Gvq": {
+      "points": 1.55,
+      "match_count": 1,
+      "last_score_time": "2026-11-01T04:36:00+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-31T20:00:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-10-31T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-01",
@@ -12446,10 +12461,29 @@
       "claim_ids": [
         "1566294298155286670"
       ]
+    },
+    "1566309837057556601": {
+      "id": "1566309837057556601",
+      "time": "2026-11-01T04:36:00+00:00",
+      "map": "South America",
+      "prev": "11.73361",
+      "curr": "11.75249",
+      "contest": false,
+      "accounts": [
+        "mW5qJ",
+        "q8J7W",
+        "Q8Gvq"
+      ],
+      "claims": [],
+      "points": 15,
+      "posted": false,
+      "claim_ids": [
+        "1566309838521237696"
+      ]
     }
   },
-  "win_last_id": "1566294298155286670",
-  "team_last_id": "1566308377750143037",
+  "win_last_id": "1566309838521237696",
+  "team_last_id": "1566312064518062183",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
