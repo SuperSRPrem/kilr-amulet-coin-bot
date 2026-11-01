@@ -12442,14 +12442,14 @@
       ],
       "claims": [],
       "points": 13,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1566294298155286670"
       ]
     }
   },
   "win_last_id": "1566294298155286670",
-  "team_last_id": "1566301039769034834",
+  "team_last_id": "1566304615903789170",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
