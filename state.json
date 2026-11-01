@@ -1539,7 +1539,7 @@
       "eligible_match_count": 25
     }
   ],
-  "last_seen_time": "2026-10-31T22:02:01+00:00",
+  "last_seen_time": "2026-11-01T03:28:39+00:00",
   "current_scores": {
     "Jy8nV": {
       "points": 15.799999999999999,
@@ -1660,10 +1660,30 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-10-31T22:02:01+00:00"
+    },
+    "DyBC8": {
+      "points": 24.41,
+      "match_count": 2,
+      "last_score_time": "2026-11-01T03:28:39+00:00"
+    },
+    "tvCB2": {
+      "points": 8.86,
+      "match_count": 1,
+      "last_score_time": "2026-11-01T03:28:39+00:00"
+    },
+    "KriLG": {
+      "points": 3.7,
+      "match_count": 1,
+      "last_score_time": "2026-11-01T03:28:39+00:00"
+    },
+    "1HLkA": {
+      "points": 2.03,
+      "match_count": 1,
+      "last_score_time": "2026-11-01T03:28:39+00:00"
     }
   },
   "current_cycle_started_at": "2026-10-31T20:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-10-31T20:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-01",
@@ -1709,7 +1729,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tvCB2": {
+          "World 1": 1
+        },
+        "DyBC8": {
+          "World 1": 1
+        },
+        "KriLG": {
+          "World 1": 1
+        },
+        "1HLkA": {
+          "World 1": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -12335,10 +12368,47 @@
       "claim_ids": [
         "1566210682842783775"
       ]
+    },
+    "1566291249575624877": {
+      "id": "1566291249575624877",
+      "time": "2026-11-01T03:22:10+00:00",
+      "map": "Caucasia",
+      "prev": "11.69238",
+      "curr": "11.72073",
+      "contest": false,
+      "accounts": [
+        "DyBC8"
+      ],
+      "claims": [],
+      "points": 22,
+      "posted": false,
+      "claim_ids": [
+        "1566291250703765699"
+      ]
+    },
+    "1566292886277066824": {
+      "id": "1566292886277066824",
+      "time": "2026-11-01T03:28:39+00:00",
+      "map": "World 1",
+      "prev": "11.71812",
+      "curr": "11.75118",
+      "contest": false,
+      "accounts": [
+        "tvCB2",
+        "DyBC8",
+        "KriLG",
+        "1HLkA"
+      ],
+      "claims": [],
+      "points": 23,
+      "posted": false,
+      "claim_ids": [
+        "1566292888831271011"
+      ]
     }
   },
-  "win_last_id": "1566210682842783775",
-  "team_last_id": "1566289589105205303",
+  "win_last_id": "1566292888831271011",
+  "team_last_id": "1566293367191633983",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
