@@ -1546,10 +1546,21 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-11-01T14:35:59+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-01T23:20:41+00:00",
+  "current_scores": {
+    "wSM3X": {
+      "points": 19.67,
+      "match_count": 1,
+      "last_score_time": "2026-11-01T23:20:41+00:00"
+    },
+    "B5R7t": {
+      "points": 2.33,
+      "match_count": 1,
+      "last_score_time": "2026-11-01T23:20:41+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-01T18:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-01T18:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-01",
@@ -12618,10 +12629,28 @@
       "claim_ids": [
         "1566460820706304280"
       ]
+    },
+    "1566592870532776000": {
+      "id": "1566592870532776000",
+      "time": "2026-11-01T23:20:41+00:00",
+      "map": "Asia",
+      "prev": "11.05826",
+      "curr": "11.09341",
+      "contest": false,
+      "accounts": [
+        "wSM3X",
+        "B5R7t"
+      ],
+      "claims": [],
+      "points": 26,
+      "posted": false,
+      "claim_ids": [
+        "1566592871493013536"
+      ]
     }
   },
-  "win_last_id": "1566460820706304280",
-  "team_last_id": "1566591558055366777",
+  "win_last_id": "1566592871493013536",
+  "team_last_id": "1566595367301157106",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
