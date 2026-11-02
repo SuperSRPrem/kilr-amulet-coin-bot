@@ -1546,7 +1546,7 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-11-02T05:25:37+00:00",
+  "last_seen_time": "2026-11-02T08:37:31+00:00",
   "current_scores": {
     "wSM3X": {
       "points": 19.67,
@@ -1559,9 +1559,9 @@
       "last_score_time": "2026-11-01T23:20:41+00:00"
     },
     "Oyf9y": {
-      "points": 137.97,
-      "match_count": 2,
-      "last_score_time": "2026-11-02T05:25:37+00:00"
+      "points": 186.09,
+      "match_count": 3,
+      "last_score_time": "2026-11-02T08:37:31+00:00"
     },
     "bmm59": {
       "points": 17.19,
@@ -1597,10 +1597,25 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-11-02T05:25:37+00:00"
+    },
+    "dwGcJ": {
+      "points": 31.5,
+      "match_count": 1,
+      "last_score_time": "2026-11-02T08:37:31+00:00"
+    },
+    "vgM9M": {
+      "points": 29.92,
+      "match_count": 1,
+      "last_score_time": "2026-11-02T08:37:31+00:00"
+    },
+    "GLnTa": {
+      "points": 6.46,
+      "match_count": 1,
+      "last_score_time": "2026-11-02T08:37:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-01T18:00:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-11-01T18:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-02",
@@ -12659,10 +12674,32 @@
       "claim_ids": [
         "1566684707398221965"
       ]
+    },
+    "1566733000920670279": {
+      "id": "1566733000920670279",
+      "time": "2026-11-02T08:37:31+00:00",
+      "map": "Mare Nostrum",
+      "prev": "11.10720",
+      "curr": "11.29238",
+      "contest": true,
+      "accounts": [
+        "Oyf9y",
+        "dwGcJ",
+        "vgM9M",
+        "GLnTa"
+      ],
+      "claims": [
+        "1478994639603372206"
+      ],
+      "points": 130,
+      "posted": false,
+      "claim_ids": [
+        "1566733002099392604"
+      ]
     }
   },
-  "win_last_id": "1566684707398221965",
-  "team_last_id": "1566731274734010450",
+  "win_last_id": "1566733002099392604",
+  "team_last_id": "1566735026731749397",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -16649,6 +16686,13 @@
         "time": "2026-11-02T05:25:37+00:00",
         "block": "03:00-06:00",
         "points": 116
+      },
+      "1566733000920670279:1478994639603372206": {
+        "user": "1478994639603372206",
+        "game": "1566733000920670279",
+        "time": "2026-11-02T08:37:31+00:00",
+        "block": "06:00-09:00",
+        "points": 130
       }
     }
   },
