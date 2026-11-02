@@ -12655,14 +12655,14 @@
         "1478994639603372206"
       ],
       "points": 116,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1566684707398221965"
       ]
     }
   },
   "win_last_id": "1566684707398221965",
-  "team_last_id": "1566689752458199051",
+  "team_last_id": "1566693590980239481",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
