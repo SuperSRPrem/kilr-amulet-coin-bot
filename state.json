@@ -1553,7 +1553,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-11-03T07:07:24+00:00",
+  "last_seen_time": "2026-11-03T08:58:15+00:00",
   "current_scores": {
     "3kfUf": {
       "points": 7.19,
@@ -1569,10 +1569,30 @@
       "points": 2.63,
       "match_count": 1,
       "last_score_time": "2026-11-03T07:07:24+00:00"
+    },
+    "JFE2Y": {
+      "points": 10.03,
+      "match_count": 1,
+      "last_score_time": "2026-11-03T08:58:15+00:00"
+    },
+    "odiQr": {
+      "points": 8.66,
+      "match_count": 1,
+      "last_score_time": "2026-11-03T08:58:15+00:00"
+    },
+    "2NWRG": {
+      "points": 3.24,
+      "match_count": 1,
+      "last_score_time": "2026-11-03T08:58:15+00:00"
+    },
+    "TGCkg": {
+      "points": 0.07,
+      "match_count": 1,
+      "last_score_time": "2026-11-03T08:58:15+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-02T21:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-02T21:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-03",
@@ -12902,10 +12922,30 @@
       "claim_ids": [
         "1567072714475315273"
       ]
+    },
+    "1567100614142591078": {
+      "id": "1567100614142591078",
+      "time": "2026-11-03T08:58:15+00:00",
+      "map": "Mare Nostrum",
+      "prev": "11.16277",
+      "curr": "11.19784",
+      "contest": false,
+      "accounts": [
+        "JFE2Y",
+        "odiQr",
+        "2NWRG",
+        "TGCkg"
+      ],
+      "claims": [],
+      "points": 22,
+      "posted": false,
+      "claim_ids": [
+        "1567100615543365793"
+      ]
     }
   },
-  "win_last_id": "1567072714475315273",
-  "team_last_id": "1567097237069234281",
+  "win_last_id": "1567100615543365793",
+  "team_last_id": "1567101239488155660",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
