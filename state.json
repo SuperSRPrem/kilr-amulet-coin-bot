@@ -1559,16 +1559,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-11-02T21:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-02",
-    "created_at": "2026-11-02T00:01:20.482770+00:00",
+    "date": "2026-11-03",
+    "created_at": "2026-11-03T00:01:29.055213+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "White Plains",
+        "map": "Mountains 2",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on White Plains",
+        "text": "Win 4 times on Mountains 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1577,10 +1577,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Pond",
-        "target": 6,
+        "map": "South America",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Pond",
+        "text": "Win 4 times on South America",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1588,11 +1588,18 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1606,22 +1613,22 @@
     }
   },
   "last_quest_day": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on North America",
+        "text": "Win 6 times on Pond",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win 6 times on World 1",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -12863,7 +12870,7 @@
     }
   },
   "win_last_id": "1566887641771933808",
-  "team_last_id": "1566960939151007885",
+  "team_last_id": "1566965480974057473",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
