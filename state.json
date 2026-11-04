@@ -1560,10 +1560,31 @@
       "eligible_match_count": 7
     }
   ],
-  "last_seen_time": "2026-11-03T13:57:52+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-04T05:19:08+00:00",
+  "current_scores": {
+    "dGqWT": {
+      "points": 4.72,
+      "match_count": 1,
+      "last_score_time": "2026-11-04T05:19:08+00:00"
+    },
+    "ttbRr": {
+      "points": 2.69,
+      "match_count": 1,
+      "last_score_time": "2026-11-04T05:19:08+00:00"
+    },
+    "yXFy8": {
+      "points": 2.07,
+      "match_count": 1,
+      "last_score_time": "2026-11-04T05:19:08+00:00"
+    },
+    "cHlyd": {
+      "points": 1.51,
+      "match_count": 1,
+      "last_score_time": "2026-11-04T05:19:08+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-03T16:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-03T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-04",
@@ -1616,7 +1637,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "dGqWT": {
+          "Africa": 1
+        },
+        "ttbRr": {
+          "Africa": 1
+        },
+        "yXFy8": {
+          "Africa": 1
+        },
+        "cHlyd": {
+          "Africa": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -13064,10 +13098,27 @@
       "claim_ids": [
         "1567176008023408671"
       ]
+    },
+    "1567407850890854436": {
+      "id": "1567407850890854436",
+      "time": "2026-11-04T05:19:08+00:00",
+      "map": "Africa",
+      "prev": "11.15426",
+      "curr": "11.17179",
+      "contest": false,
+      "accounts": [
+        "dGqWT",
+        "ttbRr",
+        "yXFy8",
+        "cHlyd"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1567176008023408671",
-  "team_last_id": "1567406953989410939",
+  "team_last_id": "1567410791273996329",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
