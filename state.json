@@ -13299,14 +13299,14 @@
         "1478994639603372206"
       ],
       "points": 216,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1567537060817146027"
       ]
     }
   },
   "win_last_id": "1567537060817146027",
-  "team_last_id": "1567542774545522860",
+  "team_last_id": "1567546624253894687",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -17555,5 +17555,5 @@
       }
     }
   },
-  "last_reminder": "2026-11-03"
+  "last_reminder": "2026-11-04"
 }
