@@ -1567,7 +1567,7 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-11-04T19:42:35+00:00",
+  "last_seen_time": "2026-11-04T21:20:17+00:00",
   "current_scores": {
     "G6WE-": {
       "points": 11.75,
@@ -1613,10 +1613,15 @@
       "points": 0.21,
       "match_count": 1,
       "last_score_time": "2026-11-04T19:42:35+00:00"
+    },
+    "vt2Mr": {
+      "points": 150.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-04T21:20:17+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-04T18:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-04T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-04",
@@ -13656,10 +13661,29 @@
       "claim_ids": [
         "1567625141964509328"
       ]
+    },
+    "1567649729700036740": {
+      "id": "1567649729700036740",
+      "time": "2026-11-04T21:20:17+00:00",
+      "map": "British Isles",
+      "prev": "12.31615",
+      "curr": "12.54789",
+      "contest": true,
+      "accounts": [
+        "vt2Mr"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 166,
+      "posted": false,
+      "claim_ids": [
+        "1567649730937356380"
+      ]
     }
   },
-  "win_last_id": "1567625141964509328",
-  "team_last_id": "1567648569866063883",
+  "win_last_id": "1567649730937356380",
+  "team_last_id": "1567652269669752974",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -18129,6 +18153,13 @@
         "time": "2026-11-04T17:31:14+00:00",
         "block": "15:00-18:00",
         "points": 222
+      },
+      "1567649729700036740:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1567649729700036740",
+        "time": "2026-11-04T21:20:17+00:00",
+        "block": "21:00-00:00",
+        "points": 166
       }
     }
   },
