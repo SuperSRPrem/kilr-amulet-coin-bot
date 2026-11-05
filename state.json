@@ -1567,7 +1567,7 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-11-05T07:38:54+00:00",
+  "last_seen_time": "2026-11-05T11:27:37+00:00",
   "current_scores": {
     "G6WE-": {
       "points": 11.75,
@@ -1708,10 +1708,35 @@
       "points": 0.58,
       "match_count": 1,
       "last_score_time": "2026-11-05T07:38:54+00:00"
+    },
+    "_tFM4": {
+      "points": 4.94,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T11:27:37+00:00"
+    },
+    "EfNM-": {
+      "points": 4.68,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T11:27:37+00:00"
+    },
+    "Q2Qw9": {
+      "points": 3.2,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T11:27:37+00:00"
+    },
+    "CBJBy": {
+      "points": 3.11,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T11:27:37+00:00"
+    },
+    "TcQd7": {
+      "points": 0.07,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T11:27:37+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-04T18:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-11-04T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-05",
@@ -13752,10 +13777,33 @@
       "claim_ids": [
         "1567805416832893020"
       ]
+    },
+    "1567862969969152096": {
+      "id": "1567862969969152096",
+      "time": "2026-11-05T11:27:37+00:00",
+      "map": "Cliffs",
+      "prev": "11.78805",
+      "curr": "11.81318",
+      "contest": false,
+      "accounts": [
+        "_tFM4",
+        "EfNM-",
+        "Q2Qw9",
+        "CBJBy",
+        "TcQd7"
+      ],
+      "claims": [
+        "708709434159005759"
+      ],
+      "points": 23,
+      "posted": false,
+      "claim_ids": [
+        "1567862971496136736"
+      ]
     }
   },
-  "win_last_id": "1567805416832893020",
-  "team_last_id": "1567859948900057179",
+  "win_last_id": "1567862971496136736",
+  "team_last_id": "1567863813020057752",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -18246,6 +18294,13 @@
         "time": "2026-11-05T07:20:12+00:00",
         "block": "06:00-09:00",
         "points": 21
+      },
+      "1567862969969152096:708709434159005759": {
+        "user": "708709434159005759",
+        "game": "1567862969969152096",
+        "time": "2026-11-05T11:27:37+00:00",
+        "block": "09:00-12:00",
+        "points": 23
       }
     }
   },
