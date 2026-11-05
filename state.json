@@ -1567,7 +1567,7 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-11-05T03:39:49+00:00",
+  "last_seen_time": "2026-11-05T06:41:20+00:00",
   "current_scores": {
     "G6WE-": {
       "points": 11.75,
@@ -1648,10 +1648,15 @@
       "points": 2.08,
       "match_count": 1,
       "last_score_time": "2026-11-05T03:39:49+00:00"
+    },
+    "V9knL": {
+      "points": 13.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T06:41:20+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-04T18:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-11-04T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-05",
@@ -13630,10 +13635,27 @@
       "claim_ids": [
         "1567745236988592149"
       ]
+    },
+    "1567790920798314497": {
+      "id": "1567790920798314497",
+      "time": "2026-11-05T06:41:20+00:00",
+      "map": "Mare Nostrum",
+      "prev": "12.05131",
+      "curr": "12.07157",
+      "contest": false,
+      "accounts": [
+        "V9knL"
+      ],
+      "claims": [],
+      "points": 14,
+      "posted": false,
+      "claim_ids": [
+        "1567790921846751294"
+      ]
     }
   },
-  "win_last_id": "1567745236988592149",
-  "team_last_id": "1567788307763699715",
+  "win_last_id": "1567790921846751294",
+  "team_last_id": "1567791687810682891",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
