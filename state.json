@@ -1574,7 +1574,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-11-05T18:38:06+00:00",
+  "last_seen_time": "2026-11-05T20:28:11+00:00",
   "current_scores": {
     "Up1-O": {
       "points": 23.3,
@@ -1872,9 +1872,9 @@
       "last_score_time": "2026-11-05T14:27:01+00:00"
     },
     "_tFM4": {
-      "points": 4.18,
-      "match_count": 1,
-      "last_score_time": "2026-11-05T14:27:01+00:00"
+      "points": 20.56,
+      "match_count": 2,
+      "last_score_time": "2026-11-05T20:28:11+00:00"
     },
     "k8QTD": {
       "points": 3.65,
@@ -2190,10 +2190,25 @@
       "points": 0.05,
       "match_count": 1,
       "last_score_time": "2026-11-05T18:38:06+00:00"
+    },
+    "WKY8q": {
+      "points": 23.19,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T20:28:11+00:00"
+    },
+    "2v78t": {
+      "points": 1.3,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T20:28:11+00:00"
+    },
+    "RRCgr": {
+      "points": 1.14,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T20:28:11+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-05T12:30:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-11-05T12:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-05",
@@ -2427,6 +2442,18 @@
         },
         "Tb5cN": {
           "Asia": 1
+        },
+        "WKY8q": {
+          "North America": 1
+        },
+        "_tFM4": {
+          "North America": 1
+        },
+        "2v78t": {
+          "North America": 1
+        },
+        "RRCgr": {
+          "North America": 1
         }
       }
     }
@@ -14846,10 +14873,32 @@
       "claim_ids": [
         "1567971309609295935"
       ]
+    },
+    "1567999004099477605": {
+      "id": "1567999004099477605",
+      "time": "2026-11-05T20:28:11+00:00",
+      "map": "North America",
+      "prev": "12.19005",
+      "curr": "12.25511",
+      "contest": false,
+      "accounts": [
+        "WKY8q",
+        "_tFM4",
+        "2v78t",
+        "RRCgr"
+      ],
+      "claims": [
+        "1119000915567988846"
+      ],
+      "points": 42,
+      "posted": false,
+      "claim_ids": [
+        "1567999008159432727"
+      ]
     }
   },
-  "win_last_id": "1567971309609295935",
-  "team_last_id": "1567995395798339766",
+  "win_last_id": "1567999008159432727",
+  "team_last_id": "1567999709916692591",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -19592,6 +19641,13 @@
         "time": "2026-11-05T18:38:06+00:00",
         "block": "18:00-21:00",
         "points": 45
+      },
+      "1567999004099477605:1119000915567988846": {
+        "user": "1119000915567988846",
+        "game": "1567999004099477605",
+        "time": "2026-11-05T20:28:11+00:00",
+        "block": "18:00-21:00",
+        "points": 42
       }
     }
   },
