@@ -1567,7 +1567,7 @@
       "eligible_match_count": 13
     }
   ],
-  "last_seen_time": "2026-11-04T21:20:17+00:00",
+  "last_seen_time": "2026-11-05T00:18:30+00:00",
   "current_scores": {
     "G6WE-": {
       "points": 11.75,
@@ -1615,13 +1615,28 @@
       "last_score_time": "2026-11-04T19:42:35+00:00"
     },
     "vt2Mr": {
-      "points": 150.0,
+      "points": 163.0,
+      "match_count": 2,
+      "last_score_time": "2026-11-05T00:18:30+00:00"
+    },
+    "RCt7M": {
+      "points": 40.9,
       "match_count": 1,
-      "last_score_time": "2026-11-04T21:20:17+00:00"
+      "last_score_time": "2026-11-05T00:18:30+00:00"
+    },
+    "KMgYV": {
+      "points": 12.1,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T00:18:30+00:00"
+    },
+    "jirWB": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T00:18:30+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-04T18:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-11-04T18:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-05",
@@ -13552,10 +13567,27 @@
       "claim_ids": [
         "1567649730937356380"
       ]
+    },
+    "1567694586690670603": {
+      "id": "1567694586690670603",
+      "time": "2026-11-05T00:18:30+00:00",
+      "map": "Caucasia",
+      "prev": "12.24689",
+      "curr": "12.34900",
+      "contest": true,
+      "accounts": [
+        "RCt7M",
+        "vt2Mr",
+        "KMgYV",
+        "jirWB"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1567649730937356380",
-  "team_last_id": "1567693829346295819",
+  "team_last_id": "1567697755961294964",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
