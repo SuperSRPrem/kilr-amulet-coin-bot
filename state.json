@@ -1574,7 +1574,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-11-05T20:28:11+00:00",
+  "last_seen_time": "2026-11-05T21:24:34+00:00",
   "current_scores": {
     "Up1-O": {
       "points": 23.3,
@@ -2205,10 +2205,25 @@
       "points": 1.14,
       "match_count": 1,
       "last_score_time": "2026-11-05T20:28:11+00:00"
+    },
+    "GueSH": {
+      "points": 11.53,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T21:24:34+00:00"
+    },
+    "wA1JF": {
+      "points": 7.34,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T21:24:34+00:00"
+    },
+    "h7mvv": {
+      "points": 4.14,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T21:24:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-05T12:30:00+00:00",
-  "current_cycle_match_count": 14,
+  "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-11-05T12:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-05",
@@ -14895,10 +14910,29 @@
       "claim_ids": [
         "1567999008159432727"
       ]
+    },
+    "1568013199473643532": {
+      "id": "1568013199473643532",
+      "time": "2026-11-05T21:24:34+00:00",
+      "map": "Scandinavia",
+      "prev": "12.14161",
+      "curr": "12.17733",
+      "contest": false,
+      "accounts": [
+        "GueSH",
+        "wA1JF",
+        "h7mvv"
+      ],
+      "claims": [],
+      "points": 25,
+      "posted": false,
+      "claim_ids": [
+        "1568013200522215457"
+      ]
     }
   },
-  "win_last_id": "1567999008159432727",
-  "team_last_id": "1568010843193348127",
+  "win_last_id": "1568013200522215457",
+  "team_last_id": "1568014531999957124",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
