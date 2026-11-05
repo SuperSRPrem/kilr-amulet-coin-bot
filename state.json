@@ -1574,7 +1574,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-11-05T15:15:58+00:00",
+  "last_seen_time": "2026-11-05T16:42:48+00:00",
   "current_scores": {
     "Up1-O": {
       "points": 23.3,
@@ -2095,10 +2095,50 @@
       "points": 1.49,
       "match_count": 1,
       "last_score_time": "2026-11-05T15:15:58+00:00"
+    },
+    "BjxRv": {
+      "points": 10.69,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T16:42:48+00:00"
+    },
+    "0fjwh": {
+      "points": 8.3,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T16:42:48+00:00"
+    },
+    "Qwjwr": {
+      "points": 6.16,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T16:42:48+00:00"
+    },
+    "bmm59": {
+      "points": 3.49,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T16:42:48+00:00"
+    },
+    "jkQdM": {
+      "points": 2.46,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T16:42:48+00:00"
+    },
+    "DKjMd": {
+      "points": 1.42,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T16:42:48+00:00"
+    },
+    "IyOz6": {
+      "points": 0.77,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T16:42:48+00:00"
+    },
+    "ybjgK": {
+      "points": 0.7,
+      "match_count": 1,
+      "last_score_time": "2026-11-05T16:42:48+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-05T12:30:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-11-05T12:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-05",
@@ -2289,6 +2329,30 @@
         },
         "2KTbD": {
           "Europe": 1
+        },
+        "BjxRv": {
+          "Australia": 1
+        },
+        "0fjwh": {
+          "Australia": 1
+        },
+        "Qwjwr": {
+          "Australia": 1
+        },
+        "bmm59": {
+          "Australia": 1
+        },
+        "jkQdM": {
+          "Australia": 1
+        },
+        "DKjMd": {
+          "Australia": 1
+        },
+        "IyOz6": {
+          "Australia": 1
+        },
+        "ybjgK": {
+          "Australia": 1
         }
       }
     }
@@ -14633,10 +14697,36 @@
       "claim_ids": [
         "1567920436875104359"
       ]
+    },
+    "1567942282236395602": {
+      "id": "1567942282236395602",
+      "time": "2026-11-05T16:42:48+00:00",
+      "map": "Australia",
+      "prev": "12.91727",
+      "curr": "12.96773",
+      "contest": false,
+      "accounts": [
+        "BjxRv",
+        "0fjwh",
+        "Qwjwr",
+        "bmm59",
+        "jkQdM",
+        "DKjMd",
+        "IyOz6",
+        "ybjgK"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 36,
+      "posted": false,
+      "claim_ids": [
+        "1567942283398225921"
+      ]
     }
   },
-  "win_last_id": "1567920436875104359",
-  "team_last_id": "1567939112953192519",
+  "win_last_id": "1567942283398225921",
+  "team_last_id": "1567942619840122916",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -19358,6 +19448,13 @@
         "time": "2026-11-05T15:15:58+00:00",
         "block": "15:00-18:00",
         "points": 206
+      },
+      "1567942282236395602:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1567942282236395602",
+        "time": "2026-11-05T16:42:48+00:00",
+        "block": "15:00-18:00",
+        "points": 36
       }
     }
   },
