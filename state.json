@@ -14729,7 +14729,7 @@
         "1478994639603372206"
       ],
       "points": 158,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1568217822012637228"
       ]
@@ -14770,7 +14770,7 @@
     }
   },
   "win_last_id": "1568219987003441173",
-  "team_last_id": "1568222274266472613",
+  "team_last_id": "1568225949609365515",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
