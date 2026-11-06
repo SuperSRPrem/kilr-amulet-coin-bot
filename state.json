@@ -1581,7 +1581,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-11-06T06:09:41+00:00",
+  "last_seen_time": "2026-11-06T06:28:54+00:00",
   "current_scores": {
     "NvbT5": {
       "points": 12.59,
@@ -1592,10 +1592,65 @@
       "points": 2.41,
       "match_count": 1,
       "last_score_time": "2026-11-06T06:09:41+00:00"
+    },
+    "tGmbw": {
+      "points": 7.01,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:21:07+00:00"
+    },
+    "L2btm": {
+      "points": 5.47,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:21:07+00:00"
+    },
+    "8nr9v": {
+      "points": 4.47,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:21:07+00:00"
+    },
+    "LQrq2": {
+      "points": 5.35,
+      "match_count": 2,
+      "last_score_time": "2026-11-06T06:28:54+00:00"
+    },
+    "Nyvgc": {
+      "points": 2.09,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:21:07+00:00"
+    },
+    "tNjvC": {
+      "points": 0.81,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:21:07+00:00"
+    },
+    "asMVv": {
+      "points": 7.46,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:28:54+00:00"
+    },
+    "6H2Fh": {
+      "points": 5.73,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:28:54+00:00"
+    },
+    "DMVwQ": {
+      "points": 4.93,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:28:54+00:00"
+    },
+    "9yW2R": {
+      "points": 2.67,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:28:54+00:00"
+    },
+    "tBT5B": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:28:54+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-06T05:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-11-06T05:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-06",
@@ -1648,7 +1703,42 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tGmbw": {
+          "South America": 1
+        },
+        "L2btm": {
+          "South America": 1
+        },
+        "8nr9v": {
+          "South America": 1
+        },
+        "LQrq2": {
+          "South America": 1,
+          "Europe": 1
+        },
+        "Nyvgc": {
+          "South America": 1
+        },
+        "tNjvC": {
+          "South America": 1
+        },
+        "asMVv": {
+          "Europe": 1
+        },
+        "6H2Fh": {
+          "Europe": 1
+        },
+        "DMVwQ": {
+          "Europe": 1
+        },
+        "9yW2R": {
+          "Europe": 1
+        },
+        "tBT5B": {
+          "Europe": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -14149,10 +14239,54 @@
       "claim_ids": [
         "1568145346872483891"
       ]
+    },
+    "1568148223162318919": {
+      "id": "1568148223162318919",
+      "time": "2026-11-06T06:21:07+00:00",
+      "map": "South America",
+      "prev": "11.76533",
+      "curr": "11.79990",
+      "contest": false,
+      "accounts": [
+        "tGmbw",
+        "L2btm",
+        "8nr9v",
+        "LQrq2",
+        "Nyvgc",
+        "tNjvC"
+      ],
+      "claims": [],
+      "points": 24,
+      "posted": false,
+      "claim_ids": [
+        "1568148220922695771"
+      ]
+    },
+    "1568150188005269587": {
+      "id": "1568150188005269587",
+      "time": "2026-11-06T06:28:54+00:00",
+      "map": "Europe",
+      "prev": "11.79577",
+      "curr": "11.83346",
+      "contest": false,
+      "accounts": [
+        "asMVv",
+        "6H2Fh",
+        "DMVwQ",
+        "LQrq2",
+        "9yW2R",
+        "tBT5B"
+      ],
+      "claims": [],
+      "points": 25,
+      "posted": false,
+      "claim_ids": [
+        "1568150189204574249"
+      ]
     }
   },
-  "win_last_id": "1568145346872483891",
-  "team_last_id": "1568146778287640599",
+  "win_last_id": "1568150189204574249",
+  "team_last_id": "1568150588863029301",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
