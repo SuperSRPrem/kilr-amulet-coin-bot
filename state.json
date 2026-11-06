@@ -2226,16 +2226,16 @@
   "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-11-05T12:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-05",
-    "created_at": "2026-11-05T00:01:22.089823+00:00",
+    "date": "2026-11-06",
+    "created_at": "2026-11-06T00:01:19.295770+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island Kingdom",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2244,10 +2244,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Mountains 2",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Mountains 2",
+        "text": "Win 4 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2269,221 +2269,27 @@
         "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "tv999"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "tv999": {
-          "North America": 1,
-          "Europe": 2,
-          "Asia": 1
-        },
-        "m8RYw": {
-          "North America": 1
-        },
-        "VJ9Yk": {
-          "North America": 1
-        },
-        "GLnTa": {
-          "Europe": 1
-        },
-        "55977": {
-          "Europe": 1
-        },
-        "vWwLk": {
-          "Europe": 1
-        },
-        "qvN9g": {
-          "Europe": 1
-        },
-        "Up1-O": {
-          "Europe": 1
-        },
-        "gyGbj": {
-          "Europe": 1
-        },
-        "DyBC8": {
-          "Europe": 1
-        },
-        "2N8MT": {
-          "Asia": 1
-        },
-        "Oyf9y": {
-          "Asia": 1
-        },
-        "QTTtm": {
-          "Asia": 1
-        },
-        "vWrB2": {
-          "Asia": 1
-        },
-        "wn52J": {
-          "Asia": 1
-        },
-        "Z2Yfi": {
-          "Asia": 1
-        },
-        "QLqTJ": {
-          "Asia": 1
-        },
-        "qqgmb": {
-          "Asia": 1
-        },
-        "R9T8k": {
-          "Asia": 1
-        },
-        "tMNqT": {
-          "Asia": 1
-        },
-        "tKBY9": {
-          "Asia": 1
-        },
-        "vjvW9": {
-          "Asia": 1
-        },
-        "VNNMN": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "CJgMb": {
-          "Asia": 1
-        },
-        "ZGMuM": {
-          "Asia": 1
-        },
-        "btmtV": {
-          "Asia": 1
-        },
-        "qvBM4": {
-          "Asia": 1
-        },
-        "nLDq5": {
-          "Asia": 1
-        },
-        "BNxHu": {
-          "Europe": 1
-        },
-        "VqL58": {
-          "Europe": 1
-        },
-        "RtQtq": {
-          "Europe": 1
-        },
-        "ML95G": {
-          "Europe": 1
-        },
-        "vQQGR": {
-          "Europe": 1
-        },
-        "rLS0v": {
-          "Europe": 1
-        },
-        "GyWDK": {
-          "Europe": 1
-        },
-        "RYqkc": {
-          "Europe": 1
-        },
-        "d2tGc": {
-          "Europe": 1
-        },
-        "VjWgT": {
-          "Europe": 1
-        },
-        "JrYvN": {
-          "Europe": 1
-        },
-        "Lp_QJ": {
-          "Europe": 1
-        },
-        "QqWDw": {
-          "Europe": 1
-        },
-        "YLDTd": {
-          "Europe": 1
-        },
-        "tDvrN": {
-          "Europe": 1
-        },
-        "tY8Lr": {
-          "Europe": 1
-        },
-        "2KTbD": {
-          "Europe": 1
-        },
-        "BjxRv": {
-          "Australia": 1,
-          "Asia": 1
-        },
-        "0fjwh": {
-          "Australia": 1
-        },
-        "Qwjwr": {
-          "Australia": 1
-        },
-        "bmm59": {
-          "Australia": 1
-        },
-        "jkQdM": {
-          "Australia": 1
-        },
-        "DKjMd": {
-          "Australia": 1
-        },
-        "IyOz6": {
-          "Australia": 1
-        },
-        "ybjgK": {
-          "Australia": 1
-        },
-        "jn_rQ": {
-          "Asia": 1
-        },
-        "RwWOo": {
-          "Asia": 1
-        },
-        "CtSuM": {
-          "Asia": 1
-        },
-        "dNClv": {
-          "Asia": 1
-        },
-        "W7cd9": {
-          "Asia": 1
-        },
-        "Tb5cN": {
-          "Asia": 1
-        },
-        "WKY8q": {
-          "North America": 1
-        },
-        "_tFM4": {
-          "North America": 1
-        },
-        "2v78t": {
-          "North America": 1
-        },
-        "RRCgr": {
-          "North America": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Island Kingdom",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on White Plains",
+        "text": "Win 6 times on Mountains 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
@@ -14932,7 +14738,7 @@
     }
   },
   "win_last_id": "1568013200522215457",
-  "team_last_id": "1568048557229998223",
+  "team_last_id": "1568052180769046602",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
