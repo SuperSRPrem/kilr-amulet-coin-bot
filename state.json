@@ -1581,7 +1581,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-11-06T13:27:08+00:00",
+  "last_seen_time": "2026-11-06T14:15:25+00:00",
   "current_scores": {
     "NvbT5": {
       "points": 12.59,
@@ -1982,10 +1982,35 @@
       "points": 0.21,
       "match_count": 1,
       "last_score_time": "2026-11-06T13:18:16+00:00"
+    },
+    "RRCgr": {
+      "points": 17.13,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T14:15:25+00:00"
+    },
+    "KUbRl": {
+      "points": 8.56,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T14:15:25+00:00"
+    },
+    "mL8qL": {
+      "points": 2.6,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T14:15:25+00:00"
+    },
+    "m5v5m": {
+      "points": 2.23,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T14:15:25+00:00"
+    },
+    "TWRgd": {
+      "points": 1.48,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T14:15:25+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-06T05:30:00+00:00",
-  "current_cycle_match_count": 11,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-11-06T05:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-06",
@@ -2037,7 +2062,23 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "RRCgr": {
+          "Caucasia": 1
+        },
+        "KUbRl": {
+          "Caucasia": 1
+        },
+        "mL8qL": {
+          "Caucasia": 1
+        },
+        "m5v5m": {
+          "Caucasia": 1
+        },
+        "TWRgd": {
+          "Caucasia": 1
+        }
+      },
       "hard": {
         "tGmbw": {
           "South America": 1
@@ -14877,10 +14918,31 @@
       "claim_ids": [
         "1568255433708277855"
       ]
+    },
+    "1568267585596690446": {
+      "id": "1568267585596690446",
+      "time": "2026-11-06T14:15:25+00:00",
+      "map": "Caucasia",
+      "prev": "11.82079",
+      "curr": "11.87106",
+      "contest": false,
+      "accounts": [
+        "RRCgr",
+        "KUbRl",
+        "mL8qL",
+        "m5v5m",
+        "TWRgd"
+      ],
+      "claims": [],
+      "points": 34,
+      "posted": false,
+      "claim_ids": [
+        "1568267586674753679"
+      ]
     }
   },
-  "win_last_id": "1568255433708277855",
-  "team_last_id": "1568264043179942130",
+  "win_last_id": "1568267586674753679",
+  "team_last_id": "1568267585596690446",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
