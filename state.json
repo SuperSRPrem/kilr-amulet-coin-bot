@@ -1581,7 +1581,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-11-06T06:28:54+00:00",
+  "last_seen_time": "2026-11-06T06:54:51+00:00",
   "current_scores": {
     "NvbT5": {
       "points": 12.59,
@@ -1647,10 +1647,25 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-11-06T06:28:54+00:00"
+    },
+    "DyBC8": {
+      "points": 5.02,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:54:51+00:00"
+    },
+    "WPKP0": {
+      "points": 3.84,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:54:51+00:00"
+    },
+    "jrrgb": {
+      "points": 3.14,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T06:54:51+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-06T05:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-11-06T05:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-06",
@@ -14257,7 +14272,7 @@
       ],
       "claims": [],
       "points": 24,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1568148220922695771"
       ]
@@ -14279,14 +14294,33 @@
       ],
       "claims": [],
       "points": 25,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1568150189204574249"
       ]
+    },
+    "1568156717840080939": {
+      "id": "1568156717840080939",
+      "time": "2026-11-06T06:54:51+00:00",
+      "map": "Middle East",
+      "prev": "11.81504",
+      "curr": "11.83388",
+      "contest": false,
+      "accounts": [
+        "DyBC8",
+        "WPKP0",
+        "jrrgb"
+      ],
+      "claims": [],
+      "points": 14,
+      "posted": false,
+      "claim_ids": [
+        "1568156719182389309"
+      ]
     }
   },
-  "win_last_id": "1568150189204574249",
-  "team_last_id": "1568154414626242601",
+  "win_last_id": "1568156719182389309",
+  "team_last_id": "1568158201873043612",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
