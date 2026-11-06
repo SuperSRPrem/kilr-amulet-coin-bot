@@ -1581,7 +1581,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-11-06T10:11:16+00:00",
+  "last_seen_time": "2026-11-06T10:57:40+00:00",
   "current_scores": {
     "NvbT5": {
       "points": 12.59,
@@ -1802,10 +1802,50 @@
       "points": 0.02,
       "match_count": 1,
       "last_score_time": "2026-11-06T10:11:16+00:00"
+    },
+    "TTGTT": {
+      "points": 48.45,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T10:57:40+00:00"
+    },
+    "FMbXO": {
+      "points": 38.87,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T10:57:40+00:00"
+    },
+    "LK2kj": {
+      "points": 26.02,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T10:57:40+00:00"
+    },
+    "TnL9R": {
+      "points": 17.44,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T10:57:40+00:00"
+    },
+    "8ogEB": {
+      "points": 8.04,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T10:57:40+00:00"
+    },
+    "FeEja": {
+      "points": 2.61,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T10:57:40+00:00"
+    },
+    "kr55B": {
+      "points": 0.51,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T10:57:40+00:00"
+    },
+    "GMq8q": {
+      "points": 0.06,
+      "match_count": 1,
+      "last_score_time": "2026-11-06T10:57:40+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-06T05:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-11-06T05:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-06",
@@ -14538,10 +14578,37 @@
       "claim_ids": [
         "1568206153547124810"
       ]
+    },
+    "1568217821224243201": {
+      "id": "1568217821224243201",
+      "time": "2026-11-06T10:57:40+00:00",
+      "map": "Scandinavia",
+      "prev": "11.74354",
+      "curr": "11.96698",
+      "contest": true,
+      "accounts": [
+        "TTGTT",
+        "FMbXO",
+        "LK2kj",
+        "TnL9R",
+        "8ogEB",
+        "FeEja",
+        "kr55B",
+        "GMq8q"
+      ],
+      "claims": [
+        "1402645821505278114",
+        "1478994639603372206"
+      ],
+      "points": 158,
+      "posted": false,
+      "claim_ids": [
+        "1568217822012637228"
+      ]
     }
   },
-  "win_last_id": "1568206153547124810",
-  "team_last_id": "1568214688997576715",
+  "win_last_id": "1568217822012637228",
+  "team_last_id": "1568218679152353293",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -19312,6 +19379,20 @@
         "time": "2026-11-06T10:11:16+00:00",
         "block": "09:00-12:00",
         "points": 44
+      },
+      "1568217821224243201:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1568217821224243201",
+        "time": "2026-11-06T10:57:40+00:00",
+        "block": "09:00-12:00",
+        "points": 158
+      },
+      "1568217821224243201:1478994639603372206": {
+        "user": "1478994639603372206",
+        "game": "1568217821224243201",
+        "time": "2026-11-06T10:57:40+00:00",
+        "block": "09:00-12:00",
+        "points": 158
       }
     }
   },
