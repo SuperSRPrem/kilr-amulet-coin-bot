@@ -15811,14 +15811,14 @@
         "1095764905476501574"
       ],
       "points": 56,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1568629725306425445"
       ]
     }
   },
   "win_last_id": "1568629725306425445",
-  "team_last_id": "1568633915772633148",
+  "team_last_id": "1568637509653635187",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
