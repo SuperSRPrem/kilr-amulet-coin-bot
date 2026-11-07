@@ -1588,7 +1588,7 @@
       "eligible_match_count": 31
     }
   ],
-  "last_seen_time": "2026-11-07T23:28:23+00:00",
+  "last_seen_time": "2026-11-07T23:39:31+00:00",
   "current_scores": {
     "zebWk": {
       "points": 51.37,
@@ -1906,9 +1906,9 @@
       "last_score_time": "2026-11-07T22:53:08+00:00"
     },
     "vt2Mr": {
-      "points": 42.21,
-      "match_count": 1,
-      "last_score_time": "2026-11-07T23:28:23+00:00"
+      "points": 71.72,
+      "match_count": 2,
+      "last_score_time": "2026-11-07T23:39:31+00:00"
     },
     "7M8Vv": {
       "points": 6.63,
@@ -1919,10 +1919,15 @@
       "points": 0.15,
       "match_count": 1,
       "last_score_time": "2026-11-07T23:28:23+00:00"
+    },
+    "0u-S_": {
+      "points": 16.49,
+      "match_count": 1,
+      "last_score_time": "2026-11-07T23:39:31+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-07T16:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-11-07T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-07",
@@ -15527,10 +15532,30 @@
       "claim_ids": [
         "1568769130020999280"
       ]
+    },
+    "1568771933418295400": {
+      "id": "1568771933418295400",
+      "time": "2026-11-07T23:39:31+00:00",
+      "map": "Africa",
+      "prev": "11.96793",
+      "curr": "12.03975",
+      "contest": false,
+      "accounts": [
+        "vt2Mr",
+        "0u-S_"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 54,
+      "posted": false,
+      "claim_ids": [
+        "1568771934462939248"
+      ]
     }
   },
-  "win_last_id": "1568769130020999280",
-  "team_last_id": "1568769782885654589",
+  "win_last_id": "1568771934462939248",
+  "team_last_id": "1568773456135196775",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -20586,6 +20611,13 @@
         "user": "1321954579503513640",
         "game": "1568769128939003947",
         "time": "2026-11-07T23:28:23+00:00",
+        "block": "21:00-00:00",
+        "points": 54
+      },
+      "1568771933418295400:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1568771933418295400",
+        "time": "2026-11-07T23:39:31+00:00",
         "block": "21:00-00:00",
         "points": 54
       }
