@@ -1581,7 +1581,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-11-07T04:54:09+00:00",
+  "last_seen_time": "2026-11-07T08:09:34+00:00",
   "current_scores": {
     "NvbT5": {
       "points": 12.59,
@@ -1639,9 +1639,9 @@
       "last_score_time": "2026-11-06T06:28:54+00:00"
     },
     "9yW2R": {
-      "points": 2.67,
-      "match_count": 1,
-      "last_score_time": "2026-11-06T06:28:54+00:00"
+      "points": 16.65,
+      "match_count": 2,
+      "last_score_time": "2026-11-07T08:09:34+00:00"
     },
     "tBT5B": {
       "points": 0.01,
@@ -1649,9 +1649,9 @@
       "last_score_time": "2026-11-06T06:28:54+00:00"
     },
     "DyBC8": {
-      "points": 37.44,
-      "match_count": 4,
-      "last_score_time": "2026-11-07T04:54:09+00:00"
+      "points": 41.97,
+      "match_count": 5,
+      "last_score_time": "2026-11-07T08:09:34+00:00"
     },
     "WPKP0": {
       "points": 3.84,
@@ -2312,10 +2312,20 @@
       "points": 1.62,
       "match_count": 1,
       "last_score_time": "2026-11-07T04:54:09+00:00"
+    },
+    "QJ2KY": {
+      "points": 3.84,
+      "match_count": 1,
+      "last_score_time": "2026-11-07T08:09:34+00:00"
+    },
+    "DLmJL": {
+      "points": 1.66,
+      "match_count": 1,
+      "last_score_time": "2026-11-07T08:09:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-06T05:30:00+00:00",
-  "current_cycle_match_count": 23,
+  "current_cycle_match_count": 24,
   "last_announced_event_time": "2026-11-06T05:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-07",
@@ -2374,7 +2384,20 @@
           "World 2": 1
         }
       },
-      "hard": {}
+      "hard": {
+        "9yW2R": {
+          "Middle East": 1
+        },
+        "DyBC8": {
+          "Middle East": 1
+        },
+        "QJ2KY": {
+          "Middle East": 1
+        },
+        "DLmJL": {
+          "Middle East": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -15417,10 +15440,32 @@
       "claim_ids": [
         "1568488731634311169"
       ]
+    },
+    "1568537905050292355": {
+      "id": "1568537905050292355",
+      "time": "2026-11-07T08:09:34+00:00",
+      "map": "Middle East",
+      "prev": "11.50327",
+      "curr": "11.54128",
+      "contest": false,
+      "accounts": [
+        "9yW2R",
+        "DyBC8",
+        "QJ2KY",
+        "DLmJL"
+      ],
+      "claims": [
+        "1095764905476501574"
+      ],
+      "points": 28,
+      "posted": false,
+      "claim_ids": [
+        "1568537906291937356"
+      ]
     }
   },
-  "win_last_id": "1568488731634311169",
-  "team_last_id": "1568535764747419661",
+  "win_last_id": "1568537906291937356",
+  "team_last_id": "1568538998820053006",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -20303,6 +20348,13 @@
         "time": "2026-11-07T04:54:09+00:00",
         "block": "03:00-06:00",
         "points": 19
+      },
+      "1568537905050292355:1095764905476501574": {
+        "user": "1095764905476501574",
+        "game": "1568537905050292355",
+        "time": "2026-11-07T08:09:34+00:00",
+        "block": "06:00-09:00",
+        "points": 28
       }
     }
   },
