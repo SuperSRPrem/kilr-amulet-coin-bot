@@ -1588,7 +1588,7 @@
       "eligible_match_count": 31
     }
   ],
-  "last_seen_time": "2026-11-07T17:36:48+00:00",
+  "last_seen_time": "2026-11-07T19:36:25+00:00",
   "current_scores": {
     "zebWk": {
       "points": 51.37,
@@ -1679,10 +1679,15 @@
       "points": 0.06,
       "match_count": 1,
       "last_score_time": "2026-11-07T17:36:48+00:00"
+    },
+    "RRCgr": {
+      "points": 47.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-07T19:36:25+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-07T16:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-07T16:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-07",
@@ -15099,10 +15104,29 @@
       "claim_ids": [
         "1568680659092905997"
       ]
+    },
+    "1568710758882213909": {
+      "id": "1568710758882213909",
+      "time": "2026-11-07T19:36:25+00:00",
+      "map": "World 1",
+      "prev": "11.48021",
+      "curr": "11.55476",
+      "contest": false,
+      "accounts": [
+        "RRCgr"
+      ],
+      "claims": [
+        "1119000915567988846"
+      ],
+      "points": 48,
+      "posted": false,
+      "claim_ids": [
+        "1568710759809163356"
+      ]
     }
   },
-  "win_last_id": "1568680659092905997",
-  "team_last_id": "1568709223146061871",
+  "win_last_id": "1568710759809163356",
+  "team_last_id": "1568713047995060279",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -20132,6 +20156,13 @@
         "time": "2026-11-07T17:36:48+00:00",
         "block": "15:00-18:00",
         "points": 198
+      },
+      "1568710758882213909:1119000915567988846": {
+        "user": "1119000915567988846",
+        "game": "1568710758882213909",
+        "time": "2026-11-07T19:36:25+00:00",
+        "block": "18:00-21:00",
+        "points": 48
       }
     }
   },
