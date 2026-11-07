@@ -15119,14 +15119,14 @@
         "1119000915567988846"
       ],
       "points": 48,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1568710759809163356"
       ]
     }
   },
   "win_last_id": "1568710759809163356",
-  "team_last_id": "1568716760222400603",
+  "team_last_id": "1568720621993590785",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
