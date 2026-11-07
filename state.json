@@ -2278,16 +2278,16 @@
   "current_cycle_match_count": 19,
   "last_announced_event_time": "2026-11-06T05:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-06",
-    "created_at": "2026-11-06T00:01:19.295770+00:00",
+    "date": "2026-11-07",
+    "created_at": "2026-11-07T00:01:24.076871+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "Black Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2296,10 +2296,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 4,
+        "map": "World 2",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2309,16 +2309,15 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
         ],
-        "target": 6,
+        "target": 5,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2327,214 +2326,21 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "RRCgr": {
-          "Caucasia": 1
-        },
-        "KUbRl": {
-          "Caucasia": 1
-        },
-        "mL8qL": {
-          "Caucasia": 1
-        },
-        "m5v5m": {
-          "Caucasia": 1
-        },
-        "TWRgd": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "tGmbw": {
-          "South America": 1
-        },
-        "L2btm": {
-          "South America": 1
-        },
-        "8nr9v": {
-          "South America": 1
-        },
-        "LQrq2": {
-          "South America": 1,
-          "Europe": 1
-        },
-        "Nyvgc": {
-          "South America": 1
-        },
-        "tNjvC": {
-          "South America": 1
-        },
-        "asMVv": {
-          "Europe": 1
-        },
-        "6H2Fh": {
-          "Europe": 1
-        },
-        "DMVwQ": {
-          "Europe": 1
-        },
-        "9yW2R": {
-          "Europe": 1
-        },
-        "tBT5B": {
-          "Europe": 1
-        },
-        "KjJTk": {
-          "Europe": 1
-        },
-        "Wbg5R": {
-          "Europe": 1
-        },
-        "q2bvM": {
-          "Europe": 1
-        },
-        "nCjkW": {
-          "Europe": 1
-        },
-        "Oyf9y": {
-          "Europe": 1
-        },
-        "vWDN7": {
-          "Europe": 1
-        },
-        "B95rQ": {
-          "Europe": 1
-        },
-        "V8BT9": {
-          "Europe": 1
-        },
-        "DKWvn": {
-          "Europe": 1
-        },
-        "K5wYq": {
-          "Europe": 1
-        },
-        "2DMnq": {
-          "Europe": 1
-        },
-        "JMmuV": {
-          "Europe": 1
-        },
-        "RBv9T": {
-          "Europe": 1
-        },
-        "WMYnG": {
-          "Europe": 1
-        },
-        "nwM5c": {
-          "Europe": 1
-        },
-        "RDd2B": {
-          "Europe": 1
-        },
-        "Qjrgk": {
-          "Europe": 1
-        },
-        "DCJg7": {
-          "Europe": 1
-        },
-        "0I6Y4": {
-          "Europe": 1
-        },
-        "RRCgr": {
-          "Europe": 1
-        },
-        "PK7PG": {
-          "Europe": 1
-        },
-        "eKMe2": {
-          "Europe": 2
-        },
-        "MnqWD": {
-          "Europe": 1
-        },
-        "8cLN5": {
-          "Europe": 1
-        },
-        "m7BLT": {
-          "Europe": 1
-        },
-        "CrccK": {
-          "Europe": 1
-        },
-        "DLGVD": {
-          "Europe": 1
-        },
-        "dqwr9": {
-          "Europe": 1
-        },
-        "ShyDC": {
-          "Europe": 1
-        },
-        "YaHcJ": {
-          "Europe": 1
-        },
-        "VmLQN": {
-          "Europe": 1
-        },
-        "g89yW": {
-          "Europe": 1
-        },
-        "cIWeq": {
-          "Europe": 1
-        },
-        "GkV9w": {
-          "Europe": 1
-        },
-        "BjxRv": {
-          "Europe": 1,
-          "Australia": 1
-        },
-        "kVWLw": {
-          "Europe": 1
-        },
-        "dRWcy": {
-          "Europe": 1
-        },
-        "gQR5V": {
-          "Europe": 1
-        },
-        "nCdyL": {
-          "Europe": 1
-        },
-        "QL8qL": {
-          "Europe": 1
-        },
-        "WKbmv": {
-          "Europe": 1
-        },
-        "bKLkk": {
-          "Europe": 1
-        },
-        "GL2bK": {
-          "Australia": 1
-        },
-        "AOB65": {
-          "Australia": 1
-        },
-        "tN8DK": {
-          "Australia": 1
-        },
-        "DY27Q": {
-          "Australia": 1
-        },
-        "5QwbR": {
-          "Australia": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island Kingdom",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Mountains 2",
+        "text": "Win 4 times on Caucasia",
         "reward": 100,
         "done_by": null,
         "done_at": null
@@ -15483,7 +15289,7 @@
     }
   },
   "win_last_id": "1568380368992735263",
-  "team_last_id": "1568407346147762248",
+  "team_last_id": "1568415009627705517",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
