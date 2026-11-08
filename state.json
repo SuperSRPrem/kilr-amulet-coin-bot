@@ -16196,14 +16196,14 @@
         "1512377192158593045"
       ],
       "points": 312,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569046846997925959"
       ]
     }
   },
   "win_last_id": "1569046846997925959",
-  "team_last_id": "1569052836665360421",
+  "team_last_id": "1569056497139450042",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
