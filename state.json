@@ -1930,16 +1930,16 @@
   "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-11-07T16:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-07",
-    "created_at": "2026-11-07T00:01:24.076871+00:00",
+    "date": "2026-11-08",
+    "created_at": "2026-11-08T00:01:28.775099+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Black Arena",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1959,17 +1959,11 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "map_wins",
+        "map": "World 1",
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1978,134 +1972,27 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "Z2Yfi": {
-          "World 2": 1
-        },
-        "QwdVR": {
-          "World 2": 1
-        }
-      },
-      "hard": {
-        "9yW2R": {
-          "Middle East": 1
-        },
-        "DyBC8": {
-          "Middle East": 1
-        },
-        "QJ2KY": {
-          "Middle East": 1
-        },
-        "DLmJL": {
-          "Middle East": 1
-        },
-        "zebWk": {
-          "Mare Nostrum": 1
-        },
-        "XdPxf": {
-          "Mare Nostrum": 1
-        },
-        "Oyf9y": {
-          "Mare Nostrum": 1
-        },
-        "b7rML": {
-          "Mare Nostrum": 1
-        },
-        "VVMmR": {
-          "Mare Nostrum": 1
-        },
-        "7jG2L": {
-          "Mare Nostrum": 1
-        },
-        "v5bmB": {
-          "Mare Nostrum": 1
-        },
-        "yk8w5": {
-          "Mare Nostrum": 1
-        },
-        "GbbmD": {
-          "Mare Nostrum": 1
-        },
-        "63cmP": {
-          "Mare Nostrum": 1
-        },
-        "Z2Yfi": {
-          "Mare Nostrum": 1
-        },
-        "TTQ9Q": {
-          "Mare Nostrum": 1
-        },
-        "WQTTb": {
-          "Mare Nostrum": 1
-        },
-        "m7TBt": {
-          "Mare Nostrum": 1
-        },
-        "NMR89": {
-          "Mare Nostrum": 1
-        },
-        "yG75K": {
-          "Mare Nostrum": 1
-        },
-        "kMby8": {
-          "Mare Nostrum": 1
-        },
-        "TQQbg": {
-          "Mare Nostrum": 1
-        },
-        "RRCgr": {
-          "British Isles": 1
-        },
-        "pUgDe": {
-          "British Isles": 1
-        },
-        "1FULM": {
-          "British Isles": 1
-        },
-        "BuusI": {
-          "British Isles": 1
-        },
-        "DrjCk": {
-          "British Isles": 1
-        },
-        "DBrJJ": {
-          "British Isles": 1
-        },
-        "Vznrr": {
-          "British Isles": 1
-        },
-        "KBdt5": {
-          "British Isles": 1
-        },
-        "RrJTK": {
-          "British Isles": 1
-        },
-        "B87BQ": {
-          "British Isles": 1
-        },
-        "McmBT": {
-          "British Isles": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Black Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 3 times on World 2",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -15528,7 +15415,7 @@
         "1321954579503513640"
       ],
       "points": 54,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1568769130020999280"
       ]
@@ -15555,7 +15442,7 @@
     }
   },
   "win_last_id": "1568771934462939248",
-  "team_last_id": "1568773456135196775",
+  "team_last_id": "1568777371186630678",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
