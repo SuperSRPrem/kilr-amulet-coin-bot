@@ -1595,7 +1595,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-11-08T14:18:02+00:00",
+  "last_seen_time": "2026-11-08T14:55:00+00:00",
   "current_scores": {
     "DyBC8": {
       "points": 95.44,
@@ -1721,10 +1721,20 @@
       "points": 1.88,
       "match_count": 1,
       "last_score_time": "2026-11-08T14:18:02+00:00"
+    },
+    "KCbWD": {
+      "points": 17.23,
+      "match_count": 1,
+      "last_score_time": "2026-11-08T14:55:00+00:00"
+    },
+    "4uLEq": {
+      "points": 2.77,
+      "match_count": 1,
+      "last_score_time": "2026-11-08T14:55:00+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-08T09:30:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-11-08T09:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-08",
@@ -15568,14 +15578,29 @@
         "708709434159005759"
       ],
       "points": 77,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1568993022945919047"
       ]
+    },
+    "1569002326839009435": {
+      "id": "1569002326839009435",
+      "time": "2026-11-08T14:55:00+00:00",
+      "map": "White Plains",
+      "prev": "12.03730",
+      "curr": "12.06852",
+      "contest": false,
+      "accounts": [
+        "KCbWD",
+        "4uLEq"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1568993022945919047",
-  "team_last_id": "1568999798428803073",
+  "team_last_id": "1569003866333118479",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
