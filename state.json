@@ -1595,17 +1595,17 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-11-08T13:12:55+00:00",
+  "last_seen_time": "2026-11-08T13:37:51+00:00",
   "current_scores": {
     "DyBC8": {
-      "points": 48.46,
-      "match_count": 1,
-      "last_score_time": "2026-11-08T13:12:55+00:00"
+      "points": 58.84,
+      "match_count": 2,
+      "last_score_time": "2026-11-08T13:37:51+00:00"
     },
     "rT8bV": {
-      "points": 15.15,
-      "match_count": 1,
-      "last_score_time": "2026-11-08T13:12:55+00:00"
+      "points": 15.85,
+      "match_count": 2,
+      "last_score_time": "2026-11-08T13:37:51+00:00"
     },
     "gTTvR": {
       "points": 1.18,
@@ -1621,10 +1621,15 @@
       "points": 0.2,
       "match_count": 1,
       "last_score_time": "2026-11-08T13:12:55+00:00"
+    },
+    "TJNLV": {
+      "points": 15.93,
+      "match_count": 1,
+      "last_score_time": "2026-11-08T13:37:51+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-08T09:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-08T09:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-08",
@@ -15334,14 +15339,35 @@
         "1095764905476501574"
       ],
       "points": 69,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1568976634457890999"
       ]
+    },
+    "1568982911875686471": {
+      "id": "1568982911875686471",
+      "time": "2026-11-08T13:37:51+00:00",
+      "map": "Africa",
+      "prev": "11.82249",
+      "curr": "11.86490",
+      "contest": false,
+      "accounts": [
+        "TJNLV",
+        "DyBC8",
+        "rT8bV"
+      ],
+      "claims": [
+        "1095764905476501574"
+      ],
+      "points": 30,
+      "posted": false,
+      "claim_ids": [
+        "1568982913159270452"
+      ]
     }
   },
-  "win_last_id": "1568976634457890999",
-  "team_last_id": "1568981088943083691",
+  "win_last_id": "1568982913159270452",
+  "team_last_id": "1568984676666703995",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -20462,6 +20488,13 @@
         "time": "2026-11-08T13:12:55+00:00",
         "block": "12:00-15:00",
         "points": 69
+      },
+      "1568982911875686471:1095764905476501574": {
+        "user": "1095764905476501574",
+        "game": "1568982911875686471",
+        "time": "2026-11-08T13:37:51+00:00",
+        "block": "12:00-15:00",
+        "points": 30
       }
     }
   },
