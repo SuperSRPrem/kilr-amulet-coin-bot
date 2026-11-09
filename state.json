@@ -1595,7 +1595,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-11-08T23:57:54+00:00",
+  "last_seen_time": "2026-11-09T00:40:49+00:00",
   "current_scores": {
     "DyBC8": {
       "points": 95.44,
@@ -2056,10 +2056,30 @@
       "points": 8.56,
       "match_count": 1,
       "last_score_time": "2026-11-08T23:20:08+00:00"
+    },
+    "rdTBq": {
+      "points": 32.92,
+      "match_count": 1,
+      "last_score_time": "2026-11-09T00:40:49+00:00"
+    },
+    "DJVNC": {
+      "points": 2.28,
+      "match_count": 1,
+      "last_score_time": "2026-11-09T00:40:49+00:00"
+    },
+    "gdV5y": {
+      "points": 0.76,
+      "match_count": 1,
+      "last_score_time": "2026-11-09T00:40:49+00:00"
+    },
+    "ABYsb": {
+      "points": 0.04,
+      "match_count": 1,
+      "last_score_time": "2026-11-09T00:40:49+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-08T09:30:00+00:00",
-  "current_cycle_match_count": 14,
+  "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-11-08T09:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-09",
@@ -16100,10 +16120,33 @@
       "claim_ids": [
         "1569138952445628639"
       ]
+    },
+    "1569149748563419139": {
+      "id": "1569149748563419139",
+      "time": "2026-11-09T00:40:49+00:00",
+      "map": "Mare Nostrum",
+      "prev": "12.34634",
+      "curr": "12.40210",
+      "contest": false,
+      "accounts": [
+        "rdTBq",
+        "DJVNC",
+        "gdV5y",
+        "ABYsb"
+      ],
+      "claims": [
+        "1321954579503513640",
+        "708709434159005759"
+      ],
+      "points": 41,
+      "posted": false,
+      "claim_ids": [
+        "1569149749745950733"
+      ]
     }
   },
-  "win_last_id": "1569138952445628639",
-  "team_last_id": "1569147269993865237",
+  "win_last_id": "1569149749745950733",
+  "team_last_id": "1569150944409550879",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -21364,6 +21407,20 @@
         "time": "2026-11-08T23:57:54+00:00",
         "block": "21:00-00:00",
         "points": 20
+      },
+      "1569149748563419139:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1569149748563419139",
+        "time": "2026-11-09T00:40:49+00:00",
+        "block": "00:00-03:00",
+        "points": 41
+      },
+      "1569149748563419139:708709434159005759": {
+        "user": "708709434159005759",
+        "game": "1569149748563419139",
+        "time": "2026-11-09T00:40:49+00:00",
+        "block": "00:00-03:00",
+        "points": 41
       }
     }
   },
