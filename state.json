@@ -1602,7 +1602,7 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-11-09T17:35:42+00:00",
+  "last_seen_time": "2026-11-09T18:25:28+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 122.94999999999999,
@@ -2305,9 +2305,9 @@
       "last_score_time": "2026-11-09T14:29:50+00:00"
     },
     "BjxRv": {
-      "points": 22.5,
-      "match_count": 3,
-      "last_score_time": "2026-11-09T15:17:49+00:00"
+      "points": 51.44,
+      "match_count": 5,
+      "last_score_time": "2026-11-09T18:25:28+00:00"
     },
     "Cbynw": {
       "points": 1.5,
@@ -2488,10 +2488,20 @@
       "points": 3.59,
       "match_count": 1,
       "last_score_time": "2026-11-09T17:35:42+00:00"
+    },
+    "NYKND": {
+      "points": 4.87,
+      "match_count": 1,
+      "last_score_time": "2026-11-09T18:10:59+00:00"
+    },
+    "asMVv": {
+      "points": 2.19,
+      "match_count": 1,
+      "last_score_time": "2026-11-09T18:10:59+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-09T04:30:00+00:00",
-  "current_cycle_match_count": 25,
+  "current_cycle_match_count": 27,
   "last_announced_event_time": "2026-11-09T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-09",
@@ -17460,14 +17470,49 @@
         "1478994639603372206"
       ],
       "points": 204,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569405157375082597"
       ]
+    },
+    "1569414031796867123": {
+      "id": "1569414031796867123",
+      "time": "2026-11-09T18:10:59+00:00",
+      "map": "Caucasia",
+      "prev": "12.91721",
+      "curr": "12.94265",
+      "contest": false,
+      "accounts": [
+        "BjxRv",
+        "NYKND",
+        "asMVv"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
+    },
+    "1569417678261723279": {
+      "id": "1569417678261723279",
+      "time": "2026-11-09T18:25:28+00:00",
+      "map": "Middle East",
+      "prev": "12.88563",
+      "curr": "12.91408",
+      "contest": false,
+      "accounts": [
+        "BjxRv"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1569417679591440505"
+      ]
     }
   },
-  "win_last_id": "1569405157375082597",
-  "team_last_id": "1569411611335065662",
+  "win_last_id": "1569417679591440505",
+  "team_last_id": "1569419049815769111",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -22987,6 +23032,13 @@
         "time": "2026-11-09T17:35:42+00:00",
         "block": "15:00-18:00",
         "points": 204
+      },
+      "1569417678261723279:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1569417678261723279",
+        "time": "2026-11-09T18:25:28+00:00",
+        "block": "18:00-21:00",
+        "points": 20
       }
     }
   },
