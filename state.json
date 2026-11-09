@@ -1595,7 +1595,7 @@
       "eligible_match_count": 15
     }
   ],
-  "last_seen_time": "2026-11-08T23:20:08+00:00",
+  "last_seen_time": "2026-11-08T23:57:54+00:00",
   "current_scores": {
     "DyBC8": {
       "points": 95.44,
@@ -1643,9 +1643,9 @@
       "last_score_time": "2026-11-08T13:46:58+00:00"
     },
     "_tFM4": {
-      "points": 6.94,
-      "match_count": 3,
-      "last_score_time": "2026-11-08T23:20:08+00:00"
+      "points": 25.94,
+      "match_count": 4,
+      "last_score_time": "2026-11-08T23:57:54+00:00"
     },
     "8bB9y": {
       "points": 2.71,
@@ -2059,19 +2059,19 @@
     }
   },
   "current_cycle_started_at": "2026-11-08T09:30:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-11-08T09:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-08",
-    "created_at": "2026-11-08T00:01:28.775099+00:00",
+    "date": "2026-11-09",
+    "created_at": "2026-11-09T00:01:22.433672+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2080,22 +2080,29 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 3,
+        "map": "Island Kingdom",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "63cmP"
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 1",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 1",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2104,167 +2111,15 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "Oyf9y": {
-          "World 2": 1
-        },
-        "DyBC8": {
-          "World 2": 1
-        },
-        "63cmP": {
-          "World 2": 2
-        },
-        "TqGKg": {
-          "World 2": 1
-        },
-        "Mt5vR": {
-          "World 2": 1
-        },
-        "nLGgB": {
-          "World 2": 1
-        },
-        "_tFM4": {
-          "World 2": 1
-        },
-        "8bB9y": {
-          "World 2": 1
-        },
-        "dv9mC": {
-          "World 2": 1
-        },
-        "B9jjJ": {
-          "World 2": 1
-        },
-        "tbMq5": {
-          "World 2": 1
-        },
-        "Z2Yfi": {
-          "World 2": 1
-        },
-        "gbtqD": {
-          "World 2": 1
-        },
-        "WKY8q": {
-          "World 2": 1
-        },
-        "vt2Mr": {
-          "World 2": 1
-        },
-        "JDNnD": {
-          "World 2": 1
-        },
-        "yDrYc": {
-          "World 2": 1
-        },
-        "Ycv5d": {
-          "World 2": 1
-        },
-        "9BTLL": {
-          "World 2": 1
-        },
-        "bTv72": {
-          "World 2": 1
-        },
-        "MtnQK": {
-          "World 2": 1
-        },
-        "Ym5Rw": {
-          "World 2": 1
-        },
-        "gc8KD": {
-          "World 2": 1
-        }
-      },
-      "hard": {
-        "DyBC8": {
-          "World 1": 1
-        },
-        "rT8bV": {
-          "World 1": 1
-        },
-        "gTTvR": {
-          "World 1": 1
-        },
-        "63cmP": {
-          "World 1": 1
-        },
-        "YkqR8": {
-          "World 1": 1
-        },
-        "vt2Mr": {
-          "World 1": 1
-        },
-        "vTnjw": {
-          "World 1": 1
-        },
-        "dsk_Y": {
-          "World 1": 1
-        },
-        "Oyf9y": {
-          "World 1": 1
-        },
-        "mm229": {
-          "World 1": 1
-        },
-        "8vtt7": {
-          "World 1": 1
-        },
-        "trn8Q": {
-          "World 1": 1
-        },
-        "9BMM5": {
-          "World 1": 1
-        },
-        "tcwYN": {
-          "World 1": 1
-        },
-        "yMMqQ": {
-          "World 1": 1
-        },
-        "5dj87": {
-          "World 1": 1
-        },
-        "kBVqC": {
-          "World 1": 1
-        },
-        "WbTmK": {
-          "World 1": 1
-        },
-        "qrwJM": {
-          "World 1": 1
-        },
-        "NdBcJ": {
-          "World 1": 1
-        },
-        "vJRCh": {
-          "World 1": 1
-        },
-        "nBnjT": {
-          "World 1": 1
-        },
-        "jdcnc": {
-          "World 1": 1
-        },
-        "KrnVv": {
-          "World 1": 1
-        },
-        "jLq47": {
-          "World 1": 1
-        },
-        "KKydc": {
-          "World 1": 1
-        },
-        "DCtMw": {
-          "World 1": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
@@ -2276,7 +2131,7 @@
         "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -16222,14 +16077,33 @@
         "1321954579503513640"
       ],
       "points": 20,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569129443342164030"
       ]
+    },
+    "1569138951430742169": {
+      "id": "1569138951430742169",
+      "time": "2026-11-08T23:57:54+00:00",
+      "map": "World 2",
+      "prev": "12.35258",
+      "curr": "12.38204",
+      "contest": false,
+      "accounts": [
+        "_tFM4"
+      ],
+      "claims": [
+        "708709434159005759"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1569138952445628639"
+      ]
     }
   },
-  "win_last_id": "1569129443342164030",
-  "team_last_id": "1569135646801535057",
+  "win_last_id": "1569138952445628639",
+  "team_last_id": "1569139656887500954",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -21481,6 +21355,13 @@
         "user": "1321954579503513640",
         "game": "1569129442234867844",
         "time": "2026-11-08T23:20:08+00:00",
+        "block": "21:00-00:00",
+        "points": 20
+      },
+      "1569138951430742169:708709434159005759": {
+        "user": "708709434159005759",
+        "game": "1569138951430742169",
+        "time": "2026-11-08T23:57:54+00:00",
         "block": "21:00-00:00",
         "points": 20
       }
