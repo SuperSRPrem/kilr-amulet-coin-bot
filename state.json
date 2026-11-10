@@ -1602,7 +1602,7 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-11-10T12:18:57+00:00",
+  "last_seen_time": "2026-11-10T12:50:46+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 122.94999999999999,
@@ -2320,9 +2320,9 @@
       "last_score_time": "2026-11-09T14:47:08+00:00"
     },
     "vt2Mr": {
-      "points": 131.43,
-      "match_count": 3,
-      "last_score_time": "2026-11-09T23:19:35+00:00"
+      "points": 146.55,
+      "match_count": 4,
+      "last_score_time": "2026-11-10T12:50:46+00:00"
     },
     "LbrmQ": {
       "points": 6.42,
@@ -2780,9 +2780,9 @@
       "last_score_time": "2026-11-10T00:54:08+00:00"
     },
     "RRCgr": {
-      "points": 6.43,
-      "match_count": 1,
-      "last_score_time": "2026-11-10T00:54:08+00:00"
+      "points": 12.68,
+      "match_count": 2,
+      "last_score_time": "2026-11-10T12:50:46+00:00"
     },
     "5JqYL": {
       "points": 2.73,
@@ -2830,9 +2830,9 @@
       "last_score_time": "2026-11-10T01:29:54+00:00"
     },
     "2NMLJ": {
-      "points": 39.47,
-      "match_count": 2,
-      "last_score_time": "2026-11-10T05:07:25+00:00"
+      "points": 52.739999999999995,
+      "match_count": 3,
+      "last_score_time": "2026-11-10T12:50:46+00:00"
     },
     "mcWgy": {
       "points": 3.59,
@@ -2918,10 +2918,20 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-11-10T12:18:57+00:00"
+    },
+    "btVkY": {
+      "points": 10.28,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T12:50:46+00:00"
+    },
+    "9RTMv": {
+      "points": 1.08,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T12:50:46+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-09T04:30:00+00:00",
-  "current_cycle_match_count": 48,
+  "current_cycle_match_count": 49,
   "last_announced_event_time": "2026-11-09T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-10",
@@ -2946,8 +2956,8 @@
         "target": 3,
         "reward": 100,
         "text": "Win 3 times on World 2",
-        "done_by": null,
-        "done_at": null,
+        "done_by": "2NMLJ",
+        "done_at": "2026-11-10T13:01:25.165079+00:00",
         "halfway_posted": true,
         "last_leader": "2NMLJ"
       },
@@ -2975,7 +2985,7 @@
       "easy": {},
       "medium": {
         "2NMLJ": {
-          "World 2": 2
+          "World 2": 3
         },
         "mcWgy": {
           "World 2": 1
@@ -2990,6 +3000,9 @@
           "World 2": 1
         },
         "VTV8G": {
+          "World 2": 1
+        },
+        "vt2Mr": {
           "World 2": 1
         }
       },
@@ -18250,14 +18263,38 @@
         "1402645821505278114"
       ],
       "points": 20,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569687833734811799"
       ]
+    },
+    "1569695833719447644": {
+      "id": "1569695833719447644",
+      "time": "2026-11-10T12:50:46+00:00",
+      "map": "World 2",
+      "prev": "11.98306",
+      "curr": "12.05508",
+      "contest": false,
+      "accounts": [
+        "vt2Mr",
+        "2NMLJ",
+        "btVkY",
+        "RRCgr",
+        "9RTMv"
+      ],
+      "claims": [
+        "1321954579503513640",
+        "1402645821505278114"
+      ],
+      "points": 53,
+      "posted": false,
+      "claim_ids": [
+        "1569695834910756898"
+      ]
     }
   },
-  "win_last_id": "1569687833734811799",
-  "team_last_id": "1569694566829924513",
+  "win_last_id": "1569695834910756898",
+  "team_last_id": "1569698404739710990",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -23917,6 +23954,20 @@
         "time": "2026-11-10T12:18:57+00:00",
         "block": "12:00-15:00",
         "points": 20
+      },
+      "1569695833719447644:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1569695833719447644",
+        "time": "2026-11-10T12:50:46+00:00",
+        "block": "12:00-15:00",
+        "points": 53
+      },
+      "1569695833719447644:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1569695833719447644",
+        "time": "2026-11-10T12:50:46+00:00",
+        "block": "12:00-15:00",
+        "points": 53
       }
     }
   },
