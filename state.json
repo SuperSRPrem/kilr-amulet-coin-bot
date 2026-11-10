@@ -1602,7 +1602,7 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-11-10T01:29:54+00:00",
+  "last_seen_time": "2026-11-10T03:27:43+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 122.94999999999999,
@@ -2828,10 +2828,35 @@
       "points": 0.12,
       "match_count": 1,
       "last_score_time": "2026-11-10T01:29:54+00:00"
+    },
+    "2NMLJ": {
+      "points": 9.91,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T03:27:43+00:00"
+    },
+    "mcWgy": {
+      "points": 3.59,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T03:27:43+00:00"
+    },
+    "5g87q": {
+      "points": 3.01,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T03:27:43+00:00"
+    },
+    "X2YXY": {
+      "points": 1.97,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T03:27:43+00:00"
+    },
+    "GQYv9": {
+      "points": 0.52,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T03:27:43+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-09T04:30:00+00:00",
-  "current_cycle_match_count": 43,
+  "current_cycle_match_count": 44,
   "last_announced_event_time": "2026-11-09T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-10",
@@ -2883,7 +2908,23 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "2NMLJ": {
+          "World 2": 1
+        },
+        "mcWgy": {
+          "World 2": 1
+        },
+        "5g87q": {
+          "World 2": 1
+        },
+        "X2YXY": {
+          "World 2": 1
+        },
+        "GQYv9": {
+          "World 2": 1
+        }
+      },
       "hard": {
         "ARz2w": {
           "North America": 1
@@ -18013,10 +18054,31 @@
       "claim_ids": [
         "1569524480827728023"
       ]
+    },
+    "1569554139263008821": {
+      "id": "1569554139263008821",
+      "time": "2026-11-10T03:27:43+00:00",
+      "map": "World 2",
+      "prev": "12.51373",
+      "curr": "12.54260",
+      "contest": false,
+      "accounts": [
+        "2NMLJ",
+        "mcWgy",
+        "5g87q",
+        "X2YXY",
+        "GQYv9"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1569554140257067041"
+      ]
     }
   },
-  "win_last_id": "1569524480827728023",
-  "team_last_id": "1569550929559027765",
+  "win_last_id": "1569554140257067041",
+  "team_last_id": "1569554669620035726",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
