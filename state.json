@@ -1602,7 +1602,7 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-11-09T23:32:56+00:00",
+  "last_seen_time": "2026-11-10T00:41:45+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 122.94999999999999,
@@ -2220,9 +2220,9 @@
       "last_score_time": "2026-11-09T13:24:34+00:00"
     },
     "dkGCC": {
-      "points": 16.74,
-      "match_count": 2,
-      "last_score_time": "2026-11-09T14:17:51+00:00"
+      "points": 25.229999999999997,
+      "match_count": 3,
+      "last_score_time": "2026-11-10T00:41:45+00:00"
     },
     "mM87R": {
       "points": 5.77,
@@ -2748,10 +2748,35 @@
       "points": 1.27,
       "match_count": 1,
       "last_score_time": "2026-11-09T23:32:56+00:00"
+    },
+    "NMCJb": {
+      "points": 4.86,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T00:41:45+00:00"
+    },
+    "_GUtw": {
+      "points": 3.72,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T00:41:45+00:00"
+    },
+    "MpExp": {
+      "points": 1.91,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T00:41:45+00:00"
+    },
+    "kv7DR": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T00:41:45+00:00"
+    },
+    "Bb7Md": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T00:41:45+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-09T04:30:00+00:00",
-  "current_cycle_match_count": 39,
+  "current_cycle_match_count": 40,
   "last_announced_event_time": "2026-11-09T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-10",
@@ -17833,10 +17858,34 @@
       "claim_ids": [
         "1569495051363549275"
       ]
+    },
+    "1569512364108152873": {
+      "id": "1569512364108152873",
+      "time": "2026-11-10T00:41:45+00:00",
+      "map": "World 1",
+      "prev": "12.64977",
+      "curr": "12.67855",
+      "contest": false,
+      "accounts": [
+        "dkGCC",
+        "NMCJb",
+        "_GUtw",
+        "MpExp",
+        "kv7DR",
+        "Bb7Md"
+      ],
+      "claims": [
+        "1547237209864933429"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1569512365232357597"
+      ]
     }
   },
-  "win_last_id": "1569502056115601539",
-  "team_last_id": "1569509634023100517",
+  "win_last_id": "1569512365232357597",
+  "team_last_id": "1569513358892466187",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -23461,6 +23510,13 @@
         "time": "2026-11-09T23:19:35+00:00",
         "block": "21:00-00:00",
         "points": 63
+      },
+      "1569512364108152873:1547237209864933429": {
+        "user": "1547237209864933429",
+        "game": "1569512364108152873",
+        "time": "2026-11-10T00:41:45+00:00",
+        "block": "00:00-03:00",
+        "points": 20
       }
     }
   },
