@@ -1602,7 +1602,7 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-11-10T00:54:08+00:00",
+  "last_seen_time": "2026-11-10T01:09:30+00:00",
   "current_scores": {
     "Oyf9y": {
       "points": 122.94999999999999,
@@ -2798,10 +2798,20 @@
       "points": 0.1,
       "match_count": 1,
       "last_score_time": "2026-11-10T00:54:08+00:00"
+    },
+    "ARz2w": {
+      "points": 12.98,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T01:09:30+00:00"
+    },
+    "wSM3X": {
+      "points": 7.02,
+      "match_count": 1,
+      "last_score_time": "2026-11-10T01:09:30+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-09T04:30:00+00:00",
-  "current_cycle_match_count": 41,
+  "current_cycle_match_count": 42,
   "last_announced_event_time": "2026-11-09T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-10",
@@ -2854,7 +2864,14 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "ARz2w": {
+          "North America": 1
+        },
+        "wSM3X": {
+          "North America": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -17903,7 +17920,7 @@
         "1547237209864933429"
       ],
       "points": 20,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569512365232357597"
       ]
@@ -17930,10 +17947,28 @@
       "claim_ids": [
         "1569515484645298257"
       ]
+    },
+    "1569519362220761089": {
+      "id": "1569519362220761089",
+      "time": "2026-11-10T01:09:30+00:00",
+      "map": "North America",
+      "prev": "12.66366",
+      "curr": "12.69395",
+      "contest": false,
+      "accounts": [
+        "ARz2w",
+        "wSM3X"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1569519363432648716"
+      ]
     }
   },
-  "win_last_id": "1569515484645298257",
-  "team_last_id": "1569517006858883294",
+  "win_last_id": "1569519363432648716",
+  "team_last_id": "1569520767106945108",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
