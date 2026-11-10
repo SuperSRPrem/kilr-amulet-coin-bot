@@ -18006,14 +18006,14 @@
         "1474252182147694760"
       ],
       "points": 20,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569524480827728023"
       ]
     }
   },
   "win_last_id": "1569524480827728023",
-  "team_last_id": "1569528028143427588",
+  "team_last_id": "1569532129698910290",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
