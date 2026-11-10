@@ -18099,14 +18099,14 @@
         "1095764905476501574"
       ],
       "points": 34,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569579229421764641"
       ]
     }
   },
   "win_last_id": "1569579229421764641",
-  "team_last_id": "1569585180711329857",
+  "team_last_id": "1569588794758266944",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
