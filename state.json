@@ -1602,12 +1602,12 @@
       "eligible_match_count": 17
     }
   ],
-  "last_seen_time": "2026-11-10T12:50:46+00:00",
+  "last_seen_time": "2026-11-10T13:06:13+00:00",
   "current_scores": {
     "Oyf9y": {
-      "points": 122.94999999999999,
-      "match_count": 3,
-      "last_score_time": "2026-11-09T17:35:42+00:00"
+      "points": 123.32999999999998,
+      "match_count": 4,
+      "last_score_time": "2026-11-10T13:06:13+00:00"
     },
     "6O8f-": {
       "points": 23.17,
@@ -1735,9 +1735,9 @@
       "last_score_time": "2026-11-09T07:44:19+00:00"
     },
     "Z2Yfi": {
-      "points": 56.8,
-      "match_count": 5,
-      "last_score_time": "2026-11-10T12:18:57+00:00"
+      "points": 111.41999999999999,
+      "match_count": 6,
+      "last_score_time": "2026-11-10T13:06:13+00:00"
     },
     "kGT9k": {
       "points": 7.58,
@@ -2931,7 +2931,7 @@
     }
   },
   "current_cycle_started_at": "2026-11-09T04:30:00+00:00",
-  "current_cycle_match_count": 49,
+  "current_cycle_match_count": 50,
   "last_announced_event_time": "2026-11-09T04:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-10",
@@ -18291,10 +18291,25 @@
       "claim_ids": [
         "1569695834910756898"
       ]
+    },
+    "1569699721973465119": {
+      "id": "1569699721973465119",
+      "time": "2026-11-10T13:06:13+00:00",
+      "map": "Scandinavia",
+      "prev": "12.03548",
+      "curr": "12.12142",
+      "contest": false,
+      "accounts": [
+        "Z2Yfi",
+        "Oyf9y"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1569695834910756898",
-  "team_last_id": "1569698404739710990",
+  "team_last_id": "1569702088345391295",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
