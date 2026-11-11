@@ -17518,14 +17518,14 @@
         "708709434159005759"
       ],
       "points": 20,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569877546999222395"
       ]
     }
   },
   "win_last_id": "1569877546999222395",
-  "team_last_id": "1569883208504447059",
+  "team_last_id": "1569887069218676849",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
