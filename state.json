@@ -17621,14 +17621,14 @@
         "1476409315328786579"
       ],
       "points": 20,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1569954510686781441"
       ]
     }
   },
   "win_last_id": "1569954510686781441",
-  "team_last_id": "1569958779829755976",
+  "team_last_id": "1569962631408656466",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
