@@ -1609,7 +1609,7 @@
       "eligible_match_count": 63
     }
   ],
-  "last_seen_time": "2026-11-11T16:21:28+00:00",
+  "last_seen_time": "2026-11-11T16:34:26+00:00",
   "current_scores": {
     "qvBM4": {
       "points": 5.73,
@@ -2142,9 +2142,9 @@
       "last_score_time": "2026-11-11T13:04:01+00:00"
     },
     "vt2Mr": {
-      "points": 246.09,
-      "match_count": 2,
-      "last_score_time": "2026-11-11T13:39:18+00:00"
+      "points": 266.09000000000003,
+      "match_count": 3,
+      "last_score_time": "2026-11-11T16:34:26+00:00"
     },
     "wjLcK": {
       "points": 27.57,
@@ -2258,7 +2258,7 @@
     }
   },
   "current_cycle_started_at": "2026-11-10T23:30:00+00:00",
-  "current_cycle_match_count": 22,
+  "current_cycle_match_count": 23,
   "last_announced_event_time": "2026-11-10T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-11",
@@ -2387,6 +2387,9 @@
         },
         "c52rV": {
           "Caucasia": 1
+        },
+        "vt2Mr": {
+          "Caucasia": 1
         }
       },
       "hard": {
@@ -2498,6 +2501,9 @@
         },
         "nGYbd": {
           "Mare Nostrum": 1
+        },
+        "vt2Mr": {
+          "Caucasia": 1
         }
       }
     }
@@ -18687,7 +18693,7 @@
       "posted": true
     }
   },
-  "win_last_id": "1570111304067317791",
+  "win_last_id": "1570114577029402675",
   "team_last_id": "1570106266238586971",
   "unmatched_claims": {
     "1570111304067317791": {
@@ -18695,6 +18701,12 @@
       "embeds": [],
       "timestamp": "2026-11-11T16:21:46.147000+00:00",
       "id": "1570111304067317791"
+    },
+    "1570114577029402675": {
+      "content": "**KILR**    Caucasia    20  [12.25052->12.28146]\n\n**Claimed by:**\n<@1321954579503513640> `x 1.5`",
+      "embeds": [],
+      "timestamp": "2026-11-11T16:34:46.482000+00:00",
+      "id": "1570114577029402675"
     }
   },
   "tz_stats": {
