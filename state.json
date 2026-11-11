@@ -1609,7 +1609,7 @@
       "eligible_match_count": 63
     }
   ],
-  "last_seen_time": "2026-11-11T00:52:51+00:00",
+  "last_seen_time": "2026-11-11T02:18:17+00:00",
   "current_scores": {
     "qvBM4": {
       "points": 5.73,
@@ -1675,10 +1675,40 @@
       "points": 0.02,
       "match_count": 1,
       "last_score_time": "2026-11-11T00:52:51+00:00"
+    },
+    "wSM3X": {
+      "points": 11.73,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T02:18:17+00:00"
+    },
+    "BMVqw": {
+      "points": 2.44,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T02:18:17+00:00"
+    },
+    "58nRV": {
+      "points": 2.14,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T02:18:17+00:00"
+    },
+    "bCTrM": {
+      "points": 1.94,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T02:18:17+00:00"
+    },
+    "njNJm": {
+      "points": 1.45,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T02:18:17+00:00"
+    },
+    "n7jyv": {
+      "points": 0.3,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T02:18:17+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-10T23:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-11-10T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-11",
@@ -17522,10 +17552,29 @@
       "claim_ids": [
         "1569877546999222395"
       ]
+    },
+    "1569899047769084059": {
+      "id": "1569899047769084059",
+      "time": "2026-11-11T02:18:17+00:00",
+      "map": "World 2",
+      "prev": "12.27443",
+      "curr": "12.30529",
+      "contest": false,
+      "accounts": [
+        "wSM3X",
+        "BMVqw",
+        "58nRV",
+        "bCTrM",
+        "njNJm",
+        "n7jyv"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1569877546999222395",
-  "team_last_id": "1569898230844624937",
+  "team_last_id": "1569902131174047936",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
