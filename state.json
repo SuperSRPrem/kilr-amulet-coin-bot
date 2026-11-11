@@ -1609,7 +1609,7 @@
       "eligible_match_count": 63
     }
   ],
-  "last_seen_time": "2026-11-10T23:48:05+00:00",
+  "last_seen_time": "2026-11-11T00:14:26+00:00",
   "current_scores": {
     "qvBM4": {
       "points": 5.73,
@@ -1625,10 +1625,20 @@
       "points": 2.74,
       "match_count": 1,
       "last_score_time": "2026-11-10T23:48:05+00:00"
+    },
+    "_tFM4": {
+      "points": 35.7,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T00:14:26+00:00"
+    },
+    "ykgCq": {
+      "points": 0.3,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T00:14:26+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-10T23:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-10T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-11",
@@ -17382,10 +17392,28 @@
       "claim_ids": [
         "1569861250119376897"
       ]
+    },
+    "1569867890746720370": {
+      "id": "1569867890746720370",
+      "time": "2026-11-11T00:14:26+00:00",
+      "map": "World 2",
+      "prev": "12.30484",
+      "curr": "12.36035",
+      "contest": false,
+      "accounts": [
+        "_tFM4",
+        "ykgCq"
+      ],
+      "claims": [],
+      "points": 40,
+      "posted": false,
+      "claim_ids": [
+        "1569867892235698279"
+      ]
     }
   },
-  "win_last_id": "1569861250119376897",
-  "team_last_id": "1569864319699525644",
+  "win_last_id": "1569867892235698279",
+  "team_last_id": "1569867890746720370",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
