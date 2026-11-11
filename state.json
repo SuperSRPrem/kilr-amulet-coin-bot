@@ -18639,11 +18639,11 @@
       ],
       "claims": [],
       "points": null,
-      "posted": false
+      "posted": true
     }
   },
   "win_last_id": "1570067900126068818",
-  "team_last_id": "1570075664055406715",
+  "team_last_id": "1570079538019434670",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
