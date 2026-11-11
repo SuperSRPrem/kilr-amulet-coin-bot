@@ -1609,7 +1609,7 @@
       "eligible_match_count": 63
     }
   ],
-  "last_seen_time": "2026-11-11T13:39:18+00:00",
+  "last_seen_time": "2026-11-11T16:21:28+00:00",
   "current_scores": {
     "qvBM4": {
       "points": 5.73,
@@ -2210,10 +2210,55 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-11-11T13:39:18+00:00"
+    },
+    "WCRJj": {
+      "points": 15.94,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
+    },
+    "MwWJN": {
+      "points": 11.63,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
+    },
+    "wdMTK": {
+      "points": 5.32,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
+    },
+    "rjTn2": {
+      "points": 5.24,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
+    },
+    "vQzdi": {
+      "points": 3.9,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
+    },
+    "NYWvD": {
+      "points": 3.29,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
+    },
+    "JW5K8": {
+      "points": 3.01,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
+    },
+    "I606w": {
+      "points": 2.77,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
+    },
+    "Rd58J": {
+      "points": 0.91,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T16:21:28+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-10T23:30:00+00:00",
-  "current_cycle_match_count": 21,
+  "current_cycle_match_count": 22,
   "last_announced_event_time": "2026-11-10T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-11",
@@ -18642,9 +18687,16 @@
       "posted": true
     }
   },
-  "win_last_id": "1570067900126068818",
+  "win_last_id": "1570111304067317791",
   "team_last_id": "1570106266238586971",
-  "unmatched_claims": {},
+  "unmatched_claims": {
+    "1570111304067317791": {
+      "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
+      "embeds": [],
+      "timestamp": "2026-11-11T16:21:46.147000+00:00",
+      "id": "1570111304067317791"
+    }
+  },
   "tz_stats": {
     "since": null,
     "entries": {
