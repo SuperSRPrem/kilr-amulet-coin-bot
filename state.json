@@ -1609,7 +1609,7 @@
       "eligible_match_count": 63
     }
   ],
-  "last_seen_time": "2026-11-11T12:44:59+00:00",
+  "last_seen_time": "2026-11-11T12:57:23+00:00",
   "current_scores": {
     "qvBM4": {
       "points": 5.73,
@@ -1832,9 +1832,9 @@
       "last_score_time": "2026-11-11T10:26:41+00:00"
     },
     "Z2Yfi": {
-      "points": 59.41,
-      "match_count": 2,
-      "last_score_time": "2026-11-11T12:44:59+00:00"
+      "points": 99.6,
+      "match_count": 3,
+      "last_score_time": "2026-11-11T12:57:23+00:00"
     },
     "MFZBg": {
       "points": 5.16,
@@ -2090,10 +2090,30 @@
       "points": 3.67,
       "match_count": 1,
       "last_score_time": "2026-11-11T12:44:59+00:00"
+    },
+    "LGcqb": {
+      "points": 9.88,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T12:57:23+00:00"
+    },
+    "NLCBD": {
+      "points": 4.06,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T12:57:23+00:00"
+    },
+    "k5iZd": {
+      "points": 2.86,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T12:57:23+00:00"
+    },
+    "nGYbd": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T12:57:23+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-10T23:30:00+00:00",
-  "current_cycle_match_count": 17,
+  "current_cycle_match_count": 18,
   "last_announced_event_time": "2026-11-10T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-11",
@@ -2318,6 +2338,21 @@
         },
         "c52rV": {
           "Caucasia": 1
+        },
+        "Z2Yfi": {
+          "Mare Nostrum": 1
+        },
+        "LGcqb": {
+          "Mare Nostrum": 1
+        },
+        "NLCBD": {
+          "Mare Nostrum": 1
+        },
+        "k5iZd": {
+          "Mare Nostrum": 1
+        },
+        "nGYbd": {
+          "Mare Nostrum": 1
         }
       }
     }
@@ -18418,10 +18453,28 @@
       "claim_ids": [
         "1570056765414842481"
       ]
+    },
+    "1570059884118941697": {
+      "id": "1570059884118941697",
+      "time": "2026-11-11T12:57:23+00:00",
+      "map": "Mare Nostrum",
+      "prev": "12.28380",
+      "curr": "12.37191",
+      "contest": false,
+      "accounts": [
+        "Z2Yfi",
+        "LGcqb",
+        "NLCBD",
+        "k5iZd",
+        "nGYbd"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1570056765414842481",
-  "team_last_id": "1570056938773811211",
+  "team_last_id": "1570060829393428633",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
