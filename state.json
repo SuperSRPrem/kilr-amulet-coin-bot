@@ -1609,7 +1609,7 @@
       "eligible_match_count": 63
     }
   ],
-  "last_seen_time": "2026-11-11T10:54:59+00:00",
+  "last_seen_time": "2026-11-11T11:43:47+00:00",
   "current_scores": {
     "qvBM4": {
       "points": 5.73,
@@ -2030,10 +2030,25 @@
       "points": 0.96,
       "match_count": 1,
       "last_score_time": "2026-11-11T10:54:59+00:00"
+    },
+    "TrMsR": {
+      "points": 10.26,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T11:43:47+00:00"
+    },
+    "r8Q2q": {
+      "points": 0.53,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T11:43:47+00:00"
+    },
+    "gW8Lt": {
+      "points": 0.21,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T11:43:47+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-10T23:30:00+00:00",
-  "current_cycle_match_count": 14,
+  "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-11-10T23:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-11",
@@ -18292,10 +18307,31 @@
       "claim_ids": [
         "1570029081376985119"
       ]
+    },
+    "1570041362282450976": {
+      "id": "1570041362282450976",
+      "time": "2026-11-11T11:43:47+00:00",
+      "map": "World 1",
+      "prev": "12.30052",
+      "curr": "12.31749",
+      "contest": false,
+      "accounts": [
+        "TrMsR",
+        "r8Q2q",
+        "gW8Lt"
+      ],
+      "claims": [
+        "1414939636849184920"
+      ],
+      "points": 11,
+      "posted": false,
+      "claim_ids": [
+        "1570041363444011061"
+      ]
     }
   },
-  "win_last_id": "1570029081376985119",
-  "team_last_id": "1570036817762320416",
+  "win_last_id": "1570041363444011061",
+  "team_last_id": "1570041650716352563",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
@@ -24396,6 +24432,13 @@
         "time": "2026-11-11T10:54:59+00:00",
         "block": "09:00-12:00",
         "points": 54
+      },
+      "1570041362282450976:1414939636849184920": {
+        "user": "1414939636849184920",
+        "game": "1570041362282450976",
+        "time": "2026-11-11T11:43:47+00:00",
+        "block": "09:00-12:00",
+        "points": 11
       }
     }
   },
