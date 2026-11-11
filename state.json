@@ -1631,16 +1631,16 @@
   "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-10T23:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-10",
-    "created_at": "2026-11-10T00:01:23.653607+00:00",
+    "date": "2026-11-11",
+    "created_at": "2026-11-11T00:01:25.472971+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Pond",
+        "map": "Mountains 1",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on Mountains 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1649,29 +1649,28 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "Caucasia",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on World 2",
-        "done_by": "2NMLJ",
-        "done_at": "2026-11-10T13:01:25.165079+00:00",
-        "halfway_posted": true,
-        "last_leader": "2NMLJ"
+        "text": "Win 3 times on Caucasia",
+        "done_by": null,
+        "done_at": null,
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
         ],
-        "target": 6,
+        "target": 5,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1680,264 +1679,24 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "2NMLJ": {
-          "World 2": 3
-        },
-        "mcWgy": {
-          "World 2": 1
-        },
-        "5g87q": {
-          "World 2": 1
-        },
-        "X2YXY": {
-          "World 2": 1
-        },
-        "GQYv9": {
-          "World 2": 1
-        },
-        "VTV8G": {
-          "World 2": 1
-        },
-        "vt2Mr": {
-          "World 2": 1
-        }
-      },
-      "hard": {
-        "ARz2w": {
-          "North America": 1
-        },
-        "wSM3X": {
-          "North America": 1
-        },
-        "V9knL": {
-          "Asia": 1
-        },
-        "8Y8wq": {
-          "Asia": 1
-        },
-        "G2Tbk": {
-          "Asia": 1
-        },
-        "Vr7cB": {
-          "Asia": 1
-        },
-        "rRDYG": {
-          "Asia": 1
-        },
-        "dmmdY": {
-          "Asia": 1
-        },
-        "fcJgX": {
-          "Asia": 1
-        },
-        "V5MtC": {
-          "Asia": 2
-        },
-        "TrwjG": {
-          "Asia": 1
-        },
-        "BjxRv": {
-          "Asia": 1
-        },
-        "8cLN5": {
-          "Asia": 1
-        },
-        "5kglK": {
-          "Asia": 1
-        },
-        "8vcZw": {
-          "Asia": 1
-        },
-        "byDDQ": {
-          "Asia": 1
-        },
-        "2Qv7Q": {
-          "Asia": 1
-        },
-        "DcTmd": {
-          "Asia": 1
-        },
-        "2NMLJ": {
-          "Asia": 1
-        },
-        "_tFM4": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "qbrB7": {
-          "Asia": 1
-        },
-        "FA_6H": {
-          "Asia": 1
-        },
-        "YsRY1": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "cqgGT": {
-          "Asia": 1
-        },
-        "GrVy8": {
-          "Asia": 1,
-          "Europe": 1
-        },
-        "TBmdv": {
-          "Asia": 1
-        },
-        "7BQjC": {
-          "Asia": 1
-        },
-        "VnV5y": {
-          "Asia": 1
-        },
-        "2WNbL": {
-          "Europe": 1
-        },
-        "MYRB9": {
-          "Europe": 1
-        },
-        "nJdBR": {
-          "Europe": 1
-        },
-        "8vtt7": {
-          "Europe": 1
-        },
-        "bvt22": {
-          "Europe": 1
-        },
-        "9k8rb": {
-          "Europe": 1
-        },
-        "v5bmB": {
-          "Europe": 2
-        },
-        "63cmP": {
-          "Europe": 2
-        },
-        "DNDqm": {
-          "Europe": 1
-        },
-        "K9VRt": {
-          "Europe": 1
-        },
-        "9Bt8r": {
-          "Europe": 1
-        },
-        "1flCw": {
-          "Europe": 1
-        },
-        "9RrjR": {
-          "Europe": 1
-        },
-        "nyKYY": {
-          "Europe": 1
-        },
-        "8vrKK": {
-          "Europe": 1
-        },
-        "tcwYN": {
-          "Europe": 1
-        },
-        "7cTj8": {
-          "Europe": 1
-        },
-        "gbtqD": {
-          "Europe": 1
-        },
-        "5528b": {
-          "Europe": 1
-        },
-        "AOB65": {
-          "Europe": 1
-        },
-        "qm5bw": {
-          "Europe": 1
-        },
-        "Ly5r2": {
-          "Europe": 1
-        },
-        "QWwCR": {
-          "Europe": 1
-        },
-        "CmYwm": {
-          "Europe": 1
-        },
-        "55557": {
-          "Europe": 1
-        },
-        "YNNdW": {
-          "Europe": 1
-        },
-        "EmSzr": {
-          "Europe": 1
-        },
-        "tTf2Q": {
-          "Europe": 1
-        },
-        "RMn5V": {
-          "Europe": 1
-        },
-        "Z2Yfi": {
-          "Europe": 1
-        },
-        "J8KDJ": {
-          "Europe": 1
-        },
-        "-6vsM": {
-          "Europe": 1
-        },
-        "dkGCC": {
-          "Europe": 1,
-          "Asia": 1
-        },
-        "nwjYN": {
-          "Europe": 1
-        },
-        "89TvJ": {
-          "Asia": 1
-        },
-        "7dtNV": {
-          "Asia": 1
-        },
-        "wBKB8": {
-          "Asia": 1
-        },
-        "MtJ9r": {
-          "Asia": 1
-        },
-        "vDBJc": {
-          "Asia": 1
-        },
-        "-NCkM": {
-          "Asia": 1
-        },
-        "qvBM4": {
-          "North America": 1
-        },
-        "bT9n8": {
-          "North America": 1
-        },
-        "3p63h": {
-          "North America": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on Pond",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Island Kingdom",
+        "text": "Win 3 times on World 2",
         "reward": 100,
-        "done_by": null,
-        "done_at": null
+        "done_by": "2NMLJ",
+        "done_at": "2026-11-10T13:01:25.165079+00:00"
       },
       "hard": {
         "text": "Win on all continent maps",
@@ -17626,7 +17385,7 @@
     }
   },
   "win_last_id": "1569861250119376897",
-  "team_last_id": "1569862570343534766",
+  "team_last_id": "1569864319699525644",
   "unmatched_claims": {},
   "tz_stats": {
     "since": null,
