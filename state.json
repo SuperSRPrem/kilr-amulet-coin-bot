@@ -1616,10 +1616,131 @@
       "eligible_match_count": 29
     }
   ],
-  "last_seen_time": "2026-11-11T19:24:50+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-11T20:50:55+00:00",
+  "current_scores": {
+    "wSM3X": {
+      "points": 16.72,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "RWGVg": {
+      "points": 12.89,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "Wrt9r": {
+      "points": 10.44,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "qmTm9": {
+      "points": 7.35,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "lAS1V": {
+      "points": 6.59,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "JcJrN": {
+      "points": 5.52,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "NRRtJ": {
+      "points": 2.94,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "N7CJy": {
+      "points": 2.74,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "R9T8k": {
+      "points": 2.65,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "n5t5j": {
+      "points": 2.6,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "dGCmd": {
+      "points": 2.49,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "Cqqdy": {
+      "points": 1.94,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "mY7yB": {
+      "points": 1.84,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "YRdJN": {
+      "points": 1.4,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "KyDdj": {
+      "points": 1.2,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "BqYMQ": {
+      "points": 0.73,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "wNGtn": {
+      "points": 0.71,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "y58c7": {
+      "points": 0.64,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "9YdGR": {
+      "points": 0.45,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "QW5vj": {
+      "points": 0.16,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:46:11+00:00"
+    },
+    "_tFM4": {
+      "points": 13.27,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:50:55+00:00"
+    },
+    "yVYIM": {
+      "points": 2.45,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:50:55+00:00"
+    },
+    "qRnTr": {
+      "points": 2.27,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:50:55+00:00"
+    },
+    "yqVgB": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-11T20:50:55+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-11T19:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-11T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-11",
@@ -1646,8 +1767,8 @@
         "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "_tFM4"
       },
       "hard": {
         "level": "hard",
@@ -1672,7 +1793,7 @@
       "easy": {},
       "medium": {
         "_tFM4": {
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "nvCdV": {
           "Caucasia": 1
@@ -1723,7 +1844,7 @@
           "Caucasia": 1
         },
         "qRnTr": {
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "V5VJ7": {
           "Caucasia": 1
@@ -1751,11 +1872,17 @@
         },
         "vt2Mr": {
           "Caucasia": 1
+        },
+        "yVYIM": {
+          "Caucasia": 1
+        },
+        "yqVgB": {
+          "Caucasia": 1
         }
       },
       "hard": {
         "_tFM4": {
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "nvCdV": {
           "Caucasia": 1
@@ -1822,7 +1949,7 @@
           "Caucasia": 1
         },
         "qRnTr": {
-          "Caucasia": 1
+          "Caucasia": 2
         },
         "V5VJ7": {
           "Caucasia": 1
@@ -1892,6 +2019,12 @@
         },
         "TgnQ2": {
           "Middle East": 1
+        },
+        "yVYIM": {
+          "Caucasia": 1
+        },
+        "yqVgB": {
+          "Caucasia": 1
         }
       }
     }
@@ -18235,10 +18368,66 @@
       "claim_ids": [
         "1570157389762531480"
       ]
+    },
+    "1570177859933179935": {
+      "id": "1570177859933179935",
+      "time": "2026-11-11T20:46:11+00:00",
+      "map": "Europe",
+      "prev": "12.17141",
+      "curr": "12.29905",
+      "contest": false,
+      "accounts": [
+        "wSM3X",
+        "RWGVg",
+        "Wrt9r",
+        "qmTm9",
+        "lAS1V",
+        "JcJrN",
+        "NRRtJ",
+        "N7CJy",
+        "R9T8k",
+        "n5t5j",
+        "dGCmd",
+        "Cqqdy",
+        "mY7yB",
+        "YRdJN",
+        "KyDdj",
+        "BqYMQ",
+        "wNGtn",
+        "y58c7",
+        "9YdGR",
+        "QW5vj"
+      ],
+      "claims": [],
+      "points": 87,
+      "posted": false,
+      "claim_ids": [
+        "1570177861074034851"
+      ]
+    },
+    "1570179056828293169": {
+      "id": "1570179056828293169",
+      "time": "2026-11-11T20:50:55+00:00",
+      "map": "Caucasia",
+      "prev": "12.29137",
+      "curr": "12.31919",
+      "contest": false,
+      "accounts": [
+        "_tFM4",
+        "yVYIM",
+        "qRnTr",
+        "yqVgB"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1570179058614927425"
+      ]
     }
   },
-  "win_last_id": "1570157389762531480",
-  "team_last_id": "1570170149204660225",
+  "win_last_id": "1570179058614927425",
+  "team_last_id": "1570181560219738195",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
