@@ -1623,7 +1623,7 @@
       "eligible_match_count": 24
     }
   ],
-  "last_seen_time": "2026-11-12T19:13:32+00:00",
+  "last_seen_time": "2026-11-12T20:12:46+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 139.93,
@@ -2364,10 +2364,30 @@
       "points": 2.35,
       "match_count": 1,
       "last_score_time": "2026-11-12T19:13:32+00:00"
+    },
+    "GrVy8": {
+      "points": 7.29,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T20:12:46+00:00"
+    },
+    "f6TTw": {
+      "points": 5.69,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T20:12:46+00:00"
+    },
+    "NyVQR": {
+      "points": 2.79,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T20:12:46+00:00"
+    },
+    "T9wQQ": {
+      "points": 1.23,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T20:12:46+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-12T14:00:00+00:00",
-  "current_cycle_match_count": 19,
+  "current_cycle_match_count": 20,
   "last_announced_event_time": "2026-11-12T14:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-12",
@@ -20132,10 +20152,30 @@
       "claim_ids": [
         "1570516934477348955"
       ]
+    },
+    "1570531843961262284": {
+      "id": "1570531843961262284",
+      "time": "2026-11-12T20:12:46+00:00",
+      "map": "North America",
+      "prev": "12.46089",
+      "curr": "12.48695",
+      "contest": false,
+      "accounts": [
+        "GrVy8",
+        "f6TTw",
+        "NyVQR",
+        "T9wQQ"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1570531845425070113"
+      ]
     }
   },
-  "win_last_id": "1570516934477348955",
-  "team_last_id": "1570528798154166465",
+  "win_last_id": "1570531845425070113",
+  "team_last_id": "1570532536592113665",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
