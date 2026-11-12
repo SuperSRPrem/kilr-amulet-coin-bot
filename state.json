@@ -1616,7 +1616,7 @@
       "eligible_match_count": 29
     }
   ],
-  "last_seen_time": "2026-11-12T08:51:32+00:00",
+  "last_seen_time": "2026-11-12T10:58:22+00:00",
   "current_scores": {
     "wSM3X": {
       "points": 16.72,
@@ -2182,10 +2182,20 @@
       "points": 0.89,
       "match_count": 1,
       "last_score_time": "2026-11-12T08:51:32+00:00"
+    },
+    "MYRB9": {
+      "points": 12.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T10:58:22+00:00"
+    },
+    "RByMk": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T10:58:22+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-11T19:30:00+00:00",
-  "current_cycle_match_count": 19,
+  "current_cycle_match_count": 20,
   "last_announced_event_time": "2026-11-11T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-12",
@@ -19108,10 +19118,30 @@
       "claim_ids": [
         "1570360403584618579"
       ]
+    },
+    "1570392324033351763": {
+      "id": "1570392324033351763",
+      "time": "2026-11-12T10:58:22+00:00",
+      "map": "World 1",
+      "prev": "12.08002",
+      "curr": "12.09868",
+      "contest": false,
+      "accounts": [
+        "MYRB9",
+        "RByMk"
+      ],
+      "claims": [
+        "1095764905476501574"
+      ],
+      "points": 12,
+      "posted": false,
+      "claim_ids": [
+        "1570392325530718259"
+      ]
     }
   },
-  "win_last_id": "1570360403584618579",
-  "team_last_id": "1570388573348167781",
+  "win_last_id": "1570392325530718259",
+  "team_last_id": "1570392828641681410",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -25477,6 +25507,13 @@
         "time": "2026-11-12T01:48:22+00:00",
         "block": "00:00-03:00",
         "points": 27
+      },
+      "1570392324033351763:1095764905476501574": {
+        "user": "1095764905476501574",
+        "game": "1570392324033351763",
+        "time": "2026-11-12T10:58:22+00:00",
+        "block": "09:00-12:00",
+        "points": 12
       }
     }
   },
