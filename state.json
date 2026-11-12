@@ -1616,7 +1616,7 @@
       "eligible_match_count": 29
     }
   ],
-  "last_seen_time": "2026-11-12T03:14:08+00:00",
+  "last_seen_time": "2026-11-12T04:16:41+00:00",
   "current_scores": {
     "wSM3X": {
       "points": 16.72,
@@ -2074,9 +2074,9 @@
       "last_score_time": "2026-11-12T01:48:22+00:00"
     },
     "RRCgr": {
-      "points": 12.26,
-      "match_count": 1,
-      "last_score_time": "2026-11-12T03:14:08+00:00"
+      "points": 24.58,
+      "match_count": 2,
+      "last_score_time": "2026-11-12T04:16:41+00:00"
     },
     "mQ58L": {
       "points": 5.58,
@@ -2127,10 +2127,20 @@
       "points": 0.05,
       "match_count": 1,
       "last_score_time": "2026-11-12T03:14:08+00:00"
+    },
+    "NMCJb": {
+      "points": 3.56,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T04:16:41+00:00"
+    },
+    "8cm9J": {
+      "points": 2.12,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T04:16:41+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-11T19:30:00+00:00",
-  "current_cycle_match_count": 16,
+  "current_cycle_match_count": 17,
   "last_announced_event_time": "2026-11-11T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-12",
@@ -18977,10 +18987,29 @@
       "claim_ids": [
         "1570275493205381121"
       ]
+    },
+    "1570291233643962419": {
+      "id": "1570291233643962419",
+      "time": "2026-11-12T04:16:41+00:00",
+      "map": "World 2",
+      "prev": "12.68178",
+      "curr": "12.70887",
+      "contest": false,
+      "accounts": [
+        "RRCgr",
+        "NMCJb",
+        "8cm9J"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1570291234642071653"
+      ]
     }
   },
-  "win_last_id": "1570275493205381121",
-  "team_last_id": "1570290390073090070",
+  "win_last_id": "1570291234642071653",
+  "team_last_id": "1570294847003295756",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
