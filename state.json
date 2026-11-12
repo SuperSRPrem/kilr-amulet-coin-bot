@@ -1623,7 +1623,7 @@
       "eligible_match_count": 24
     }
   ],
-  "last_seen_time": "2026-11-12T20:51:53+00:00",
+  "last_seen_time": "2026-11-12T21:34:16+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 171.35000000000002,
@@ -2444,10 +2444,40 @@
       "points": 0.3,
       "match_count": 1,
       "last_score_time": "2026-11-12T20:51:53+00:00"
+    },
+    "59KwV": {
+      "points": 5.97,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T21:34:16+00:00"
+    },
+    "yqVgB": {
+      "points": 3.91,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T21:34:16+00:00"
+    },
+    "9j57J": {
+      "points": 3.47,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T21:34:16+00:00"
+    },
+    "mcnDL": {
+      "points": 2.79,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T21:34:16+00:00"
+    },
+    "87m7t": {
+      "points": 2.33,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T21:34:16+00:00"
+    },
+    "VMRNt": {
+      "points": 1.52,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T21:34:16+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-12T14:00:00+00:00",
-  "current_cycle_match_count": 22,
+  "current_cycle_match_count": 23,
   "last_announced_event_time": "2026-11-12T14:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-12",
@@ -20284,10 +20314,32 @@
       "claim_ids": [
         "1570541690442219521"
       ]
+    },
+    "1570552353789317134": {
+      "id": "1570552353789317134",
+      "time": "2026-11-12T21:34:16+00:00",
+      "map": "World 2",
+      "prev": "12.37736",
+      "curr": "12.40815",
+      "contest": false,
+      "accounts": [
+        "59KwV",
+        "yqVgB",
+        "9j57J",
+        "mcnDL",
+        "87m7t",
+        "VMRNt"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1570552355072774145"
+      ]
     }
   },
-  "win_last_id": "1570541690442219521",
-  "team_last_id": "1570551385072869519",
+  "win_last_id": "1570552355072774145",
+  "team_last_id": "1570554768970096681",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
