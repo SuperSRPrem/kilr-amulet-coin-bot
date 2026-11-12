@@ -1616,7 +1616,7 @@
       "eligible_match_count": 29
     }
   ],
-  "last_seen_time": "2026-11-12T08:41:23+00:00",
+  "last_seen_time": "2026-11-12T08:51:32+00:00",
   "current_scores": {
     "wSM3X": {
       "points": 16.72,
@@ -2157,10 +2157,35 @@
       "points": 1.86,
       "match_count": 1,
       "last_score_time": "2026-11-12T08:41:23+00:00"
+    },
+    "QjJjB": {
+      "points": 26.04,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T08:51:32+00:00"
+    },
+    "iQAxC": {
+      "points": 7.2,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T08:51:32+00:00"
+    },
+    "2NMLJ": {
+      "points": 5.91,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T08:51:32+00:00"
+    },
+    "2tnqv": {
+      "points": 2.97,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T08:51:32+00:00"
+    },
+    "2JGKt": {
+      "points": 0.89,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T08:51:32+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-11T19:30:00+00:00",
-  "current_cycle_match_count": 18,
+  "current_cycle_match_count": 19,
   "last_announced_event_time": "2026-11-11T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-12",
@@ -2241,6 +2266,21 @@
           "Mare Nostrum": 1
         },
         "dCywm": {
+          "Mare Nostrum": 1
+        },
+        "QjJjB": {
+          "Mare Nostrum": 1
+        },
+        "iQAxC": {
+          "Mare Nostrum": 1
+        },
+        "2NMLJ": {
+          "Mare Nostrum": 1
+        },
+        "2tnqv": {
+          "Mare Nostrum": 1
+        },
+        "2JGKt": {
           "Mare Nostrum": 1
         }
       }
@@ -19047,10 +19087,31 @@
       "claim_ids": [
         "1570357849232515154"
       ]
+    },
+    "1570360402561343529": {
+      "id": "1570360402561343529",
+      "time": "2026-11-12T08:51:32+00:00",
+      "map": "Mare Nostrum",
+      "prev": "12.28205",
+      "curr": "12.34773",
+      "contest": false,
+      "accounts": [
+        "QjJjB",
+        "iQAxC",
+        "2NMLJ",
+        "2tnqv",
+        "2JGKt"
+      ],
+      "claims": [],
+      "points": 47,
+      "posted": false,
+      "claim_ids": [
+        "1570360403584618579"
+      ]
     }
   },
-  "win_last_id": "1570357849232515154",
-  "team_last_id": "1570358741054918708",
+  "win_last_id": "1570360403584618579",
+  "team_last_id": "1570362769860202597",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
