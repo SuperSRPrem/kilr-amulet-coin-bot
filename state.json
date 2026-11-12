@@ -1616,7 +1616,7 @@
       "eligible_match_count": 29
     }
   ],
-  "last_seen_time": "2026-11-12T10:58:22+00:00",
+  "last_seen_time": "2026-11-12T11:11:00+00:00",
   "current_scores": {
     "wSM3X": {
       "points": 16.72,
@@ -2169,9 +2169,9 @@
       "last_score_time": "2026-11-12T08:51:32+00:00"
     },
     "2NMLJ": {
-      "points": 5.91,
-      "match_count": 1,
-      "last_score_time": "2026-11-12T08:51:32+00:00"
+      "points": 20.810000000000002,
+      "match_count": 2,
+      "last_score_time": "2026-11-12T11:11:00+00:00"
     },
     "2tnqv": {
       "points": 2.97,
@@ -2192,10 +2192,25 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-11-12T10:58:22+00:00"
+    },
+    "dt5kC": {
+      "points": 3.71,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T11:11:00+00:00"
+    },
+    "KGnGt": {
+      "points": 1.38,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T11:11:00+00:00"
+    },
+    "LgRVj": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-12T11:11:00+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-11T19:30:00+00:00",
-  "current_cycle_match_count": 20,
+  "current_cycle_match_count": 21,
   "last_announced_event_time": "2026-11-11T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-12",
@@ -2240,8 +2255,8 @@
         "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": false,
-        "last_leader": null
+        "halfway_posted": true,
+        "last_leader": "2NMLJ"
       }
     },
     "data": {
@@ -2285,13 +2300,23 @@
           "Mare Nostrum": 1
         },
         "2NMLJ": {
-          "Mare Nostrum": 1
+          "Mare Nostrum": 1,
+          "Middle East": 1
         },
         "2tnqv": {
           "Mare Nostrum": 1
         },
         "2JGKt": {
           "Mare Nostrum": 1
+        },
+        "dt5kC": {
+          "Middle East": 1
+        },
+        "KGnGt": {
+          "Middle East": 1
+        },
+        "LgRVj": {
+          "Middle East": 1
         }
       }
     }
@@ -19138,10 +19163,32 @@
       "claim_ids": [
         "1570392325530718259"
       ]
+    },
+    "1570395495845601435": {
+      "id": "1570395495845601435",
+      "time": "2026-11-12T11:11:00+00:00",
+      "map": "Middle East",
+      "prev": "12.07427",
+      "curr": "12.10538",
+      "contest": false,
+      "accounts": [
+        "2NMLJ",
+        "dt5kC",
+        "KGnGt",
+        "LgRVj"
+      ],
+      "claims": [
+        "1095764905476501574"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1570395497401679972"
+      ]
     }
   },
-  "win_last_id": "1570392325530718259",
-  "team_last_id": "1570392828641681410",
+  "win_last_id": "1570395497401679972",
+  "team_last_id": "1570396489019301913",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -25514,6 +25561,13 @@
         "time": "2026-11-12T10:58:22+00:00",
         "block": "09:00-12:00",
         "points": 12
+      },
+      "1570395495845601435:1095764905476501574": {
+        "user": "1095764905476501574",
+        "game": "1570395495845601435",
+        "time": "2026-11-12T11:11:00+00:00",
+        "block": "09:00-12:00",
+        "points": 20
       }
     }
   },
