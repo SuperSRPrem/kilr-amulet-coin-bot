@@ -1623,7 +1623,7 @@
       "eligible_match_count": 24
     }
   ],
-  "last_seen_time": "2026-11-12T21:34:16+00:00",
+  "last_seen_time": "2026-11-13T02:08:33+00:00",
   "current_scores": {
     "vt2Mr": {
       "points": 171.35000000000002,
@@ -2474,10 +2474,35 @@
       "points": 1.52,
       "match_count": 1,
       "last_score_time": "2026-11-12T21:34:16+00:00"
+    },
+    "dyKXY": {
+      "points": 14.16,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T02:08:33+00:00"
+    },
+    "ArjMJ": {
+      "points": 12.5,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T02:08:33+00:00"
+    },
+    "QKDBg": {
+      "points": 1.65,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T02:08:33+00:00"
+    },
+    "97JrC": {
+      "points": 1.45,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T02:08:33+00:00"
+    },
+    "ei3Uh": {
+      "points": 0.24,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T02:08:33+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-12T14:00:00+00:00",
-  "current_cycle_match_count": 23,
+  "current_cycle_match_count": 24,
   "last_announced_event_time": "2026-11-12T14:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-13",
@@ -20120,10 +20145,31 @@
       "claim_ids": [
         "1570552355072774145"
       ]
+    },
+    "1570621370348470483": {
+      "id": "1570621370348470483",
+      "time": "2026-11-13T02:08:33+00:00",
+      "map": "World 1",
+      "prev": "12.07491",
+      "curr": "12.12157",
+      "contest": false,
+      "accounts": [
+        "dyKXY",
+        "ArjMJ",
+        "QKDBg",
+        "97JrC",
+        "ei3Uh"
+      ],
+      "claims": [],
+      "points": 32,
+      "posted": false,
+      "claim_ids": [
+        "1570621371308974101"
+      ]
     }
   },
-  "win_last_id": "1570552355072774145",
-  "team_last_id": "1570619244637323295",
+  "win_last_id": "1570621371308974101",
+  "team_last_id": "1570623023558430821",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
