@@ -1630,7 +1630,7 @@
       "eligible_match_count": 24
     }
   ],
-  "last_seen_time": "2026-11-13T11:33:07+00:00",
+  "last_seen_time": "2026-11-13T13:08:07+00:00",
   "current_scores": {
     "2NMLJ": {
       "points": 23.54,
@@ -1788,9 +1788,9 @@
       "last_score_time": "2026-11-13T10:13:13+00:00"
     },
     "9WL7b": {
-      "points": 12.45,
-      "match_count": 3,
-      "last_score_time": "2026-11-13T10:47:07+00:00"
+      "points": 15.25,
+      "match_count": 4,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
     },
     "mKqVk": {
       "points": 1.88,
@@ -1853,9 +1853,9 @@
       "last_score_time": "2026-11-13T10:31:36+00:00"
     },
     "Z2Yfi": {
-      "points": 46.42,
-      "match_count": 4,
-      "last_score_time": "2026-11-13T11:16:38+00:00"
+      "points": 56.21,
+      "match_count": 5,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
     },
     "tvCB2": {
       "points": 7.16,
@@ -2076,10 +2076,95 @@
       "points": 2.7,
       "match_count": 1,
       "last_score_time": "2026-11-13T11:16:38+00:00"
+    },
+    "BVrVm": {
+      "points": 39.75,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "K9VjK": {
+      "points": 24.04,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "wjLcK": {
+      "points": 18.78,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "P_PWl": {
+      "points": 17.43,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "VjWgT": {
+      "points": 14.23,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "sdgZf": {
+      "points": 12.23,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "RRCgr": {
+      "points": 11.28,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "RK78G": {
+      "points": 10.83,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "jKgnG": {
+      "points": 10.27,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "ZTMhy": {
+      "points": 9.78,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "B2JJV": {
+      "points": 8.37,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "dcwGc": {
+      "points": 6.93,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "UrvOE": {
+      "points": 5.41,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "NWJQm": {
+      "points": 5.08,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "hsKlP": {
+      "points": 2.6,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "GL78J": {
+      "points": 2.2,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
+    },
+    "TBcTg": {
+      "points": 0.68,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T13:08:07+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-13T03:30:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-11-13T03:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-13",
@@ -20244,10 +20329,51 @@
       "claim_ids": [
         "1570763464035803149"
       ]
+    },
+    "1570787364337623135": {
+      "id": "1570787364337623135",
+      "time": "2026-11-13T13:08:07+00:00",
+      "map": "World 2",
+      "prev": "12.23603",
+      "curr": "12.56153",
+      "contest": true,
+      "accounts": [
+        "BVrVm",
+        "K9VjK",
+        "wjLcK",
+        "P_PWl",
+        "VjWgT",
+        "sdgZf",
+        "RRCgr",
+        "RK78G",
+        "jKgnG",
+        "Z2Yfi",
+        "ZTMhy",
+        "B2JJV",
+        "dcwGc",
+        "UrvOE",
+        "NWJQm",
+        "9WL7b",
+        "hsKlP",
+        "GL78J",
+        "TBcTg"
+      ],
+      "claims": [
+        "1191801665389608990",
+        "1402645821505278114",
+        "1478994639603372206",
+        "1570491134969381036",
+        "879398730762186752"
+      ],
+      "points": 236,
+      "posted": false,
+      "claim_ids": [
+        "1570787366002757643"
+      ]
     }
   },
-  "win_last_id": "1570763464035803149",
-  "team_last_id": "1570785652990279822",
+  "win_last_id": "1570787366002757643",
+  "team_last_id": "1570789214403035319",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -27131,6 +27257,41 @@
         "time": "2026-11-13T11:33:07+00:00",
         "block": "09:00-12:00",
         "points": 45
+      },
+      "1570787364337623135:1191801665389608990": {
+        "user": "1191801665389608990",
+        "game": "1570787364337623135",
+        "time": "2026-11-13T13:08:07+00:00",
+        "block": "12:00-15:00",
+        "points": 236
+      },
+      "1570787364337623135:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1570787364337623135",
+        "time": "2026-11-13T13:08:07+00:00",
+        "block": "12:00-15:00",
+        "points": 236
+      },
+      "1570787364337623135:1478994639603372206": {
+        "user": "1478994639603372206",
+        "game": "1570787364337623135",
+        "time": "2026-11-13T13:08:07+00:00",
+        "block": "12:00-15:00",
+        "points": 236
+      },
+      "1570787364337623135:1570491134969381036": {
+        "user": "1570491134969381036",
+        "game": "1570787364337623135",
+        "time": "2026-11-13T13:08:07+00:00",
+        "block": "12:00-15:00",
+        "points": 236
+      },
+      "1570787364337623135:879398730762186752": {
+        "user": "879398730762186752",
+        "game": "1570787364337623135",
+        "time": "2026-11-13T13:08:07+00:00",
+        "block": "12:00-15:00",
+        "points": 236
       }
     }
   },
