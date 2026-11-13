@@ -1630,10 +1630,56 @@
       "eligible_match_count": 24
     }
   ],
-  "last_seen_time": "2026-11-13T02:08:33+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-13T08:00:56+00:00",
+  "current_scores": {
+    "2NMLJ": {
+      "points": 21.53,
+      "match_count": 2,
+      "last_score_time": "2026-11-13T08:00:56+00:00"
+    },
+    "jd7nJ": {
+      "points": 3.39,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T07:52:16+00:00"
+    },
+    "g7tnj": {
+      "points": 2.65,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T07:52:16+00:00"
+    },
+    "8yJk5": {
+      "points": 1.1,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T07:52:16+00:00"
+    },
+    "WYCRg": {
+      "points": 0.56,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T07:52:16+00:00"
+    },
+    "nwMnw": {
+      "points": 0.5,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T07:52:16+00:00"
+    },
+    "YcrWd": {
+      "points": 3.57,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T08:00:56+00:00"
+    },
+    "jJRGQ": {
+      "points": 2.05,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T08:00:56+00:00"
+    },
+    "KnGBM": {
+      "points": 1.66,
+      "match_count": 1,
+      "last_score_time": "2026-11-13T08:00:56+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-13T03:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-13T03:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-13",
@@ -1685,7 +1731,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "2NMLJ": {
+          "Middle East": 1
+        },
+        "jd7nJ": {
+          "Middle East": 1
+        },
+        "g7tnj": {
+          "Middle East": 1
+        },
+        "8yJk5": {
+          "Middle East": 1
+        },
+        "WYCRg": {
+          "Middle East": 1
+        },
+        "nwMnw": {
+          "Middle East": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -19297,10 +19362,56 @@
       "claim_ids": [
         "1570621371308974101"
       ]
+    },
+    "1570707878220927048": {
+      "id": "1570707878220927048",
+      "time": "2026-11-13T07:52:16+00:00",
+      "map": "Middle East",
+      "prev": "11.84705",
+      "curr": "11.87531",
+      "contest": false,
+      "accounts": [
+        "2NMLJ",
+        "jd7nJ",
+        "g7tnj",
+        "8yJk5",
+        "WYCRg",
+        "nwMnw"
+      ],
+      "claims": [
+        "1095764905476501574"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1570707879453921322"
+      ]
+    },
+    "1570710054481698857": {
+      "id": "1570710054481698857",
+      "time": "2026-11-13T08:00:56+00:00",
+      "map": "World 1",
+      "prev": "11.86409",
+      "curr": "11.89382",
+      "contest": false,
+      "accounts": [
+        "2NMLJ",
+        "YcrWd",
+        "jJRGQ",
+        "KnGBM"
+      ],
+      "claims": [
+        "1095764905476501574"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1570710055777730631"
+      ]
     }
   },
-  "win_last_id": "1570621371308974101",
-  "team_last_id": "1570706115874914347",
+  "win_last_id": "1570710055777730631",
+  "team_last_id": "1570710054481698857",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -25995,6 +26106,20 @@
         "time": "2026-11-12T20:51:53+00:00",
         "block": "18:00-21:00",
         "points": 54
+      },
+      "1570707878220927048:1095764905476501574": {
+        "user": "1095764905476501574",
+        "game": "1570707878220927048",
+        "time": "2026-11-13T07:52:16+00:00",
+        "block": "06:00-09:00",
+        "points": 20
+      },
+      "1570710054481698857:1095764905476501574": {
+        "user": "1095764905476501574",
+        "game": "1570710054481698857",
+        "time": "2026-11-13T08:00:56+00:00",
+        "block": "06:00-09:00",
+        "points": 20
       }
     }
   },
