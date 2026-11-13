@@ -2480,16 +2480,16 @@
   "current_cycle_match_count": 23,
   "last_announced_event_time": "2026-11-12T14:00:00+00:00",
   "daily_quests": {
-    "date": "2026-11-12",
-    "created_at": "2026-11-12T00:01:26.051887+00:00",
+    "date": "2026-11-13",
+    "created_at": "2026-11-13T00:01:36.292241+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Pond",
+        "map": "Cliffs",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on Cliffs",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2498,10 +2498,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
+        "map": "World 2",
         "target": 3,
         "reward": 100,
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 3 times on World 2",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2522,237 +2522,21 @@
         "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "2NMLJ"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "8wL5S": {
-          "Caucasia": 1
-        },
-        "rQWkq": {
-          "Caucasia": 1
-        },
-        "DRL5Y": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "63cmP": {
-          "Mare Nostrum": 3
-        },
-        "nHHji": {
-          "Mare Nostrum": 1
-        },
-        "q9DcG": {
-          "Mare Nostrum": 1
-        },
-        "_tFM4": {
-          "Mare Nostrum": 1
-        },
-        "JkmrR": {
-          "Mare Nostrum": 1
-        },
-        "nb9b7": {
-          "Mare Nostrum": 1
-        },
-        "wNJ5c": {
-          "Mare Nostrum": 1
-        },
-        "w7D2C": {
-          "Mare Nostrum": 1
-        },
-        "Ncjnl": {
-          "Mare Nostrum": 1
-        },
-        "dCywm": {
-          "Mare Nostrum": 1
-        },
-        "QjJjB": {
-          "Mare Nostrum": 1
-        },
-        "iQAxC": {
-          "Mare Nostrum": 1
-        },
-        "2NMLJ": {
-          "Mare Nostrum": 3,
-          "Middle East": 1
-        },
-        "2tnqv": {
-          "Mare Nostrum": 1
-        },
-        "2JGKt": {
-          "Mare Nostrum": 1
-        },
-        "dt5kC": {
-          "Middle East": 1
-        },
-        "KGnGt": {
-          "Middle East": 1
-        },
-        "LgRVj": {
-          "Middle East": 1
-        },
-        "G1bSr": {
-          "Mare Nostrum": 1
-        },
-        "w2zZB": {
-          "Mare Nostrum": 1
-        },
-        "8KwKJ": {
-          "Mare Nostrum": 1
-        },
-        "vWrB2": {
-          "Mare Nostrum": 2
-        },
-        "n5t5j": {
-          "Mare Nostrum": 1
-        },
-        "C9C59": {
-          "Mare Nostrum": 2
-        },
-        "qLBVT": {
-          "Mare Nostrum": 1
-        },
-        "Q8B5t": {
-          "Mare Nostrum": 1
-        },
-        "dbH6c": {
-          "Mare Nostrum": 1
-        },
-        "MqJnd": {
-          "Mare Nostrum": 1
-        },
-        "vt2Mr": {
-          "Mare Nostrum": 3
-        },
-        "QrB7G": {
-          "Mare Nostrum": 1
-        },
-        "GmJ2V": {
-          "Mare Nostrum": 1
-        },
-        "AGggJ": {
-          "Mare Nostrum": 1
-        },
-        "Yd5rq": {
-          "Mare Nostrum": 1
-        },
-        "7DdqV": {
-          "Mare Nostrum": 1
-        },
-        "q7n25": {
-          "Mare Nostrum": 1
-        },
-        "vqbmT": {
-          "Mare Nostrum": 1
-        },
-        "nRVYn": {
-          "Mare Nostrum": 1
-        },
-        "jL5d2": {
-          "Mare Nostrum": 1
-        },
-        "8wL5S": {
-          "Caucasia": 1
-        },
-        "rQWkq": {
-          "Caucasia": 1
-        },
-        "DRL5Y": {
-          "Caucasia": 1
-        },
-        "2FwQ6": {
-          "Mare Nostrum": 2
-        },
-        "k8Re5": {
-          "Mare Nostrum": 1
-        },
-        "YOuTf": {
-          "Mare Nostrum": 1
-        },
-        "nV7nC": {
-          "Mare Nostrum": 1
-        },
-        "GTwtB": {
-          "Mare Nostrum": 1
-        },
-        "zo2E8": {
-          "Mare Nostrum": 1
-        },
-        "Qv7B5": {
-          "Mare Nostrum": 1
-        },
-        "Cnnnv": {
-          "Mare Nostrum": 1
-        },
-        "GtkW2": {
-          "Mare Nostrum": 1
-        },
-        "Ly5r2": {
-          "Mare Nostrum": 1
-        },
-        "n8rL7": {
-          "Mare Nostrum": 1
-        },
-        "jGdrn": {
-          "Mare Nostrum": 1
-        },
-        "NmbR2": {
-          "Mare Nostrum": 1
-        },
-        "Kv9yG": {
-          "Mare Nostrum": 1
-        },
-        "dKgqG": {
-          "Mare Nostrum": 1
-        },
-        "BbBbB": {
-          "Mare Nostrum": 1
-        },
-        "oh7wB": {
-          "Mare Nostrum": 1
-        },
-        "LMWqm": {
-          "Mare Nostrum": 1
-        },
-        "BtkKC": {
-          "Mare Nostrum": 1
-        },
-        "xsSyo": {
-          "Mare Nostrum": 1
-        },
-        "B9jjJ": {
-          "Mare Nostrum": 1
-        },
-        "M5jM8": {
-          "Mare Nostrum": 1
-        },
-        "bN8NM": {
-          "Mare Nostrum": 1
-        },
-        "955YB": {
-          "Mare Nostrum": 1
-        },
-        "J-55E": {
-          "Mare Nostrum": 1
-        },
-        "rw595": {
-          "Mare Nostrum": 1
-        },
-        "8jC2Y": {
-          "Mare Nostrum": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on Pond",
         "reward": 50,
         "done_by": null,
         "done_at": null
@@ -20339,7 +20123,7 @@
     }
   },
   "win_last_id": "1570552355072774145",
-  "team_last_id": "1570585308502695977",
+  "team_last_id": "1570589397546704927",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
