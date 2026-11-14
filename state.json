@@ -1630,7 +1630,7 @@
       "eligible_match_count": 24
     }
   ],
-  "last_seen_time": "2026-11-14T04:09:31+00:00",
+  "last_seen_time": "2026-11-14T07:14:05+00:00",
   "current_scores": {
     "2NMLJ": {
       "points": 23.54,
@@ -2273,9 +2273,9 @@
       "last_score_time": "2026-11-13T16:16:08+00:00"
     },
     "GrVy8": {
-      "points": 1.87,
-      "match_count": 2,
-      "last_score_time": "2026-11-13T17:08:49+00:00"
+      "points": 17.12,
+      "match_count": 3,
+      "last_score_time": "2026-11-14T07:14:05+00:00"
     },
     "GYTL5": {
       "points": 5.38,
@@ -2466,10 +2466,15 @@
       "points": 2.17,
       "match_count": 1,
       "last_score_time": "2026-11-14T04:09:31+00:00"
+    },
+    "_KrTR": {
+      "points": 3.75,
+      "match_count": 1,
+      "last_score_time": "2026-11-14T07:14:05+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-13T03:30:00+00:00",
-  "current_cycle_match_count": 29,
+  "current_cycle_match_count": 30,
   "last_announced_event_time": "2026-11-13T03:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-14",
@@ -20889,10 +20894,28 @@
       "claim_ids": [
         "1571014209339129888"
       ]
+    },
+    "1571060654218022993": {
+      "id": "1571060654218022993",
+      "time": "2026-11-14T07:14:05+00:00",
+      "map": "Island",
+      "prev": "11.71504",
+      "curr": "11.74490",
+      "contest": false,
+      "accounts": [
+        "GrVy8",
+        "_KrTR"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1571060655002484899"
+      ]
     }
   },
-  "win_last_id": "1571014209339129888",
-  "team_last_id": "1571057369264431171",
+  "win_last_id": "1571060655002484899",
+  "team_last_id": "1571060967335264390",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
