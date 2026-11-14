@@ -2412,16 +2412,16 @@
   "current_cycle_match_count": 27,
   "last_announced_event_time": "2026-11-13T03:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-13",
-    "created_at": "2026-11-13T00:01:36.292241+00:00",
+    "date": "2026-11-14",
+    "created_at": "2026-11-14T00:01:24.486148+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Cliffs",
+        "map": "Black Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Black Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2430,242 +2430,55 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 2",
-        "target": 3,
+        "map": "White Arena",
+        "target": 6,
         "reward": 100,
-        "text": "Win 3 times on World 2",
-        "done_by": "T2LrB",
-        "done_at": "2026-11-13T11:45:52.270207+00:00",
-        "halfway_posted": true,
-        "last_leader": "LbtM9"
+        "text": "Win 6 times on White Arena",
+        "done_by": null,
+        "done_at": null,
+        "halfway_posted": false,
+        "last_leader": null
       },
       "hard": {
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
         ],
-        "target": 5,
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "9WL7b"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
-      "easy": {
-        "v5bmB": {
-          "Cliffs": 1
-        }
-      },
-      "medium": {
-        "v5bmB": {
-          "World 2": 1
-        },
-        "2NMLJ": {
-          "World 2": 1
-        },
-        "TVvmR": {
-          "World 2": 1
-        },
-        "9WL7b": {
-          "World 2": 1
-        },
-        "T2LrB": {
-          "World 2": 3
-        },
-        "LbtM9": {
-          "World 2": 2
-        },
-        "qqbLw": {
-          "World 2": 1
-        },
-        "Z2Yfi": {
-          "World 2": 1
-        },
-        "BM7b9": {
-          "World 2": 1
-        },
-        "m7TVC": {
-          "World 2": 1
-        },
-        "dyKXY": {
-          "World 2": 1
-        },
-        "WPZJh": {
-          "World 2": 1
-        },
-        "GGGNt": {
-          "World 2": 1
-        },
-        "wbDTc": {
-          "World 2": 1
-        },
-        "9yW2R": {
-          "World 2": 1
-        },
-        "8qRNN": {
-          "World 2": 1
-        },
-        "vWrB2": {
-          "World 2": 1
-        },
-        "T5TVB": {
-          "World 2": 1
-        },
-        "yg8LL": {
-          "World 2": 1
-        },
-        "7q9mB": {
-          "World 2": 1
-        },
-        "qTnRd": {
-          "World 2": 1
-        },
-        "n5nT8": {
-          "World 2": 1
-        },
-        "t5QTY": {
-          "World 2": 1
-        },
-        "WjWCm": {
-          "World 2": 1
-        }
-      },
-      "hard": {
-        "2NMLJ": {
-          "Middle East": 1
-        },
-        "jd7nJ": {
-          "Middle East": 1
-        },
-        "g7tnj": {
-          "Middle East": 1
-        },
-        "8yJk5": {
-          "Middle East": 1
-        },
-        "WYCRg": {
-          "Middle East": 1
-        },
-        "nwMnw": {
-          "Middle East": 1
-        },
-        "TVvmR": {
-          "Mare Nostrum": 1
-        },
-        "5yB7v": {
-          "Mare Nostrum": 1
-        },
-        "tYg9n": {
-          "Mare Nostrum": 1
-        },
-        "vTGVv": {
-          "Mare Nostrum": 1
-        },
-        "K5vnK": {
-          "Mare Nostrum": 1
-        },
-        "NWL8Y": {
-          "Mare Nostrum": 1
-        },
-        "9WL7b": {
-          "Mare Nostrum": 2,
-          "Caucasia": 1
-        },
-        "mKqVk": {
-          "Mare Nostrum": 1
-        },
-        "CbQtB": {
-          "Mare Nostrum": 1
-        },
-        "vWrB2": {
-          "Mare Nostrum": 1
-        },
-        "7v7CV": {
-          "Mare Nostrum": 1
-        },
-        "cCVdt": {
-          "Mare Nostrum": 1
-        },
-        "RDLRY": {
-          "Mare Nostrum": 1
-        },
-        "YBdLy": {
-          "Mare Nostrum": 1
-        },
-        "9MTQt": {
-          "Mare Nostrum": 1
-        },
-        "Z2Yfi": {
-          "Caucasia": 1
-        },
-        "BNxHu": {
-          "Caucasia": 1
-        },
-        "GYTL5": {
-          "Caucasia": 1
-        },
-        "RRMMV": {
-          "Caucasia": 1
-        },
-        "63cmP": {
-          "Caucasia": 1
-        },
-        "BjxRv": {
-          "Caucasia": 1,
-          "Scandinavia": 1
-        },
-        "jLq47": {
-          "Scandinavia": 1
-        },
-        "V0S3_": {
-          "Scandinavia": 1
-        },
-        "V0FBu": {
-          "Scandinavia": 1
-        },
-        "bhxeX": {
-          "Scandinavia": 1
-        },
-        "S-RYh": {
-          "Scandinavia": 1
-        },
-        "J0Rsf": {
-          "Mare Nostrum": 1
-        },
-        "8yqn5": {
-          "Mare Nostrum": 1
-        },
-        "GrVy8": {
-          "Mare Nostrum": 1
-        },
-        "_tFM4": {
-          "Mare Nostrum": 1
-        }
-      }
+      "easy": {},
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Pond",
+        "text": "Win 4 times on Cliffs",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 3 times on World 2",
         "reward": 100,
-        "done_by": null,
-        "done_at": null
+        "done_by": "T2LrB",
+        "done_at": "2026-11-13T11:45:52.270207+00:00"
       },
       "hard": {
         "text": "Win on all regional maps",
@@ -20969,7 +20782,7 @@
     }
   },
   "win_last_id": "1570906299758026957",
-  "team_last_id": "1570948529172516965",
+  "team_last_id": "1570951727799341209",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
