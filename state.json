@@ -1637,7 +1637,7 @@
       "eligible_match_count": 33
     }
   ],
-  "last_seen_time": "2026-11-15T09:39:08+00:00",
+  "last_seen_time": "2026-11-15T10:43:04+00:00",
   "current_scores": {
     "J0Rsf": {
       "points": 18.18,
@@ -1855,9 +1855,9 @@
       "last_score_time": "2026-11-14T17:43:56+00:00"
     },
     "2NMLJ": {
-      "points": 84.95,
-      "match_count": 5,
-      "last_score_time": "2026-11-15T09:39:08+00:00"
+      "points": 108.95,
+      "match_count": 6,
+      "last_score_time": "2026-11-15T10:43:04+00:00"
     },
     "MIDnz": {
       "points": 2.62,
@@ -2243,10 +2243,15 @@
       "points": 0.32,
       "match_count": 1,
       "last_score_time": "2026-11-15T09:39:08+00:00"
+    },
+    "JRryv": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-15T10:43:04+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-14T11:00:00+00:00",
-  "current_cycle_match_count": 23,
+  "current_cycle_match_count": 24,
   "last_announced_event_time": "2026-11-14T11:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-15",
@@ -21320,10 +21325,30 @@
       "claim_ids": [
         "1571459546109448233"
       ]
+    },
+    "1571475639859548271": {
+      "id": "1571475639859548271",
+      "time": "2026-11-15T10:43:04+00:00",
+      "map": "Africa",
+      "prev": "12.30463",
+      "curr": "12.34178",
+      "contest": false,
+      "accounts": [
+        "2NMLJ",
+        "JRryv"
+      ],
+      "claims": [
+        "1095764905476501574"
+      ],
+      "points": 27,
+      "posted": false,
+      "claim_ids": [
+        "1571475641239339030"
+      ]
     }
   },
-  "win_last_id": "1571459546109448233",
-  "team_last_id": "1571472492411752448",
+  "win_last_id": "1571475641239339030",
+  "team_last_id": "1571476179356090441",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -28648,6 +28673,13 @@
         "time": "2026-11-15T09:39:08+00:00",
         "block": "09:00-12:00",
         "points": 36
+      },
+      "1571475639859548271:1095764905476501574": {
+        "user": "1095764905476501574",
+        "game": "1571475639859548271",
+        "time": "2026-11-15T10:43:04+00:00",
+        "block": "09:00-12:00",
+        "points": 27
       }
     }
   },
