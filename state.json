@@ -2139,16 +2139,16 @@
   "current_cycle_match_count": 17,
   "last_announced_event_time": "2026-11-14T11:00:00+00:00",
   "daily_quests": {
-    "date": "2026-11-14",
-    "created_at": "2026-11-14T00:01:24.486148+00:00",
+    "date": "2026-11-15",
+    "created_at": "2026-11-15T00:01:27.735412+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Black Arena",
+        "map": "Desert",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Black Arena",
+        "text": "Win 4 times on Desert",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2157,10 +2157,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "White Arena",
-        "target": 6,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 6 times on White Arena",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2170,16 +2170,15 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
         ],
-        "target": 6,
+        "target": 5,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2189,224 +2188,26 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "Europe": 2,
-          "North America": 1
-        },
-        "8KwKJ": {
-          "Europe": 1
-        },
-        "bCYMr": {
-          "Europe": 1
-        },
-        "YncRK": {
-          "Europe": 1
-        },
-        "XApci": {
-          "Europe": 1
-        },
-        "JwW2D": {
-          "Europe": 1
-        },
-        "L7R7B": {
-          "Europe": 1
-        },
-        "vLkCQ": {
-          "Europe": 1
-        },
-        "ESXc7": {
-          "Europe": 1
-        },
-        "dIaMV": {
-          "Europe": 1
-        },
-        "LKqLd": {
-          "Europe": 1
-        },
-        "YqCqV": {
-          "Europe": 1
-        },
-        "tVyr5": {
-          "Europe": 1
-        },
-        "Bnrjt": {
-          "Europe": 1
-        },
-        "2dDVG": {
-          "Europe": 1
-        },
-        "kV5tv": {
-          "Europe": 1
-        },
-        "LVLmr": {
-          "Europe": 1
-        },
-        "9mv9b": {
-          "Europe": 1
-        },
-        "d2BCY": {
-          "Europe": 1
-        },
-        "bWQMg": {
-          "Europe": 1
-        },
-        "SURNy": {
-          "North America": 1
-        },
-        "dLLKD": {
-          "North America": 1
-        },
-        "7cLRM": {
-          "North America": 1
-        },
-        "8wL5S": {
-          "Europe": 4,
-          "South America": 1
-        },
-        "bTv72": {
-          "Europe": 1
-        },
-        "rBN8Y": {
-          "Europe": 1
-        },
-        "M5L5m": {
-          "Europe": 1
-        },
-        "MQt5t": {
-          "Europe": 1
-        },
-        "TtkTR": {
-          "Europe": 1
-        },
-        "CxStM": {
-          "Europe": 1
-        },
-        "jynQT": {
-          "Europe": 1
-        },
-        "BrYNM": {
-          "Europe": 1
-        },
-        "DkcrW": {
-          "Europe": 1
-        },
-        "YLT9d": {
-          "Europe": 1
-        },
-        "v9BM7": {
-          "Europe": 1
-        },
-        "4J1t4": {
-          "Europe": 1
-        },
-        "Q5qQB": {
-          "Europe": 1
-        },
-        "cwQdL": {
-          "Europe": 1
-        },
-        "Q7t7b": {
-          "Europe": 1
-        },
-        "kK7NN": {
-          "Europe": 1
-        },
-        "bBVrL": {
-          "Europe": 1
-        },
-        "GrVy8": {
-          "Europe": 1
-        },
-        "0xvB2": {
-          "Europe": 1
-        },
-        "bm8Gj": {
-          "Europe": 1
-        },
-        "TbkLw": {
-          "Europe": 1
-        },
-        "dwTCG": {
-          "Europe": 1
-        },
-        "QDC5G": {
-          "Europe": 1
-        },
-        "9WL7b": {
-          "Europe": 1
-        },
-        "gYJgD": {
-          "Europe": 1
-        },
-        "2TKLn": {
-          "Europe": 1
-        },
-        "tJ2MK": {
-          "Europe": 1
-        },
-        "6w7Jo": {
-          "Europe": 1
-        },
-        "ktLY8": {
-          "Europe": 1
-        },
-        "9JgWr": {
-          "Europe": 1
-        },
-        "JggR9": {
-          "South America": 1
-        },
-        "yLYQq": {
-          "North America": 1
-        },
-        "n9JyJ": {
-          "North America": 1
-        },
-        "2NMLJ": {
-          "North America": 1
-        },
-        "MIDnz": {
-          "North America": 1
-        },
-        "LFB1j": {
-          "North America": 1
-        },
-        "Nkjqm": {
-          "North America": 1
-        },
-        "kbLBv": {
-          "Europe": 1
-        },
-        "oDju_": {
-          "Europe": 1
-        },
-        "vD79q": {
-          "Europe": 1
-        },
-        "T79Kb": {
-          "Europe": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Cliffs",
+        "text": "Win 4 times on Black Arena",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on World 2",
+        "text": "Win 6 times on White Arena",
         "reward": 100,
-        "done_by": "T2LrB",
-        "done_at": "2026-11-13T11:45:52.270207+00:00"
+        "done_by": null,
+        "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win on all continent maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -21273,7 +21074,7 @@
     }
   },
   "win_last_id": "1571298731876159692",
-  "team_last_id": "1571310171605434399",
+  "team_last_id": "1571314034181939222",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
