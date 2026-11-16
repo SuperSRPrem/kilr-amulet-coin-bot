@@ -1651,7 +1651,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-11-16T19:09:31+00:00",
+  "last_seen_time": "2026-11-16T20:27:12+00:00",
   "current_scores": {
     "tv999": {
       "points": 67.77,
@@ -1834,9 +1834,9 @@
       "last_score_time": "2026-11-16T17:10:03+00:00"
     },
     "KKBGy": {
-      "points": 6.87,
-      "match_count": 1,
-      "last_score_time": "2026-11-16T17:10:03+00:00"
+      "points": 11.32,
+      "match_count": 2,
+      "last_score_time": "2026-11-16T20:27:12+00:00"
     },
     "q8RbR": {
       "points": 3.89,
@@ -1957,10 +1957,25 @@
       "points": 1.41,
       "match_count": 1,
       "last_score_time": "2026-11-16T19:09:31+00:00"
+    },
+    "MMGBR": {
+      "points": 6.48,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T20:27:12+00:00"
+    },
+    "WjW72": {
+      "points": 3.72,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T20:27:12+00:00"
+    },
+    "qrDLw": {
+      "points": 0.35,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T20:27:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-16T14:30:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-11-16T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-16",
@@ -2140,6 +2155,18 @@
         },
         "JWtfJ": {
           "South America": 1
+        },
+        "MMGBR": {
+          "Africa": 1
+        },
+        "KKBGy": {
+          "Africa": 1
+        },
+        "WjW72": {
+          "Africa": 1
+        },
+        "qrDLw": {
+          "Africa": 1
         }
       }
     }
@@ -21909,10 +21936,30 @@
       "claim_ids": [
         "1571965482767093792"
       ]
+    },
+    "1571985032153796649": {
+      "id": "1571985032153796649",
+      "time": "2026-11-16T20:27:12+00:00",
+      "map": "Africa",
+      "prev": "12.29625",
+      "curr": "12.31944",
+      "contest": false,
+      "accounts": [
+        "MMGBR",
+        "KKBGy",
+        "WjW72",
+        "qrDLw"
+      ],
+      "claims": [],
+      "points": 16,
+      "posted": false,
+      "claim_ids": [
+        "1571985033408024607"
+      ]
     }
   },
-  "win_last_id": "1571965482767093792",
-  "team_last_id": "1571982226529325289",
+  "win_last_id": "1571985033408024607",
+  "team_last_id": "1571986027030122629",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
