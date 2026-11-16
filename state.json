@@ -1644,7 +1644,7 @@
       "eligible_match_count": 27
     }
   ],
-  "last_seen_time": "2026-11-15T19:45:50+00:00",
+  "last_seen_time": "2026-11-16T00:19:11+00:00",
   "current_scores": {
     "8wL5S": {
       "points": 74.77,
@@ -1865,10 +1865,20 @@
       "points": 0.06,
       "match_count": 1,
       "last_score_time": "2026-11-15T19:45:50+00:00"
+    },
+    "dyKXY": {
+      "points": 23.48,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T00:19:11+00:00"
+    },
+    "mLkg7": {
+      "points": 13.52,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T00:19:11+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-15T15:00:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-11-15T15:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-16",
@@ -21184,10 +21194,28 @@
       "claim_ids": [
         "1571612227579019348"
       ]
+    },
+    "1571681015322247260": {
+      "id": "1571681015322247260",
+      "time": "2026-11-16T00:19:11+00:00",
+      "map": "Denmark",
+      "prev": "12.10639",
+      "curr": "12.16390",
+      "contest": false,
+      "accounts": [
+        "dyKXY",
+        "mLkg7"
+      ],
+      "claims": [],
+      "points": 43,
+      "posted": false,
+      "claim_ids": [
+        "1571681016526147687"
+      ]
     }
   },
-  "win_last_id": "1571612227579019348",
-  "team_last_id": "1571680110539575340",
+  "win_last_id": "1571681016526147687",
+  "team_last_id": "1571683837195591831",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
