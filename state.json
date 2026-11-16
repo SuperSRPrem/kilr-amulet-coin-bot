@@ -21388,14 +21388,14 @@
       ],
       "claims": [],
       "points": 17,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1571818434600247387"
       ]
     }
   },
   "win_last_id": "1571818434600247387",
-  "team_last_id": "1571823609171681304",
+  "team_last_id": "1571831582225076316",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
