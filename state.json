@@ -1644,7 +1644,7 @@
       "eligible_match_count": 27
     }
   ],
-  "last_seen_time": "2026-11-16T06:45:07+00:00",
+  "last_seen_time": "2026-11-16T07:12:43+00:00",
   "current_scores": {
     "8wL5S": {
       "points": 74.77,
@@ -1867,9 +1867,9 @@
       "last_score_time": "2026-11-15T19:45:50+00:00"
     },
     "dyKXY": {
-      "points": 44.61,
-      "match_count": 3,
-      "last_score_time": "2026-11-16T06:45:07+00:00"
+      "points": 47.66,
+      "match_count": 4,
+      "last_score_time": "2026-11-16T07:12:43+00:00"
     },
     "mLkg7": {
       "points": 13.52,
@@ -1930,10 +1930,30 @@
       "points": 1.86,
       "match_count": 1,
       "last_score_time": "2026-11-16T06:45:07+00:00"
+    },
+    "tq22q": {
+      "points": 13.15,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T07:12:43+00:00"
+    },
+    "6-g5t": {
+      "points": 2.19,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T07:12:43+00:00"
+    },
+    "1xazA": {
+      "points": 0.87,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T07:12:43+00:00"
+    },
+    "WnL9v": {
+      "points": 0.75,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T07:12:43+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-15T15:00:00+00:00",
-  "current_cycle_match_count": 8,
+  "current_cycle_match_count": 9,
   "last_announced_event_time": "2026-11-15T15:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-16",
@@ -1986,7 +2006,23 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "tq22q": {
+          "Africa": 1
+        },
+        "dyKXY": {
+          "Africa": 1
+        },
+        "6-g5t": {
+          "Africa": 1
+        },
+        "1xazA": {
+          "Africa": 1
+        },
+        "WnL9v": {
+          "Africa": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -21308,14 +21344,32 @@
       ],
       "claims": [],
       "points": 30,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1571778145470644277"
       ]
+    },
+    "1571785088281223199": {
+      "id": "1571785088281223199",
+      "time": "2026-11-16T07:12:43+00:00",
+      "map": "Africa",
+      "prev": "11.98371",
+      "curr": "12.01493",
+      "contest": false,
+      "accounts": [
+        "tq22q",
+        "dyKXY",
+        "6-g5t",
+        "1xazA",
+        "WnL9v"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1571778145470644277",
-  "team_last_id": "1571782144030941245",
+  "team_last_id": "1571785869684379699",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
