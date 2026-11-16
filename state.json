@@ -1651,7 +1651,7 @@
       "eligible_match_count": 16
     }
   ],
-  "last_seen_time": "2026-11-16T17:10:03+00:00",
+  "last_seen_time": "2026-11-16T17:44:21+00:00",
   "current_scores": {
     "tv999": {
       "points": 67.77,
@@ -1902,10 +1902,45 @@
       "points": 0.99,
       "match_count": 1,
       "last_score_time": "2026-11-16T17:10:03+00:00"
+    },
+    "J0Rsf": {
+      "points": 15.68,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T17:44:21+00:00"
+    },
+    "5QwbR": {
+      "points": 14.63,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T17:44:21+00:00"
+    },
+    "vN1SY": {
+      "points": 8.87,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T17:44:21+00:00"
+    },
+    "kb2wr": {
+      "points": 7.64,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T17:44:21+00:00"
+    },
+    "vfRFi": {
+      "points": 3.69,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T17:44:21+00:00"
+    },
+    "CcRYc": {
+      "points": 2.64,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T17:44:21+00:00"
+    },
+    "mYkTb": {
+      "points": 0.84,
+      "match_count": 1,
+      "last_score_time": "2026-11-16T17:44:21+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-16T14:30:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-11-16T14:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-16",
@@ -2049,6 +2084,27 @@
         },
         "WT7qb": {
           "Africa": 1
+        },
+        "J0Rsf": {
+          "South America": 1
+        },
+        "5QwbR": {
+          "South America": 1
+        },
+        "vN1SY": {
+          "South America": 1
+        },
+        "kb2wr": {
+          "South America": 1
+        },
+        "vfRFi": {
+          "South America": 1
+        },
+        "CcRYc": {
+          "South America": 1
+        },
+        "mYkTb": {
+          "South America": 1
         }
       }
     }
@@ -21768,14 +21824,37 @@
         "1423709238445867089"
       ],
       "points": 99,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1571935405304061963"
       ]
+    },
+    "1571944047868772363": {
+      "id": "1571944047868772363",
+      "time": "2026-11-16T17:44:21+00:00",
+      "map": "South America",
+      "prev": "12.57988",
+      "curr": "12.66181",
+      "contest": false,
+      "accounts": [
+        "J0Rsf",
+        "5QwbR",
+        "vN1SY",
+        "kb2wr",
+        "vfRFi",
+        "CcRYc",
+        "mYkTb"
+      ],
+      "claims": [],
+      "points": 59,
+      "posted": false,
+      "claim_ids": [
+        "1571944049164943505"
+      ]
     }
   },
-  "win_last_id": "1571935405304061963",
-  "team_last_id": "1571940740492435509",
+  "win_last_id": "1571944049164943505",
+  "team_last_id": "1571944277502599282",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
