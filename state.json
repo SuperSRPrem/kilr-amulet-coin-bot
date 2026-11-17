@@ -1658,10 +1658,41 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-11-16T22:45:38+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-17T09:12:27+00:00",
+  "current_scores": {
+    "t7bCK": {
+      "points": 10.37,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T09:12:27+00:00"
+    },
+    "2T988": {
+      "points": 7.97,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T09:12:27+00:00"
+    },
+    "KCnNJ": {
+      "points": 4.58,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T09:12:27+00:00"
+    },
+    "TB8Dc": {
+      "points": 3.97,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T09:12:27+00:00"
+    },
+    "LvjQK": {
+      "points": 2.1,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T09:12:27+00:00"
+    },
+    "7TvR9": {
+      "points": 2.02,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T09:12:27+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-17T09:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-17T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-17",
@@ -21523,10 +21554,32 @@
       "claim_ids": [
         "1572019861989883925"
       ]
+    },
+    "1572177612141363321": {
+      "id": "1572177612141363321",
+      "time": "2026-11-17T09:12:27+00:00",
+      "map": "India",
+      "prev": "11.66380",
+      "curr": "11.71266",
+      "contest": false,
+      "accounts": [
+        "t7bCK",
+        "2T988",
+        "KCnNJ",
+        "TB8Dc",
+        "LvjQK",
+        "7TvR9"
+      ],
+      "claims": [],
+      "points": 34,
+      "posted": false,
+      "claim_ids": [
+        "1572177613781467187"
+      ]
     }
   },
-  "win_last_id": "1572019861989883925",
-  "team_last_id": "1572174529336447000",
+  "win_last_id": "1572177613781467187",
+  "team_last_id": "1572178357850742895",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
