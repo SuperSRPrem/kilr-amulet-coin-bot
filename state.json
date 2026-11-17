@@ -1658,7 +1658,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-11-17T20:45:45+00:00",
+  "last_seen_time": "2026-11-17T23:22:20+00:00",
   "current_scores": {
     "t7bCK": {
       "points": 10.37,
@@ -2014,10 +2014,30 @@
       "points": 0.03,
       "match_count": 1,
       "last_score_time": "2026-11-17T20:45:45+00:00"
+    },
+    "JkmrR": {
+      "points": 9.17,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T23:22:20+00:00"
+    },
+    "qGGvB": {
+      "points": 6.89,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T23:22:20+00:00"
+    },
+    "RDLRY": {
+      "points": 2.1,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T23:22:20+00:00"
+    },
+    "jkBmU": {
+      "points": 1.85,
+      "match_count": 1,
+      "last_score_time": "2026-11-17T23:22:20+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-17T09:00:00+00:00",
-  "current_cycle_match_count": 12,
+  "current_cycle_match_count": 13,
   "last_announced_event_time": "2026-11-17T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-17",
@@ -22239,10 +22259,27 @@
       "claims": [],
       "points": null,
       "posted": true
+    },
+    "1572391486887034972": {
+      "id": "1572391486887034972",
+      "time": "2026-11-17T23:22:20+00:00",
+      "map": "Africa",
+      "prev": "11.39565",
+      "curr": "11.42728",
+      "contest": false,
+      "accounts": [
+        "JkmrR",
+        "qGGvB",
+        "RDLRY",
+        "jkBmU"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1572305334037516299",
-  "team_last_id": "1572389285280088070",
+  "team_last_id": "1572393473535901717",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
