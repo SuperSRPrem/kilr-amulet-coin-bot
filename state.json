@@ -1665,10 +1665,41 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-11-18T04:47:49+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-18T13:07:42+00:00",
+  "current_scores": {
+    "BgBRR": {
+      "points": 4.85,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T13:07:42+00:00"
+    },
+    "MKJGL": {
+      "points": 4.15,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T13:07:42+00:00"
+    },
+    "BjxRv": {
+      "points": 3.84,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T13:07:42+00:00"
+    },
+    "jLNTN": {
+      "points": 2.9,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T13:07:42+00:00"
+    },
+    "9yDw2": {
+      "points": 2.06,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T13:07:42+00:00"
+    },
+    "cRgWK": {
+      "points": 1.21,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T13:07:42+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-18T07:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-18T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-18",
@@ -1726,6 +1757,24 @@
           "Africa": 1
         },
         "ttbRr": {
+          "Africa": 1
+        },
+        "BgBRR": {
+          "Africa": 1
+        },
+        "MKJGL": {
+          "Africa": 1
+        },
+        "BjxRv": {
+          "Africa": 1
+        },
+        "jLNTN": {
+          "Africa": 1
+        },
+        "9yDw2": {
+          "Africa": 1
+        },
+        "cRgWK": {
           "Africa": 1
         }
       }
@@ -21939,10 +21988,34 @@
       "claims": [],
       "points": null,
       "posted": true
+    },
+    "1572599203870281931": {
+      "id": "1572599203870281931",
+      "time": "2026-11-18T13:07:42+00:00",
+      "map": "Africa",
+      "prev": "11.12406",
+      "curr": "11.15443",
+      "contest": false,
+      "accounts": [
+        "BgBRR",
+        "MKJGL",
+        "BjxRv",
+        "jLNTN",
+        "9yDw2",
+        "cRgWK"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1572599209536786433"
+      ]
     }
   },
-  "win_last_id": "1572305334037516299",
-  "team_last_id": "1572597441625198766",
+  "win_last_id": "1572599209536786433",
+  "team_last_id": "1572601280898277550",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -29687,6 +29760,13 @@
         "time": "2026-11-17T17:39:57+00:00",
         "block": "15:00-18:00",
         "points": 89
+      },
+      "1572599203870281931:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1572599203870281931",
+        "time": "2026-11-18T13:07:42+00:00",
+        "block": "12:00-15:00",
+        "points": 20
       }
     }
   },
