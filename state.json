@@ -2090,16 +2090,16 @@
   "current_cycle_match_count": 15,
   "last_announced_event_time": "2026-11-17T09:00:00+00:00",
   "daily_quests": {
-    "date": "2026-11-17",
-    "created_at": "2026-11-17T00:01:32.275592+00:00",
+    "date": "2026-11-18",
+    "created_at": "2026-11-18T00:01:36.733719+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "White Arena",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on White Arena",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2108,10 +2108,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 1",
-        "target": 3,
+        "map": "Scandinavia",
+        "target": 4,
         "reward": 100,
-        "text": "Win 3 times on World 1",
+        "text": "Win 4 times on Scandinavia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2119,107 +2119,47 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_wins",
-        "map": "World 2",
+        "kind": "map_set",
+        "maps": [
+          "Europe",
+          "Africa",
+          "North America",
+          "South America",
+          "Asia",
+          "Australia"
+        ],
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win on all continent maps",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "Z2Yfi"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "World 2": 3
-        },
-        "QTTtm": {
-          "World 2": 2
-        },
-        "-rcvX": {
-          "World 2": 1
-        },
-        "zM9FG": {
-          "World 2": 1
-        },
-        "z8smd": {
-          "World 2": 1
-        },
-        "7kYmY": {
-          "World 2": 1
-        },
-        "w8tWy": {
-          "World 2": 1
-        },
-        "QsG1G": {
-          "World 2": 1
-        },
-        "NkWwY": {
-          "World 2": 1
-        },
-        "2RyNg": {
-          "World 2": 1
-        },
-        "V8nm9": {
-          "World 2": 1
-        },
-        "8mm2v": {
-          "World 2": 1
-        },
-        "rV8LQ": {
-          "World 2": 1
-        },
-        "plGYT": {
-          "World 2": 1
-        },
-        "drRNc": {
-          "World 2": 1
-        },
-        "vjVQL": {
-          "World 2": 1
-        },
-        "cnDYj": {
-          "World 2": 1
-        },
-        "2NMLJ": {
-          "World 2": 1
-        },
-        "GLJNd": {
-          "World 2": 1
-        },
-        "xxpoA": {
-          "World 2": 1
-        },
-        "8vn8N": {
-          "World 2": 1
-        },
-        "kLW7D": {
-          "World 2": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on World 2",
+        "text": "Win 3 times on World 1",
         "reward": 100,
-        "done_by": "Z2Yfi",
-        "done_at": "2026-11-16T15:31:23.919609+00:00"
+        "done_by": null,
+        "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -22325,7 +22265,7 @@
       ],
       "claims": [],
       "points": null,
-      "posted": false
+      "posted": true
     },
     "1572394013259206767": {
       "id": "1572394013259206767",
@@ -22366,7 +22306,7 @@
     }
   },
   "win_last_id": "1572305334037516299",
-  "team_last_id": "1572397361206919220",
+  "team_last_id": "1572401349998682153",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
