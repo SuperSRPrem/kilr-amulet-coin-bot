@@ -1665,7 +1665,7 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-11-18T15:24:00+00:00",
+  "last_seen_time": "2026-11-18T15:44:54+00:00",
   "current_scores": {
     "BgBRR": {
       "points": 4.85,
@@ -1808,9 +1808,9 @@
       "last_score_time": "2026-11-18T14:29:18+00:00"
     },
     "7kKbY": {
-      "points": 0.91,
-      "match_count": 1,
-      "last_score_time": "2026-11-18T14:29:18+00:00"
+      "points": 11.69,
+      "match_count": 2,
+      "last_score_time": "2026-11-18T15:44:54+00:00"
     },
     "d52TM": {
       "points": 0.7,
@@ -1991,10 +1991,25 @@
       "points": 0.3,
       "match_count": 1,
       "last_score_time": "2026-11-18T15:24:00+00:00"
+    },
+    "mRTVq": {
+      "points": 2.57,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T15:44:54+00:00"
+    },
+    "LMyrw": {
+      "points": 2.37,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T15:44:54+00:00"
+    },
+    "Q7cyw": {
+      "points": 0.29,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T15:44:54+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-18T07:00:00+00:00",
-  "current_cycle_match_count": 7,
+  "current_cycle_match_count": 8,
   "last_announced_event_time": "2026-11-18T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-18",
@@ -22502,10 +22517,30 @@
       "claim_ids": [
         "1572633505580580887"
       ]
+    },
+    "1572638769201418371": {
+      "id": "1572638769201418371",
+      "time": "2026-11-18T15:44:54+00:00",
+      "map": "White Plains",
+      "prev": "11.56794",
+      "curr": "11.59321",
+      "contest": false,
+      "accounts": [
+        "7kKbY",
+        "mRTVq",
+        "LMyrw",
+        "Q7cyw"
+      ],
+      "claims": [],
+      "points": 18,
+      "posted": false,
+      "claim_ids": [
+        "1572638770606506168"
+      ]
     }
   },
-  "win_last_id": "1572633505580580887",
-  "team_last_id": "1572635341851197442",
+  "win_last_id": "1572638770606506168",
+  "team_last_id": "1572638965402443877",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
