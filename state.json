@@ -1665,7 +1665,7 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-11-18T13:48:14+00:00",
+  "last_seen_time": "2026-11-18T14:29:18+00:00",
   "current_scores": {
     "BgBRR": {
       "points": 4.85,
@@ -1761,10 +1761,85 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-11-18T13:48:14+00:00"
+    },
+    "q9DcG": {
+      "points": 15.26,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "vbGOS": {
+      "points": 11.99,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "KMrvr": {
+      "points": 3.96,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "w2zZB": {
+      "points": 3.53,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "XVsG6": {
+      "points": 3.51,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "Y8tCY": {
+      "points": 2.95,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "LN9QM": {
+      "points": 1.82,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "NLCBD": {
+      "points": 1.61,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "vvQnT": {
+      "points": 1.38,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "7kKbY": {
+      "points": 0.91,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "d52TM": {
+      "points": 0.7,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "5Vc8g": {
+      "points": 0.67,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "7NqVm": {
+      "points": 0.39,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "jvVtv": {
+      "points": 0.21,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
+    },
+    "VnB5k": {
+      "points": 0.1,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T14:29:18+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-18T07:00:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-11-18T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-18",
@@ -22104,14 +22179,47 @@
         "1402645821505278114"
       ],
       "points": 85,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1572609396645822580"
       ]
+    },
+    "1572619739996622979": {
+      "id": "1572619739996622979",
+      "time": "2026-11-18T14:29:18+00:00",
+      "map": "Falklands",
+      "prev": "11.20087",
+      "curr": "11.27903",
+      "contest": false,
+      "accounts": [
+        "q9DcG",
+        "vbGOS",
+        "KMrvr",
+        "w2zZB",
+        "XVsG6",
+        "Y8tCY",
+        "LN9QM",
+        "NLCBD",
+        "vvQnT",
+        "7kKbY",
+        "d52TM",
+        "5Vc8g",
+        "7NqVm",
+        "jvVtv",
+        "VnB5k"
+      ],
+      "claims": [
+        "1505576202667036804"
+      ],
+      "points": 55,
+      "posted": false,
+      "claim_ids": [
+        "1572619741112303667"
+      ]
     }
   },
-  "win_last_id": "1572609396645822580",
-  "team_last_id": "1572616165845373072",
+  "win_last_id": "1572619741112303667",
+  "team_last_id": "1572620154616025130",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -29870,8 +29978,15 @@
         "time": "2026-11-18T13:48:14+00:00",
         "block": "12:00-15:00",
         "points": 85
+      },
+      "1572619739996622979:1505576202667036804": {
+        "user": "1505576202667036804",
+        "game": "1572619739996622979",
+        "time": "2026-11-18T14:29:18+00:00",
+        "block": "12:00-15:00",
+        "points": 55
       }
     }
   },
-  "last_reminder": "2026-11-17"
+  "last_reminder": "2026-11-18"
 }
