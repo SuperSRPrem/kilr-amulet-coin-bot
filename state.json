@@ -1658,7 +1658,7 @@
       "eligible_match_count": 11
     }
   ],
-  "last_seen_time": "2026-11-18T04:11:26+00:00",
+  "last_seen_time": "2026-11-18T04:47:49+00:00",
   "current_scores": {
     "t7bCK": {
       "points": 10.37,
@@ -2119,10 +2119,20 @@
       "points": 0.13,
       "match_count": 1,
       "last_score_time": "2026-11-18T04:11:26+00:00"
+    },
+    "Ljny2": {
+      "points": 12.21,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T04:47:49+00:00"
+    },
+    "ttbRr": {
+      "points": 7.79,
+      "match_count": 1,
+      "last_score_time": "2026-11-18T04:47:49+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-17T09:00:00+00:00",
-  "current_cycle_match_count": 17,
+  "current_cycle_match_count": 18,
   "last_announced_event_time": "2026-11-17T09:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-18",
@@ -2175,7 +2185,14 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {}
+      "hard": {
+        "Ljny2": {
+          "Africa": 1
+        },
+        "ttbRr": {
+          "Africa": 1
+        }
+      }
     }
   },
   "last_quest_day": {
@@ -22371,10 +22388,25 @@
       "claims": [],
       "points": null,
       "posted": true
+    },
+    "1572473399161397412": {
+      "id": "1572473399161397412",
+      "time": "2026-11-18T04:47:49+00:00",
+      "map": "Africa",
+      "prev": "11.46319",
+      "curr": "11.49479",
+      "contest": false,
+      "accounts": [
+        "Ljny2",
+        "ttbRr"
+      ],
+      "claims": [],
+      "points": null,
+      "posted": false
     }
   },
   "win_last_id": "1572305334037516299",
-  "team_last_id": "1572472870167248941",
+  "team_last_id": "1572476433031233699",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
