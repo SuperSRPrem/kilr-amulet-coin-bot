@@ -1672,10 +1672,86 @@
       "eligible_match_count": 25
     }
   ],
-  "last_seen_time": "2026-11-19T12:19:31+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-19T15:23:12+00:00",
+  "current_scores": {
+    "tyTMG": {
+      "points": 66.23,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "ttrR9": {
+      "points": 61.14,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "BLQBd": {
+      "points": 40.28,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "N7yQ2": {
+      "points": 21.46,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "y9CtV": {
+      "points": 8.03,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "GGgGG": {
+      "points": 6.96,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "wd7d8": {
+      "points": 6.1,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "LMFov": {
+      "points": 5.86,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "q8RbR": {
+      "points": 4.14,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "kYNQd": {
+      "points": 3.78,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "gjbKj": {
+      "points": 2.12,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "5GJwy": {
+      "points": 2.05,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "C9JVL": {
+      "points": 1.77,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "9rV8N": {
+      "points": 0.1,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    },
+    "QJaHP": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-19T15:23:12+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-19T12:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-19T12:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-19",
@@ -22573,10 +22649,44 @@
       "claim_ids": [
         "1572949464346271895"
       ]
+    },
+    "1572995689787559947": {
+      "id": "1572995689787559947",
+      "time": "2026-11-19T15:23:12+00:00",
+      "map": "Caucasia",
+      "prev": "11.35477",
+      "curr": "11.72033",
+      "contest": true,
+      "accounts": [
+        "tyTMG",
+        "ttrR9",
+        "BLQBd",
+        "N7yQ2",
+        "y9CtV",
+        "GGgGG",
+        "wd7d8",
+        "LMFov",
+        "q8RbR",
+        "kYNQd",
+        "gjbKj",
+        "5GJwy",
+        "C9JVL",
+        "9rV8N",
+        "QJaHP"
+      ],
+      "claims": [
+        "759973948854632448",
+        "879398730762186752"
+      ],
+      "points": 252,
+      "posted": false,
+      "claim_ids": [
+        "1572995690915963062"
+      ]
     }
   },
-  "win_last_id": "1572949464346271895",
-  "team_last_id": "1572993757584953425",
+  "win_last_id": "1572995690915963062",
+  "team_last_id": "1572997755209519218",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -30524,6 +30634,20 @@
         "time": "2026-11-19T12:19:31+00:00",
         "block": "12:00-15:00",
         "points": 57
+      },
+      "1572995689787559947:759973948854632448": {
+        "user": "759973948854632448",
+        "game": "1572995689787559947",
+        "time": "2026-11-19T15:23:12+00:00",
+        "block": "15:00-18:00",
+        "points": 252
+      },
+      "1572995689787559947:879398730762186752": {
+        "user": "879398730762186752",
+        "game": "1572995689787559947",
+        "time": "2026-11-19T15:23:12+00:00",
+        "block": "15:00-18:00",
+        "points": 252
       }
     }
   },
