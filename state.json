@@ -1665,7 +1665,7 @@
       "eligible_match_count": 18
     }
   ],
-  "last_seen_time": "2026-11-19T02:28:48+00:00",
+  "last_seen_time": "2026-11-19T07:49:08+00:00",
   "current_scores": {
     "BgBRR": {
       "points": 4.85,
@@ -2208,9 +2208,9 @@
       "last_score_time": "2026-11-19T02:28:48+00:00"
     },
     "tyTMG": {
-      "points": 3.04,
-      "match_count": 1,
-      "last_score_time": "2026-11-19T02:28:48+00:00"
+      "points": 42.04,
+      "match_count": 2,
+      "last_score_time": "2026-11-19T07:49:08+00:00"
     },
     "88nqR": {
       "points": 0.78,
@@ -2219,7 +2219,7 @@
     }
   },
   "current_cycle_started_at": "2026-11-18T07:00:00+00:00",
-  "current_cycle_match_count": 19,
+  "current_cycle_match_count": 20,
   "last_announced_event_time": "2026-11-18T07:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-19",
@@ -22955,10 +22955,29 @@
       "claim_ids": [
         "1572800807114510397"
       ]
+    },
+    "1572881413714477079": {
+      "id": "1572881413714477079",
+      "time": "2026-11-19T07:49:08+00:00",
+      "map": "Singapore",
+      "prev": "11.45065",
+      "curr": "11.51244",
+      "contest": false,
+      "accounts": [
+        "tyTMG"
+      ],
+      "claims": [
+        "879398730762186752"
+      ],
+      "points": 43,
+      "posted": false,
+      "claim_ids": [
+        "1572881415064916077"
+      ]
     }
   },
-  "win_last_id": "1572800807114510397",
-  "team_last_id": "1572880520780582933",
+  "win_last_id": "1572881415064916077",
+  "team_last_id": "1572883830652543048",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -30864,6 +30883,13 @@
         "time": "2026-11-19T02:28:48+00:00",
         "block": "00:00-03:00",
         "points": 14
+      },
+      "1572881413714477079:879398730762186752": {
+        "user": "879398730762186752",
+        "game": "1572881413714477079",
+        "time": "2026-11-19T07:49:08+00:00",
+        "block": "06:00-09:00",
+        "points": 43
       }
     }
   },
