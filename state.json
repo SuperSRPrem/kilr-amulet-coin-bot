@@ -1672,7 +1672,7 @@
       "eligible_match_count": 25
     }
   ],
-  "last_seen_time": "2026-11-19T23:05:02+00:00",
+  "last_seen_time": "2026-11-20T05:26:14+00:00",
   "current_scores": {
     "tyTMG": {
       "points": 66.23,
@@ -1753,10 +1753,25 @@
       "points": 42.0,
       "match_count": 1,
       "last_score_time": "2026-11-19T23:05:02+00:00"
+    },
+    "m8gK9": {
+      "points": 8.36,
+      "match_count": 1,
+      "last_score_time": "2026-11-20T05:26:14+00:00"
+    },
+    "bGmt8": {
+      "points": 4.92,
+      "match_count": 1,
+      "last_score_time": "2026-11-20T05:26:14+00:00"
+    },
+    "Wk08L": {
+      "points": 2.72,
+      "match_count": 1,
+      "last_score_time": "2026-11-20T05:26:14+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-19T12:30:00+00:00",
-  "current_cycle_match_count": 2,
+  "current_cycle_match_count": 3,
   "last_announced_event_time": "2026-11-19T12:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-20",
@@ -22676,10 +22691,29 @@
       "claim_ids": [
         "1573111908662251614"
       ]
+    },
+    "1573207838631923754": {
+      "id": "1573207838631923754",
+      "time": "2026-11-20T05:26:14+00:00",
+      "map": "Japan",
+      "prev": "11.19890",
+      "curr": "11.22440",
+      "contest": false,
+      "accounts": [
+        "m8gK9",
+        "bGmt8",
+        "Wk08L"
+      ],
+      "claims": [],
+      "points": 16,
+      "posted": false,
+      "claim_ids": [
+        "1573207839516663931"
+      ]
     }
   },
-  "win_last_id": "1573111908662251614",
-  "team_last_id": "1573205121469390856",
+  "win_last_id": "1573207839516663931",
+  "team_last_id": "1573208919357005857",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
