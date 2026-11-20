@@ -1759,16 +1759,16 @@
   "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-19T12:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-19",
-    "created_at": "2026-11-19T00:01:37.509394+00:00",
+    "date": "2026-11-20",
+    "created_at": "2026-11-20T00:01:27.821345+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Island",
+        "map": "Swamp",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Swamp",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1777,10 +1777,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Asia",
-        "target": 4,
+        "map": "Pond",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Asia",
+        "text": "Win 6 times on Pond",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1809,51 +1809,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "9nNRn": {
-          "Australia": 1
-        },
-        "tyTMG": {
-          "Australia": 1
-        },
-        "q8yDM": {
-          "Australia": 1
-        },
-        "VL2cN": {
-          "Australia": 1
-        },
-        "RttTN": {
-          "Australia": 1
-        },
-        "bMY2d": {
-          "Australia": 1
-        },
-        "GdyKD": {
-          "Australia": 1
-        },
-        "cnYGW": {
-          "Australia": 1
-        },
-        "DkGt8": {
-          "Australia": 1
-        },
-        "2JMGn": {
-          "Australia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "quests": {
       "easy": {
-        "text": "Win 4 times on White Arena",
+        "text": "Win 4 times on Island",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Scandinavia",
+        "text": "Win 4 times on Asia",
         "reward": 100,
         "done_by": null,
         "done_at": null
@@ -22710,7 +22679,7 @@
     }
   },
   "win_last_id": "1573111908662251614",
-  "team_last_id": "1573122098149335102",
+  "team_last_id": "1573125268321603647",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
