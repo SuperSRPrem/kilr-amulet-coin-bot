@@ -2341,16 +2341,16 @@
   "current_cycle_match_count": 17,
   "last_announced_event_time": "2026-11-20T12:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-20",
-    "created_at": "2026-11-20T00:01:27.821345+00:00",
+    "date": "2026-11-21",
+    "created_at": "2026-11-21T00:01:37.599617+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Swamp",
+        "map": "White Plains",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2359,10 +2359,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Pond",
-        "target": 6,
+        "map": "World 1",
+        "target": 4,
         "reward": 100,
-        "text": "Win 6 times on Pond",
+        "text": "Win 4 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2372,16 +2372,15 @@
         "level": "hard",
         "kind": "map_set",
         "maps": [
-          "Europe",
-          "Africa",
-          "North America",
-          "South America",
-          "Asia",
-          "Australia"
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
         ],
-        "target": 6,
+        "target": 5,
         "reward": 150,
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2391,57 +2390,20 @@
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "dyKXY": {
-          "Africa": 1
-        },
-        "kNyky": {
-          "Africa": 1
-        },
-        "kGT9k": {
-          "Africa": 1
-        },
-        "CCjNY": {
-          "Africa": 1
-        },
-        "MRtLb": {
-          "Africa": 1
-        },
-        "Dd5BM": {
-          "Africa": 1
-        },
-        "7ktrV": {
-          "Africa": 1
-        },
-        "bRM88": {
-          "Africa": 1
-        },
-        "Gv8Cv": {
-          "Africa": 1
-        },
-        "eiTbS": {
-          "Africa": 1
-        },
-        "7JrMq": {
-          "Africa": 1
-        },
-        "TVwmG": {
-          "Africa": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Island",
+        "text": "Win 4 times on Swamp",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Asia",
+        "text": "Win 6 times on Pond",
         "reward": 100,
         "done_by": null,
         "done_at": null
@@ -23806,7 +23768,7 @@
     }
   },
   "win_last_id": "1573456666199064719",
-  "team_last_id": "1573484297611116670",
+  "team_last_id": "1573488466308890756",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
