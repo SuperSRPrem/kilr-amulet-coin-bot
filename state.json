@@ -1686,10 +1686,56 @@
       "eligible_match_count": 44
     }
   ],
-  "last_seen_time": "2026-11-21T18:37:31+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-21T19:54:52+00:00",
+  "current_scores": {
+    "qt9Tb": {
+      "points": 14.23,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    },
+    "BbwYw": {
+      "points": 9.09,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    },
+    "D2Kv2": {
+      "points": 4.04,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    },
+    "BRkRW": {
+      "points": 3.5,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    },
+    "8wL5S": {
+      "points": 3.37,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    },
+    "WPMCO": {
+      "points": 2.26,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    },
+    "V9V55": {
+      "points": 2.24,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    },
+    "nn5TD": {
+      "points": 1.92,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    },
+    "KR2LJ": {
+      "points": 0.35,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T19:54:52+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-21T19:00:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-21T19:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-21",
@@ -1791,7 +1837,7 @@
           "Scandinavia": 1
         },
         "8wL5S": {
-          "Scandinavia": 2,
+          "Scandinavia": 3,
           "Caucasia": 1
         },
         "Drm8r": {
@@ -1834,6 +1880,30 @@
           "Scandinavia": 1
         },
         "tDNjg": {
+          "Scandinavia": 1
+        },
+        "qt9Tb": {
+          "Scandinavia": 1
+        },
+        "BbwYw": {
+          "Scandinavia": 1
+        },
+        "D2Kv2": {
+          "Scandinavia": 1
+        },
+        "BRkRW": {
+          "Scandinavia": 1
+        },
+        "WPMCO": {
+          "Scandinavia": 1
+        },
+        "V9V55": {
+          "Scandinavia": 1
+        },
+        "nn5TD": {
+          "Scandinavia": 1
+        },
+        "KR2LJ": {
           "Scandinavia": 1
         }
       }
@@ -23911,10 +23981,37 @@
       "claim_ids": [
         "1573769365122457614"
       ]
+    },
+    "1573788830639595663": {
+      "id": "1573788830639595663",
+      "time": "2026-11-21T19:54:52+00:00",
+      "map": "Scandinavia",
+      "prev": "11.89736",
+      "curr": "11.96161",
+      "contest": false,
+      "accounts": [
+        "qt9Tb",
+        "BbwYw",
+        "D2Kv2",
+        "BRkRW",
+        "8wL5S",
+        "WPMCO",
+        "V9V55",
+        "nn5TD",
+        "KR2LJ"
+      ],
+      "claims": [
+        "1345384809295511563"
+      ],
+      "points": 47,
+      "posted": false,
+      "claim_ids": [
+        "1573788838202183781"
+      ]
     }
   },
-  "win_last_id": "1573769365122457614",
-  "team_last_id": "1573786099866665143",
+  "win_last_id": "1573788838202183781",
+  "team_last_id": "1573790353503420450",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -32387,6 +32484,13 @@
         "time": "2026-11-21T18:37:31+00:00",
         "block": "18:00-21:00",
         "points": 61
+      },
+      "1573788830639595663:1345384809295511563": {
+        "user": "1345384809295511563",
+        "game": "1573788830639595663",
+        "time": "2026-11-21T19:54:52+00:00",
+        "block": "18:00-21:00",
+        "points": 47
       }
     }
   },
