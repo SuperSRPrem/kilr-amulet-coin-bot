@@ -1693,7 +1693,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-11-22T10:40:54+00:00",
+  "last_seen_time": "2026-11-22T18:20:58+00:00",
   "current_scores": {
     "v5bmB": {
       "points": 23.83,
@@ -1709,10 +1709,20 @@
       "points": 0.44,
       "match_count": 1,
       "last_score_time": "2026-11-22T10:40:54+00:00"
+    },
+    "vt2Mr": {
+      "points": 27.66,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T18:20:58+00:00"
+    },
+    "gYWwm": {
+      "points": 5.34,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T18:20:58+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-22T10:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-22T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-22",
@@ -24098,10 +24108,30 @@
       "claim_ids": [
         "1574011812276342928"
       ]
+    },
+    "1574127587528146967": {
+      "id": "1574127587528146967",
+      "time": "2026-11-22T18:20:58+00:00",
+      "map": "Denmark",
+      "prev": "11.28286",
+      "curr": "11.33539",
+      "contest": false,
+      "accounts": [
+        "vt2Mr",
+        "gYWwm"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 40,
+      "posted": false,
+      "claim_ids": [
+        "1574127588526395416"
+      ]
     }
   },
-  "win_last_id": "1574011812276342928",
-  "team_last_id": "1574126269711384783",
+  "win_last_id": "1574127588526395416",
+  "team_last_id": "1574130001933115453",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -32615,6 +32645,13 @@
         "game": "1574011811420708914",
         "time": "2026-11-22T10:40:54+00:00",
         "block": "09:00-12:00",
+        "points": 40
+      },
+      "1574127587528146967:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1574127587528146967",
+        "time": "2026-11-22T18:20:58+00:00",
+        "block": "18:00-21:00",
         "points": 40
       }
     }
