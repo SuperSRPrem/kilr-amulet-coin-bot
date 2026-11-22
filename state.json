@@ -1693,10 +1693,26 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-11-22T07:52:39+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-22T10:40:54+00:00",
+  "current_scores": {
+    "v5bmB": {
+      "points": 23.83,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T10:40:54+00:00"
+    },
+    "GJRTC": {
+      "points": 11.73,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T10:40:54+00:00"
+    },
+    "G2wLg": {
+      "points": 0.44,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T10:40:54+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-22T10:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-22T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-22",
@@ -24061,10 +24077,31 @@
       "claim_ids": [
         "1573969474229641288"
       ]
+    },
+    "1574011811420708914": {
+      "id": "1574011811420708914",
+      "time": "2026-11-22T10:40:54+00:00",
+      "map": "Iceland",
+      "prev": "11.82013",
+      "curr": "11.87643",
+      "contest": false,
+      "accounts": [
+        "v5bmB",
+        "GJRTC",
+        "G2wLg"
+      ],
+      "claims": [
+        "1134147627399774268"
+      ],
+      "points": 40,
+      "posted": false,
+      "claim_ids": [
+        "1574011812276342928"
+      ]
     }
   },
-  "win_last_id": "1573969474229641288",
-  "team_last_id": "1574009321510015120",
+  "win_last_id": "1574011812276342928",
+  "team_last_id": "1574012717230989354",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -32572,6 +32609,13 @@
         "time": "2026-11-22T07:52:39+00:00",
         "block": "06:00-09:00",
         "points": 142
+      },
+      "1574011811420708914:1134147627399774268": {
+        "user": "1134147627399774268",
+        "game": "1574011811420708914",
+        "time": "2026-11-22T10:40:54+00:00",
+        "block": "09:00-12:00",
+        "points": 40
       }
     }
   },
