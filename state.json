@@ -1686,7 +1686,7 @@
       "eligible_match_count": 44
     }
   ],
-  "last_seen_time": "2026-11-21T23:55:13+00:00",
+  "last_seen_time": "2026-11-22T00:56:15+00:00",
   "current_scores": {
     "qt9Tb": {
       "points": 14.23,
@@ -2037,10 +2037,25 @@
       "points": 0.8,
       "match_count": 1,
       "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "tVbB8": {
+      "points": 14.99,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T00:56:15+00:00"
+    },
+    "FYI4a": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T00:56:15+00:00"
+    },
+    "tL2Lr": {
+      "points": 0.0,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T00:56:15+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-21T19:00:00+00:00",
-  "current_cycle_match_count": 6,
+  "current_cycle_match_count": 7,
   "last_announced_event_time": "2026-11-21T19:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-22",
@@ -24335,10 +24350,29 @@
       "claim_ids": [
         "1573849318799179920"
       ]
+    },
+    "1573864668785541234": {
+      "id": "1573864668785541234",
+      "time": "2026-11-22T00:56:15+00:00",
+      "map": "Antarctica",
+      "prev": "11.87370",
+      "curr": "11.89720",
+      "contest": false,
+      "accounts": [
+        "tVbB8",
+        "FYI4a",
+        "tL2Lr"
+      ],
+      "claims": [],
+      "points": 18,
+      "posted": false,
+      "claim_ids": [
+        "1573864669893107774"
+      ]
     }
   },
-  "win_last_id": "1573849318799179920",
-  "team_last_id": "1573861973571932303",
+  "win_last_id": "1573864669893107774",
+  "team_last_id": "1573865701905530902",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
