@@ -1693,7 +1693,7 @@
       "eligible_match_count": 9
     }
   ],
-  "last_seen_time": "2026-11-22T18:54:41+00:00",
+  "last_seen_time": "2026-11-22T22:02:51+00:00",
   "current_scores": {
     "v5bmB": {
       "points": 23.83,
@@ -1724,10 +1724,25 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-11-22T18:54:41+00:00"
+    },
+    "4uLEq": {
+      "points": 9.22,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T22:02:51+00:00"
+    },
+    "N7LNT": {
+      "points": 5.65,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T22:02:51+00:00"
+    },
+    "ZbwQ8": {
+      "points": 5.13,
+      "match_count": 1,
+      "last_score_time": "2026-11-22T22:02:51+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-22T10:30:00+00:00",
-  "current_cycle_match_count": 3,
+  "current_cycle_match_count": 4,
   "last_announced_event_time": "2026-11-22T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-22",
@@ -24153,10 +24168,31 @@
       "claim_ids": [
         "1574136070524633091"
       ]
+    },
+    "1574183428868284488": {
+      "id": "1574183428868284488",
+      "time": "2026-11-22T22:02:51+00:00",
+      "map": "Europe",
+      "prev": "11.19428",
+      "curr": "11.22613",
+      "contest": false,
+      "accounts": [
+        "4uLEq",
+        "N7LNT",
+        "ZbwQ8"
+      ],
+      "claims": [
+        "1569902935989682357"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1574183430286217348"
+      ]
     }
   },
-  "win_last_id": "1574136070524633091",
-  "team_last_id": "1574183026252980308",
+  "win_last_id": "1574183430286217348",
+  "team_last_id": "1574186284564484300",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -32685,6 +32721,13 @@
         "time": "2026-11-22T18:54:41+00:00",
         "block": "18:00-21:00",
         "points": 56
+      },
+      "1574183428868284488:1569902935989682357": {
+        "user": "1569902935989682357",
+        "game": "1574183428868284488",
+        "time": "2026-11-22T22:02:51+00:00",
+        "block": "21:00-00:00",
+        "points": 20
       }
     }
   },
