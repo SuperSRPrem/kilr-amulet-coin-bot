@@ -1686,7 +1686,7 @@
       "eligible_match_count": 44
     }
   ],
-  "last_seen_time": "2026-11-21T22:45:12+00:00",
+  "last_seen_time": "2026-11-21T23:55:13+00:00",
   "current_scores": {
     "qt9Tb": {
       "points": 14.23,
@@ -1804,9 +1804,9 @@
       "last_score_time": "2026-11-21T22:14:22+00:00"
     },
     "wSM3X": {
-      "points": 5.5,
-      "match_count": 2,
-      "last_score_time": "2026-11-21T22:45:12+00:00"
+      "points": 11.15,
+      "match_count": 3,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
     },
     "Gwm2w": {
       "points": 2.1,
@@ -1899,9 +1899,9 @@
       "last_score_time": "2026-11-21T22:43:43+00:00"
     },
     "8LVyk": {
-      "points": 1.41,
-      "match_count": 1,
-      "last_score_time": "2026-11-21T22:43:43+00:00"
+      "points": 6.82,
+      "match_count": 2,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
     },
     "yJtgJ": {
       "points": 1.04,
@@ -1977,14 +1977,74 @@
       "points": 0.78,
       "match_count": 1,
       "last_score_time": "2026-11-21T22:45:12+00:00"
+    },
+    "Cg9qD": {
+      "points": 2.75,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "VmCkd": {
+      "points": 2.32,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "LRbQv": {
+      "points": 1.98,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "dDKLd": {
+      "points": 1.88,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "t9ggY": {
+      "points": 1.7,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "tlG-6": {
+      "points": 1.64,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "5m992": {
+      "points": 1.61,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "DMqcQ": {
+      "points": 1.39,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "VzgzX": {
+      "points": 1.03,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "B2Lt5": {
+      "points": 0.99,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "7mC8v": {
+      "points": 0.83,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
+    },
+    "Pkmir": {
+      "points": 0.8,
+      "match_count": 1,
+      "last_score_time": "2026-11-21T23:55:13+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-21T19:00:00+00:00",
-  "current_cycle_match_count": 5,
+  "current_cycle_match_count": 6,
   "last_announced_event_time": "2026-11-21T19:00:00+00:00",
   "daily_quests": {
-    "date": "2026-11-21",
-    "created_at": "2026-11-21T00:01:37.599617+00:00",
+    "date": "2026-11-22",
+    "created_at": "2026-11-22T00:01:25.857019+00:00",
     "quests": {
       "easy": {
         "level": "easy",
@@ -2001,10 +2061,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "World 1",
+        "map": "Asia",
         "target": 4,
         "reward": 100,
-        "text": "Win 4 times on World 1",
+        "text": "Win 4 times on Asia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2012,165 +2072,40 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "map_set",
-        "maps": [
-          "Caucasia",
-          "Scandinavia",
-          "Middle East",
-          "British Isles",
-          "Mare Nostrum"
-        ],
-        "target": 5,
+        "kind": "map_wins",
+        "map": "World 1",
+        "target": 6,
         "reward": 150,
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
-        "halfway_posted": true,
-        "last_leader": "8wL5S"
+        "halfway_posted": false,
+        "last_leader": null
       }
     },
     "data": {
       "easy": {},
       "medium": {},
-      "hard": {
-        "Z2Yfi": {
-          "Caucasia": 4
-        },
-        "YsRY1": {
-          "Caucasia": 2
-        },
-        "GrVy8": {
-          "Caucasia": 2
-        },
-        "8w5nW": {
-          "Caucasia": 1
-        },
-        "n8QbT": {
-          "Caucasia": 1
-        },
-        "RRCgr": {
-          "Caucasia": 1
-        },
-        "0x3uX": {
-          "Caucasia": 1
-        },
-        "BNN8y": {
-          "Caucasia": 1
-        },
-        "2FwQ6": {
-          "Caucasia": 1
-        },
-        "2NTTv": {
-          "Caucasia": 1
-        },
-        "rTLtQ": {
-          "Caucasia": 1
-        },
-        "GBDRD": {
-          "Caucasia": 1
-        },
-        "y5mgb": {
-          "Caucasia": 1
-        },
-        "q7b2V": {
-          "Caucasia": 1
-        },
-        "vt2Mr": {
-          "Caucasia": 2
-        },
-        "TLgTy": {
-          "Scandinavia": 1
-        },
-        "8wL5S": {
-          "Scandinavia": 3,
-          "Caucasia": 1
-        },
-        "Drm8r": {
-          "Scandinavia": 1
-        },
-        "7ckWn": {
-          "Scandinavia": 1
-        },
-        "Jcjj9": {
-          "Scandinavia": 1
-        },
-        "QkV2t": {
-          "Scandinavia": 1
-        },
-        "12_Xt": {
-          "Caucasia": 1
-        },
-        "Jq9JT": {
-          "Caucasia": 1
-        },
-        "7BQt2": {
-          "Scandinavia": 1
-        },
-        "59QLM": {
-          "Scandinavia": 1
-        },
-        "jdg5c": {
-          "Scandinavia": 1
-        },
-        "N2Cjn": {
-          "Scandinavia": 1
-        },
-        "8Xv98": {
-          "Scandinavia": 1
-        },
-        "DqiXf": {
-          "Scandinavia": 1
-        },
-        "jKT8V": {
-          "Scandinavia": 1
-        },
-        "tDNjg": {
-          "Scandinavia": 1
-        },
-        "qt9Tb": {
-          "Scandinavia": 1
-        },
-        "BbwYw": {
-          "Scandinavia": 1
-        },
-        "D2Kv2": {
-          "Scandinavia": 1
-        },
-        "BRkRW": {
-          "Scandinavia": 1
-        },
-        "WPMCO": {
-          "Scandinavia": 1
-        },
-        "V9V55": {
-          "Scandinavia": 1
-        },
-        "nn5TD": {
-          "Scandinavia": 1
-        },
-        "KR2LJ": {
-          "Scandinavia": 1
-        }
-      }
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Swamp",
+        "text": "Win 4 times on White Plains",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 6 times on Pond",
+        "text": "Win 4 times on World 1",
         "reward": 100,
         "done_by": null,
         "done_at": null
       },
       "hard": {
-        "text": "Win on all continent maps",
+        "text": "Win on all regional maps",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -24370,10 +24305,40 @@
       "claim_ids": [
         "1573831705347756293"
       ]
+    },
+    "1573849317557411893": {
+      "id": "1573849317557411893",
+      "time": "2026-11-21T23:55:13+00:00",
+      "map": "Iberia",
+      "prev": "11.87719",
+      "curr": "11.92417",
+      "contest": false,
+      "accounts": [
+        "wSM3X",
+        "8LVyk",
+        "Cg9qD",
+        "VmCkd",
+        "LRbQv",
+        "dDKLd",
+        "t9ggY",
+        "tlG-6",
+        "5m992",
+        "DMqcQ",
+        "VzgzX",
+        "B2Lt5",
+        "7mC8v",
+        "Pkmir"
+      ],
+      "claims": [],
+      "points": 33,
+      "posted": false,
+      "claim_ids": [
+        "1573849318799179920"
+      ]
     }
   },
-  "win_last_id": "1573831705347756293",
-  "team_last_id": "1573846911931252848",
+  "win_last_id": "1573849318799179920",
+  "team_last_id": "1573850801263349823",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
