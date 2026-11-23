@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "next_event_time": "2026-11-23T10:30:00+00:00",
-  "last_event_time": "2026-11-22T10:30:00+00:00",
+  "next_event_time": "2026-11-24T03:30:00+00:00",
+  "last_event_time": "2026-11-23T10:30:00+00:00",
   "last_boundary_time": "2026-03-20T20:30:17+00:00",
   "links": {},
   "history": [
@@ -1691,59 +1691,20 @@
       "winner_username": "QTmTm",
       "winner_points": 96.59,
       "eligible_match_count": 9
+    },
+    {
+      "event_time": "2026-11-23T10:30:00+00:00",
+      "cycle_started_at": "2026-11-22T10:30:00+00:00",
+      "winner_username": "vt2Mr",
+      "winner_points": 78.66,
+      "eligible_match_count": 4
     }
   ],
   "last_seen_time": "2026-11-22T22:02:51+00:00",
-  "current_scores": {
-    "v5bmB": {
-      "points": 23.83,
-      "match_count": 1,
-      "last_score_time": "2026-11-22T10:40:54+00:00"
-    },
-    "GJRTC": {
-      "points": 11.73,
-      "match_count": 1,
-      "last_score_time": "2026-11-22T10:40:54+00:00"
-    },
-    "G2wLg": {
-      "points": 0.44,
-      "match_count": 1,
-      "last_score_time": "2026-11-22T10:40:54+00:00"
-    },
-    "vt2Mr": {
-      "points": 78.66,
-      "match_count": 2,
-      "last_score_time": "2026-11-22T18:54:41+00:00"
-    },
-    "gYWwm": {
-      "points": 5.34,
-      "match_count": 1,
-      "last_score_time": "2026-11-22T18:20:58+00:00"
-    },
-    "DDqL7": {
-      "points": 0.0,
-      "match_count": 1,
-      "last_score_time": "2026-11-22T18:54:41+00:00"
-    },
-    "4uLEq": {
-      "points": 9.22,
-      "match_count": 1,
-      "last_score_time": "2026-11-22T22:02:51+00:00"
-    },
-    "N7LNT": {
-      "points": 5.65,
-      "match_count": 1,
-      "last_score_time": "2026-11-22T22:02:51+00:00"
-    },
-    "ZbwQ8": {
-      "points": 5.13,
-      "match_count": 1,
-      "last_score_time": "2026-11-22T22:02:51+00:00"
-    }
-  },
-  "current_cycle_started_at": "2026-11-22T10:30:00+00:00",
-  "current_cycle_match_count": 4,
-  "last_announced_event_time": "2026-11-22T10:30:00+00:00",
+  "current_scores": {},
+  "current_cycle_started_at": "2026-11-23T10:30:00+00:00",
+  "current_cycle_match_count": 0,
+  "last_announced_event_time": "2026-11-23T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-23",
     "created_at": "2026-11-23T00:01:25.563973+00:00",
@@ -24191,7 +24152,7 @@
     }
   },
   "win_last_id": "1574183430286217348",
-  "team_last_id": "1574367856844607539",
+  "team_last_id": "1574371594640556143",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
