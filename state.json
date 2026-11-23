@@ -1700,7 +1700,7 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-11-23T13:04:34+00:00",
+  "last_seen_time": "2026-11-23T14:28:03+00:00",
   "current_scores": {
     "Z2Yfi": {
       "points": 16.98,
@@ -1716,10 +1716,90 @@
       "points": 2.88,
       "match_count": 1,
       "last_score_time": "2026-11-23T13:04:34+00:00"
+    },
+    "L7rLM": {
+      "points": 15.25,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "vt2Mr": {
+      "points": 7.99,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "9gkdN": {
+      "points": 7.74,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "Rb85N": {
+      "points": 5.12,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "c1S05": {
+      "points": 3.03,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "22TrR": {
+      "points": 2.86,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "bKcB7": {
+      "points": 2.52,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "nMvGV": {
+      "points": 2.34,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "gdyqD": {
+      "points": 1.85,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "jyJmy": {
+      "points": 1.66,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "C2Q8k": {
+      "points": 1.28,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "dVDD2": {
+      "points": 1.18,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "Cc8BY": {
+      "points": 0.64,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "CJDCN": {
+      "points": 0.63,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "72qQq": {
+      "points": 0.56,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
+    },
+    "WBqtV": {
+      "points": 0.34,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T14:28:03+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-23T10:30:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-23T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-23",
@@ -24196,10 +24276,44 @@
       "claim_ids": [
         "1574410351557214312"
       ]
+    },
+    "1574431353154314312": {
+      "id": "1574431353154314312",
+      "time": "2026-11-23T14:28:03+00:00",
+      "map": "Scandinavia",
+      "prev": "10.67188",
+      "curr": "10.76050",
+      "contest": false,
+      "accounts": [
+        "L7rLM",
+        "vt2Mr",
+        "9gkdN",
+        "Rb85N",
+        "c1S05",
+        "22TrR",
+        "bKcB7",
+        "nMvGV",
+        "gdyqD",
+        "jyJmy",
+        "C2Q8k",
+        "dVDD2",
+        "Cc8BY",
+        "CJDCN",
+        "72qQq",
+        "WBqtV"
+      ],
+      "claims": [
+        "1321954579503513640"
+      ],
+      "points": 60,
+      "posted": false,
+      "claim_ids": [
+        "1574431357990477876"
+      ]
     }
   },
-  "win_last_id": "1574410351557214312",
-  "team_last_id": "1574428281795641375",
+  "win_last_id": "1574431357990477876",
+  "team_last_id": "1574431870265991210",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -32742,8 +32856,15 @@
         "time": "2026-11-23T13:04:34+00:00",
         "block": "12:00-15:00",
         "points": 28
+      },
+      "1574431353154314312:1321954579503513640": {
+        "user": "1321954579503513640",
+        "game": "1574431353154314312",
+        "time": "2026-11-23T14:28:03+00:00",
+        "block": "12:00-15:00",
+        "points": 60
       }
     }
   },
-  "last_reminder": "2026-11-22"
+  "last_reminder": "2026-11-23"
 }
