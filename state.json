@@ -1700,10 +1700,26 @@
       "eligible_match_count": 4
     }
   ],
-  "last_seen_time": "2026-11-22T22:02:51+00:00",
-  "current_scores": {},
+  "last_seen_time": "2026-11-23T13:04:34+00:00",
+  "current_scores": {
+    "Z2Yfi": {
+      "points": 16.98,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T13:04:34+00:00"
+    },
+    "wmQJY": {
+      "points": 6.14,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T13:04:34+00:00"
+    },
+    "JJ9bK": {
+      "points": 2.88,
+      "match_count": 1,
+      "last_score_time": "2026-11-23T13:04:34+00:00"
+    }
+  },
   "current_cycle_started_at": "2026-11-23T10:30:00+00:00",
-  "current_cycle_match_count": 0,
+  "current_cycle_match_count": 1,
   "last_announced_event_time": "2026-11-23T10:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-23",
@@ -1747,7 +1763,17 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "Z2Yfi": {
+          "Caucasia": 1
+        },
+        "wmQJY": {
+          "Caucasia": 1
+        },
+        "JJ9bK": {
+          "Caucasia": 1
+        }
+      },
       "hard": {}
     }
   },
@@ -24149,10 +24175,31 @@
       "claim_ids": [
         "1574183430286217348"
       ]
+    },
+    "1574410350764236832": {
+      "id": "1574410350764236832",
+      "time": "2026-11-23T13:04:34+00:00",
+      "map": "Caucasia",
+      "prev": "10.70458",
+      "curr": "10.74644",
+      "contest": false,
+      "accounts": [
+        "Z2Yfi",
+        "wmQJY",
+        "JJ9bK"
+      ],
+      "claims": [
+        "1402645821505278114"
+      ],
+      "points": 28,
+      "posted": false,
+      "claim_ids": [
+        "1574410351557214312"
+      ]
     }
   },
-  "win_last_id": "1574183430286217348",
-  "team_last_id": "1574409506593579103",
+  "win_last_id": "1574410351557214312",
+  "team_last_id": "1574413094090838098",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -32688,6 +32735,13 @@
         "time": "2026-11-22T22:02:51+00:00",
         "block": "21:00-00:00",
         "points": 20
+      },
+      "1574410350764236832:1402645821505278114": {
+        "user": "1402645821505278114",
+        "game": "1574410350764236832",
+        "time": "2026-11-23T13:04:34+00:00",
+        "block": "12:00-15:00",
+        "points": 28
       }
     }
   },
