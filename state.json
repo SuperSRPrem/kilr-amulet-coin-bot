@@ -1707,7 +1707,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-11-24T17:17:58+00:00",
+  "last_seen_time": "2026-11-24T17:31:55+00:00",
   "current_scores": {
     "25tYr": {
       "points": 6.42,
@@ -1920,9 +1920,9 @@
       "last_score_time": "2026-11-24T15:42:19+00:00"
     },
     "RRCgr": {
-      "points": 0.04,
-      "match_count": 1,
-      "last_score_time": "2026-11-24T15:15:19+00:00"
+      "points": 52.04,
+      "match_count": 2,
+      "last_score_time": "2026-11-24T17:31:55+00:00"
     },
     "4uLEq": {
       "points": 0.01,
@@ -1948,10 +1948,20 @@
       "points": 0.09,
       "match_count": 1,
       "last_score_time": "2026-11-24T15:42:19+00:00"
+    },
+    "cv8Lc": {
+      "points": 6.94,
+      "match_count": 1,
+      "last_score_time": "2026-11-24T17:31:55+00:00"
+    },
+    "TGD8q": {
+      "points": 3.07,
+      "match_count": 1,
+      "last_score_time": "2026-11-24T17:31:55+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-24T03:30:00+00:00",
-  "current_cycle_match_count": 11,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-11-24T03:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-24",
@@ -24952,10 +24962,31 @@
       "claim_ids": [
         "1574836512002941149"
       ]
+    },
+    "1574840018424569899": {
+      "id": "1574840018424569899",
+      "time": "2026-11-24T17:31:55+00:00",
+      "map": "World 2",
+      "prev": "11.81014",
+      "curr": "11.90738",
+      "contest": false,
+      "accounts": [
+        "RRCgr",
+        "cv8Lc",
+        "TGD8q"
+      ],
+      "claims": [
+        "1191801665389608990"
+      ],
+      "points": 66,
+      "posted": false,
+      "claim_ids": [
+        "1574840019493855377"
+      ]
     }
   },
-  "win_last_id": "1574836512002941149",
-  "team_last_id": "1574839668946509966",
+  "win_last_id": "1574840019493855377",
+  "team_last_id": "1574843454259855521",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -33687,6 +33718,13 @@
         "time": "2026-11-24T17:17:58+00:00",
         "block": "15:00-18:00",
         "points": 20
+      },
+      "1574840018424569899:1191801665389608990": {
+        "user": "1191801665389608990",
+        "game": "1574840018424569899",
+        "time": "2026-11-24T17:31:55+00:00",
+        "block": "15:00-18:00",
+        "points": 66
       }
     }
   },
