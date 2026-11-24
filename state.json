@@ -1707,7 +1707,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-11-24T12:54:53+00:00",
+  "last_seen_time": "2026-11-24T13:05:34+00:00",
   "current_scores": {
     "25tYr": {
       "points": 6.42,
@@ -1868,10 +1868,20 @@
       "points": 0.0,
       "match_count": 1,
       "last_score_time": "2026-11-24T12:54:53+00:00"
+    },
+    "BjxRv": {
+      "points": 10.07,
+      "match_count": 1,
+      "last_score_time": "2026-11-24T13:05:34+00:00"
+    },
+    "NLCBD": {
+      "points": 8.93,
+      "match_count": 1,
+      "last_score_time": "2026-11-24T13:05:34+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-24T03:30:00+00:00",
-  "current_cycle_match_count": 4,
+  "current_cycle_match_count": 5,
   "last_announced_event_time": "2026-11-24T03:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-24",
@@ -24703,10 +24713,30 @@
       "claim_ids": [
         "1574770301806448671"
       ]
+    },
+    "1574772989260472350": {
+      "id": "1574772989260472350",
+      "time": "2026-11-24T13:05:34+00:00",
+      "map": "Europe",
+      "prev": "11.11967",
+      "curr": "11.15000",
+      "contest": false,
+      "accounts": [
+        "BjxRv",
+        "NLCBD"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1574772990279815202"
+      ]
     }
   },
-  "win_last_id": "1574770301806448671",
-  "team_last_id": "1574771707430830175",
+  "win_last_id": "1574772990279815202",
+  "team_last_id": "1574775543063384117",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -33345,6 +33375,13 @@
         "user": "1402645821505278114",
         "game": "1574769593166074047",
         "time": "2026-11-24T12:52:04+00:00",
+        "block": "12:00-15:00",
+        "points": 20
+      },
+      "1574772989260472350:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1574772989260472350",
+        "time": "2026-11-24T13:05:34+00:00",
         "block": "12:00-15:00",
         "points": 20
       }
