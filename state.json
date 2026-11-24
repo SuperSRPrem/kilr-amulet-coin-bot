@@ -1707,7 +1707,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-11-24T17:31:55+00:00",
+  "last_seen_time": "2026-11-24T19:07:12+00:00",
   "current_scores": {
     "25tYr": {
       "points": 6.42,
@@ -1870,9 +1870,9 @@
       "last_score_time": "2026-11-24T12:54:53+00:00"
     },
     "BjxRv": {
-      "points": 34.45,
-      "match_count": 3,
-      "last_score_time": "2026-11-24T17:17:58+00:00"
+      "points": 53.43000000000001,
+      "match_count": 4,
+      "last_score_time": "2026-11-24T19:07:12+00:00"
     },
     "NLCBD": {
       "points": 8.93,
@@ -1958,10 +1958,20 @@
       "points": 3.07,
       "match_count": 1,
       "last_score_time": "2026-11-24T17:31:55+00:00"
+    },
+    "8b2Tq": {
+      "points": 3.52,
+      "match_count": 1,
+      "last_score_time": "2026-11-24T19:07:12+00:00"
+    },
+    "Q2wBK": {
+      "points": 3.5,
+      "match_count": 1,
+      "last_score_time": "2026-11-24T19:07:12+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-24T03:30:00+00:00",
-  "current_cycle_match_count": 12,
+  "current_cycle_match_count": 13,
   "last_announced_event_time": "2026-11-24T03:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-24",
@@ -24983,10 +24993,31 @@
       "claim_ids": [
         "1574840019493855377"
       ]
+    },
+    "1574864008459329661": {
+      "id": "1574864008459329661",
+      "time": "2026-11-24T19:07:12+00:00",
+      "map": "Denmark",
+      "prev": "11.75028",
+      "curr": "11.79106",
+      "contest": false,
+      "accounts": [
+        "BjxRv",
+        "8b2Tq",
+        "Q2wBK"
+      ],
+      "claims": [
+        "1423709238445867089"
+      ],
+      "points": 28,
+      "posted": false,
+      "claim_ids": [
+        "1574864005917581393"
+      ]
     }
   },
-  "win_last_id": "1574840019493855377",
-  "team_last_id": "1574862117209636946",
+  "win_last_id": "1574864005917581393",
+  "team_last_id": "1574866142730911875",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -33725,6 +33756,13 @@
         "time": "2026-11-24T17:31:55+00:00",
         "block": "15:00-18:00",
         "points": 66
+      },
+      "1574864008459329661:1423709238445867089": {
+        "user": "1423709238445867089",
+        "game": "1574864008459329661",
+        "time": "2026-11-24T19:07:12+00:00",
+        "block": "18:00-21:00",
+        "points": 28
       }
     }
   },
