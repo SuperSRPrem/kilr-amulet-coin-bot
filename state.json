@@ -1707,7 +1707,7 @@
       "eligible_match_count": 10
     }
   ],
-  "last_seen_time": "2026-11-25T09:18:23+00:00",
+  "last_seen_time": "2026-11-25T09:52:23+00:00",
   "current_scores": {
     "25tYr": {
       "points": 6.42,
@@ -1720,9 +1720,9 @@
       "last_score_time": "2026-11-24T04:18:42+00:00"
     },
     "dyKXY": {
-      "points": 24.29,
-      "match_count": 4,
-      "last_score_time": "2026-11-25T06:37:56+00:00"
+      "points": 28.419999999999998,
+      "match_count": 5,
+      "last_score_time": "2026-11-25T09:52:23+00:00"
     },
     "fBvOh": {
       "points": 2.38,
@@ -1875,9 +1875,9 @@
       "last_score_time": "2026-11-24T19:48:55+00:00"
     },
     "NLCBD": {
-      "points": 8.93,
-      "match_count": 1,
-      "last_score_time": "2026-11-24T13:05:34+00:00"
+      "points": 16.56,
+      "match_count": 2,
+      "last_score_time": "2026-11-25T09:52:23+00:00"
     },
     "7yRTJ": {
       "points": 4.11,
@@ -2188,10 +2188,20 @@
       "points": 0.04,
       "match_count": 1,
       "last_score_time": "2026-11-25T09:18:23+00:00"
+    },
+    "N79BV": {
+      "points": 4.3,
+      "match_count": 1,
+      "last_score_time": "2026-11-25T09:52:23+00:00"
+    },
+    "VmLQN": {
+      "points": 1.94,
+      "match_count": 1,
+      "last_score_time": "2026-11-25T09:52:23+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-24T03:30:00+00:00",
-  "current_cycle_match_count": 21,
+  "current_cycle_match_count": 22,
   "last_announced_event_time": "2026-11-24T03:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-25",
@@ -25459,14 +25469,34 @@
         "1402645821505278114"
       ],
       "points": 28,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1575078200755753046"
       ]
+    },
+    "1575086756670349313": {
+      "id": "1575086756670349313",
+      "time": "2026-11-25T09:52:23+00:00",
+      "map": "Europe",
+      "prev": "11.59174",
+      "curr": "11.62013",
+      "contest": false,
+      "accounts": [
+        "NLCBD",
+        "N79BV",
+        "dyKXY",
+        "VmLQN"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1575086757689425931"
+      ]
     }
   },
-  "win_last_id": "1575078200755753046",
-  "team_last_id": "1575085096082608280",
+  "win_last_id": "1575086757689425931",
+  "team_last_id": "1575088910168494212",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
