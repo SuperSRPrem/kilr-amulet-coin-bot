@@ -1994,16 +1994,16 @@
   "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-11-24T03:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-24",
-    "created_at": "2026-11-24T00:01:26.452754+00:00",
+    "date": "2026-11-25",
+    "created_at": "2026-11-25T00:01:26.756628+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Desert",
+        "map": "Mountains 1",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Desert",
+        "text": "Win 4 times on Mountains 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2012,10 +2012,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Asia",
-        "target": 4,
+        "map": "Caucasia",
+        "target": 3,
         "reward": 100,
-        "text": "Win 4 times on Asia",
+        "text": "Win 3 times on Caucasia",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -2023,74 +2023,40 @@
       },
       "hard": {
         "level": "hard",
-        "kind": "contest_wins",
-        "target": 2,
+        "kind": "map_set",
+        "maps": [
+          "Caucasia",
+          "Scandinavia",
+          "Middle East",
+          "British Isles",
+          "Mare Nostrum"
+        ],
+        "target": 5,
         "reward": 150,
-        "text": "Win 2 Contests",
-        "done_by": "Oyf9y",
-        "done_at": "2026-11-24T15:45:55.146586+00:00",
+        "text": "Win on all regional maps",
+        "done_by": null,
+        "done_at": null,
         "halfway_posted": false,
         "last_leader": null
       }
     },
     "data": {
       "easy": {},
-      "medium": {
-        "wSM3X": {
-          "Asia": 1
-        },
-        "9n52K": {
-          "Asia": 1
-        },
-        "GYVGC": {
-          "Asia": 1
-        },
-        "WgNMK": {
-          "Asia": 1
-        },
-        "rtBtM": {
-          "Asia": 1
-        },
-        "DQRMB": {
-          "Asia": 1
-        },
-        "eGqkw": {
-          "Asia": 1
-        },
-        "QrNqK": {
-          "Asia": 1
-        },
-        "qn5Yv": {
-          "Asia": 1
-        }
-      },
-      "hard": {
-        "Z2Yfi": {
-          "Contest": 1
-        },
-        "u6uD-": {
-          "Contest": 1
-        },
-        "Oyf9y": {
-          "Contest": 2
-        },
-        "vt2Mr": {
-          "Contest": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "quests": {
       "easy": {
-        "text": "Win 4 times on Mountains 2",
+        "text": "Win 4 times on Desert",
         "reward": 50,
         "done_by": null,
         "done_at": null
       },
       "medium": {
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 4 times on Asia",
         "reward": 100,
         "done_by": null,
         "done_at": null
@@ -2099,7 +2065,7 @@
         "text": "Win 2 Contests",
         "reward": 150,
         "done_by": "Oyf9y",
-        "done_at": "2026-11-23T15:45:49.929861+00:00"
+        "done_at": "2026-11-24T15:45:55.146586+00:00"
       }
     }
   },
@@ -25060,7 +25026,7 @@
     }
   },
   "win_last_id": "1574874496521994303",
-  "team_last_id": "1574933812641661040",
+  "team_last_id": "1574937992596955299",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
