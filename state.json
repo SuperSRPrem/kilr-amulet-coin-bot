@@ -1714,7 +1714,7 @@
       "eligible_match_count": 30
     }
   ],
-  "last_seen_time": "2026-11-26T17:07:07+00:00",
+  "last_seen_time": "2026-11-26T18:16:54+00:00",
   "current_scores": {
     "N8RD8": {
       "points": 17.42,
@@ -2002,9 +2002,9 @@
       "last_score_time": "2026-11-26T17:07:07+00:00"
     },
     "Oyf9y": {
-      "points": 46.58,
-      "match_count": 1,
-      "last_score_time": "2026-11-26T17:07:07+00:00"
+      "points": 62.58,
+      "match_count": 2,
+      "last_score_time": "2026-11-26T18:16:54+00:00"
     },
     "MwVcV": {
       "points": 38.0,
@@ -2088,7 +2088,7 @@
     }
   },
   "current_cycle_started_at": "2026-11-25T21:00:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-11-25T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-26",
@@ -25776,10 +25776,27 @@
       "claim_ids": [
         "1575558554000166923"
       ]
+    },
+    "1575576119493787670": {
+      "id": "1575576119493787670",
+      "time": "2026-11-26T18:16:54+00:00",
+      "map": "Black Sea",
+      "prev": "11.58814",
+      "curr": "11.61337",
+      "contest": false,
+      "accounts": [
+        "Oyf9y```"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1575576120349294667"
+      ]
     }
   },
-  "win_last_id": "1575558554000166923",
-  "team_last_id": "1575575779507568733",
+  "win_last_id": "1575576120349294667",
+  "team_last_id": "1575579604876402710",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
