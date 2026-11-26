@@ -27,12 +27,8 @@ def parse_team(msg):
     except (ValueError, TypeError):
         return None
 
-    payouts = read_field(text, "Payout")
-    accounts = []
-    for part in payouts.split(","):
-        match = re.fullmatch(r"\s*(\S+)\s+-?\d+(?:\.\d+)?\s*", part)
-        if match:
-            accounts.append(match.group(1))
+    winners = read_field(text, "Clan Winners")
+    accounts = [x.strip() for x in winners.split(",") if x.strip()]
 
     return {
         "id": msg["id"], "time": time.isoformat(),
