@@ -1714,7 +1714,7 @@
       "eligible_match_count": 30
     }
   ],
-  "last_seen_time": "2026-11-25T22:47:05+00:00",
+  "last_seen_time": "2026-11-26T04:31:32+00:00",
   "current_scores": {
     "N8RD8": {
       "points": 17.42,
@@ -1755,10 +1755,35 @@
       "points": 0.88,
       "match_count": 1,
       "last_score_time": "2026-11-25T22:47:05+00:00"
+    },
+    "BvWNC": {
+      "points": 17.37,
+      "match_count": 1,
+      "last_score_time": "2026-11-26T04:31:32+00:00"
+    },
+    "dyKXY": {
+      "points": 2.76,
+      "match_count": 1,
+      "last_score_time": "2026-11-26T04:31:32+00:00"
+    },
+    "vRtGD": {
+      "points": 2.3,
+      "match_count": 1,
+      "last_score_time": "2026-11-26T04:31:32+00:00"
+    },
+    "g5KqC": {
+      "points": 1.62,
+      "match_count": 1,
+      "last_score_time": "2026-11-26T04:31:32+00:00"
+    },
+    "Qmtcr": {
+      "points": 0.96,
+      "match_count": 1,
+      "last_score_time": "2026-11-26T04:31:32+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-25T21:00:00+00:00",
-  "current_cycle_match_count": 1,
+  "current_cycle_match_count": 2,
   "last_announced_event_time": "2026-11-25T21:00:00+00:00",
   "daily_quests": {
     "date": "2026-11-26",
@@ -1803,7 +1828,23 @@
     },
     "data": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "BvWNC": {
+          "Caucasia": 1
+        },
+        "dyKXY": {
+          "Caucasia": 1
+        },
+        "vRtGD": {
+          "Caucasia": 1
+        },
+        "g5KqC": {
+          "Caucasia": 1
+        },
+        "Qmtcr": {
+          "Caucasia": 1
+        }
+      },
       "hard": {}
     }
   },
@@ -25210,10 +25251,31 @@
       "claim_ids": [
         "1575281718854946857"
       ]
+    },
+    "1575368402766139464": {
+      "id": "1575368402766139464",
+      "time": "2026-11-26T04:31:32+00:00",
+      "map": "Caucasia",
+      "prev": "11.70644",
+      "curr": "11.74573",
+      "contest": false,
+      "accounts": [
+        "BvWNC",
+        "dyKXY",
+        "vRtGD",
+        "g5KqC",
+        "Qmtcr"
+      ],
+      "claims": [],
+      "points": 27,
+      "posted": false,
+      "claim_ids": [
+        "1575368404066631783"
+      ]
     }
   },
-  "win_last_id": "1575281718854946857",
-  "team_last_id": "1575367593802334223",
+  "win_last_id": "1575368404066631783",
+  "team_last_id": "1575371922026401924",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
