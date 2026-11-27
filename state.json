@@ -1727,16 +1727,16 @@
   "current_cycle_match_count": 0,
   "last_announced_event_time": "2026-11-26T19:30:00+00:00",
   "daily_quests": {
-    "date": "2026-11-26",
-    "created_at": "2026-11-26T00:01:25.707095+00:00",
+    "date": "2026-11-27",
+    "created_at": "2026-11-27T00:01:26.119778+00:00",
     "quests": {
       "easy": {
         "level": "easy",
         "kind": "map_wins",
-        "map": "Mountains 1",
+        "map": "White Plains",
         "target": 4,
         "reward": 50,
-        "text": "Win 4 times on Mountains 1",
+        "text": "Win 4 times on White Plains",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1745,10 +1745,10 @@
       "medium": {
         "level": "medium",
         "kind": "map_wins",
-        "map": "Caucasia",
-        "target": 4,
+        "map": "Island Kingdom",
+        "target": 6,
         "reward": 100,
-        "text": "Win 4 times on Caucasia",
+        "text": "Win 6 times on Island Kingdom",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1757,10 +1757,10 @@
       "hard": {
         "level": "hard",
         "kind": "map_wins",
-        "map": "World 2",
+        "map": "World 1",
         "target": 6,
         "reward": 150,
-        "text": "Win 6 times on World 2",
+        "text": "Win 6 times on World 1",
         "done_by": null,
         "done_at": null,
         "halfway_posted": false,
@@ -1769,62 +1769,12 @@
     },
     "data": {
       "easy": {},
-      "medium": {
-        "BvWNC": {
-          "Caucasia": 1
-        },
-        "dyKXY": {
-          "Caucasia": 1
-        },
-        "vRtGD": {
-          "Caucasia": 1
-        },
-        "g5KqC": {
-          "Caucasia": 1
-        },
-        "Qmtcr": {
-          "Caucasia": 1
-        }
-      },
-      "hard": {
-        "tv999": {
-          "World 2": 1
-        },
-        "8IW-_": {
-          "World 2": 1
-        },
-        "GwvwG": {
-          "World 2": 1
-        },
-        "9yJbY": {
-          "World 2": 1
-        },
-        "YsRY1": {
-          "World 2": 1
-        },
-        "_tFM4": {
-          "World 2": 1
-        },
-        "R5V8r": {
-          "World 2": 1
-        },
-        "p2wMa": {
-          "World 2": 1
-        },
-        "7Tgnb": {
-          "World 2": 1
-        },
-        "dYDKR": {
-          "World 2": 1
-        },
-        "BcGjy": {
-          "World 2": 1
-        }
-      }
+      "medium": {},
+      "hard": {}
     }
   },
   "last_quest_day": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "quests": {
       "easy": {
         "text": "Win 4 times on Mountains 1",
@@ -1833,13 +1783,13 @@
         "done_at": null
       },
       "medium": {
-        "text": "Win 3 times on Caucasia",
+        "text": "Win 4 times on Caucasia",
         "reward": 100,
-        "done_by": "Z2Yfi",
-        "done_at": "2026-11-25T13:45:55.700474+00:00"
+        "done_by": null,
+        "done_at": null
       },
       "hard": {
-        "text": "Win on all regional maps",
+        "text": "Win 6 times on World 2",
         "reward": 150,
         "done_by": null,
         "done_at": null
@@ -25451,7 +25401,7 @@
     }
   },
   "win_last_id": "1575583228650201090",
-  "team_last_id": "1575658801170751559",
+  "team_last_id": "1575662788737503345",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
