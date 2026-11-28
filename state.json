@@ -1728,7 +1728,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-11-28T10:05:20+00:00",
+  "last_seen_time": "2026-11-28T10:32:15+00:00",
   "current_scores": {
     "8wL5S": {
       "points": 72.69,
@@ -2099,10 +2099,20 @@
       "points": 0.01,
       "match_count": 1,
       "last_score_time": "2026-11-28T10:05:20+00:00"
+    },
+    "Aw1pj": {
+      "points": 10.41,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T10:32:15+00:00"
+    },
+    "RRCgr": {
+      "points": 6.59,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T10:32:15+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-27T19:30:00+00:00",
-  "current_cycle_match_count": 11,
+  "current_cycle_match_count": 12,
   "last_announced_event_time": "2026-11-27T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-28",
@@ -26280,14 +26290,33 @@
       ],
       "claims": [],
       "points": 24,
-      "posted": false,
+      "posted": true,
       "claim_ids": [
         "1576177181787431127"
       ]
+    },
+    "1576183948264874156": {
+      "id": "1576183948264874156",
+      "time": "2026-11-28T10:32:15+00:00",
+      "map": "Africa",
+      "prev": "11.34946",
+      "curr": "11.37638",
+      "contest": false,
+      "accounts": [
+        "RRCgr```"
+      ],
+      "claims": [
+        "1191801665389608990"
+      ],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1576183949279887591"
+      ]
     }
   },
-  "win_last_id": "1576177181787431127",
-  "team_last_id": "1576183244095750180",
+  "win_last_id": "1576183949279887591",
+  "team_last_id": "1576187308611473439",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -35551,6 +35580,13 @@
         "time": "2026-11-27T23:10:50+00:00",
         "block": "21:00-00:00",
         "points": 35
+      },
+      "1576183948264874156:1191801665389608990": {
+        "user": "1191801665389608990",
+        "game": "1576183948264874156",
+        "time": "2026-11-28T10:32:15+00:00",
+        "block": "09:00-12:00",
+        "points": 20
       }
     }
   },
