@@ -1728,7 +1728,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-11-28T02:42:18+00:00",
+  "last_seen_time": "2026-11-28T10:05:20+00:00",
   "current_scores": {
     "8wL5S": {
       "points": 72.69,
@@ -2084,10 +2084,25 @@
       "points": 0.72,
       "match_count": 1,
       "last_score_time": "2026-11-28T02:42:18+00:00"
+    },
+    "GrVy8": {
+      "points": 16.08,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T10:05:20+00:00"
+    },
+    "kGwTK": {
+      "points": 1.92,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T10:05:20+00:00"
+    },
+    "VMWRN": {
+      "points": 0.01,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T10:05:20+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-27T19:30:00+00:00",
-  "current_cycle_match_count": 10,
+  "current_cycle_match_count": 11,
   "last_announced_event_time": "2026-11-27T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-28",
@@ -26252,10 +26267,27 @@
       "claim_ids": [
         "1576065696490586155"
       ]
+    },
+    "1576177180604375051": {
+      "id": "1576177180604375051",
+      "time": "2026-11-28T10:05:20+00:00",
+      "map": "Anatolia",
+      "prev": "11.34943",
+      "curr": "11.37793",
+      "contest": false,
+      "accounts": [
+        "GrVy8```"
+      ],
+      "claims": [],
+      "points": 24,
+      "posted": false,
+      "claim_ids": [
+        "1576177181787431127"
+      ]
     }
   },
-  "win_last_id": "1576065696490586155",
-  "team_last_id": "1576176084469153813",
+  "win_last_id": "1576177181787431127",
+  "team_last_id": "1576179784084627557",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
