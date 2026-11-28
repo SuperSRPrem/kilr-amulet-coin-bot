@@ -1728,7 +1728,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-11-27T23:10:50+00:00",
+  "last_seen_time": "2026-11-28T02:42:18+00:00",
   "current_scores": {
     "8wL5S": {
       "points": 72.69,
@@ -2054,10 +2054,40 @@
       "points": 0.1,
       "match_count": 1,
       "last_score_time": "2026-11-27T23:10:50+00:00"
+    },
+    "wSM3X": {
+      "points": 8.42,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T02:42:18+00:00"
+    },
+    "VrTVn": {
+      "points": 3.33,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T02:42:18+00:00"
+    },
+    "9NJ5r": {
+      "points": 2.55,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T02:42:18+00:00"
+    },
+    "K9wkt": {
+      "points": 2.46,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T02:42:18+00:00"
+    },
+    "MM278": {
+      "points": 1.52,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T02:42:18+00:00"
+    },
+    "dLC9T": {
+      "points": 0.72,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T02:42:18+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-27T19:30:00+00:00",
-  "current_cycle_match_count": 9,
+  "current_cycle_match_count": 10,
   "last_announced_event_time": "2026-11-27T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-28",
@@ -26205,10 +26235,27 @@
       "claim_ids": [
         "1576012469623717982"
       ]
+    },
+    "1576065695660376115": {
+      "id": "1576065695660376115",
+      "time": "2026-11-28T02:42:18+00:00",
+      "map": "Africa",
+      "prev": "11.66378",
+      "curr": "11.69363",
+      "contest": false,
+      "accounts": [
+        "wSM3X```"
+      ],
+      "claims": [],
+      "points": 20,
+      "posted": false,
+      "claim_ids": [
+        "1576065696490586155"
+      ]
     }
   },
-  "win_last_id": "1576012469623717982",
-  "team_last_id": "1576062763766255710",
+  "win_last_id": "1576065696490586155",
+  "team_last_id": "1576065947343659070",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
