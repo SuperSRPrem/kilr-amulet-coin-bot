@@ -1728,7 +1728,7 @@
       "eligible_match_count": 14
     }
   ],
-  "last_seen_time": "2026-11-28T11:33:30+00:00",
+  "last_seen_time": "2026-11-28T11:57:51+00:00",
   "current_scores": {
     "8wL5S": {
       "points": 72.69,
@@ -2106,9 +2106,9 @@
       "last_score_time": "2026-11-28T10:32:15+00:00"
     },
     "RRCgr": {
-      "points": 23.46,
-      "match_count": 2,
-      "last_score_time": "2026-11-28T11:33:30+00:00"
+      "points": 51.31,
+      "match_count": 3,
+      "last_score_time": "2026-11-28T11:57:51+00:00"
     },
     "tGMwv": {
       "points": 10.04,
@@ -2189,10 +2189,45 @@
       "points": 0.27,
       "match_count": 1,
       "last_score_time": "2026-11-28T11:33:30+00:00"
+    },
+    "cRJmD": {
+      "points": 27.62,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T11:57:51+00:00"
+    },
+    "jF40p": {
+      "points": 7.67,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T11:57:51+00:00"
+    },
+    "q2Qd5": {
+      "points": 5.7,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T11:57:51+00:00"
+    },
+    "RTQKG": {
+      "points": 3.56,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T11:57:51+00:00"
+    },
+    "rbqbB": {
+      "points": 1.67,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T11:57:51+00:00"
+    },
+    "JBN5q": {
+      "points": 0.9,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T11:57:51+00:00"
+    },
+    "w9GNw": {
+      "points": 0.02,
+      "match_count": 1,
+      "last_score_time": "2026-11-28T11:57:51+00:00"
     }
   },
   "current_cycle_started_at": "2026-11-27T19:30:00+00:00",
-  "current_cycle_match_count": 13,
+  "current_cycle_match_count": 14,
   "last_announced_event_time": "2026-11-27T19:30:00+00:00",
   "daily_quests": {
     "date": "2026-11-28",
@@ -26412,10 +26447,29 @@
       "claim_ids": [
         "1576199376869654570"
       ]
+    },
+    "1576205503837511822": {
+      "id": "1576205503837511822",
+      "time": "2026-11-28T11:57:51+00:00",
+      "map": "World 2",
+      "prev": "11.39105",
+      "curr": "11.50970",
+      "contest": false,
+      "accounts": [
+        "RRCgr```"
+      ],
+      "claims": [
+        "1191801665389608990"
+      ],
+      "points": 80,
+      "posted": false,
+      "claim_ids": [
+        "1576205504882016417"
+      ]
     }
   },
-  "win_last_id": "1576199376869654570",
-  "team_last_id": "1576202259233120387",
+  "win_last_id": "1576205504882016417",
+  "team_last_id": "1576206360939470911",
   "unmatched_claims": {
     "1570111304067317791": {
       "content": "**KILR**    Europe    56  [12.19883->12.2795]\n\n**Claimed by:**\n<@1553117522834751560>",
@@ -35693,6 +35747,13 @@
         "time": "2026-11-28T11:33:30+00:00",
         "block": "09:00-12:00",
         "points": 73
+      },
+      "1576205503837511822:1191801665389608990": {
+        "user": "1191801665389608990",
+        "game": "1576205503837511822",
+        "time": "2026-11-28T11:57:51+00:00",
+        "block": "09:00-12:00",
+        "points": 80
       }
     }
   },
